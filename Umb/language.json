@@ -1,0 +1,18 @@
+{
+    "phonemes": [],
+    "protoLanguageShortName": "PItal",
+    "pos": [
+        {
+            "name": "Noun",
+            "abbreviation": "N"
+        },
+        {
+            "name": "Verb",
+            "abbreviation": "V"
+        },
+        {
+            "name": "Proper noun",
+            "abbreviation": "NP"
+        }
+    ]
+}
