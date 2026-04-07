@@ -7447,5 +7447,11 @@
         "gloss": "female servant",
         "pos": "N",
         "syllabographic": true
+    },
+    {
+        "id": 12429,
+        "text": "^URU^_ḪA-I̯A-ŠA",
+        "pos": "NP",
+        "syllabographic": true
     }
 ]
