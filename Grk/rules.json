@@ -370,5 +370,254 @@
                 "refText": "Ringe 2024:131"
             }
         ]
+    },
+    {
+        "id": 12412,
+        "name": "grk-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12411"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12413,
+        "name": "grk-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PRES.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12415,
+        "name": "grk-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12414"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12417,
+        "name": "grk-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12416"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12419,
+        "name": "grk-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12418"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12421,
+        "name": "grk-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12420"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12423,
+        "name": "grk-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12422"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12425,
+        "name": "grk-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12424"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12427,
+        "name": "grk-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12426"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12428,
+        "name": "grk-verbal-stem",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "ω"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "V"
     }
 ]

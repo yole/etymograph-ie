@@ -313,6 +313,182 @@
     ],
     "protoLanguageShortName": "PIE",
     "orthographyRuleId": 10370,
+    "pos": [
+        {
+            "name": "Noun",
+            "abbreviation": "N"
+        },
+        {
+            "name": "Proper Noun",
+            "abbreviation": "NP"
+        },
+        {
+            "name": "Verb",
+            "abbreviation": "V"
+        },
+        {
+            "name": "Adjective",
+            "abbreviation": "ADJ"
+        },
+        {
+            "name": "Adverb",
+            "abbreviation": "ADV"
+        },
+        {
+            "name": "Preposition",
+            "abbreviation": "PREP"
+        },
+        {
+            "name": "Conjunction",
+            "abbreviation": "CONJ"
+        },
+        {
+            "name": "Pronoun",
+            "abbreviation": "PRON"
+        },
+        {
+            "name": "Affix",
+            "abbreviation": "AFF"
+        }
+    ],
+    "grammaticalCategories": [
+        {
+            "name": "Number",
+            "pos": [
+                "N",
+                "ADJ",
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Singular",
+                    "abbreviation": "SG"
+                },
+                {
+                    "name": "Dual",
+                    "abbreviation": "DU"
+                },
+                {
+                    "name": "Plural",
+                    "abbreviation": "PL"
+                }
+            ]
+        },
+        {
+            "name": "Person",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "1st",
+                    "abbreviation": "1"
+                },
+                {
+                    "name": "2nd",
+                    "abbreviation": "2"
+                },
+                {
+                    "name": "3rd",
+                    "abbreviation": "3"
+                }
+            ]
+        },
+        {
+            "name": "Case",
+            "pos": [
+                "N",
+                "ADJ"
+            ],
+            "values": [
+                {
+                    "name": "Nomiinative",
+                    "abbreviation": "NOM"
+                },
+                {
+                    "name": "Accusative",
+                    "abbreviation": "ACC"
+                },
+                {
+                    "name": "Dative",
+                    "abbreviation": "DAT"
+                },
+                {
+                    "name": "Genitive",
+                    "abbreviation": "GEN"
+                }
+            ]
+        },
+        {
+            "name": "Gender",
+            "pos": [
+                "ADJ",
+                "PRON"
+            ],
+            "values": [
+                {
+                    "name": "Masculine",
+                    "abbreviation": "M"
+                },
+                {
+                    "name": "Feminine",
+                    "abbreviation": "F"
+                },
+                {
+                    "name": "Neuter",
+                    "abbreviation": "N"
+                }
+            ]
+        },
+        {
+            "name": "Tense",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Present",
+                    "abbreviation": "PRES"
+                },
+                {
+                    "name": "Imperfect",
+                    "abbreviation": "IPF"
+                },
+                {
+                    "name": "Aorist",
+                    "abbreviation": "AOR"
+                },
+                {
+                    "name": "Perfect",
+                    "abbreviation": "PF"
+                }
+            ]
+        },
+        {
+            "name": "Mood",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Indicative",
+                    "abbreviation": "IND"
+                },
+                {
+                    "name": "Subjunctive",
+                    "abbreviation": "SUBJ"
+                },
+                {
+                    "name": "Optative",
+                    "abbreviation": "OPT"
+                },
+                {
+                    "name": "Imperative",
+                    "abbreviation": "IPV"
+                }
+            ]
+        }
+    ],
     "accentTypes": [
         "Acute",
         "Grave",

@@ -76,5 +76,59 @@
         "id": 11036,
         "text": "ἑπτά",
         "gloss": "seven"
+    },
+    {
+        "id": 12410,
+        "text": "λύω",
+        "gloss": "release",
+        "pos": "V"
+    },
+    {
+        "id": 12411,
+        "text": "ω",
+        "gloss": "Verb Present pres.1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12414,
+        "text": "ομεν",
+        "gloss": "Verb Present pres.1pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12416,
+        "text": "εις",
+        "gloss": "Verb Present pres.2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12418,
+        "text": "ετον",
+        "gloss": "Verb Present pres.2du. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12420,
+        "text": "ετε",
+        "gloss": "Verb Present pres.2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12422,
+        "text": "-ει",
+        "gloss": "thematic 3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12424,
+        "text": "ετον",
+        "gloss": "Verb Present pres.3du. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12426,
+        "text": "ουσι",
+        "gloss": "Verb Present pres.3pl. ending",
+        "pos": "AFF"
     }
 ]
