@@ -7130,9 +7130,16 @@
         "id": 5544,
         "text": "bani",
         "gloss": "death",
+        "fullGloss": "death; that which causes death; a killer, murderer",
         "pos": "N",
         "classes": [
-            "m"
+            "m",
+            "weak"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/bani#Old_Norse"
+            }
         ]
     },
     {
@@ -9068,12 +9075,7 @@
     },
     {
         "id": 5918,
-        "text": "helgistaðrinn",
-        "gloss": "holy place",
-        "pos": "N",
-        "classes": [
-            "m"
-        ]
+        "text": "helgistaðrinn"
     },
     {
         "id": 5919,
@@ -9092,9 +9094,16 @@
         "id": 5921,
         "text": "askr",
         "gloss": "ash",
+        "fullGloss": "ash (tree); wooden vessel or dish",
         "pos": "N",
         "classes": [
-            "m"
+            "m",
+            "strong"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/askr#Old_Norse"
+            }
         ]
     },
     {
@@ -10179,6 +10188,21 @@
         "pos": "V",
         "classes": [
             "v-strong-6"
+        ]
+    },
+    {
+        "id": 12435,
+        "text": "-ið",
+        "gloss": "2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12449,
+        "text": "helgistaðr",
+        "gloss": "holy place",
+        "pos": "N",
+        "classes": [
+            "m"
         ]
     }
 ]

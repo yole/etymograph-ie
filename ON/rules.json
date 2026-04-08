@@ -1655,9 +1655,9 @@
             {
                 "instructions": [
                     {
-                        "type": "ChangeEnding",
+                        "type": "ChangeEndingToMorpheme",
                         "args": [
-                            "ið"
+                            "12435"
                         ]
                     }
                 ],
@@ -1670,9 +1670,9 @@
             {
                 "instructions": [
                     {
-                        "type": "Append",
+                        "type": "AppendMorpheme",
                         "args": [
-                            "'ið'"
+                            "12435"
                         ]
                     }
                 ],

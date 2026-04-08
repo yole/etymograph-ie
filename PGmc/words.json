@@ -26998,5 +26998,17 @@
         "text": "-ndi",
         "gloss": "Present 3pl. ending",
         "pos": "AFF"
+    },
+    {
+        "id": 12434,
+        "text": "banô",
+        "gloss": "murderer",
+        "fullGloss": "murderer, killer, slayer; bane, death",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/banô#Proto-Germanic"
+            }
+        ]
     }
 ]

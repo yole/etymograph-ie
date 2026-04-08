@@ -225,6 +225,7 @@
         "id": 2066,
         "text": "fader",
         "gloss": "father",
+        "pos": "N",
         "sourceRefs": [
             {
                 "pubId": 5,

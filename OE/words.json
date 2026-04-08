@@ -7528,6 +7528,7 @@
         "id": 2955,
         "text": "ċīeġan",
         "gloss": "to call",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -7539,6 +7540,7 @@
         "id": 2958,
         "text": "sċafan",
         "gloss": "to cut (hair), to shave",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -8354,6 +8356,7 @@
         "id": 3077,
         "text": "dynnan",
         "gloss": "to make a loud noise",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10005,6 +10008,7 @@
         "id": 3257,
         "text": "refsan",
         "gloss": "to reproach, to blame",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10163,6 +10167,7 @@
         "id": 3279,
         "text": "hierstan",
         "gloss": "to roast",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10174,6 +10179,7 @@
         "id": 3281,
         "text": "iermþ",
         "gloss": "poverty, misery",
+        "pos": "N",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10185,6 +10191,7 @@
         "id": 3283,
         "text": "sċierpan",
         "gloss": "to sharpen",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10196,6 +10203,7 @@
         "id": 3285,
         "text": "wiernan",
         "gloss": "to refuse, to deny",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10438,6 +10446,7 @@
         "id": 3328,
         "text": "hiertan",
         "gloss": "to put heart in (someone)",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -10524,6 +10533,7 @@
         "id": 3342,
         "text": "strīenan",
         "gloss": "to acquire, to gain",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 5,
@@ -15789,6 +15799,7 @@
         "id": 6322,
         "text": "æsc",
         "gloss": "ash",
+        "pos": "N",
         "sourceRefs": [
             {
                 "pubId": 9,
@@ -26929,6 +26940,7 @@
         "id": 8590,
         "text": "sċeorfan",
         "gloss": "to scratch, bite, vex",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 9,
