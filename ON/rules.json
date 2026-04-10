@@ -160,9 +160,9 @@
             {
                 "instructions": [
                     {
-                        "type": "Append",
+                        "type": "AppendMorpheme",
                         "args": [
-                            "'i'"
+                            "12473"
                         ]
                     }
                 ],
@@ -1002,9 +1002,9 @@
             {
                 "instructions": [
                     {
-                        "type": "ChangeEnding",
+                        "type": "ChangeEndingToMorpheme",
                         "args": [
-                            "um"
+                            "12472"
                         ]
                     },
                     {
@@ -1033,9 +1033,9 @@
             {
                 "instructions": [
                     {
-                        "type": "Append",
+                        "type": "AppendMorpheme",
                         "args": [
-                            "'um'"
+                            "12472"
                         ]
                     },
                     {
@@ -1745,7 +1745,7 @@
     },
     {
         "id": 1324,
-        "name": "on-n-stem",
+        "name": "on-noun-stem",
         "fromLang": "ON",
         "toLang": "ON",
         "branches": [

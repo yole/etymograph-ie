@@ -49,8 +49,7 @@
     },
     {
         "id": 1881,
-        "text": "dagamaz",
-        "gloss": "day.DAT.PL"
+        "text": "dagamaz"
     },
     {
         "id": 1888,
@@ -27010,5 +27009,65 @@
                 "refText": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/banô#Proto-Germanic"
             }
         ]
+    },
+    {
+        "id": 12450,
+        "text": "-az",
+        "gloss": "Noun nom.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12452,
+        "text": "-õsiz",
+        "gloss": "Noun nom.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12456,
+        "text": "-ą",
+        "gloss": "Noun acc.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12458,
+        "text": "-anz",
+        "gloss": "Noun acc.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12460,
+        "text": "-as",
+        "gloss": "Noun gen.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12462,
+        "text": "-ô",
+        "gloss": "Noun gen.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12464,
+        "text": "-ai",
+        "gloss": "Noun dat.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12466,
+        "text": "-amaz",
+        "gloss": "Noun dat.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12468,
+        "text": "ō",
+        "gloss": "Noun ins.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12470,
+        "text": "-amiz",
+        "gloss": "Noun ins.pl. ending",
+        "pos": "AFF"
     }
 ]

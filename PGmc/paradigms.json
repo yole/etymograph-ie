@@ -52,5 +52,92 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 66,
+        "name": "Noun",
+        "rows": [
+            "Nom",
+            "Voc",
+            "Acc",
+            "Gen",
+            "Dat",
+            "Ins"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12451
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12454
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12457
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12461
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12465
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12469
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12453
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12455
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12459
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12463
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12467
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12471
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "N"
+        ]
     }
 ]

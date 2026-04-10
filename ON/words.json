@@ -3343,7 +3343,10 @@
     {
         "id": 1648,
         "text": "Hafrsfjörðr",
-        "pos": "NP"
+        "pos": "NP",
+        "classes": [
+            "m"
+        ]
     },
     {
         "id": 1650,
@@ -7895,7 +7898,10 @@
     {
         "id": 5683,
         "text": "Vápnafjörðr",
-        "pos": "NP"
+        "pos": "NP",
+        "classes": [
+            "m"
+        ]
     },
     {
         "id": 5684,
@@ -10204,5 +10210,17 @@
         "classes": [
             "m"
         ]
+    },
+    {
+        "id": 12472,
+        "text": "-um",
+        "gloss": "dat.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12473,
+        "text": "-i",
+        "gloss": "dat.sg. ending",
+        "pos": "AFF"
     }
 ]

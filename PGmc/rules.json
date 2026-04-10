@@ -341,5 +341,277 @@
         "fromPOS": [
             "V"
         ]
+    },
+    {
+        "id": 12451,
+        "name": "pgmc-nom-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12450"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".NOM.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12453,
+        "name": "pgmc-nom-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12452"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".NOM.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12454,
+        "name": "pgmc-voc-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [],
+        "addedCategories": ".VOC.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12455,
+        "name": "pgmc-voc-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [],
+        "addedCategories": ".VOC.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12457,
+        "name": "pgmc-acc-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12456"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".ACC.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12459,
+        "name": "pgmc-acc-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12458"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".ACC.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12461,
+        "name": "pgmc-gen-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12460"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".GEN.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12463,
+        "name": "pgmc-gen-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12462"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".GEN.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12465,
+        "name": "pgmc-dat-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12464"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".DAT.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12467,
+        "name": "pgmc-dat-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12466"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".DAT.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12469,
+        "name": "pgmc-ins-sg",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12468"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".INS.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12471,
+        "name": "pgmc-ins-pl",
+        "fromLang": "PGmc",
+        "toLang": "PGmc",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12470"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".INS.PL",
+        "fromPOS": [
+            "N"
+        ]
     }
 ]

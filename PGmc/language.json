@@ -478,6 +478,38 @@
             ]
         },
         {
+            "name": "Case",
+            "pos": [
+                "N"
+            ],
+            "values": [
+                {
+                    "name": "Nominative",
+                    "abbreviation": "NOM"
+                },
+                {
+                    "name": "Vocative",
+                    "abbreviation": "VOC"
+                },
+                {
+                    "name": "Accusative",
+                    "abbreviation": "ACC"
+                },
+                {
+                    "name": "Dative",
+                    "abbreviation": "DAT"
+                },
+                {
+                    "name": "Genitive",
+                    "abbreviation": "GEN"
+                },
+                {
+                    "name": "Instrumental",
+                    "abbreviation": "INS"
+                }
+            ]
+        },
+        {
             "name": "Tense",
             "pos": [
                 "V"
