@@ -338,5 +338,79 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 67,
+        "name": "Verb Perfect",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12475
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12480
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12485
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Du",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12476
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12481
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12486
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12478
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12483
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12488
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]

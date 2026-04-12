@@ -1887,5 +1887,298 @@
             "V"
         ],
         "toPOS": "V"
+    },
+    {
+        "id": 12475,
+        "name": "pie-pf-1sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12489"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12474"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12476,
+        "name": "pie-pf-1du",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [],
+        "addedCategories": ".PF.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12478,
+        "name": "pie-pf-1pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12492"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12477"
+                        ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "last"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12480,
+        "name": "pie-pf-2sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12489"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12479"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12481,
+        "name": "pie-pf-2du",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [],
+        "addedCategories": ".PF.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12483,
+        "name": "pie-pf-2pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12492"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12482"
+                        ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "last"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12485,
+        "name": "pie-pf-3sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12489"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12484"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12486,
+        "name": "pie-pf-3du",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [],
+        "addedCategories": ".PF.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12488,
+        "name": "pie-pf-3pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "12492"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12487"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12489,
+        "name": "pie-perfect-stem",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10818"
+                        ]
+                    },
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12492,
+        "name": "pie-perfect-pl-stem",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10521"
+                        ]
+                    },
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PF",
+        "fromPOS": [
+            "V"
+        ]
     }
 ]

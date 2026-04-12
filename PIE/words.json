@@ -457,7 +457,13 @@
         "id": 10535,
         "text": "h₂eǵ-",
         "gloss": "drive",
-        "pos": "V"
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "255"
+            }
+        ]
     },
     {
         "id": 10536,
@@ -660,7 +666,13 @@
         "id": 12036,
         "text": "leikʷ-",
         "gloss": "leave",
-        "pos": "V"
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "406"
+            }
+        ]
     },
     {
         "id": 12037,
@@ -925,5 +937,115 @@
     {
         "id": 12092,
         "text": "ḱluent"
+    },
+    {
+        "id": 12474,
+        "text": "-h₂e",
+        "gloss": "Verb Perfect pf.1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12477,
+        "text": "-me",
+        "gloss": "Perfect 1pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "265"
+            }
+        ]
+    },
+    {
+        "id": 12479,
+        "text": "-th₂e",
+        "gloss": "Perfect 2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "265"
+            }
+        ]
+    },
+    {
+        "id": 12482,
+        "text": "-e",
+        "gloss": "Perfect 2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "265"
+            }
+        ]
+    },
+    {
+        "id": 12484,
+        "text": "-e",
+        "gloss": "Verb Perfect pf.3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12487,
+        "text": "-r",
+        "gloss": "Perfect 3pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12490,
+        "text": "bʰeid-",
+        "gloss": "split",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "70"
+            }
+        ]
+    },
+    {
+        "id": 12491,
+        "text": "bʰebʰoide"
+    },
+    {
+        "id": 12493,
+        "text": "bʰebʰidr"
+    },
+    {
+        "id": 12494,
+        "text": "leip-",
+        "gloss": "be sticky",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "408"
+            }
+        ]
+    },
+    {
+        "id": 12495,
+        "text": "dʰers-",
+        "gloss": "dare",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "147"
+            }
+        ]
+    },
+    {
+        "id": 12496,
+        "text": "h₂eǵ-",
+        "gloss": "say",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "256"
+            }
+        ]
     }
 ]
