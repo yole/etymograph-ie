@@ -130,5 +130,525 @@
         "text": "ουσι",
         "gloss": "Verb Present pres.3pl. ending",
         "pos": "AFF"
+    },
+    {
+        "id": 12497,
+        "text": "-ομαι",
+        "gloss": "Verb Present Mediopassive mp.1sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12500,
+        "text": "-ομεθα",
+        "gloss": "Verb Present Mediopassive mp.1pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12502,
+        "text": "-ῃ",
+        "gloss": "Verb Present Mediopassive mp.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12504,
+        "text": "-εσθον",
+        "gloss": "Verb Present Mediopassive mp.2du. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12506,
+        "text": "-εσθε",
+        "gloss": "Verb Present Mediopassive mp.2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12508,
+        "text": "-εται",
+        "gloss": "Verb Present Mediopassive mp.3sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12510,
+        "text": "-εσθον",
+        "gloss": "Verb Present Mediopassive mp.3du. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12512,
+        "text": "-ονται",
+        "gloss": "Verb Present Mediopassive mp.3pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12548,
+        "text": "προσέειπε"
+    },
+    {
+        "id": 12549,
+        "text": "-ον",
+        "gloss": "Secondary 1sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12552,
+        "text": "ομεν",
+        "gloss": "Verb Strong Aorist aor.1pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12554,
+        "text": "ες",
+        "gloss": "Verb Strong Aorist aor.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12556,
+        "text": "ετον",
+        "gloss": "Verb Strong Aorist aor.2du. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12558,
+        "text": "ετε",
+        "gloss": "Verb Strong Aorist aor.2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12560,
+        "text": "ε",
+        "gloss": "Verb Strong Aorist aor.3sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12562,
+        "text": "ετην",
+        "gloss": "Verb Strong Aorist aor.3du. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12564,
+        "text": "ον",
+        "gloss": "Verb Strong Aorist aor.3pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12566,
+        "text": "προσαγορεύω",
+        "gloss": "address",
+        "fullGloss": "address, greet, accost",
+        "pos": "V"
+    },
+    {
+        "id": 12567,
+        "text": "αὖτε",
+        "gloss": "again",
+        "pos": "ADV"
+    },
+    {
+        "id": 12569,
+        "text": "ἰέναι"
+    },
+    {
+        "id": 12570,
+        "text": "εἶμι",
+        "gloss": "come, go",
+        "pos": "V"
+    },
+    {
+        "id": 12574,
+        "text": "ε",
+        "gloss": "Verb Present Imperative imp.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12577,
+        "text": "ετε",
+        "gloss": "Verb Present Imperative imp.2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12582,
+        "text": "κατερύκανε"
+    },
+    {
+        "id": 12583,
+        "text": "κατερυκάνω",
+        "gloss": "delay",
+        "pos": "V"
+    },
+    {
+        "id": 12584,
+        "text": "ἐνὶ"
+    },
+    {
+        "id": 12585,
+        "text": "ἐν",
+        "gloss": "in",
+        "pos": "PREP"
+    },
+    {
+        "id": 12586,
+        "text": "-οισι",
+        "gloss": "epic dat.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12588,
+        "text": "μεγάροισι"
+    },
+    {
+        "id": 12589,
+        "text": "μέγαρον",
+        "gloss": "large room",
+        "pos": "N"
+    },
+    {
+        "id": 12590,
+        "text": "οὐδέ",
+        "gloss": "but not",
+        "pos": "CONJ"
+    },
+    {
+        "id": 12591,
+        "text": "θεοειδής",
+        "gloss": "divine in form",
+        "pos": "ADJ"
+    },
+    {
+        "id": 12592,
+        "text": "μή",
+        "gloss": "not",
+        "pos": "CONJ"
+    },
+    {
+        "id": 12593,
+        "text": "κακός",
+        "gloss": "bad",
+        "pos": "ADJ"
+    },
+    {
+        "id": 12595,
+        "text": "κακὸς"
+    },
+    {
+        "id": 12596,
+        "text": "εἰ",
+        "gloss": "if",
+        "pos": "CONJ"
+    },
+    {
+        "id": 12597,
+        "text": "μὲν",
+        "gloss": "on one hand",
+        "pos": "PART"
+    },
+    {
+        "id": 12598,
+        "text": "τίς",
+        "gloss": "someone",
+        "pos": "PRON"
+    },
+    {
+        "id": 12599,
+        "text": "ἄλλος",
+        "gloss": "another",
+        "pos": "PRON"
+    },
+    {
+        "id": 12648,
+        "text": "ἐπιχθονίων"
+    },
+    {
+        "id": 12649,
+        "text": "ἐπιχθόνιος",
+        "gloss": "earthly",
+        "pos": "ADJ"
+    },
+    {
+        "id": 12659,
+        "text": "ἐκέλευεν"
+    },
+    {
+        "id": 12660,
+        "text": "κελεύω",
+        "gloss": "urge",
+        "pos": "V"
+    },
+    {
+        "id": 12661,
+        "text": "εἰσι"
+    },
+    {
+        "id": 12662,
+        "text": "εἰμί",
+        "gloss": "be",
+        "pos": "V"
+    },
+    {
+        "id": 12663,
+        "text": "ἢ",
+        "gloss": "or",
+        "pos": "CONJ"
+    },
+    {
+        "id": 12664,
+        "text": "καὶ",
+        "gloss": "and",
+        "pos": "CONJ"
+    },
+    {
+        "id": 12674,
+        "text": "φαῖμεν"
+    },
+    {
+        "id": 12675,
+        "text": "φημί",
+        "gloss": "say",
+        "pos": "V"
+    },
+    {
+        "id": 12685,
+        "text": "νοσφιζοίμεθα"
+    },
+    {
+        "id": 12686,
+        "text": "νοσφίζω",
+        "gloss": "turn away",
+        "fullGloss": "turn away, shrink back",
+        "pos": "V"
+    },
+    {
+        "id": 12688,
+        "text": "μᾶλλον",
+        "gloss": "more",
+        "pos": "ADV"
+    },
+    {
+        "id": 12689,
+        "text": "νῦν",
+        "gloss": "now",
+        "pos": "ADV"
+    },
+    {
+        "id": 12690,
+        "text": "γὰρ",
+        "gloss": "because",
+        "pos": "PART"
+    },
+    {
+        "id": 12691,
+        "text": "ἅλιον"
+    },
+    {
+        "id": 12692,
+        "text": "ἅλιος",
+        "gloss": "fruitless",
+        "pos": "ADJ"
+    },
+    {
+        "id": 12693,
+        "text": "ἄκουσα"
+    },
+    {
+        "id": 12694,
+        "text": "ἀκούω",
+        "gloss": "hear",
+        "pos": "V"
+    },
+    {
+        "id": 12704,
+        "text": "ἔσσεται"
+    },
+    {
+        "id": 12705,
+        "text": "αἶσα",
+        "gloss": "fate",
+        "pos": "N"
+    },
+    {
+        "id": 12707,
+        "text": "τεθνάμεναι"
+    },
+    {
+        "id": 12708,
+        "text": "θνήσκω",
+        "gloss": "die",
+        "pos": "V"
+    },
+    {
+        "id": 12709,
+        "text": "παρὰ",
+        "gloss": "beside",
+        "pos": "PREP"
+    },
+    {
+        "id": 12710,
+        "text": "αὐτίκα",
+        "gloss": "at once",
+        "pos": "ADV"
+    },
+    {
+        "id": 12711,
+        "text": "ἀγκὰς",
+        "gloss": "in the arms",
+        "pos": "ADV"
+    },
+    {
+        "id": 12724,
+        "text": "γόος",
+        "gloss": "lamentation",
+        "pos": "N"
+    },
+    {
+        "id": 12725,
+        "text": "γόου"
+    },
+    {
+        "id": 12726,
+        "text": "ἔρος",
+        "gloss": "love",
+        "pos": "N"
+    },
+    {
+        "id": 12727,
+        "text": "ἔρον"
+    },
+    {
+        "id": 12728,
+        "text": "φωριαμός",
+        "gloss": "chest",
+        "pos": "N"
+    },
+    {
+        "id": 12729,
+        "text": "φωριαμῶν"
+    },
+    {
+        "id": 12730,
+        "text": "ἐπίθημα",
+        "gloss": "cover",
+        "pos": "N"
+    },
+    {
+        "id": 12731,
+        "text": "ἐπιθήματα"
+    },
+    {
+        "id": 12741,
+        "text": "ἀνοίγνυμι",
+        "gloss": "open",
+        "pos": "V"
+    },
+    {
+        "id": 12742,
+        "text": "ἀνέῳγεν"
     }
 ]

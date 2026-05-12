@@ -35,7 +35,7 @@
     {
         "id": 10370,
         "name": "grk-ortho",
-        "fromLang": "PIE",
+        "fromLang": "Grk",
         "toLang": "Grk",
         "branches": [
             {
@@ -56,6 +56,12 @@
                         "type": "Spe",
                         "args": [
                             "s > ς / _#"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ηι|ᾱι|ωι} > {ῃ|ᾳ|ῳ}"
                         ]
                     }
                 ],
@@ -619,5 +625,1768 @@
             "V"
         ],
         "toPOS": "V"
+    },
+    {
+        "id": 12498,
+        "name": "grk-mp-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12497"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.1SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12499,
+        "name": "grk-mp-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".MP.1DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12501,
+        "name": "grk-mp-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12500"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.1PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12503,
+        "name": "grk-mp-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12502"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12505,
+        "name": "grk-mp-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12504"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.2DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12507,
+        "name": "grk-mp-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12506"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12509,
+        "name": "grk-mp-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12508"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12511,
+        "name": "grk-mp-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12510"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.3DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12513,
+        "name": "grk-mp-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12512"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MP.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 12515,
+        "name": "grk-pron",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ῃ|ᾳ|ῳ} > {ηι|ᾱι|ωι}"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ἀ|ἐ|ἰ|ὀ|ὐ|ἠ|ὠ} > {a|e|i|o|u|ē|ō}"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ς > s"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 12550,
+        "name": "grk-aor-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12549"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.1SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12551,
+        "name": "grk-aor-strong-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".AOR.1DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12553,
+        "name": "grk-aor-strong-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12552"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.1PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12555,
+        "name": "grk-aor-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12554"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12557,
+        "name": "grk-aor-strong-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12556"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.2DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12559,
+        "name": "grk-aor-strong-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12558"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12561,
+        "name": "grk-aor-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12560"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12563,
+        "name": "grk-aor-strong-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12562"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.3DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12565,
+        "name": "grk-aor-strong-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12564"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".AOR.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "156"
+            }
+        ]
+    },
+    {
+        "id": 12568,
+        "name": "grk-inf",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".INF",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12575,
+        "name": "grk-ipv-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12574"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12576,
+        "name": "grk-imp-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IMP.2DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12578,
+        "name": "grk-ipv-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12577"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12579,
+        "name": "grk-imp-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IMP.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12580,
+        "name": "grk-imp-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IMP.3DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12581,
+        "name": "grk-imp-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IMP.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 17,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12587,
+        "name": "grk-epic-dat-pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12586"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".DAT.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12612,
+        "name": "grk-adj-nom-sg-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.SG.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12613,
+        "name": "grk-adj-nom-sg-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.SG.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12614,
+        "name": "grk-adj-nom-sg-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.SG.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12615,
+        "name": "grk-adj-nom-du-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.DU.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12616,
+        "name": "grk-adj-nom-du-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.DU.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12617,
+        "name": "grk-adj-nom-du-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.DU.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12618,
+        "name": "grk-adj-nom-pl-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.PL.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12619,
+        "name": "grk-adj-nom-pl-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.PL.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12620,
+        "name": "grk-adj-nom-pl-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.PL.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12621,
+        "name": "grk-adj-acc-sg-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.SG.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12622,
+        "name": "grk-adj-acc-sg-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.SG.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12623,
+        "name": "grk-adj-acc-sg-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.SG.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12624,
+        "name": "grk-adj-acc-du-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.DU.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12625,
+        "name": "grk-adj-acc-du-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.DU.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12626,
+        "name": "grk-adj-acc-du-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.DU.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12627,
+        "name": "grk-adj-acc-pl-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.PL.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12628,
+        "name": "grk-adj-acc-pl-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.PL.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12629,
+        "name": "grk-adj-acc-pl-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.PL.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12630,
+        "name": "grk-adj-dat-sg-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.SG.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12631,
+        "name": "grk-adj-dat-sg-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.SG.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12632,
+        "name": "grk-adj-dat-sg-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.SG.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12633,
+        "name": "grk-adj-dat-du-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.DU.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12634,
+        "name": "grk-adj-dat-du-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.DU.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12635,
+        "name": "grk-adj-dat-du-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.DU.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12636,
+        "name": "grk-adj-dat-pl-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.PL.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12637,
+        "name": "grk-adj-dat-pl-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.PL.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12638,
+        "name": "grk-adj-dat-pl-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.PL.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12639,
+        "name": "grk-adj-gen-sg-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.SG.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12640,
+        "name": "grk-adj-gen-sg-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.SG.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12641,
+        "name": "grk-adj-gen-sg-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.SG.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12642,
+        "name": "grk-adj-gen-du-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.DU.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12643,
+        "name": "grk-adj-gen-du-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.DU.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12644,
+        "name": "grk-adj-gen-du-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.DU.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12645,
+        "name": "grk-adj-gen-pl-m",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.PL.M",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12646,
+        "name": "grk-adj-gen-pl-f",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.PL.F",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12647,
+        "name": "grk-adj-gen-pl-n",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.PL.N",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 12650,
+        "name": "grk-ipf-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12651,
+        "name": "grk-ipf-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12652,
+        "name": "grk-ipf-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12653,
+        "name": "grk-ipf-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12654,
+        "name": "grk-ipf-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12655,
+        "name": "grk-ipf-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12656,
+        "name": "grk-ipf-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12657,
+        "name": "grk-ipf-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12658,
+        "name": "grk-ipf-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".IPF.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12665,
+        "name": "grk-opt-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12666,
+        "name": "grk-opt-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12667,
+        "name": "grk-opt-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12668,
+        "name": "grk-opt-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12669,
+        "name": "grk-opt-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12670,
+        "name": "grk-opt-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12671,
+        "name": "grk-opt-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12672,
+        "name": "grk-opt-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12673,
+        "name": "grk-opt-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12676,
+        "name": "grk-opt-mp-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12677,
+        "name": "grk-opt-mp-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12678,
+        "name": "grk-opt-mp-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12679,
+        "name": "grk-opt-mp-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12680,
+        "name": "grk-opt-mp-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12681,
+        "name": "grk-opt-mp-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12682,
+        "name": "grk-opt-mp-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12683,
+        "name": "grk-opt-mp-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12684,
+        "name": "grk-opt-mp-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".OPT.MP.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12695,
+        "name": "grk-fut-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12696,
+        "name": "grk-fut-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12697,
+        "name": "grk-fut-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12698,
+        "name": "grk-fut-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12699,
+        "name": "grk-fut-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12700,
+        "name": "grk-fut-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12701,
+        "name": "grk-fut-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12702,
+        "name": "grk-fut-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12703,
+        "name": "grk-fut-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".FUT.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12706,
+        "name": "grk-pf-inf",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PF.INF",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12712,
+        "name": "grk-nom-sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12713,
+        "name": "grk-nom-du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.DU",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12714,
+        "name": "grk-nom-pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".NOM.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12715,
+        "name": "grk-acc-sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12716,
+        "name": "grk-acc-du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.DU",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12717,
+        "name": "grk-acc-pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".ACC.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12718,
+        "name": "grk-dat-sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12719,
+        "name": "grk-dat-du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.DU",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12720,
+        "name": "grk-dat-pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".DAT.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12721,
+        "name": "grk-gen-sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.SG",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12722,
+        "name": "grk-gen-du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.DU",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12723,
+        "name": "grk-gen-pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".GEN.PL",
+        "fromPOS": [
+            "N"
+        ]
+    },
+    {
+        "id": 12732,
+        "name": "grk-plupf-1sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12733,
+        "name": "grk-plupf-1du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.1DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12734,
+        "name": "grk-plupf-1pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12735,
+        "name": "grk-plupf-2sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12736,
+        "name": "grk-plupf-2du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.2DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12737,
+        "name": "grk-plupf-2pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12738,
+        "name": "grk-plupf-3sg",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12739,
+        "name": "grk-plupf-3du",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.3DU",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12740,
+        "name": "grk-plupf-3pl",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PLUPF.3PL",
+        "fromPOS": [
+            "V"
+        ]
     }
 ]

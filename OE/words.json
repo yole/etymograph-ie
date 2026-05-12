@@ -15316,6 +15316,7 @@
         "id": 6223,
         "text": "afol",
         "gloss": "strength, power",
+        "pos": "N",
         "sourceRefs": [
             {
                 "pubId": 9,
@@ -15703,10 +15704,19 @@
         "id": 6301,
         "text": "anda",
         "gloss": "envy, anger, zeal",
+        "fullGloss": "envy, jealousy; a grudge, enmity; hatred, anger; injury, wrong-doing, mischief; zeal; vexation, annoyance",
+        "pos": "N",
+        "classes": [
+            "masc",
+            "n-stem"
+        ],
         "sourceRefs": [
             {
                 "pubId": 9,
                 "refText": "26"
+            },
+            {
+                "refText": "https://en.wiktionary.org/wiki/anda#Old_English"
             }
         ]
     },
@@ -16012,10 +16022,14 @@
         "id": 6393,
         "text": "age",
         "gloss": "magpie",
+        "pos": "V",
         "sourceRefs": [
             {
                 "pubId": 9,
                 "refText": "4"
+            },
+            {
+                "refText": "https://en.wiktionary.org/wiki/age#Old_English"
             }
         ]
     },

@@ -941,7 +941,7 @@
     {
         "id": 12474,
         "text": "-h₂e",
-        "gloss": "Verb Perfect pf.1sg. ending",
+        "gloss": "Perfect 1sg. ending",
         "pos": "AFF"
     },
     {
@@ -983,7 +983,7 @@
     {
         "id": 12484,
         "text": "-e",
-        "gloss": "Verb Perfect pf.3sg. ending",
+        "gloss": "Perfect 3sg. ending",
         "pos": "AFF"
     },
     {
@@ -1045,6 +1045,150 @@
             {
                 "pubId": 16,
                 "refText": "256"
+            }
+        ]
+    },
+    {
+        "id": 12516,
+        "text": "-h₂",
+        "gloss": "Middle intransitive 1sg. ending (Beekes)",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12519,
+        "text": "-medʰh₂",
+        "gloss": "Middle Intransitive Endings (Beekes) mid.1pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12521,
+        "text": "-th₂o",
+        "gloss": "Middle Intransitive Endings (Beekes) mid.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12524,
+        "text": "-dʰue",
+        "gloss": "Middle Intransitive Endings (Beekes) mid.2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12526,
+        "text": "-o",
+        "gloss": "Middle Intransitive Endings (Beekes) mid.3sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12529,
+        "text": "-ro",
+        "gloss": "Middle Intransitive Endings (Beekes) mid.3pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12531,
+        "text": "-mh₂",
+        "gloss": "Middle transitive 1sg. ending (Beekes)",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12534,
+        "text": "-medʰh₂",
+        "gloss": "Middle Transitive Endings (Beekes) mid.1pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12536,
+        "text": "-sth₂o",
+        "gloss": "Middle Transitive Endings (Beekes) mid.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12539,
+        "text": "-tdʰue",
+        "gloss": "Middle Transitive Endings (Beekes) mid.2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12541,
+        "text": "-to",
+        "gloss": "Middle Transitive Endings (Beekes) mid.3sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12544,
+        "text": "-ntro",
+        "gloss": "Middle Transitive Endings (Beekes) mid.3pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
             }
         ]
     }

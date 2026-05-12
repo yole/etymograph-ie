@@ -166,7 +166,7 @@
         {
             "id": 10356,
             "graphemes": [
-                "o"
+                "ο"
             ],
             "sound": "o",
             "classes": [
@@ -309,9 +309,36 @@
                 "fricative"
             ],
             "notes": ""
+        },
+        {
+            "id": 12514,
+            "graphemes": [
+                "ᾱ"
+            ],
+            "sound": "ā",
+            "classes": [
+                "long",
+                "central",
+                "open",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 12687,
+            "graphemes": [
+                "ζ"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "affricate"
+            ],
+            "notes": "The pronunciation corresponds to Archaic Greek; in Attic this was likely [sd]."
         }
     ],
     "protoLanguageShortName": "PIE",
+    "pronunciationRuleId": 12515,
     "orthographyRuleId": 10370,
     "pos": [
         {
@@ -349,6 +376,10 @@
         {
             "name": "Affix",
             "abbreviation": "AFF"
+        },
+        {
+            "name": "Particle",
+            "abbreviation": "PART"
         }
     ],
     "grammaticalCategories": [
@@ -402,7 +433,7 @@
             ],
             "values": [
                 {
-                    "name": "Nomiinative",
+                    "name": "Nominative",
                     "abbreviation": "NOM"
                 },
                 {
@@ -461,6 +492,10 @@
                 {
                     "name": "Perfect",
                     "abbreviation": "PF"
+                },
+                {
+                    "name": "Pluperfect",
+                    "abbreviation": "PLUPF"
                 }
             ]
         },
@@ -485,6 +520,42 @@
                 {
                     "name": "Imperative",
                     "abbreviation": "IPV"
+                }
+            ]
+        },
+        {
+            "name": "Voice",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Active",
+                    "abbreviation": "ACT"
+                },
+                {
+                    "name": "Middle",
+                    "abbreviation": "MID"
+                },
+                {
+                    "name": "Passive",
+                    "abbreviation": "PASS"
+                },
+                {
+                    "name": "Mediopassive",
+                    "abbreviation": "MP"
+                }
+            ]
+        },
+        {
+            "name": "Non-finite forms",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Infinitive",
+                    "abbreviation": "INF"
                 }
             ]
         }

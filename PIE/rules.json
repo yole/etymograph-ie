@@ -513,7 +513,7 @@
     },
     {
         "id": 10172,
-        "name": "pie-1pl-beekes",
+        "name": "pie-beekes-1pl",
         "fromLang": "PIE",
         "toLang": "PIE",
         "branches": [
@@ -757,7 +757,7 @@
     },
     {
         "id": 10198,
-        "name": "pie-2sg-beekes",
+        "name": "pie-beekes-2sg",
         "fromLang": "PIE",
         "toLang": "PIE",
         "branches": [
@@ -803,7 +803,7 @@
     },
     {
         "id": 10199,
-        "name": "pie-3sg-beekes",
+        "name": "pie-beekes-3sg",
         "fromLang": "PIE",
         "toLang": "PIE",
         "branches": [
@@ -1907,6 +1907,12 @@
                         "args": [
                             "12474"
                         ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "second"
+                        ]
                     }
                 ],
                 "condition": {
@@ -1986,6 +1992,12 @@
                         "args": [
                             "12479"
                         ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "second"
+                        ]
                     }
                 ],
                 "condition": {
@@ -2064,6 +2076,12 @@
                         "type": "AppendMorpheme",
                         "args": [
                             "12484"
+                        ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "second"
                         ]
                     }
                 ],
@@ -2179,6 +2197,378 @@
         "addedCategories": ".PF",
         "fromPOS": [
             "V"
+        ]
+    },
+    {
+        "id": 12517,
+        "name": "pie-beekes-intr-mid-1sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12516"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.1SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12520,
+        "name": "pie-beekes-intr-mid-1pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12519"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.1PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12522,
+        "name": "pie-beekes-intr-mid-2sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12521"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12525,
+        "name": "pie-beekes-intr-mid-2pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12524"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12527,
+        "name": "pie-beekes-intr-mid-3sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12526"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12530,
+        "name": "pie-beekes-intr-mid-3pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12529"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12532,
+        "name": "pie-beekes-tr-mid-1sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12531"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.1SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12535,
+        "name": "pie-beekes-tr-mid-1pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12534"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.1PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12537,
+        "name": "pie-beekes-tr-mid-2sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12536"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12540,
+        "name": "pie-beekes-tr-mid-2pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12539"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12542,
+        "name": "pie-beekes-tr-mid-3sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12541"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12545,
+        "name": "pie-beekes-tr-mid-3pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12544"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".MID.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "268"
+            }
         ]
     }
 ]

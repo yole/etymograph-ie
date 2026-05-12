@@ -73,5 +73,911 @@
             "V"
         ],
         "preRule": 12428
+    },
+    {
+        "id": 68,
+        "name": "Verb Present Mediopassive",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12498
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12503
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12509
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12499
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12505
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12511
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12501
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12507
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12513
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Verb Aorist",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12550
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12555
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12561
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12551
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12557
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12563
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12553
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12559
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12565
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Verb Present Imperative",
+        "rows": [
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12575
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12579
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12576
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12580
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12578
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12581
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Adjective",
+        "rows": [
+            "NOM",
+            "ACC",
+            "DAT",
+            "GEN"
+        ],
+        "columns": [
+            {
+                "title": "SG M",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12612
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12621
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12630
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12639
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "SG F",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12613
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12622
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12631
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12640
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "SG N",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12614
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12623
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12632
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12641
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU M",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12615
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12624
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12633
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12642
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU F",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12616
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12625
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12634
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12643
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU N",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12617
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12626
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12635
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12644
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL M",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12618
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12627
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12636
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12645
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL F",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12619
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12628
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12637
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12646
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL N",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12620
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12629
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12638
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12647
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Verb Imperfect",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12650
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12653
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12656
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12651
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12654
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12657
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12652
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12655
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12658
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Verb Optative",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12665
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12668
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12671
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12666
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12669
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12672
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12667
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12670
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12673
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Verb Optative Mediopassive",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12676
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12679
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12682
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12677
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12680
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12683
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12678
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12681
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12684
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Future",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12695
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12698
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12701
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12696
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12699
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12702
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12697
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12700
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12703
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Noun",
+        "rows": [
+            "NOM",
+            "ACC",
+            "DAT",
+            "GEN"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12712
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12715
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12718
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12721
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12713
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12716
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12719
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12722
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12714
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12717
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12720
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12723
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "N"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Verb Pluperfect",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12732
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12735
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12738
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "DU",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12733
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12736
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12739
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12734
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12737
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12740
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]

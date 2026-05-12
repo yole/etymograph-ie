@@ -412,5 +412,121 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 69,
+        "name": "Middle Intransitive Endings (Beekes)",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12517
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12522
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12527
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Du",
+                "cells": []
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12520
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12525
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12530
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Middle Transitive Endings (Beekes)",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12532
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12537
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12542
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Du",
+                "cells": []
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            12535
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12540
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12545
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]

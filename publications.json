@@ -129,5 +129,13 @@
         "author": "Helmut Rix",
         "date": "2001",
         "publisher": "Dr. Ludwig Reichert Verlag, Wiesbaden"
+    },
+    {
+        "id": 17,
+        "name": "Introduction to Attic Greek",
+        "refId": "Mastronarde 2013",
+        "author": "Donald J. Mastronarde",
+        "date": "2013",
+        "publisher": "University of California Press, Berkeley and Los Angeles, California"
     }
 ]
