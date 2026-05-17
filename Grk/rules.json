@@ -1473,7 +1473,8 @@
         "branches": [],
         "addedCategories": ".ACC.SG.F",
         "fromPOS": [
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {
@@ -2388,5 +2389,17 @@
         "fromPOS": [
             "V"
         ]
+    },
+    {
+        "id": 12754,
+        "name": "grk-ptcp",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [],
+        "addedCategories": ".PTCP",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ"
     }
 ]

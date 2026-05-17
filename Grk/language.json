@@ -556,6 +556,10 @@
                 {
                     "name": "Infinitive",
                     "abbreviation": "INF"
+                },
+                {
+                    "name": "Participle",
+                    "abbreviation": "PTCP"
                 }
             ]
         }
