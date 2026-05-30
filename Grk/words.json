@@ -85,20 +85,20 @@
     },
     {
         "id": 12411,
-        "text": "ω",
-        "gloss": "Verb Present pres.1sg. ending",
+        "text": "-ω",
+        "gloss": "Primary thematic 1sg. ending",
         "pos": "AFF"
     },
     {
         "id": 12414,
-        "text": "ομεν",
-        "gloss": "Verb Present pres.1pl. ending",
+        "text": "-ομεν",
+        "gloss": "Primary thematic 1pl. ending",
         "pos": "AFF"
     },
     {
         "id": 12416,
-        "text": "εις",
-        "gloss": "Verb Present pres.2sg. ending",
+        "text": "-εις",
+        "gloss": "Primary thematic 2sg. ending",
         "pos": "AFF"
     },
     {
@@ -109,14 +109,14 @@
     },
     {
         "id": 12420,
-        "text": "ετε",
-        "gloss": "Verb Present pres.2pl. ending",
+        "text": "-ετε",
+        "gloss": "Primary thematic 2pl. ending",
         "pos": "AFF"
     },
     {
         "id": 12422,
         "text": "-ει",
-        "gloss": "thematic 3sg. ending",
+        "gloss": "Primary thematic 3sg. ending",
         "pos": "AFF"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
         "id": 12426,
-        "text": "ουσι",
-        "gloss": "Verb Present pres.3pl. ending",
+        "text": "-ουσι",
+        "gloss": "Primary thematic 3pl. ending",
         "pos": "AFF"
     },
     {
@@ -293,8 +293,8 @@
     },
     {
         "id": 12560,
-        "text": "ε",
-        "gloss": "Verb Strong Aorist aor.3sg. ending",
+        "text": "-ε",
+        "gloss": "Secondary 3sg. ending",
         "pos": "AFF",
         "sourceRefs": [
             {
@@ -719,5 +719,129 @@
         "text": "ὄρνις",
         "gloss": "bird",
         "pos": "N"
+    },
+    {
+        "id": 12763,
+        "text": "-μι",
+        "gloss": "Primary athematic 1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12765,
+        "text": "τίθημι",
+        "gloss": "put",
+        "pos": "V"
+    },
+    {
+        "id": 12769,
+        "text": "-ο-",
+        "gloss": "Thematic vowel -o-",
+        "pos": "AFF"
+    },
+    {
+        "id": 12771,
+        "text": "-μεν",
+        "gloss": "Primary athematic 1pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12772,
+        "text": "-ε-",
+        "gloss": "Thematic vowel -e-",
+        "pos": "AFF"
+    },
+    {
+        "id": 12774,
+        "text": "-τε",
+        "gloss": "Primary athematic 2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12776,
+        "text": "-ς",
+        "gloss": "Primary athematic 2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12777,
+        "text": "-σι",
+        "gloss": "Primary athematic 3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12778,
+        "text": "-ει",
+        "gloss": "Historical primary thematic 2sg. ending",
+        "pos": "AFF",
+        "reconstructed": true,
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "260"
+            }
+        ]
+    },
+    {
+        "id": 12780,
+        "text": "-ε",
+        "gloss": "Historical primary thematic 3sg. ending",
+        "pos": "AFF",
+        "reconstructed": true,
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "260"
+            }
+        ]
+    },
+    {
+        "id": 12782,
+        "text": "-ι",
+        "gloss": "Primary ending characteristic",
+        "pos": "AFF",
+        "reconstructed": true,
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "260"
+            }
+        ]
+    },
+    {
+        "id": 12784,
+        "text": "ἄγω",
+        "gloss": "drive",
+        "pos": "V"
+    },
+    {
+        "id": 12785,
+        "text": "φέρω",
+        "gloss": "carry"
+    },
+    {
+        "id": 12794,
+        "text": "-σα",
+        "gloss": "s-aorist affix",
+        "pos": "AFF"
+    },
+    {
+        "id": 12796,
+        "text": "-ς",
+        "gloss": "Secondary 2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12799,
+        "text": "ἔδειξα",
+        "gloss": "show.AOR.1SG"
+    },
+    {
+        "id": 12804,
+        "text": "εἴην"
+    },
+    {
+        "id": 12825,
+        "text": "ἔστην",
+        "gloss": "stand up.AOR.1SG"
     }
 ]

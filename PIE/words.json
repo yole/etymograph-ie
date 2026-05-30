@@ -467,7 +467,7 @@
     },
     {
         "id": 10536,
-        "text": "h₂eǵeti"
+        "text": "h₂éǵeti"
     },
     {
         "id": 10538,
@@ -509,7 +509,7 @@
     },
     {
         "id": 10812,
-        "text": "prḱsketi"
+        "text": "prḱskéti"
     },
     {
         "id": 10814,
@@ -571,7 +571,7 @@
     {
         "id": 11013,
         "text": "-ent",
-        "gloss": "Secondary 3pl. ending",
+        "gloss": "Secondary athematic 3pl. ending",
         "pos": "AFF"
     },
     {
@@ -640,7 +640,7 @@
     },
     {
         "id": 12024,
-        "text": "h₁egʷemt"
+        "text": "h₁égʷemt"
     },
     {
         "id": 12028,
@@ -868,7 +868,7 @@
     },
     {
         "id": 12078,
-        "text": "h₁esteh₂m̥"
+        "text": "h₁ésteh₂m̥"
     },
     {
         "id": 12080,
@@ -1191,5 +1191,229 @@
                 "refText": "268"
             }
         ]
+    },
+    {
+        "id": 12759,
+        "text": "dédeh₃mi"
+    },
+    {
+        "id": 12764,
+        "text": "dʰedʰeh₁mi"
+    },
+    {
+        "id": 12766,
+        "text": "i̯unégti"
+    },
+    {
+        "id": 12783,
+        "text": "h₂eǵoH"
+    },
+    {
+        "id": 12786,
+        "text": "ǵnh₁ieti"
+    },
+    {
+        "id": 12787,
+        "text": "gʷes-",
+        "gloss": "be extinguished",
+        "pos": "V"
+    },
+    {
+        "id": 12788,
+        "text": "h₁éh₂eǵet"
+    },
+    {
+        "id": 12791,
+        "text": "gʷei-",
+        "gloss": "conquer",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "206"
+            }
+        ]
+    },
+    {
+        "id": 12792,
+        "text": "h₁égʷēism̥"
+    },
+    {
+        "id": 12797,
+        "text": "dei̯ḱ-",
+        "gloss": "show",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "108"
+            }
+        ]
+    },
+    {
+        "id": 12798,
+        "text": "h₁édēiḱsm̥"
+    },
+    {
+        "id": 12800,
+        "text": "-ieh₁",
+        "gloss": "opt. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 12802,
+        "text": "h₁siéh₁m̥"
+    },
+    {
+        "id": 12805,
+        "text": "-o-",
+        "gloss": "thematic vowel o-grade",
+        "pos": "AFF"
+    },
+    {
+        "id": 12809,
+        "text": "-dʰi",
+        "gloss": "Verb Imperative ipv.2sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12812,
+        "text": "-te",
+        "gloss": "Imperative 2pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12814,
+        "text": "-tu",
+        "gloss": "Imperative 3sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12817,
+        "text": "-ntu",
+        "gloss": "Imperative 3pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12820,
+        "text": "bʰindénti"
+    },
+    {
+        "id": 12822,
+        "text": "kʷer-",
+        "gloss": "cut",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "391"
+            }
+        ]
+    },
+    {
+        "id": 12823,
+        "text": "kʷérti"
+    },
+    {
+        "id": 12826,
+        "text": "dʰegʷʰ-",
+        "gloss": "burn",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "133"
+            }
+        ]
+    },
+    {
+        "id": 12827,
+        "text": "h₁édʰegʷʰete"
+    },
+    {
+        "id": 12829,
+        "text": "dʰégʷʰoH"
+    },
+    {
+        "id": 12831,
+        "text": "h₁édʰegʷʰont"
+    },
+    {
+        "id": 12832,
+        "text": "-ont",
+        "gloss": "Secondary thematic 3pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12834,
+        "text": "dʰēgʷʰsm̥"
+    },
+    {
+        "id": 12835,
+        "text": "h₁édʰēgʷʰst"
+    },
+    {
+        "id": 12836,
+        "text": "ḱléus"
+    },
+    {
+        "id": 12837,
+        "text": "h₁éḱlume"
+    },
+    {
+        "id": 12838,
+        "text": "klnéuti"
+    },
+    {
+        "id": 12839,
+        "text": "h₁éḱlnuent"
+    },
+    {
+        "id": 12840,
+        "text": "ḱloueiete"
+    },
+    {
+        "id": 12841,
+        "text": "bʰeu̯gʰ-",
+        "gloss": "bend",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "85"
+            }
+        ]
+    },
+    {
+        "id": 12842,
+        "text": "bʰugʰdʰi"
+    },
+    {
+        "id": 12843,
+        "text": "h₁eiomom"
     }
 ]

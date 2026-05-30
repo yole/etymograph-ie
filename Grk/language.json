@@ -564,6 +564,36 @@
             ]
         }
     ],
+    "wordClasses": [
+        {
+            "name": "Present class",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Thematic",
+                    "abbreviation": "v-them"
+                },
+                {
+                    "name": "Athematic",
+                    "abbreviation": "v-athem"
+                }
+            ]
+        },
+        {
+            "name": "Aorist class",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "strong aorist",
+                    "abbreviation": "v-strong-aor"
+                }
+            ]
+        }
+    ],
     "accentTypes": [
         "Acute",
         "Grave",

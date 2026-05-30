@@ -459,6 +459,12 @@
                         "args": [
                             "10183"
                         ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "first"
+                        ]
                     }
                 ],
                 "condition": {
@@ -743,6 +749,12 @@
                         "args": [
                             "10181"
                         ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "second to last"
+                        ]
                     }
                 ],
                 "condition": {
@@ -945,6 +957,12 @@
                         "args": [
                             "10203"
                         ]
+                    },
+                    {
+                        "type": "ApplyStress",
+                        "args": [
+                            "last"
+                        ]
                     }
                 ],
                 "condition": {
@@ -1076,7 +1094,7 @@
                         "args": [
                             "ne",
                             "-1",
-                            "last consonant"
+                            "last sound"
                         ]
                     }
                 ],
@@ -1446,6 +1464,21 @@
         "fromLang": "PIE",
         "toLang": "PIE",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "12832"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -2568,6 +2601,195 @@
             {
                 "pubId": 12,
                 "refText": "268"
+            }
+        ]
+    },
+    {
+        "id": 12801,
+        "name": "pie-opt",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10521"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12800"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".OPT",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12810,
+        "name": "pie-ipv-2sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12809"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.2SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12811,
+        "name": "pie-ipv-2du",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [],
+        "addedCategories": ".IPV.2DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12813,
+        "name": "pie-ipv-2pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12812"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.2PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12815,
+        "name": "pie-ipv-3sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12814"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.3SG",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12816,
+        "name": "pie-ipv-3du",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [],
+        "addedCategories": ".IPV.3DU",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 12818,
+        "name": "pie-ipv-3pl",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12817"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".IPV.3PL",
+        "fromPOS": [
+            "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "277"
             }
         ]
     }

@@ -189,5 +189,67 @@
         "id": 12082,
         "text": "ávidam",
         "gloss": "see.AOR.1SG"
+    },
+    {
+        "id": 12760,
+        "text": "dádāmi",
+        "gloss": "give.1SG",
+        "pos": "V"
+    },
+    {
+        "id": 12761,
+        "text": "ávākṣam",
+        "gloss": "carry.AOR.1SG"
+    },
+    {
+        "id": 12762,
+        "text": "ágan",
+        "gloss": "go.AOR.3SG"
+    },
+    {
+        "id": 12767,
+        "text": "yunákti",
+        "gloss": "tie together",
+        "pos": "V"
+    },
+    {
+        "id": 12789,
+        "text": "ā́jat",
+        "gloss": "drive.IPF.3SG"
+    },
+    {
+        "id": 12790,
+        "text": "ásthām",
+        "gloss": "stand up.AOR.1SG"
+    },
+    {
+        "id": 12793,
+        "text": "ájaiṣam",
+        "gloss": "conquer.AOR.1SG"
+    },
+    {
+        "id": 12803,
+        "text": "syā́m",
+        "gloss": "be.OPT.1SG"
+    },
+    {
+        "id": 12821,
+        "text": "bhindánti",
+        "gloss": "split.PRES.3PL"
+    },
+    {
+        "id": 12828,
+        "text": "ádahata",
+        "gloss": "burn.IPF.2PL"
+    },
+    {
+        "id": 12830,
+        "text": "dáhāmi",
+        "gloss": "burn.PRES.1SG"
+    },
+    {
+        "id": 12833,
+        "text": "ádahan",
+        "gloss": "burn.IPF.3PL"
     }
 ]

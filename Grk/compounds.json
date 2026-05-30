@@ -6,5 +6,49 @@
             12745,
             12747
         ]
+    },
+    {
+        "id": 12770,
+        "compoundId": 12414,
+        "componentIds": [
+            12769,
+            12771
+        ]
+    },
+    {
+        "id": 12773,
+        "compoundId": 12420,
+        "componentIds": [
+            12772,
+            12774
+        ]
+    },
+    {
+        "id": 12779,
+        "compoundId": 12416,
+        "componentIds": [
+            12778,
+            12776
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "260"
+            }
+        ]
+    },
+    {
+        "id": 12781,
+        "compoundId": 12422,
+        "componentIds": [
+            12780,
+            12782
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "260"
+            }
+        ]
     }
 ]

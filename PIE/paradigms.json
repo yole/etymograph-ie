@@ -528,5 +528,67 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 80,
+        "name": "Verb Imperative",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {},
+                    {
+                        "ruleAlternatives": [
+                            12810
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12815
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Du",
+                "cells": [
+                    {},
+                    {
+                        "ruleAlternatives": [
+                            12811
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12816
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {},
+                    {
+                        "ruleAlternatives": [
+                            12813
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            12818
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]

@@ -403,17 +403,6 @@
         ]
     },
     {
-        "id": 12413,
-        "name": "grk-1du",
-        "fromLang": "Grk",
-        "toLang": "Grk",
-        "branches": [],
-        "addedCategories": ".PRES.1DU",
-        "fromPOS": [
-            "V"
-        ]
-    },
-    {
         "id": 12415,
         "name": "grk-1pl",
         "fromLang": "Grk",
@@ -444,6 +433,20 @@
         "fromLang": "Grk",
         "toLang": "Grk",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12776"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "v-athem"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -524,6 +527,20 @@
                     {
                         "type": "AppendMorpheme",
                         "args": [
+                            "12777"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "v-athem"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
                             "12422"
                         ]
                     }
@@ -589,44 +606,6 @@
         ]
     },
     {
-        "id": 12428,
-        "name": "grk-verbal-stem",
-        "fromLang": "Grk",
-        "toLang": "Grk",
-        "branches": [
-            {
-                "instructions": [
-                    {
-                        "type": "ChangeEnding",
-                        "args": [
-                            ""
-                        ]
-                    }
-                ],
-                "condition": {
-                    "type": "leaf",
-                    "cond": "EndsWith",
-                    "characters": "ω"
-                }
-            },
-            {
-                "instructions": [
-                    {
-                        "type": "NoChange",
-                        "args": []
-                    }
-                ],
-                "condition": {
-                    "type": "otherwise"
-                }
-            }
-        ],
-        "fromPOS": [
-            "V"
-        ],
-        "toPOS": "V"
-    },
-    {
         "id": 12498,
         "name": "grk-mp-1sg",
         "fromLang": "Grk",
@@ -647,23 +626,6 @@
             }
         ],
         "addedCategories": ".MP.1SG",
-        "fromPOS": [
-            "V"
-        ],
-        "sourceRefs": [
-            {
-                "pubId": 17,
-                "refText": "92"
-            }
-        ]
-    },
-    {
-        "id": 12499,
-        "name": "grk-mp-1du",
-        "fromLang": "Grk",
-        "toLang": "Grk",
-        "branches": [],
-        "addedCategories": ".MP.1DU",
         "fromPOS": [
             "V"
         ],
@@ -940,28 +902,23 @@
                     }
                 ],
                 "condition": {
+                    "type": "wordIs",
+                    "wordClass": "v-strong-aor"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
                     "type": "otherwise"
                 }
             }
         ],
         "addedCategories": ".AOR.1SG",
-        "fromPOS": [
-            "V"
-        ],
-        "sourceRefs": [
-            {
-                "pubId": 17,
-                "refText": "156"
-            }
-        ]
-    },
-    {
-        "id": 12551,
-        "name": "grk-aor-strong-1du",
-        "fromLang": "Grk",
-        "toLang": "Grk",
-        "branches": [],
-        "addedCategories": ".AOR.1DU",
         "fromPOS": [
             "V"
         ],
@@ -1015,6 +972,20 @@
                         "type": "AppendMorpheme",
                         "args": [
                             "12554"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "v-strong-aor"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "12796"
                         ]
                     }
                 ],
@@ -1102,6 +1073,21 @@
         "fromLang": "Grk",
         "toLang": "Grk",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "12560"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "α"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -2401,5 +2387,95 @@
             "V"
         ],
         "toPOS": "ADJ"
+    },
+    {
+        "id": 12775,
+        "name": "grk-v-present-stem",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "v-athem"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "μι"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "v-them"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "ω"
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 12795,
+        "name": "grk-v-aor-stem",
+        "fromLang": "Grk",
+        "toLang": "Grk",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "v-strong-aor"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "12794"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "ω"
+                }
+            }
+        ],
+        "addedCategories": ".AOR",
+        "toPOS": "V"
     }
 ]

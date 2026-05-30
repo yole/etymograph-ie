@@ -4873,7 +4873,7 @@
     {
         "id": 11640,
         "text": "-tten",
-        "gloss": "Verb Imperative imp.2pl. ending",
+        "gloss": "Imperative 2pl. ending",
         "pos": "AFF"
     },
     {
@@ -4885,7 +4885,7 @@
     {
         "id": 11644,
         "text": "-antu",
-        "gloss": "Verb Imperative imp.3pl. ending",
+        "gloss": "Imperative 3pl. ending",
         "pos": "AFF"
     },
     {
@@ -7471,5 +7471,10 @@
         "text": "^URU^_ḪA-AK-PÍ-IŠ-ŠA",
         "pos": "NP",
         "syllabographic": true
+    },
+    {
+        "id": 12824,
+        "text": "kuerzi",
+        "gloss": "cut.3SG"
     }
 ]

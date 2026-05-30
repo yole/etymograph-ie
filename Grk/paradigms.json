@@ -31,11 +31,7 @@
             {
                 "title": "DU",
                 "cells": [
-                    {
-                        "ruleAlternatives": [
-                            12413
-                        ]
-                    },
+                    {},
                     {
                         "ruleAlternatives": [
                             12419
@@ -72,7 +68,7 @@
         "posList": [
             "V"
         ],
-        "preRule": 12428
+        "preRule": 12775
     },
     {
         "id": 68,
@@ -106,11 +102,7 @@
             {
                 "title": "DU",
                 "cells": [
-                    {
-                        "ruleAlternatives": [
-                            12499
-                        ]
-                    },
+                    {},
                     {
                         "ruleAlternatives": [
                             12505
@@ -180,11 +172,7 @@
             {
                 "title": "DU",
                 "cells": [
-                    {
-                        "ruleAlternatives": [
-                            12551
-                        ]
-                    },
+                    {},
                     {
                         "ruleAlternatives": [
                             12557
@@ -220,7 +208,8 @@
         ],
         "posList": [
             "V"
-        ]
+        ],
+        "preRule": 12795
     },
     {
         "id": 72,
