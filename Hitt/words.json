@@ -7476,5 +7476,186 @@
         "id": 12824,
         "text": "kuerzi",
         "gloss": "cut.3SG"
+    },
+    {
+        "id": 12858,
+        "text": "pár-ki-i̯a-nu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 12859,
+        "text": "parkii̯anun"
+    },
+    {
+        "id": 12860,
+        "text": "parkii̯a-",
+        "gloss": "grow",
+        "pos": "V"
+    },
+    {
+        "id": 12861,
+        "text": "li-li-wa-aḫ-ḫu-wa-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 12862,
+        "text": "liliu̯aḫḫuu̯anzi"
+    },
+    {
+        "id": 12863,
+        "text": "liliu̯aḫḫ-",
+        "gloss": "hurry",
+        "pos": "V"
+    },
+    {
+        "id": 12864,
+        "text": "li-li-u̯a-aḫ-ḫu-u̯a-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 12865,
+        "text": "ma-na-aš-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 12867,
+        "text": "du-u̯a-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 12868,
+        "text": "duu̯ān",
+        "gloss": "here",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "231"
+            }
+        ]
+    },
+    {
+        "id": 12869,
+        "text": "kat-ti-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 12870,
+        "text": "kattimi",
+        "gloss": "by me",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "106"
+            }
+        ]
+    },
+    {
+        "id": 12871,
+        "text": "_UM-MA",
+        "gloss": "thus",
+        "syllabographic": true
+    },
+    {
+        "id": 12872,
+        "text": "_MA-ḪAR",
+        "gloss": "before",
+        "pos": "ADV",
+        "syllabographic": true
+    },
+    {
+        "id": 12874,
+        "text": "NU.MUN^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 12875,
+        "text": "NU.MUN",
+        "gloss": "seed",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12876,
+        "text": "a-ni-i̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 12877,
+        "text": "anii̯an"
+    },
+    {
+        "id": 12878,
+        "text": "anii̯a-",
+        "gloss": "work",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "22"
+            }
+        ]
+    },
+    {
+        "id": 12879,
+        "text": "u̯a-ar-aš-ša-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 12880,
+        "text": "u̯araššanzi"
+    },
+    {
+        "id": 12881,
+        "text": "u̯arš-",
+        "gloss": "make free",
+        "pos": "V"
+    },
+    {
+        "id": 12882,
+        "text": "ša-a-li-i̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 12883,
+        "text": "me-ek-ki",
+        "syllabographic": true
+    },
+    {
+        "id": 12884,
+        "text": "ma-ni-i̯a-aḫ-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 12885,
+        "text": "manii̯aḫmi"
+    },
+    {
+        "id": 12886,
+        "text": "manii̯aḫḫ-",
+        "gloss": "hand over",
+        "pos": "V",
+        "classes": [
+            "mi"
+        ]
+    },
+    {
+        "id": 12887,
+        "text": "i-i̯a-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 12888,
+        "text": "ii̯ami"
+    },
+    {
+        "id": 12891,
+        "text": "ma-a-uš-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 12892,
+        "text": "māušta"
     }
 ]

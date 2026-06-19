@@ -234,8 +234,7 @@
     },
     {
         "id": 12821,
-        "text": "bhindánti",
-        "gloss": "split.PRES.3PL"
+        "text": "bhindánti"
     },
     {
         "id": 12828,
@@ -251,5 +250,11 @@
         "id": 12833,
         "text": "ádahan",
         "gloss": "burn.IPF.3PL"
+    },
+    {
+        "id": 12856,
+        "text": "bhind-",
+        "gloss": "split",
+        "pos": "V"
     }
 ]

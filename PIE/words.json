@@ -1171,7 +1171,7 @@
     {
         "id": 12541,
         "text": "-to",
-        "gloss": "Middle Transitive Endings (Beekes) mid.3sg. ending",
+        "gloss": "Middle Transitive 3sg. ending (Beekes)",
         "pos": "AFF",
         "sourceRefs": [
             {
@@ -1415,5 +1415,73 @@
     {
         "id": 12843,
         "text": "h₁eiomom"
+    },
+    {
+        "id": 12844,
+        "text": "per-",
+        "gloss": "cross",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "472"
+            }
+        ]
+    },
+    {
+        "id": 12845,
+        "text": "derḱ-",
+        "gloss": "see",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "122"
+            }
+        ]
+    },
+    {
+        "id": 12846,
+        "text": "bʰeidʰ-",
+        "gloss": "trust",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "71"
+            }
+        ]
+    },
+    {
+        "id": 12847,
+        "text": "bʰebʰóidʰe"
+    },
+    {
+        "id": 12848,
+        "text": "lelóipe"
+    },
+    {
+        "id": 12849,
+        "text": "-nt",
+        "gloss": "active participle suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 12850,
+        "text": "-s",
+        "gloss": "nom.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 12852,
+        "text": "h₁éints"
+    },
+    {
+        "id": 12853,
+        "text": "bʰeronts"
+    },
+    {
+        "id": 12854,
+        "text": "dédorḱe"
     }
 ]

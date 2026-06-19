@@ -137,5 +137,13 @@
         "author": "Donald J. Mastronarde",
         "date": "2013",
         "publisher": "University of California Press, Berkeley and Los Angeles, California"
+    },
+    {
+        "id": 18,
+        "name": "Kurzgefaßtes Hethitisches Wörterbuch",
+        "refId": "Friedrich 1991",
+        "author": "Johannes Friedrich",
+        "date": "1991",
+        "publisher": "Heidelberg, Carl Winter Universitätsverlag"
     }
 ]
