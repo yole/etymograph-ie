@@ -500,56 +500,6 @@
         ]
     },
     {
-        "id": 10134,
-        "name": "hitt-loc-sg",
-        "fromLang": "Hitt",
-        "toLang": "Hitt",
-        "branches": [
-            {
-                "instructions": [
-                    {
-                        "type": "ApplyRule",
-                        "args": [
-                            "10132"
-                        ]
-                    }
-                ],
-                "condition": {
-                    "type": "otherwise"
-                }
-            }
-        ],
-        "addedCategories": ".LOC.SG",
-        "fromPOS": [
-            "N"
-        ]
-    },
-    {
-        "id": 10135,
-        "name": "hitt-loc-pl",
-        "fromLang": "Hitt",
-        "toLang": "Hitt",
-        "branches": [
-            {
-                "instructions": [
-                    {
-                        "type": "ApplyRule",
-                        "args": [
-                            "10133"
-                        ]
-                    }
-                ],
-                "condition": {
-                    "type": "otherwise"
-                }
-            }
-        ],
-        "addedCategories": ".LOC.PL",
-        "fromPOS": [
-            "N"
-        ]
-    },
-    {
         "id": 10136,
         "name": "hitt-all-sg",
         "fromLang": "Hitt",
