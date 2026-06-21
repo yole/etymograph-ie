@@ -60,8 +60,7 @@
             "NOM",
             "ACC",
             "GEN",
-            "DAT",
-            "LOC",
+            "D/L",
             "ALL",
             "ERG",
             "ABL",
@@ -89,11 +88,6 @@
                     {
                         "ruleAlternatives": [
                             10132
-                        ]
-                    },
-                    {
-                        "ruleAlternatives": [
-                            10134
                         ]
                     },
                     {
@@ -139,11 +133,6 @@
                     {
                         "ruleAlternatives": [
                             10133
-                        ]
-                    },
-                    {
-                        "ruleAlternatives": [
-                            10135
                         ]
                     },
                     {

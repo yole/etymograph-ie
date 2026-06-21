@@ -366,12 +366,8 @@
                     "abbreviation": "GEN"
                 },
                 {
-                    "name": "Dative",
-                    "abbreviation": "DAT"
-                },
-                {
-                    "name": "Locative",
-                    "abbreviation": "LOC"
+                    "name": "Dative/Locative",
+                    "abbreviation": "D/L"
                 },
                 {
                     "name": "Allative",
