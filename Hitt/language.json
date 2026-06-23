@@ -289,6 +289,10 @@
             "abbreviation": "PRON"
         },
         {
+            "name": "Particle",
+            "abbreviation": "PART"
+        },
+        {
             "name": "Affix",
             "abbreviation": "AFF"
         }
@@ -485,7 +489,8 @@
             "name": "Clitic",
             "pos": [
                 "CONJ",
-                "PRON"
+                "PRON",
+                "PART"
             ],
             "values": [
                 {

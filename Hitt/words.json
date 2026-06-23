@@ -130,11 +130,7 @@
     {
         "id": 10115,
         "text": "kán",
-        "gloss": "-",
-        "pos": "CONJ",
-        "classes": [
-            "clitic"
-        ]
+        "syllabographic": true
     },
     {
         "id": 10116,
@@ -7657,5 +7653,14 @@
     {
         "id": 12892,
         "text": "māušta"
+    },
+    {
+        "id": 12894,
+        "text": "kkan",
+        "gloss": "-",
+        "pos": "PART",
+        "classes": [
+            "clitic"
+        ]
     }
 ]
