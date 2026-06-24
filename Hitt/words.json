@@ -7662,5 +7662,491 @@
         "classes": [
             "clitic"
         ]
+    },
+    {
+        "id": 12896,
+        "text": "_BE-EL-TI4-NI",
+        "syllabographic": true
+    },
+    {
+        "id": 12897,
+        "text": "_BE-EL-TI4",
+        "syllabographic": true
+    },
+    {
+        "id": 12899,
+        "text": "BĒLTU",
+        "gloss": "Herrin",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12900,
+        "text": "_QÍ-BÍ-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 12901,
+        "text": "_MA",
+        "gloss": "CNJ",
+        "syllabographic": true
+    },
+    {
+        "id": 12902,
+        "text": "_QÍ-BÍ",
+        "syllabographic": true
+    },
+    {
+        "id": 12904,
+        "text": "QABÛ",
+        "gloss": "sagen",
+        "pos": "V",
+        "syllabographic": true
+    },
+    {
+        "id": 12905,
+        "text": "^m^a-u̯a-u-u̯a-a",
+        "syllabographic": true
+    },
+    {
+        "id": 12906,
+        "text": "auaua",
+        "gloss": "Awauwa"
+    },
+    {
+        "id": 12907,
+        "text": "^m^NU.^GIŠ^KIRI6",
+        "syllabographic": true
+    },
+    {
+        "id": 12908,
+        "text": "NU.^GIŠ^KIRI6",
+        "gloss": "NU.°GIŠ°KIRI₆",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 12909,
+        "text": "^m.D^10-SIG5",
+        "syllabographic": true
+    },
+    {
+        "id": 12910,
+        "text": "10-SIG5",
+        "gloss": "°D°10-SIG₅",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 12911,
+        "text": "^LÚ.MEŠ^MUŠEN.DÙ",
+        "syllabographic": true
+    },
+    {
+        "id": 12912,
+        "text": "MUŠEN.DÙ",
+        "gloss": "Vogelfänger",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12913,
+        "text": "ARAD^MEŠ^-_KA-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 12914,
+        "text": "ARAD^MEŠ^",
+        "syllabographic": true
+    },
+    {
+        "id": 12916,
+        "text": "ARAD",
+        "gloss": "Diener",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12917,
+        "text": "^URU^ḫa-it-ta-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 12918,
+        "text": "ḫaittazakan"
+    },
+    {
+        "id": 12919,
+        "text": "ḫaittaz"
+    },
+    {
+        "id": 12921,
+        "text": "ḫaitta",
+        "gloss": "Ḫaitta",
+        "pos": "NP"
+    },
+    {
+        "id": 12922,
+        "text": "u-ri-an-ni-eš^MUŠEN^",
+        "syllabographic": true
+    },
+    {
+        "id": 12923,
+        "text": "uriannieš"
+    },
+    {
+        "id": 12924,
+        "text": "urii̯anni",
+        "gloss": "(Orakelvogel)",
+        "pos": "N"
+    },
+    {
+        "id": 12925,
+        "text": "tar-u",
+        "syllabographic": true
+    },
+    {
+        "id": 12926,
+        "text": "taru",
+        "gloss": "(Orakelterminus)"
+    },
+    {
+        "id": 12927,
+        "text": "^ÍD^zu-li-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 12928,
+        "text": "zuliaššan"
+    },
+    {
+        "id": 12929,
+        "text": "zuliašš"
+    },
+    {
+        "id": 12931,
+        "text": "zulia",
+        "gloss": "Zuliya",
+        "pos": "N"
+    },
+    {
+        "id": 12932,
+        "text": "^MUŠEN^",
+        "syllabographic": true
+    },
+    {
+        "id": 12933,
+        "text": "GUN-eš₁₇",
+        "syllabographic": true
+    },
+    {
+        "id": 12934,
+        "text": "GUN-eš",
+        "gloss": "(Orakelterminus)",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12935,
+        "text": "zi",
+        "syllabographic": true
+    },
+    {
+        "id": 12936,
+        "text": "zi",
+        "gloss": "von dieser Seite"
+    },
+    {
+        "id": 12937,
+        "text": "SIG5-az-ma-an-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 12938,
+        "text": "SIG5-az",
+        "gloss": "von der guten Seite"
+    },
+    {
+        "id": 12940,
+        "text": "ḫu-e-ku-u̯a-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 12941,
+        "text": "ḫuekuani"
+    },
+    {
+        "id": 12942,
+        "text": "ḫuek",
+        "gloss": "beschwören",
+        "pos": "V"
+    },
+    {
+        "id": 12943,
+        "text": "EGIR-an-na-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 12944,
+        "text": "ya",
+        "gloss": "CNJadd"
+    },
+    {
+        "id": 12945,
+        "text": "EGIR-an-n"
+    },
+    {
+        "id": 12947,
+        "text": "EGIR-an",
+        "gloss": "danach",
+        "pos": "ADV",
+        "syllabographic": true
+    },
+    {
+        "id": 12948,
+        "text": "TI8^MUŠEN^",
+        "syllabographic": true
+    },
+    {
+        "id": 12949,
+        "text": "TI8",
+        "gloss": "Adler",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12950,
+        "text": "SIG5-za",
+        "gloss": "von der guten Seite",
+        "syllabographic": true
+    },
+    {
+        "id": 12951,
+        "text": "pa-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 12952,
+        "text": "pari",
+        "gloss": "von jener Seite"
+    },
+    {
+        "id": 12953,
+        "text": "^ÍD^im-ra-al-la-i̯a-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 12954,
+        "text": "imrallaiaššan"
+    },
+    {
+        "id": 12955,
+        "text": "imrallaiašš"
+    },
+    {
+        "id": 12957,
+        "text": "imralla",
+        "gloss": "Imralla",
+        "pos": "NP"
+    },
+    {
+        "id": 12958,
+        "text": "a-li-la-aš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 12959,
+        "text": "alilašša"
+    },
+    {
+        "id": 12960,
+        "text": "alilašš"
+    },
+    {
+        "id": 12962,
+        "text": "alila",
+        "gloss": "(Art Orakelvogel)",
+        "pos": "N"
+    },
+    {
+        "id": 12963,
+        "text": "ta-mi-in-kán-za",
+        "syllabographic": true
+    },
+    {
+        "id": 12964,
+        "text": "taminkanza"
+    },
+    {
+        "id": 12965,
+        "text": "damenk",
+        "gloss": "anheften",
+        "pos": "V"
+    },
+    {
+        "id": 12966,
+        "text": "SIG5",
+        "gloss": "gut",
+        "syllabographic": true
+    },
+    {
+        "id": 12967,
+        "text": "^m^tum-ni-i",
+        "syllabographic": true
+    },
+    {
+        "id": 12968,
+        "text": "tumni",
+        "gloss": "Tumni"
+    },
+    {
+        "id": 12969,
+        "text": "^m^tum-na-LÚ",
+        "syllabographic": true
+    },
+    {
+        "id": 12970,
+        "text": "tumna-LÚ",
+        "gloss": "Tumnaziti",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 12971,
+        "text": "^m^tu-ut-tu-u̯a-DINGIR-_LIM",
+        "syllabographic": true
+    },
+    {
+        "id": 12972,
+        "text": "DUMU^MEŠ^.DU10.GA-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 12973,
+        "text": "DUMU^MEŠ^.DU10.GA",
+        "gloss": "lieber Sohn",
+        "syllabographic": true
+    },
+    {
+        "id": 12975,
+        "text": "É.GAL-_LIM",
+        "syllabographic": true
+    },
+    {
+        "id": 12976,
+        "text": "É.GAL-LIM",
+        "gloss": "Palast",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 12977,
+        "text": "pár-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 12978,
+        "text": "parnaš"
+    },
+    {
+        "id": 12979,
+        "text": "per, parn",
+        "gloss": "Haus",
+        "pos": "N"
+    },
+    {
+        "id": 12980,
+        "text": "ut-tar",
+        "syllabographic": true
+    },
+    {
+        "id": 12981,
+        "text": "uttar"
+    },
+    {
+        "id": 12982,
+        "text": "uddar",
+        "gloss": "Wort; Sache",
+        "pos": "N"
+    },
+    {
+        "id": 12983,
+        "text": "ḫa-at-ra-a-nu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 12984,
+        "text": "ḫatranun"
+    },
+    {
+        "id": 12985,
+        "text": "ḫatrā(e)",
+        "gloss": "mitteilen",
+        "pos": "V"
+    },
+    {
+        "id": 12986,
+        "text": "ḫu-iš-nu-ut-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 12987,
+        "text": "ḫuišnutten"
+    },
+    {
+        "id": 12988,
+        "text": "ḫuišnu",
+        "gloss": "leben lassen",
+        "pos": "V"
+    },
+    {
+        "id": 12989,
+        "text": "me-mi-iš-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 12990,
+        "text": "memišten"
+    },
+    {
+        "id": 12991,
+        "text": "mema",
+        "gloss": "sprechen",
+        "pos": "V"
+    },
+    {
+        "id": 12992,
+        "text": "nu",
+        "gloss": ""
+    },
+    {
+        "id": 12993,
+        "text": "da-ra-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 12994,
+        "text": "taranzi"
+    },
+    {
+        "id": 12995,
+        "text": "te",
+        "gloss": "sprechen",
+        "pos": "V"
+    },
+    {
+        "id": 12996,
+        "text": "ḫa-at-ra-at-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 12997,
+        "text": "ḫatratten"
+    },
+    {
+        "id": 12998,
+        "text": "ḫatrā(e)",
+        "gloss": "mitteilen",
+        "pos": "V"
     }
 ]

@@ -5020,5 +5020,160 @@
                 "refText": "KUB 14.14++"
             }
         ]
+    },
+    {
+        "id": 12895,
+        "text": "_A-NA MUNUS.LUGAL _BE-EL-TI4-NI _QÍ-B[Í-M]A \n_UM-MA ^m^a-u̯a-u-u̯a-a ^m^NU.^GIŠ^KIRI6 ^m.D^10-SIG5 \n_Ù ^LÚ.MEŠ^MUŠEN.DÙ ARAD^MEŠ^-_KA-MA \n^URU^ḫa-it-ta-z[a-k]án ar-ḫa u-ri-an-ni-eš^MUŠEN^ \ntar-u _I-NA ^ÍD^zu-li-aš-ša-an kat-ta \n[ ^MUŠ]EN^ GUN-eš₁₇ zi SIG5-az-ma-an-kán \n[ an]-da ḫu-e-ku-u̯a-ni EGIR-an-na-kán \n[ ]x-za TI8^MUŠEN^ pé-ra-an SIG5-za \n[ u-ri-an]-ni-eš^MUŠEN^ tar-u pa-⸢ri⸣ pa-it \n[ ]x-li-i̯a ^ÍD^im-ra-⸢al⸣-la-i̯a-aš-ša-an \n[ ]x a-li-la-aš-⸢ša⸣ GUN-eš₁₇ \n[ ]-⸢i⸣-x x ⸢ta⸣-mi-in-kán-za \n[ ]x \n[ ] tar-u \n[ ]x-⸢an⸣ \np]é-r[a-an] \np]a-ri pa-it \n]x^MUŠEN^ GUN-eš₁₇ zi SIG5 \n]x-en \n_UM-MA ^m^NU.^GIŠ^KIRI6 _A-NA ^m^tum-ni-i ^m^tum-na-LÚ \n_Ù _A-NA ^m^tu-ut-tu-u̯a-DINGIR-_LIM \nDUMU^MEŠ^.DU10.GA-_I̯A _QÍ-BÍ-MA \nka-a-aš-ma _I-NA É.GAL-_LIM ku-it am-me-el \npár-na-aš ut-tar ḫa-at-ra-a-nu-un nu-mu DUMU^MEŠ^.DU10.GA-_I̯A \nḫu-iš-nu-ut-tén na-at _I-NA É.GAL-_LIM \nme-mi-iš-tén nu _⸢I⸣-[NA É].GAL-_LIM ma-aḫ-ḫa-an \nda-ra-an-zi [nu-mu DUMU^MEŠ^.DU10.G]A-_I̯A \nḫa-at-r[a-at-tén] ",
+        "title": "KBo 15.28",
+        "words": [
+            {
+                "index": 2,
+                "id": 12896
+            },
+            {
+                "index": 3,
+                "id": 12900
+            },
+            {
+                "index": 5,
+                "id": 12905
+            },
+            {
+                "index": 6,
+                "id": 12907
+            },
+            {
+                "index": 7,
+                "id": 12909
+            },
+            {
+                "index": 9,
+                "id": 12911
+            },
+            {
+                "index": 10,
+                "id": 12913
+            },
+            {
+                "index": 11,
+                "id": 12917
+            },
+            {
+                "index": 13,
+                "id": 12922
+            },
+            {
+                "index": 14,
+                "id": 12925
+            },
+            {
+                "index": 16,
+                "id": 12927
+            },
+            {
+                "index": 19,
+                "id": 12932
+            },
+            {
+                "index": 20,
+                "id": 12933
+            },
+            {
+                "index": 21,
+                "id": 12935
+            },
+            {
+                "index": 22,
+                "id": 12937
+            },
+            {
+                "index": 25,
+                "id": 12940
+            },
+            {
+                "index": 26,
+                "id": 12943
+            },
+            {
+                "index": 29,
+                "id": 12948
+            },
+            {
+                "index": 31,
+                "id": 12950
+            },
+            {
+                "index": 35,
+                "id": 12951
+            },
+            {
+                "index": 39,
+                "id": 12953
+            },
+            {
+                "index": 42,
+                "id": 12958
+            },
+            {
+                "index": 47,
+                "id": 12963
+            },
+            {
+                "index": 61,
+                "id": 12966
+            },
+            {
+                "index": 66,
+                "id": 12967
+            },
+            {
+                "index": 67,
+                "id": 12969
+            },
+            {
+                "index": 70,
+                "id": 12971
+            },
+            {
+                "index": 71,
+                "id": 12972
+            },
+            {
+                "index": 75,
+                "id": 12975
+            },
+            {
+                "index": 78,
+                "id": 12977
+            },
+            {
+                "index": 79,
+                "id": 12980
+            },
+            {
+                "index": 80,
+                "id": 12983
+            },
+            {
+                "index": 83,
+                "id": 12986
+            },
+            {
+                "index": 87,
+                "id": 12989
+            },
+            {
+                "index": 88,
+                "id": 10086
+            },
+            {
+                "index": 92,
+                "id": 12993
+            },
+            {
+                "index": 95,
+                "id": 12996
+            }
+        ]
     }
 ]
