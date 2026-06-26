@@ -31,8 +31,7 @@
     {
         "id": 10086,
         "text": "nu",
-        "gloss": "and",
-        "pos": "CONJ"
+        "syllabographic": true
     },
     {
         "id": 10088,
@@ -1398,6 +1397,7 @@
         "id": 10668,
         "text": "kiš-",
         "gloss": "become",
+        "fullGloss": "become; werden",
         "pos": "V",
         "classes": [
             "ari"
@@ -5200,6 +5200,7 @@
         "id": 11732,
         "text": "per",
         "gloss": "house",
+        "fullGloss": "house; Haus",
         "pos": "N"
     },
     {
@@ -6084,6 +6085,7 @@
         "id": 11948,
         "text": "ḫarnik-",
         "gloss": "destroy",
+        "fullGloss": "destroy; zerstören",
         "pos": "V",
         "classes": [
             "mi"
@@ -6487,6 +6489,7 @@
         "id": 12183,
         "text": "ii̯e-",
         "gloss": "do",
+        "fullGloss": "do; machen",
         "pos": "V",
         "classes": [
             "mi"
@@ -7068,6 +7071,7 @@
         "id": 12306,
         "text": "uttar",
         "gloss": "word",
+        "fullGloss": "word; Wort; Sache",
         "pos": "N",
         "classes": [
             "N"
@@ -7711,7 +7715,8 @@
     {
         "id": 12906,
         "text": "auaua",
-        "gloss": "Awauwa"
+        "gloss": "Awauwa",
+        "pos": "NP"
     },
     {
         "id": 12907,
@@ -7864,7 +7869,8 @@
     {
         "id": 12938,
         "text": "SIG5-az",
-        "gloss": "von der guten Seite"
+        "gloss": "von der guten Seite",
+        "syllabographic": true
     },
     {
         "id": 12940,
@@ -7997,7 +8003,8 @@
     {
         "id": 12968,
         "text": "tumni",
-        "gloss": "Tumni"
+        "gloss": "Tumni",
+        "pos": "NP"
     },
     {
         "id": 12969,
@@ -8049,12 +8056,6 @@
         "text": "parnaš"
     },
     {
-        "id": 12979,
-        "text": "per, parn",
-        "gloss": "Haus",
-        "pos": "N"
-    },
-    {
         "id": 12980,
         "text": "ut-tar",
         "syllabographic": true
@@ -8064,12 +8065,6 @@
         "text": "uttar"
     },
     {
-        "id": 12982,
-        "text": "uddar",
-        "gloss": "Wort; Sache",
-        "pos": "N"
-    },
-    {
         "id": 12983,
         "text": "ḫa-at-ra-a-nu-un",
         "syllabographic": true
@@ -8077,12 +8072,6 @@
     {
         "id": 12984,
         "text": "ḫatranun"
-    },
-    {
-        "id": 12985,
-        "text": "ḫatrā(e)",
-        "gloss": "mitteilen",
-        "pos": "V"
     },
     {
         "id": 12986,
@@ -8117,7 +8106,8 @@
     {
         "id": 12992,
         "text": "nu",
-        "gloss": ""
+        "gloss": "and",
+        "pos": "CONJ"
     },
     {
         "id": 12993,
@@ -8144,9 +8134,388 @@
         "text": "ḫatratten"
     },
     {
-        "id": 12998,
-        "text": "ḫatrā(e)",
-        "gloss": "mitteilen",
-        "pos": "V"
+        "id": 12999,
+        "text": "^URU^_A-AN-KU-U̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13000,
+        "text": "ānkuu̯a",
+        "pos": "NP"
+    },
+    {
+        "id": 13001,
+        "text": "^d^ḫa-ša-am-mi-li-in",
+        "syllabographic": true
+    },
+    {
+        "id": 13002,
+        "text": "ḫašammilin"
+    },
+    {
+        "id": 13003,
+        "text": "ḫašammili",
+        "pos": "NP"
+    },
+    {
+        "id": 13010,
+        "text": "^M^zi-ti-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 13011,
+        "text": "zitiš"
+    },
+    {
+        "id": 13012,
+        "text": "ziti",
+        "gloss": "Ziti",
+        "pos": "NP"
+    },
+    {
+        "id": 13013,
+        "text": "ki-",
+        "syllabographic": true
+    },
+    {
+        "id": 13014,
+        "text": "ki~"
+    },
+    {
+        "id": 13015,
+        "text": "ÉRIN^MEŠ.ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 13016,
+        "text": "_BE-LI-I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13017,
+        "text": "^M^zi-i-ti-in",
+        "syllabographic": true
+    },
+    {
+        "id": 13018,
+        "text": "zitin"
+    },
+    {
+        "id": 13019,
+        "text": "ziti",
+        "gloss": "Ziti",
+        "pos": "NP"
+    },
+    {
+        "id": 13020,
+        "text": "aš-šu-ul",
+        "syllabographic": true
+    },
+    {
+        "id": 13021,
+        "text": "aššul",
+        "gloss": "well-being",
+        "fullGloss": "well-being, greeting",
+        "pos": "N"
+    },
+    {
+        "id": 13022,
+        "text": "ḫu-u-da-a-ak",
+        "syllabographic": true
+    },
+    {
+        "id": 13024,
+        "text": "ḫudak",
+        "gloss": "eilends",
+        "pos": "ADV"
+    },
+    {
+        "id": 13025,
+        "text": "zi-ik-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13026,
+        "text": "zikmamu"
+    },
+    {
+        "id": 13027,
+        "text": "^F^ku-pa-a-pa",
+        "syllabographic": true
+    },
+    {
+        "id": 13028,
+        "text": "kupapa",
+        "pos": "NP"
+    },
+    {
+        "id": 13029,
+        "text": "^M^du-ud-du-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 13030,
+        "text": "tuttumi",
+        "pos": "NP"
+    },
+    {
+        "id": 13031,
+        "text": "ḫa-at-ra-a-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 13032,
+        "text": "ḫatraiš"
+    },
+    {
+        "id": 13034,
+        "text": "^F^ku-pa-a-pa-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13035,
+        "text": "kupapaš"
+    },
+    {
+        "id": 13036,
+        "text": "^URU^u-da",
+        "syllabographic": true
+    },
+    {
+        "id": 13037,
+        "text": "uta",
+        "pos": "NP"
+    },
+    {
+        "id": 13038,
+        "text": "i-e-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13039,
+        "text": "iēzzi"
+    },
+    {
+        "id": 13041,
+        "text": "_TUP-PÍ",
+        "syllabographic": true
+    },
+    {
+        "id": 13042,
+        "text": "u-uḫ-ḫu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 13043,
+        "text": "uḫḫun"
+    },
+    {
+        "id": 13045,
+        "text": "am-mu-uk",
+        "syllabographic": true
+    },
+    {
+        "id": 13047,
+        "text": "ki-iš-ḫa-at",
+        "syllabographic": true
+    },
+    {
+        "id": 13050,
+        "text": "^M^du-ud-du-mi-in-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 13051,
+        "text": "tuttuminpat"
+    },
+    {
+        "id": 13052,
+        "text": "pat",
+        "gloss": "FOC"
+    },
+    {
+        "id": 13053,
+        "text": "tuttumin"
+    },
+    {
+        "id": 13055,
+        "text": "duddumi",
+        "gloss": "Duddumi",
+        "pos": "NP"
+    },
+    {
+        "id": 13056,
+        "text": "DAM-_ŠU",
+        "syllabographic": true
+    },
+    {
+        "id": 13057,
+        "text": "DUMU^MEŠ^-_ŠU",
+        "syllabographic": true
+    },
+    {
+        "id": 13058,
+        "text": "_QA-TAM-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13059,
+        "text": "QĀTAMMA",
+        "gloss": "ebenso",
+        "pos": "ADV"
+    },
+    {
+        "id": 13060,
+        "text": "ḫar-ni-in-kán-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13061,
+        "text": "ḫarninkantu"
+    },
+    {
+        "id": 13063,
+        "text": "an-du-uḫ-še-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 13064,
+        "text": "antuḫšeš"
+    },
+    {
+        "id": 13065,
+        "text": "ta-a-u̯a-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13066,
+        "text": "tāuana",
+        "gloss": "genau",
+        "pos": "ADV"
+    },
+    {
+        "id": 13067,
+        "text": "ši-pa-an-da-an-da-at",
+        "syllabographic": true
+    },
+    {
+        "id": 13068,
+        "text": "šipantantat"
+    },
+    {
+        "id": 13069,
+        "text": "SIG5-in",
+        "syllabographic": true
+    },
+    {
+        "id": 13070,
+        "text": "i-an-te-eš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 13071,
+        "text": "iantešša"
+    },
+    {
+        "id": 13072,
+        "text": "a-pé-ni-iš-šu-u̯a-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 13073,
+        "text": "apeniššuanta"
+    },
+    {
+        "id": 13074,
+        "text": "ša-ak-kán-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13075,
+        "text": "šakkanta"
+    },
+    {
+        "id": 13076,
+        "text": "ú-u̯a-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 13077,
+        "text": "uu̯anta"
+    },
+    {
+        "id": 13078,
+        "text": "-u-u̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13079,
+        "text": "~uan"
+    },
+    {
+        "id": 13080,
+        "text": "da-i-e-er",
+        "syllabographic": true
+    },
+    {
+        "id": 13081,
+        "text": "daiēr"
+    },
+    {
+        "id": 13082,
+        "text": "a-pé-ni-iš-šu-u̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13083,
+        "text": "apeniššuan"
+    },
+    {
+        "id": 13084,
+        "text": "a-ap-pa-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13085,
+        "text": "āppaia"
+    },
+    {
+        "id": 13086,
+        "text": "me-mi-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13087,
+        "text": "memian"
+    },
+    {
+        "id": 13088,
+        "text": "NUMUN-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13089,
+        "text": "_BE-LI",
+        "syllabographic": true
+    },
+    {
+        "id": 13098,
+        "text": "kišḫat"
+    },
+    {
+        "id": 13106,
+        "text": "ianteš"
+    },
+    {
+        "id": 13108,
+        "text": "apeniššuant-",
+        "gloss": "such",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "26"
+            }
+        ]
     }
 ]

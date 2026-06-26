@@ -4622,6 +4622,14 @@
             {
                 "index": 216,
                 "id": 12432
+            },
+            {
+                "index": 225,
+                "id": 12999
+            },
+            {
+                "index": 108,
+                "id": 13001
             }
         ],
         "translations": [
@@ -5012,7 +5020,7 @@
     },
     {
         "id": 12893,
-        "text": "[DINGIR^ME]Š^  EN^MEŠ^-_I̯A  DIN[GIR^MEŠ^  LÚ^MEŠ^  ḫ]u-u-ma-an-te-e[š  DI]NGIR^MEŠ^  MUNUS^MEŠ^  ḫu-u-ma-[a]n-te-eš  DINGIR^MEŠ^  ",
+        "text": "[DINGIR^ME]Š^  EN^MEŠ^-_I̯A  DIN[GIR^MEŠ^ LÚ^MEŠ^  ḫ]u-u-ma-an-te-e[š  DI]NGIR^MEŠ^ MUNUS^MEŠ^ ḫu-u-ma-[a]n-te-eš DINGIR^MEŠ^  ",
         "title": "Muršili's First Plague prayer",
         "words": [],
         "sourceRefs": [
@@ -5173,6 +5181,347 @@
             {
                 "index": 95,
                 "id": 12996
+            },
+            {
+                "index": 84,
+                "id": 11318
+            },
+            {
+                "index": 1,
+                "id": 10887
+            }
+        ],
+        "translations": [
+            {
+                "id": 13004,
+                "text": "Thus speaks NU.^GIS^KIRI: Say to Tumnī, Tumna-ziti, and Tuttuwaili, my dear sons",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "85"
+                    }
+                ],
+                "anchorStartIndex": 63,
+                "anchorEndIndex": 73
+            },
+            {
+                "id": 13005,
+                "text": "Since I have just written about the status (lit., the word) of my house to the palace",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "85"
+                    }
+                ],
+                "anchorStartIndex": 73,
+                "anchorEndIndex": 81
+            },
+            {
+                "id": 13006,
+                "text": "rescue me, O my dear sons!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "85"
+                    }
+                ],
+                "anchorStartIndex": 81,
+                "anchorEndIndex": 84
+            },
+            {
+                "id": 13007,
+                "text": "And tell it to the palace!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "85"
+                    }
+                ],
+                "anchorStartIndex": 84,
+                "anchorEndIndex": 88
+            },
+            {
+                "id": 13008,
+                "text": "And, my dear sons, write to me how they are talking in the palace!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "85"
+                    }
+                ],
+                "anchorStartIndex": 88,
+                "anchorEndIndex": 96
+            }
+        ]
+    },
+    {
+        "id": 13009,
+        "text": "[ ]x[ \n[^M^zi-t]i-⸢iš⸣ x[ ]x ka-ru-⸢ú⸣ ku-it ki-[ \n_[A-N]A ÉRIN^MEŠ.ḪI.A^ pé-ra-an ar-ḫa nu-u-ma-a[n \n[nu-ká]n _BE-LI-I̯A ^M^zi-i-ti-in EGIR-pa [ \n[ ]x nu-mu aš-šu-ul ḫu-u-da-a-ak ú-x[ \n[zi-ik-m]a-mu ku-it _ŠA ^F^ku-pa-a-pa DAM ^M^du-u[d-d]u-mi \n[ḫa-a]t-ra-a-eš ^F^ku-pa-a-pa-aš ma-aḫ-ḫa-an x[ ]x ^URU^u-da \n[ u]t-tar i-e-ez-zi \n[ _TUP]-⸢PÍ⸣ \n[ m]a-a-aḫ-ḫa-an _TUP-PÍ u-uḫ-ḫu-un nu-za ⸢am⸣-mu-uk ma-⸢a⸣-aḫ-ḫa-an \n[k]i-iš-ḫa-⸢at⸣ nu DINGIR^MEŠ^ ^M^du-ud-du-mi-in-⸢pát⸣ _QA-DU ⸢DAM⸣-_ŠU \n[DUM]U^MEŠ^-_ŠU _QA-TAM-MA ḫar-ni-in-kán-du \n[na-a]š-ta ka-a-ša an-du-uḫ-še-eš ta-a-u̯a-⸢na⸣ ši-pa-an-da-an-da-at \n[ ] SIG5-in i-an-te-eš-ša a-pé-ni-iš-šu-u̯a-an-da \n[ ] ša-ak-kán-ta _Ú-UL ú-u̯a-an-da ud-da-a-ar \n[ ]-⸢u⸣-u̯a-an da-i-e-er a-pé-ni-iš-šu-u̯a-an \n[ ] a-ap-pa-i̯a _Ú-UL me-mi-an \n[ ]x kat-ta-ma _Ú-UL NUMUN-an \n[ a-pé-ni]-iš-š[u-u̯a-a]n-da x x[ \n[ ]x[ ",
+        "title": "KBo 12.62",
+        "words": [
+            {
+                "index": 2,
+                "id": 13010
+            },
+            {
+                "index": 7,
+                "id": 13013
+            },
+            {
+                "index": 9,
+                "id": 13015
+            },
+            {
+                "index": 14,
+                "id": 13016
+            },
+            {
+                "index": 15,
+                "id": 13017
+            },
+            {
+                "index": 21,
+                "id": 13020
+            },
+            {
+                "index": 22,
+                "id": 13022
+            },
+            {
+                "index": 24,
+                "id": 13025
+            },
+            {
+                "index": 27,
+                "id": 13027
+            },
+            {
+                "index": 29,
+                "id": 13029
+            },
+            {
+                "index": 30,
+                "id": 13031
+            },
+            {
+                "index": 31,
+                "id": 13034
+            },
+            {
+                "index": 35,
+                "id": 13036
+            },
+            {
+                "index": 38,
+                "id": 13038
+            },
+            {
+                "index": 40,
+                "id": 13041
+            },
+            {
+                "index": 44,
+                "id": 13042
+            },
+            {
+                "index": 46,
+                "id": 13045
+            },
+            {
+                "index": 48,
+                "id": 13047
+            },
+            {
+                "index": 51,
+                "id": 13050
+            },
+            {
+                "index": 53,
+                "id": 13056
+            },
+            {
+                "index": 54,
+                "id": 13057
+            },
+            {
+                "index": 55,
+                "id": 13058
+            },
+            {
+                "index": 56,
+                "id": 13060
+            },
+            {
+                "index": 59,
+                "id": 13063
+            },
+            {
+                "index": 60,
+                "id": 13065
+            },
+            {
+                "index": 61,
+                "id": 13067
+            },
+            {
+                "index": 64,
+                "id": 13069
+            },
+            {
+                "index": 65,
+                "id": 13070
+            },
+            {
+                "index": 66,
+                "id": 13072
+            },
+            {
+                "index": 69,
+                "id": 13074
+            },
+            {
+                "index": 71,
+                "id": 13076
+            },
+            {
+                "index": 74,
+                "id": 13078
+            },
+            {
+                "index": 75,
+                "id": 13080
+            },
+            {
+                "index": 76,
+                "id": 13082
+            },
+            {
+                "index": 79,
+                "id": 13084
+            },
+            {
+                "index": 81,
+                "id": 13086
+            },
+            {
+                "index": 86,
+                "id": 13088
+            }
+        ],
+        "translations": [
+            {
+                "id": 13091,
+                "text": "Since Ziti previously/already …, I? do not wish to … from in front of the troops.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 2,
+                "anchorEndIndex": 13
+            },
+            {
+                "id": 13092,
+                "text": "O my lord, send Ziti back to me.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 13,
+                "anchorEndIndex": 20
+            },
+            {
+                "id": 13093,
+                "text": "And may he bring me (your?) greeting promptly.",
+                "anchorStartIndex": 20,
+                "anchorEndIndex": 24
+            },
+            {
+                "id": 13095,
+                "text": "Concerning what you wrote me back about Kupapa, the wife of Duddumi",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 24,
+                "anchorEndIndex": 31
+            },
+            {
+                "id": 13096,
+                "text": "Here on the tablet? (which you sent to me) is how Kupapa is perpetrating evil in the city of Uda.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 31,
+                "anchorEndIndex": 42
+            },
+            {
+                "id": 13097,
+                "text": "As for how I reacted as I read the tablet",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 42,
+                "anchorEndIndex": 49
+            },
+            {
+                "id": 13101,
+                "text": "well, may the gods in the same way destroy this same Duddumi together with his wife and children!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "86"
+                    }
+                ],
+                "anchorStartIndex": 49,
+                "anchorEndIndex": 57
+            },
+            {
+                "id": 13102,
+                "text": "People have offered properly",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "87"
+                    }
+                ],
+                "anchorStartIndex": 57,
+                "anchorEndIndex": 64
+            },
+            {
+                "id": 13104,
+                "text": "Yet even those who have acted properly have begun to do such things that were (previously) unknown (and) unseen! ",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "87"
+                    }
+                ],
+                "anchorStartIndex": 64,
+                "anchorEndIndex": 76
+            },
+            {
+                "id": 13105,
+                "text": "Such is the …, and again/back not said? … accordingly no seed …",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "87"
+                    }
+                ],
+                "anchorStartIndex": 76,
+                "anchorEndIndex": 93
             }
         ]
     }

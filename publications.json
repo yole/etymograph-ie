@@ -145,5 +145,13 @@
         "author": "Johannes Friedrich",
         "date": "1991",
         "publisher": "Heidelberg, Carl Winter Universitätsverlag"
+    },
+    {
+        "id": 19,
+        "name": "Letters from the Hittite Kingdom",
+        "refId": "Hoffner 2009",
+        "author": "Harry Hoffner",
+        "date": "2009",
+        "publisher": "Society of Biblical Literature, Atlanta"
     }
 ]
