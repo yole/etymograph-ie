@@ -791,6 +791,7 @@
         "id": 10506,
         "text": "^d^UTU^_ŠI^",
         "gloss": "My Majesty",
+        "pos": "N",
         "syllabographic": true
     },
     {
@@ -8517,5 +8518,241 @@
                 "refText": "26"
             }
         ]
+    },
+    {
+        "id": 13110,
+        "text": "^D^UTU-_ŠI",
+        "syllabographic": true
+    },
+    {
+        "id": 13111,
+        "text": "EN-_IA",
+        "syllabographic": true
+    },
+    {
+        "id": 13112,
+        "text": "^m^pa-az-zu",
+        "syllabographic": true
+    },
+    {
+        "id": 13113,
+        "text": "pazzu"
+    },
+    {
+        "id": 13114,
+        "text": "ARAD-_KA-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13115,
+        "text": "ka-a-ša-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13116,
+        "text": "kāšakan"
+    },
+    {
+        "id": 13117,
+        "text": "ŠÀ",
+        "syllabographic": true
+    },
+    {
+        "id": 13118,
+        "text": "KUR-_TI",
+        "syllabographic": true
+    },
+    {
+        "id": 13119,
+        "text": "^D^UTU-_ŠI-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13120,
+        "text": "EN-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13121,
+        "text": "_TÀŠ-PUR",
+        "syllabographic": true
+    },
+    {
+        "id": 13122,
+        "text": "ŠAPĀRU",
+        "gloss": "schicken",
+        "pos": "V",
+        "syllabographic": true
+    },
+    {
+        "id": 13123,
+        "text": "^m^du-u̯a-a-an-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13124,
+        "text": "duu̯ānu̯akan"
+    },
+    {
+        "id": 13125,
+        "text": "ḫa-an-da-an-",
+        "syllabographic": true
+    },
+    {
+        "id": 13126,
+        "text": "ḫandan"
+    },
+    {
+        "id": 13127,
+        "text": "DUMU-_ŠU",
+        "syllabographic": true
+    },
+    {
+        "id": 13128,
+        "text": "da-a-i-e-er",
+        "syllabographic": true
+    },
+    {
+        "id": 13129,
+        "text": "dāiēr"
+    },
+    {
+        "id": 13130,
+        "text": "^LÚ^la-aḫ-ḫi-i̯a-la-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13131,
+        "text": "laḫḫialan"
+    },
+    {
+        "id": 13132,
+        "text": "ú-u̯a-te-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13133,
+        "text": "uu̯atezzi"
+    },
+    {
+        "id": 13134,
+        "text": "uwate",
+        "gloss": "(her)bringen",
+        "pos": "V"
+    },
+    {
+        "id": 13135,
+        "text": "^LÚ^la-aḫ-ḫi-i̯a-la-an-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 13136,
+        "text": "laḫḫialanma"
+    },
+    {
+        "id": 13137,
+        "text": "ki-nu-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13138,
+        "text": "kinuna"
+    },
+    {
+        "id": 13140,
+        "text": "^m^du-u̯a-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13141,
+        "text": "duu̯ān"
+    },
+    {
+        "id": 13142,
+        "text": "iš-tar-ak-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13143,
+        "text": "ištarakta"
+    },
+    {
+        "id": 13144,
+        "text": "ma-aḫ-ḫa-an-ma-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13145,
+        "text": "maḫḫanmakan"
+    },
+    {
+        "id": 13146,
+        "text": "ḫa-at-tu-le-eš-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13147,
+        "text": "ḫattulešzi"
+    },
+    {
+        "id": 13148,
+        "text": "ḫaddulešš",
+        "gloss": "gesund werden",
+        "pos": "V"
+    },
+    {
+        "id": 13149,
+        "text": "un-na-i",
+        "syllabographic": true
+    },
+    {
+        "id": 13150,
+        "text": "unnai"
+    },
+    {
+        "id": 13151,
+        "text": "unna",
+        "gloss": "herschicken; herfahren",
+        "pos": "V"
+    },
+    {
+        "id": 13152,
+        "text": "^LÚ^pít-ti-an-za-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13153,
+        "text": "pittianzauakan"
+    },
+    {
+        "id": 13154,
+        "text": "-i-li",
+        "syllabographic": true
+    },
+    {
+        "id": 13155,
+        "text": "ili"
+    },
+    {
+        "id": 13156,
+        "text": "na-a-i",
+        "syllabographic": true
+    },
+    {
+        "id": 13157,
+        "text": "nāi"
+    },
+    {
+        "id": 13158,
+        "text": "^D^ḫa-an-ta-še-pu-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13159,
+        "text": "ḫantašepuš"
+    },
+    {
+        "id": 13160,
+        "text": "i"
     }
 ]

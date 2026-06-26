@@ -5524,5 +5524,120 @@
                 "anchorEndIndex": 93
             }
         ]
+    },
+    {
+        "id": 13109,
+        "text": "_A-NA ^d^UTU^_ŠI^ EN-_I[A ] \n_UM-MA ^m^pa-az-zu AR[AD-_KA-MA] \nka-a-ša-kán ŠÀ KUR-_TI \nḫu-u-ma-an SIG5-[in] \n^D^UTU-_ŠI-mu ku-it EN-_I̯A [ ] \n_TÀŠ-PUR ^m^du-u̯a-a-an-u̯a-kán \n[ ] x x x [ \nx x[ \nnu ḫa-an-da-an-[ \n^m^pí-it-ta-ni-pí-x[ \nnu-uš-ši DUMU-_ŠU ar-ḫa da-a-i-[e-er] \n^LÚ^la-aḫ-ḫi-i̯a-la-an ú-[u̯a-te-ez-zi] \n^LÚ^la-aḫ-ḫi-i̯a-la-an-ma \n_Ú-UL ú-u̯a-te-ez-[zi] \nki-nu-na ^m^du-u̯a-a-[an] \nku-it iš-tar-ak-[ta] \nma-aḫ-ḫa-an-ma-k[án] \nḫa-at-tu-le-[eš-zi] \nnu un-na-i [ \n] ku-it EN-_I̯A \n] ^LÚ^pít-ti-an-za-u̯a-kán \n]-i-li EGIR-an \n] na-a-i \n^D^]ḫa-an-ta-še-pu-uš \n]-i ",
+        "title": "KBo 18.14",
+        "words": [
+            {
+                "index": 2,
+                "id": 13111
+            },
+            {
+                "index": 5,
+                "id": 13112
+            },
+            {
+                "index": 6,
+                "id": 13114
+            },
+            {
+                "index": 7,
+                "id": 13115
+            },
+            {
+                "index": 8,
+                "id": 13117
+            },
+            {
+                "index": 9,
+                "id": 13118
+            },
+            {
+                "index": 12,
+                "id": 13119
+            },
+            {
+                "index": 14,
+                "id": 13120
+            },
+            {
+                "index": 17,
+                "id": 13121
+            },
+            {
+                "index": 18,
+                "id": 13123
+            },
+            {
+                "index": 28,
+                "id": 13125
+            },
+            {
+                "index": 31,
+                "id": 13127
+            },
+            {
+                "index": 33,
+                "id": 13128
+            },
+            {
+                "index": 34,
+                "id": 13130
+            },
+            {
+                "index": 35,
+                "id": 13132
+            },
+            {
+                "index": 36,
+                "id": 13135
+            },
+            {
+                "index": 39,
+                "id": 13137
+            },
+            {
+                "index": 40,
+                "id": 13140
+            },
+            {
+                "index": 42,
+                "id": 13142
+            },
+            {
+                "index": 43,
+                "id": 13144
+            },
+            {
+                "index": 44,
+                "id": 13146
+            },
+            {
+                "index": 46,
+                "id": 13149
+            },
+            {
+                "index": 52,
+                "id": 13152
+            },
+            {
+                "index": 53,
+                "id": 13154
+            },
+            {
+                "index": 56,
+                "id": 13156
+            },
+            {
+                "index": 57,
+                "id": 13158
+            },
+            {
+                "index": 58,
+                "id": 10206
+            }
+        ]
     }
 ]
