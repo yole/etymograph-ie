@@ -5942,5 +5942,48 @@
                 "anchorEndIndex": 34
             }
         ]
+    },
+    {
+        "id": 13240,
+        "text": "_UM-MA ^d^UTU^_ŠI^-_MA\n_A-NA ^m^ka-aš-šu-ú\n_QÍ-BÍ-MA\n---\n_ŠA ^LÚ^KÚR-[m]u [k]u-it\nut-tar ḫa-at-⸢ra-a⸣-[e]š\n^LÚ^KÚR-u̯a ^UR[U^ga-ša-š]a-an\nḫar-zi\n---\nnu-kán ka-a-aš-ma\nANŠE.KUR.⸢RA⸣^ḪI.A^\npa-ra-a ne-eḫ-ḫu-un\nnu-za _PA-NI ^LÚ^KÚR\nme-ek-ki pa-aḫ-ḫa-aš-ša-nu-an-za\ne-eš",
+        "title": "HKM 1",
+        "words": [
+            {
+                "index": 3,
+                "id": 13242
+            },
+            {
+                "index": 6,
+                "id": 13244
+            },
+            {
+                "index": 10,
+                "id": 13245
+            },
+            {
+                "index": 11,
+                "id": 13246
+            },
+            {
+                "index": 22,
+                "id": 13249
+            },
+            {
+                "index": 23,
+                "id": 13251
+            },
+            {
+                "index": 1,
+                "id": 13253
+            },
+            {
+                "index": 9,
+                "id": 13031
+            },
+            {
+                "index": 19,
+                "id": 13257
+            }
+        ]
     }
 ]

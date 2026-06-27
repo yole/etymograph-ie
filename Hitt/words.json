@@ -5976,6 +5976,7 @@
         "id": 11918,
         "text": "ḫatrāe-",
         "gloss": "send a message",
+        "fullGloss": "send a message; mitteilen",
         "pos": "V",
         "classes": [
             "mi"
@@ -8955,12 +8956,6 @@
         "text": "ḫatrāmi"
     },
     {
-        "id": 13224,
-        "text": "ḫatrāe",
-        "gloss": "mitteilen",
-        "pos": "V"
-    },
-    {
         "id": 13230,
         "text": "DU10.GA",
         "gloss": "dear",
@@ -8996,6 +8991,96 @@
             {
                 "pubId": 18,
                 "refText": "126"
+            }
+        ]
+    },
+    {
+        "id": 13241,
+        "text": "^D^UTU-_ŠI-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13242,
+        "text": "^m^ka-aš-šu-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 13243,
+        "text": "kaššū",
+        "pos": "NP"
+    },
+    {
+        "id": 13244,
+        "text": "^LÚ^KÚR-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13245,
+        "text": "^LÚ^KÚR-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13246,
+        "text": "^URU^ga-ša-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13247,
+        "text": "kašašan",
+        "pos": "NP"
+    },
+    {
+        "id": 13248,
+        "text": "kašaša",
+        "gloss": "Kašaša",
+        "pos": "NP"
+    },
+    {
+        "id": 13249,
+        "text": "pa-aḫ-ḫa-aš-ša-nu-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 13250,
+        "text": "paḫḫaššanuanza"
+    },
+    {
+        "id": 13251,
+        "text": "e-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 13252,
+        "text": "ēš"
+    },
+    {
+        "id": 13253,
+        "text": "^d^UTU^_ŠI^-_MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13257,
+        "text": "_PA-NI",
+        "gloss": "for",
+        "fullGloss": "for, against",
+        "pos": "PREP",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "311"
+            }
+        ]
+    },
+    {
+        "id": 13258,
+        "text": "paḫšanu-",
+        "gloss": "protect",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "153"
             }
         ]
     }
