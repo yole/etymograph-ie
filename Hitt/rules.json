@@ -454,7 +454,8 @@
         "fromPOS": [
             "N",
             "ADJ",
-            "NP"
+            "NP",
+            "PRON"
         ]
     },
     {

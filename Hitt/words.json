@@ -3927,6 +3927,7 @@
         "id": 11388,
         "text": "nai-",
         "gloss": "turn around",
+        "fullGloss": "turn around; (sich) drehen",
         "pos": "V",
         "classes": [
             "hi"
@@ -9083,5 +9084,202 @@
                 "refText": "153"
             }
         ]
+    },
+    {
+        "id": 13260,
+        "text": "ANŠE.KUR.RA^ḪI.A^-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13261,
+        "text": "na-an-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13262,
+        "text": "nanzakan"
+    },
+    {
+        "id": 13264,
+        "text": "a-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 13265,
+        "text": "au"
+    },
+    {
+        "id": 13266,
+        "text": "^m^ḫi-mu-DINGIR-_LIM-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 13267,
+        "text": "na-an-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13268,
+        "text": "nankan"
+    },
+    {
+        "id": 13269,
+        "text": "ne-eḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 13270,
+        "text": "neḫḫi"
+    },
+    {
+        "id": 13272,
+        "text": "^m^uz-zu-u",
+        "syllabographic": true
+    },
+    {
+        "id": 13273,
+        "text": "uzzū",
+        "pos": "NP"
+    },
+    {
+        "id": 13274,
+        "text": "ŠEŠ.DU10.GA-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13275,
+        "text": "^m^šu-ri-ḫi-DINGIR-_LIM",
+        "syllabographic": true
+    },
+    {
+        "id": 13276,
+        "text": "ŠEŠ-_KA-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13277,
+        "text": "tu-uk-ka₄",
+        "syllabographic": true
+    },
+    {
+        "id": 13278,
+        "text": "tukka"
+    },
+    {
+        "id": 13279,
+        "text": "e-eš-tu",
+        "syllabographic": true
+    },
+    {
+        "id": 13280,
+        "text": "ēštu"
+    },
+    {
+        "id": 13282,
+        "text": "^D^_É-A-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13283,
+        "text": "ḫa-at-ta-an-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13284,
+        "text": "ḫattannaš"
+    },
+    {
+        "id": 13285,
+        "text": "^m^ta-az-zu-ku-li-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13286,
+        "text": "tazzukulina",
+        "pos": "NP"
+    },
+    {
+        "id": 13287,
+        "text": "aš-šu-li",
+        "syllabographic": true
+    },
+    {
+        "id": 13288,
+        "text": "aššuli"
+    },
+    {
+        "id": 13289,
+        "text": "pa-aḫ-ša-an-ta-ru",
+        "syllabographic": true
+    },
+    {
+        "id": 13290,
+        "text": "paḫšantaru"
+    },
+    {
+        "id": 13291,
+        "text": "paḫš",
+        "gloss": "beschützen",
+        "pos": "V"
+    },
+    {
+        "id": 13292,
+        "text": "ka-a-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13293,
+        "text": "kāi̯a"
+    },
+    {
+        "id": 13294,
+        "text": "É-_KA",
+        "syllabographic": true
+    },
+    {
+        "id": 13295,
+        "text": "ŠEŠ.DU10.GA〈〈ḪI〉〉-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13296,
+        "text": "ku-u̯a-at-ka₄",
+        "syllabographic": true
+    },
+    {
+        "id": 13297,
+        "text": "kuu̯atka",
+        "gloss": "irgendwie",
+        "pos": "ADV"
+    },
+    {
+        "id": 13299,
+        "text": "la-aḫ-la-aḫ-ḫi-iš-ke-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 13300,
+        "text": "laḫlaḫḫiškeši"
+    },
+    {
+        "id": 13301,
+        "text": "laḫlaḫḫišk-",
+        "gloss": "erregt sein",
+        "pos": "V"
+    },
+    {
+        "id": 13307,
+        "text": "ḫattatar",
+        "gloss": "wisdom",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13309,
+        "text": "kā",
+        "gloss": "here",
+        "pos": "ADV"
     }
 ]

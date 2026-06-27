@@ -5985,5 +5985,100 @@
                 "id": 13257
             }
         ]
+    },
+    {
+        "id": 13259,
+        "text": "_UM-MA ^d^UTU^_ŠI^-_MA\n_A-NA ^m^ka-aš-šu-ú\n_QÍ-BÍ-MA\n---\n_ŠA ANŠE.KUR.RA^ḪI.A^-mu\nku-it ut-tar ḫa-at-ra-a-eš\nna-aš-ta ka-a-aš-ma\nANŠE.KUR.RA^ḪI.A^ ka-ru-ú\npa-ra-a ne-eḫ-ḫu-un\nna-an-za-kán me-na-aḫ-ḫa-an-da a-ú\n---\n_ŠA ŠEŠ ^m^ḫi-mu-DINGIR-_LIM-ma\nku-it ut-tar ḫa-at-ra-a-eš\nna-an-kán ka-a-ša\npa-ra-a ne-eḫ-ḫi\n---\n_A-NA ^m^uz-zu-u ŠEŠ.DU10.G[A]-_I̯A\n_QÍ-BÍ-MA _UM-MA ^m^šu-ri-ḫi-DINGIR-_LIM\nŠEŠ-_KA-MA\nkat-ti-mi SIG5-in tu-uk-ka₄\n_MA-ḪAR ŠEŠ.DU10.GA-_I̯A ḫu-u-ma-an\nSIG5-in e-eš-tu nu-ut-ta 〈DINGIR^MEŠ^〉 ^D^_É-A-aš\nḫa-at-ta-an-na-aš LUGAL-u[š]\nDAM ^m^[t]a-az-zu-ku-li-n[a]\naš-šu-li pa-aḫ-ša-an-ta-ru\n---\n⸢ka⸣-a-i̯a _I-NA É-_K[A]\n[ḫ]u-u-ma-an SIG5-in\nna-aš-ta ŠEŠ.DU10.GA〈〈ḪI〉〉-_I̯A\n[l]e-e ku-u̯a-at-ka₄\nla-aḫ-la-aḫ-ḫi-i[š-k]e-ši",
+        "title": "HKM 2",
+        "words": [
+            {
+                "index": 6,
+                "id": 13260
+            },
+            {
+                "index": 16,
+                "id": 13261
+            },
+            {
+                "index": 18,
+                "id": 13264
+            },
+            {
+                "index": 21,
+                "id": 13266
+            },
+            {
+                "index": 25,
+                "id": 13267
+            },
+            {
+                "index": 28,
+                "id": 13269
+            },
+            {
+                "index": 30,
+                "id": 13272
+            },
+            {
+                "index": 31,
+                "id": 13274
+            },
+            {
+                "index": 34,
+                "id": 13275
+            },
+            {
+                "index": 35,
+                "id": 13276
+            },
+            {
+                "index": 38,
+                "id": 13277
+            },
+            {
+                "index": 43,
+                "id": 13279
+            },
+            {
+                "index": 46,
+                "id": 13282
+            },
+            {
+                "index": 47,
+                "id": 13283
+            },
+            {
+                "index": 50,
+                "id": 13285
+            },
+            {
+                "index": 51,
+                "id": 13287
+            },
+            {
+                "index": 52,
+                "id": 13289
+            },
+            {
+                "index": 53,
+                "id": 13292
+            },
+            {
+                "index": 55,
+                "id": 13294
+            },
+            {
+                "index": 59,
+                "id": 13295
+            },
+            {
+                "index": 61,
+                "id": 13296
+            },
+            {
+                "index": 62,
+                "id": 13299
+            }
+        ]
     }
 ]
