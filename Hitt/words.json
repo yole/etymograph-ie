@@ -9281,5 +9281,39 @@
         "text": "kā",
         "gloss": "here",
         "pos": "ADV"
+    },
+    {
+        "id": 13311,
+        "text": "^URU^ḫa-a-i-še-eḫ-la-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13312,
+        "text": "ḫāišeḫlan"
+    },
+    {
+        "id": 13313,
+        "text": "ḫāišeḫla-",
+        "pos": "NP"
+    },
+    {
+        "id": 13314,
+        "text": "^URU^_I-I̯A-AḪ-RE-EŠ-ŠA",
+        "syllabographic": true
+    },
+    {
+        "id": 13315,
+        "text": "ii̯aḫrešša",
+        "pos": "NP"
+    },
+    {
+        "id": 13316,
+        "text": "MU.KAM-za",
+        "syllabographic": true
+    },
+    {
+        "id": 13318,
+        "text": "MU.KAM-za-u̯a-ta",
+        "syllabographic": true
     }
 ]
