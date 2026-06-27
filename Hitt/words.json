@@ -826,7 +826,8 @@
     {
         "id": 10515,
         "text": "EGIR-an",
-        "gloss": "afterwards",
+        "gloss": "afterwards; danach",
+        "pos": "ADV",
         "syllabographic": true
     },
     {
@@ -2029,11 +2030,6 @@
     {
         "id": 10856,
         "text": "pát",
-        "gloss": "EMPH",
-        "pos": "CONJ",
-        "classes": [
-            "clitic"
-        ],
         "syllabographic": true
     },
     {
@@ -2820,7 +2816,10 @@
         "id": 11090,
         "text": "an",
         "gloss": "3SG.ACC.C",
-        "pos": "PRON"
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
     },
     {
         "id": 11091,
@@ -6229,7 +6228,7 @@
     {
         "id": 11988,
         "text": "uu̯ate-",
-        "gloss": "move",
+        "gloss": "move; (her)bringen",
         "pos": "V",
         "classes": [
             "mi"
@@ -7899,17 +7898,6 @@
         "gloss": "CNJadd"
     },
     {
-        "id": 12945,
-        "text": "EGIR-an-n"
-    },
-    {
-        "id": 12947,
-        "text": "EGIR-an",
-        "gloss": "danach",
-        "pos": "ADV",
-        "syllabographic": true
-    },
-    {
         "id": 12948,
         "text": "TI8^MUŠEN^",
         "syllabographic": true
@@ -8042,7 +8030,7 @@
     },
     {
         "id": 12976,
-        "text": "É.GAL-LIM",
+        "text": "É.GAL",
         "gloss": "Palast",
         "pos": "N",
         "syllabographic": true
@@ -8332,7 +8320,11 @@
     {
         "id": 13052,
         "text": "pat",
-        "gloss": "FOC"
+        "gloss": "FOC",
+        "pos": "PART",
+        "classes": [
+            "clitic"
+        ]
     },
     {
         "id": 13053,
@@ -8525,18 +8517,14 @@
         "syllabographic": true
     },
     {
-        "id": 13111,
-        "text": "EN-_IA",
-        "syllabographic": true
-    },
-    {
         "id": 13112,
         "text": "^m^pa-az-zu",
         "syllabographic": true
     },
     {
         "id": 13113,
-        "text": "pazzu"
+        "text": "pazzu",
+        "pos": "NP"
     },
     {
         "id": 13114,
@@ -8564,7 +8552,7 @@
     },
     {
         "id": 13119,
-        "text": "^D^UTU-_ŠI-mu",
+        "text": "^d^UTU^_ŠI^-mu",
         "syllabographic": true
     },
     {
@@ -8633,12 +8621,6 @@
     {
         "id": 13133,
         "text": "uu̯atezzi"
-    },
-    {
-        "id": 13134,
-        "text": "uwate",
-        "gloss": "(her)bringen",
-        "pos": "V"
     },
     {
         "id": 13135,
@@ -8754,5 +8736,267 @@
     {
         "id": 13160,
         "text": "i"
+    },
+    {
+        "id": 13166,
+        "text": "ŠÀ",
+        "gloss": "heart",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 13169,
+        "text": "_TI",
+        "syllabographic": true
+    },
+    {
+        "id": 13174,
+        "text": "duu̯ā",
+        "pos": "NP"
+    },
+    {
+        "id": 13178,
+        "text": "laḫḫiala-",
+        "gloss": "military man",
+        "pos": "N",
+        "classes": [
+            "C"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "24"
+            }
+        ]
+    },
+    {
+        "id": 13183,
+        "text": "ištark-",
+        "gloss": "become ill",
+        "pos": "V"
+    },
+    {
+        "id": 13188,
+        "text": "pittii̯ant-",
+        "gloss": "fugitive",
+        "fullGloss": "fugitive; Flüchtling",
+        "pos": "N",
+        "classes": [
+            "C"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "172"
+            }
+        ]
+    },
+    {
+        "id": 13192,
+        "text": "_ME-ŠE-DI",
+        "gloss": "bodyguard",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 13193,
+        "text": "_QÍ-BI-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13194,
+        "text": "DUMU^MEŠ^.É.GAL",
+        "syllabographic": true
+    },
+    {
+        "id": 13195,
+        "text": "_BE-EL-TI4-I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13196,
+        "text": "DU10.GA-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 13197,
+        "text": "e-eš-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13198,
+        "text": "ēšdu"
+    },
+    {
+        "id": 13199,
+        "text": "ḫar-kán-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13200,
+        "text": "ḫarkandu"
+    },
+    {
+        "id": 13201,
+        "text": "aš-šu-ú-li",
+        "syllabographic": true
+    },
+    {
+        "id": 13202,
+        "text": "aššūli"
+    },
+    {
+        "id": 13203,
+        "text": "-pí-te-eš-šu-u-pa-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13204,
+        "text": "piteššūpanna"
+    },
+    {
+        "id": 13205,
+        "text": "TI-tar",
+        "syllabographic": true
+    },
+    {
+        "id": 13206,
+        "text": "ḫa-ad-du-la-a-tar",
+        "syllabographic": true
+    },
+    {
+        "id": 13207,
+        "text": "ḫaddulātar",
+        "gloss": "health",
+        "fullGloss": "health; Gesundheit",
+        "pos": "N",
+        "classes": [
+            "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "67"
+            }
+        ]
+    },
+    {
+        "id": 13208,
+        "text": "ZI-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13209,
+        "text": "la-a-lu-ki-ma-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13210,
+        "text": "lālukiman"
+    },
+    {
+        "id": 13211,
+        "text": "ŠU^ḪI.A^-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13212,
+        "text": "a-ra-aḫ-za-an-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13213,
+        "text": "araḫzanta",
+        "gloss": "(nach) draußen"
+    },
+    {
+        "id": 13214,
+        "text": "a-pa-a-",
+        "syllabographic": true
+    },
+    {
+        "id": 13215,
+        "text": "apā"
+    },
+    {
+        "id": 13216,
+        "text": "u-un-",
+        "syllabographic": true
+    },
+    {
+        "id": 13217,
+        "text": "ūn"
+    },
+    {
+        "id": 13218,
+        "text": "kal-ma-an-",
+        "syllabographic": true
+    },
+    {
+        "id": 13219,
+        "text": "kalman"
+    },
+    {
+        "id": 13220,
+        "text": "-ru",
+        "syllabographic": true
+    },
+    {
+        "id": 13221,
+        "text": "ru"
+    },
+    {
+        "id": 13222,
+        "text": "ḫa-at-ra-a-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 13223,
+        "text": "ḫatrāmi"
+    },
+    {
+        "id": 13224,
+        "text": "ḫatrāe",
+        "gloss": "mitteilen",
+        "pos": "V"
+    },
+    {
+        "id": 13230,
+        "text": "DU10.GA",
+        "gloss": "dear",
+        "syllabographic": true
+    },
+    {
+        "id": 13234,
+        "text": "ŠU^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 13237,
+        "text": "ZI",
+        "gloss": "soul",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "301"
+            }
+        ]
+    },
+    {
+        "id": 13238,
+        "text": "lalukkima-",
+        "gloss": "brightness",
+        "pos": "N",
+        "classes": [
+            "C"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "126"
+            }
+        ]
     }
 ]

@@ -5527,12 +5527,12 @@
     },
     {
         "id": 13109,
-        "text": "_A-NA ^d^UTU^_ŠI^ EN-_I[A ] \n_UM-MA ^m^pa-az-zu AR[AD-_KA-MA] \nka-a-ša-kán ŠÀ KUR-_TI \nḫu-u-ma-an SIG5-[in] \n^D^UTU-_ŠI-mu ku-it EN-_I̯A [ ] \n_TÀŠ-PUR ^m^du-u̯a-a-an-u̯a-kán \n[ ] x x x [ \nx x[ \nnu ḫa-an-da-an-[ \n^m^pí-it-ta-ni-pí-x[ \nnu-uš-ši DUMU-_ŠU ar-ḫa da-a-i-[e-er] \n^LÚ^la-aḫ-ḫi-i̯a-la-an ú-[u̯a-te-ez-zi] \n^LÚ^la-aḫ-ḫi-i̯a-la-an-ma \n_Ú-UL ú-u̯a-te-ez-[zi] \nki-nu-na ^m^du-u̯a-a-[an] \nku-it iš-tar-ak-[ta] \nma-aḫ-ḫa-an-ma-k[án] \nḫa-at-tu-le-[eš-zi] \nnu un-na-i [ \n] ku-it EN-_I̯A \n] ^LÚ^pít-ti-an-za-u̯a-kán \n]-i-li EGIR-an \n] na-a-i \n^D^]ḫa-an-ta-še-pu-uš \n]-i ",
+        "text": "_A-NA ^d^UTU^_ŠI^ EN-_I̯[A ] \n_UM-MA ^m^pa-az-zu AR[AD-_KA-MA] \n---\nka-a-ša-kán ŠÀ KUR-_TI \nḫu-u-ma-an SIG5-[in]\n---\n^D^UTU-_ŠI-mu ku-it EN-_I̯A [ ] \n_TÀŠ-PUR ^m^du-u̯a-a-an-u̯a-kán \n[ ] x x x [ \nx x[ \nnu ḫa-an-da-an-[ \n^m^pí-it-ta-ni-pí-x[ \nnu-uš-ši DUMU-_ŠU ar-ḫa da-a-i-[e-er] \n10 ^LÚ^la-aḫ-ḫi-i̯a-la-an ú-[u̯a-te-ez-zi] \n20 ^LÚ^la-aḫ-ḫi-i̯a-la-an-ma \n_Ú-UL ú-u̯a-te-ez-[zi] \nki-nu-na ^m^du-u̯a-a-[an] \nku-it iš-tar-ak-[ta] \nma-aḫ-ḫa-an-ma-k[án] \nḫa-at-tu-le-[eš-zi] \nnu un-na-i [ \n] ku-it EN-_I̯A \n] ^LÚ^pít-ti-an-za-u̯a-kán \n]-i-li EGIR-an \n] na-a-i \n^D^]ḫa-an-ta-še-pu-uš \n]-i ",
         "title": "KBo 18.14",
         "words": [
             {
                 "index": 2,
-                "id": 13111
+                "id": 13120
             },
             {
                 "index": 5,
@@ -5548,7 +5548,7 @@
             },
             {
                 "index": 8,
-                "id": 13117
+                "id": 13166
             },
             {
                 "index": 9,
@@ -5557,10 +5557,6 @@
             {
                 "index": 12,
                 "id": 13119
-            },
-            {
-                "index": 14,
-                "id": 13120
             },
             {
                 "index": 17,
@@ -5583,60 +5579,367 @@
                 "id": 13128
             },
             {
-                "index": 34,
+                "index": 35,
                 "id": 13130
             },
             {
-                "index": 35,
+                "index": 36,
                 "id": 13132
             },
             {
-                "index": 36,
+                "index": 38,
                 "id": 13135
             },
             {
-                "index": 39,
+                "index": 41,
                 "id": 13137
             },
             {
-                "index": 40,
+                "index": 42,
                 "id": 13140
             },
             {
-                "index": 42,
+                "index": 44,
                 "id": 13142
             },
             {
-                "index": 43,
+                "index": 45,
                 "id": 13144
             },
             {
-                "index": 44,
+                "index": 46,
                 "id": 13146
             },
             {
-                "index": 46,
+                "index": 48,
                 "id": 13149
             },
             {
-                "index": 52,
+                "index": 54,
                 "id": 13152
             },
             {
-                "index": 53,
+                "index": 55,
                 "id": 13154
             },
             {
-                "index": 56,
+                "index": 58,
                 "id": 13156
             },
             {
-                "index": 57,
+                "index": 59,
                 "id": 13158
             },
             {
-                "index": 58,
+                "index": 60,
                 "id": 10206
+            }
+        ],
+        "translations": [
+            {
+                "id": 13170,
+                "text": "Say to His Majesty, my lord",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 4
+            },
+            {
+                "id": 13171,
+                "text": "Thus speaks your servant Pazzu",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 4,
+                "anchorEndIndex": 7
+            },
+            {
+                "id": 13172,
+                "text": "All is well (here) in (this) land",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 7,
+                "anchorEndIndex": 12
+            },
+            {
+                "id": 13175,
+                "text": "Concerning what my lord wrote to me, saying \"Tuwā ...\"",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 12,
+                "anchorEndIndex": 27
+            },
+            {
+                "id": 13177,
+                "text": "And truly ... Pittanipi- ... and stole his son away from him.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 27,
+                "anchorEndIndex": 34
+            },
+            {
+                "id": 13179,
+                "text": "He will lead ten travelers (or persons on a military campaign)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 34,
+                "anchorEndIndex": 37
+            },
+            {
+                "id": 13182,
+                "text": "But he will not lead 20 travelers (or persons on a military campaign)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 37,
+                "anchorEndIndex": 41
+            },
+            {
+                "id": 13184,
+                "text": "Because now Duwa has become ill",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 41,
+                "anchorEndIndex": 45
+            },
+            {
+                "id": 13186,
+                "text": "as soon as he recovers",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 45,
+                "anchorEndIndex": 47
+            },
+            {
+                "id": 13187,
+                "text": "he will drive here and...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 47,
+                "anchorEndIndex": 51
+            },
+            {
+                "id": 13190,
+                "text": "Now, concerning what Your Majesty, my lord, wrote to me, saying: \"A fugutive ... behind ...; so send out ... hantasepa-deities...\"",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "88"
+                    }
+                ],
+                "anchorStartIndex": 51,
+                "anchorEndIndex": 61
+            }
+        ]
+    },
+    {
+        "id": 13191,
+        "text": "_[A-N]A _BE-LÍ GAL _ME-ŠE-DI _BE-LÍ-I̯A _Q[Í-BI-MA]\n_[U]M-MA GAL DUMU^MEŠ^.É.GAL ARAD-_KA-MA\n_MA-ḪAR MUNUS.LUGAL _BE-EL-TI4-I̯A ḫu-u-ma-a[n\nDUMU DU10.GA-_I̯A ḫu-u-ma-an SIG5-in e-[eš-du\n[ḫ]ar-kán-du nu-ut-ta aš-šu-ú-li [\n[ ]x x x[\n[ -p]í-te-eš-šu-u-pa-an-na [DINGI]R^M[EŠ^\n[TI-t]ar ḫa-ad-du-la-a-tar ZI-aš la-a-lu-k[i-ma-an\n[nu-u]š-ma-aš ŠU^ḪI.A^-uš a-ra-aḫ-za-an-t[a\n---\n[ ]x-an-za a-pa-a-[ ]x [\n[ ]x-ši u-un-[\n[ ] kal-ma-an-[\n[ ]-ru a-⸢pa-a⸣-a[t\nku-⸢it⸣ [ ḫa-a]t-ra-a-mi",
+        "title": "KBo 18.95",
+        "words": [
+            {
+                "index": 3,
+                "id": 13192
+            },
+            {
+                "index": 5,
+                "id": 13193
+            },
+            {
+                "index": 8,
+                "id": 13194
+            },
+            {
+                "index": 12,
+                "id": 13195
+            },
+            {
+                "index": 15,
+                "id": 13196
+            },
+            {
+                "index": 18,
+                "id": 13197
+            },
+            {
+                "index": 19,
+                "id": 13199
+            },
+            {
+                "index": 21,
+                "id": 13201
+            },
+            {
+                "index": 28,
+                "id": 13203
+            },
+            {
+                "index": 30,
+                "id": 13205
+            },
+            {
+                "index": 31,
+                "id": 13206
+            },
+            {
+                "index": 32,
+                "id": 13208
+            },
+            {
+                "index": 33,
+                "id": 13209
+            },
+            {
+                "index": 35,
+                "id": 13211
+            },
+            {
+                "index": 36,
+                "id": 13212
+            },
+            {
+                "index": 39,
+                "id": 13214
+            },
+            {
+                "index": 44,
+                "id": 13216
+            },
+            {
+                "index": 47,
+                "id": 13218
+            },
+            {
+                "index": 49,
+                "id": 13220
+            },
+            {
+                "index": 53,
+                "id": 13222
+            }
+        ],
+        "translations": [
+            {
+                "id": 13227,
+                "text": "Say to the lord, the Chief of the Guards, my lord:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 6
+            },
+            {
+                "id": 13228,
+                "text": "thus speaks the Chief of the Palace Servants, your servant:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 6,
+                "anchorEndIndex": 10
+            },
+            {
+                "id": 13229,
+                "text": "May all be well with the Queen, my lady.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 14
+            },
+            {
+                "id": 13232,
+                "text": "May all be well with my dear son",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 14,
+                "anchorEndIndex": 19
+            },
+            {
+                "id": 13233,
+                "text": "And may the gods keep you alive, and lovingly protect you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 19,
+                "anchorEndIndex": 31
+            },
+            {
+                "id": 13235,
+                "text": "and may they lovingly hold their arms (protectively) around you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 34,
+                "anchorEndIndex": 38
+            },
+            {
+                "id": 13239,
+                "text": "And may they give you health of soul and brightness of soul,",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "90"
+                    }
+                ],
+                "anchorStartIndex": 31,
+                "anchorEndIndex": 34
             }
         ]
     }
