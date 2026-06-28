@@ -1389,14 +1389,6 @@
         ]
     },
     {
-        "id": 12961,
-        "compoundId": 12959,
-        "componentIds": [
-            12960,
-            12944
-        ]
-    },
-    {
         "id": 12974,
         "compoundId": 12972,
         "componentIds": [
@@ -1705,6 +1697,14 @@
         "componentIds": [
             13320,
             10322
+        ]
+    },
+    {
+        "id": 13325,
+        "compoundId": 12959,
+        "componentIds": [
+            12960,
+            10261
         ]
     }
 ]

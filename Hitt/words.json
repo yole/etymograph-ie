@@ -2793,10 +2793,6 @@
         "syllabographic": true
     },
     {
-        "id": 11084,
-        "text": "DUMU^MEŠ^-ŠU-i̯a"
-    },
-    {
         "id": 11085,
         "text": "DUMU^MEŠ^-_ŠU-i̯a",
         "syllabographic": true
@@ -7495,11 +7491,6 @@
         "pos": "V"
     },
     {
-        "id": 12861,
-        "text": "li-li-wa-aḫ-ḫu-wa-an-zi",
-        "syllabographic": true
-    },
-    {
         "id": 12862,
         "text": "liliu̯aḫḫuu̯anzi"
     },
@@ -7893,11 +7884,6 @@
         "id": 12943,
         "text": "EGIR-an-na-kán",
         "syllabographic": true
-    },
-    {
-        "id": 12944,
-        "text": "ya",
-        "gloss": "CNJadd"
     },
     {
         "id": 12948,
@@ -8514,11 +8500,6 @@
         ]
     },
     {
-        "id": 13110,
-        "text": "^D^UTU-_ŠI",
-        "syllabographic": true
-    },
-    {
         "id": 13112,
         "text": "^m^pa-az-zu",
         "syllabographic": true
@@ -8541,11 +8522,6 @@
     {
         "id": 13116,
         "text": "kāšakan"
-    },
-    {
-        "id": 13117,
-        "text": "ŠÀ",
-        "syllabographic": true
     },
     {
         "id": 13118,
@@ -8994,11 +8970,6 @@
                 "refText": "126"
             }
         ]
-    },
-    {
-        "id": 13241,
-        "text": "^D^UTU-_ŠI-MA",
-        "syllabographic": true
     },
     {
         "id": 13242,
