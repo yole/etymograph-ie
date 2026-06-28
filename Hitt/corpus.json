@@ -4440,8 +4440,16 @@
                 "id": 12350
             },
             {
+                "index": 36,
+                "id": 12429
+            },
+            {
                 "index": 37,
                 "id": 12351
+            },
+            {
+                "index": 39,
+                "id": 13316
             },
             {
                 "index": 41,
@@ -4456,6 +4464,10 @@
                 "id": 12172
             },
             {
+                "index": 45,
+                "id": 13318
+            },
+            {
                 "index": 49,
                 "id": 12360
             },
@@ -4466,6 +4478,10 @@
             {
                 "index": 53,
                 "id": 12176
+            },
+            {
+                "index": 61,
+                "id": 12430
             },
             {
                 "index": 65,
@@ -4484,168 +4500,156 @@
                 "id": 12181
             },
             {
-                "index": 89,
-                "id": 12186
-            },
-            {
-                "index": 90,
-                "id": 12187
-            },
-            {
-                "index": 94,
-                "id": 12354
-            },
-            {
-                "index": 95,
-                "id": 12190
-            },
-            {
-                "index": 96,
-                "id": 12193
-            },
-            {
-                "index": 101,
-                "id": 12353
-            },
-            {
-                "index": 103,
-                "id": 12196
-            },
-            {
-                "index": 105,
-                "id": 12363
-            },
-            {
-                "index": 111,
-                "id": 12199
-            },
-            {
-                "index": 119,
-                "id": 12202
-            },
-            {
-                "index": 124,
-                "id": 12205
-            },
-            {
-                "index": 125,
-                "id": 12208
-            },
-            {
-                "index": 132,
-                "id": 12210
-            },
-            {
-                "index": 140,
-                "id": 12365
-            },
-            {
-                "index": 155,
-                "id": 12212
-            },
-            {
-                "index": 156,
-                "id": 12214
-            },
-            {
-                "index": 178,
-                "id": 12369
-            },
-            {
-                "index": 179,
-                "id": 12218
-            },
-            {
-                "index": 181,
-                "id": 12221
-            },
-            {
-                "index": 185,
-                "id": 12371
-            },
-            {
-                "index": 187,
-                "id": 12224
-            },
-            {
-                "index": 188,
-                "id": 12355
-            },
-            {
-                "index": 189,
-                "id": 12226
-            },
-            {
-                "index": 190,
-                "id": 12228
-            },
-            {
-                "index": 194,
-                "id": 12231
-            },
-            {
-                "index": 195,
-                "id": 12233
-            },
-            {
-                "index": 196,
-                "id": 12235
-            },
-            {
-                "index": 198,
-                "id": 12238
-            },
-            {
-                "index": 201,
-                "id": 12241
-            },
-            {
-                "index": 227,
-                "id": 12243
-            },
-            {
-                "index": 151,
-                "id": 12404
-            },
-            {
-                "index": 36,
-                "id": 12429
-            },
-            {
-                "index": 61,
-                "id": 12430
-            },
-            {
-                "index": 163,
-                "id": 12431
-            },
-            {
-                "index": 216,
-                "id": 12432
-            },
-            {
-                "index": 225,
-                "id": 12999
-            },
-            {
-                "index": 108,
-                "id": 13001
-            },
-            {
-                "index": 209,
-                "id": 13311
+                "index": 80,
+                "id": 13321
             },
             {
                 "index": 85,
                 "id": 13314
             },
             {
-                "index": 39,
-                "id": 13316
+                "index": 88,
+                "id": 12186
             },
             {
-                "index": 45,
-                "id": 13318
+                "index": 89,
+                "id": 12187
+            },
+            {
+                "index": 93,
+                "id": 12354
+            },
+            {
+                "index": 94,
+                "id": 12190
+            },
+            {
+                "index": 95,
+                "id": 12193
+            },
+            {
+                "index": 100,
+                "id": 12353
+            },
+            {
+                "index": 102,
+                "id": 12196
+            },
+            {
+                "index": 104,
+                "id": 12363
+            },
+            {
+                "index": 107,
+                "id": 13001
+            },
+            {
+                "index": 110,
+                "id": 12199
+            },
+            {
+                "index": 118,
+                "id": 12202
+            },
+            {
+                "index": 122,
+                "id": 13320
+            },
+            {
+                "index": 123,
+                "id": 12205
+            },
+            {
+                "index": 124,
+                "id": 12208
+            },
+            {
+                "index": 131,
+                "id": 12210
+            },
+            {
+                "index": 135,
+                "id": 13323
+            },
+            {
+                "index": 139,
+                "id": 12365
+            },
+            {
+                "index": 150,
+                "id": 12404
+            },
+            {
+                "index": 154,
+                "id": 12212
+            },
+            {
+                "index": 155,
+                "id": 12214
+            },
+            {
+                "index": 162,
+                "id": 12431
+            },
+            {
+                "index": 177,
+                "id": 12369
+            },
+            {
+                "index": 178,
+                "id": 12218
+            },
+            {
+                "index": 180,
+                "id": 12221
+            },
+            {
+                "index": 184,
+                "id": 12371
+            },
+            {
+                "index": 186,
+                "id": 12224
+            },
+            {
+                "index": 187,
+                "id": 12355
+            },
+            {
+                "index": 188,
+                "id": 12226
+            },
+            {
+                "index": 189,
+                "id": 12228
+            },
+            {
+                "index": 193,
+                "id": 12231
+            },
+            {
+                "index": 194,
+                "id": 12233
+            },
+            {
+                "index": 195,
+                "id": 12235
+            },
+            {
+                "index": 197,
+                "id": 12238
+            },
+            {
+                "index": 200,
+                "id": 12241
+            },
+            {
+                "index": 215,
+                "id": 12432
+            },
+            {
+                "index": 226,
+                "id": 12243
             }
         ],
         "translations": [
@@ -4737,199 +4741,199 @@
                 "id": 12122,
                 "text": "and I performed an inspection of the army there",
                 "anchorStartIndex": 70,
-                "anchorEndIndex": 77
+                "anchorEndIndex": 76
             },
             {
                 "id": 12123,
                 "text": "Because the city of Ii̯aḫrešša and the land of Piggainarešša were an enemy towards me",
-                "anchorStartIndex": 77,
-                "anchorEndIndex": 84
+                "anchorStartIndex": 76,
+                "anchorEndIndex": 83
             },
             {
                 "id": 12124,
                 "text": "I went to Ii̯aḫrešša",
-                "anchorStartIndex": 84,
-                "anchorEndIndex": 88
+                "anchorStartIndex": 83,
+                "anchorEndIndex": 87
             },
             {
                 "id": 12125,
                 "text": "I made the days into nights",
-                "anchorStartIndex": 88,
-                "anchorEndIndex": 93
+                "anchorStartIndex": 87,
+                "anchorEndIndex": 91
             },
             {
                 "id": 12126,
                 "text": "and I drew the troops in haste",
-                "anchorStartIndex": 93,
-                "anchorEndIndex": 98
+                "anchorStartIndex": 91,
+                "anchorEndIndex": 96
             },
             {
                 "id": 12127,
                 "text": "and I, the Greatking, marched with the troops and cavalry secretly",
-                "anchorStartIndex": 98,
-                "anchorEndIndex": 105
+                "anchorStartIndex": 96,
+                "anchorEndIndex": 104
             },
             {
                 "id": 12128,
                 "text": "The mighty stormgod, My Lord, had called (the deity) Ḫašammili, My Lord, for me",
-                "anchorStartIndex": 105,
-                "anchorEndIndex": 113
+                "anchorStartIndex": 104,
+                "anchorEndIndex": 112
             },
             {
                 "id": 12129,
                 "text": "and he held me hidden",
-                "anchorStartIndex": 113,
-                "anchorEndIndex": 116
+                "anchorStartIndex": 112,
+                "anchorEndIndex": 115
             },
             {
                 "id": 12130,
                 "text": "No-one saw me",
-                "anchorStartIndex": 116,
-                "anchorEndIndex": 120
+                "anchorStartIndex": 115,
+                "anchorEndIndex": 119
             },
             {
                 "id": 12131,
                 "text": "and I proceeded to attack the land of Piggainarešša in (its) sleep",
-                "anchorStartIndex": 120,
-                "anchorEndIndex": 126
+                "anchorStartIndex": 119,
+                "anchorEndIndex": 125
             },
             {
                 "id": 12132,
                 "text": "I then found (it) together with the living booty",
-                "anchorStartIndex": 126,
-                "anchorEndIndex": 133
+                "anchorStartIndex": 125,
+                "anchorEndIndex": 132
             },
             {
                 "id": 12133,
                 "text": "and I took it",
-                "anchorStartIndex": 133,
-                "anchorEndIndex": 136
+                "anchorStartIndex": 132,
+                "anchorEndIndex": 135
             },
             {
                 "id": 12134,
                 "text": "and I fully burnt down the land of Piggainarešša",
-                "anchorStartIndex": 136,
-                "anchorEndIndex": 140
+                "anchorStartIndex": 135,
+                "anchorEndIndex": 139
             },
             {
                 "id": 12135,
                 "text": "The next day I came back to (the city of) Ii̯aḫrišša",
-                "anchorStartIndex": 140,
-                "anchorEndIndex": 145
+                "anchorStartIndex": 139,
+                "anchorEndIndex": 144
             },
             {
                 "id": 12136,
                 "text": "and I burnt down to the ground Ii̯aḫrešša the city",
-                "anchorStartIndex": 145,
-                "anchorEndIndex": 150
+                "anchorStartIndex": 144,
+                "anchorEndIndex": 149
             },
             {
                 "id": 12137,
                 "text": "and took (it) together with its living booty",
-                "anchorStartIndex": 150,
-                "anchorEndIndex": 156
+                "anchorStartIndex": 149,
+                "anchorEndIndex": 155
             },
             {
                 "id": 12138,
                 "text": "The next day I marched forth to (the city of) Taptina",
-                "anchorStartIndex": 156,
-                "anchorEndIndex": 161
+                "anchorStartIndex": 155,
+                "anchorEndIndex": 160
             },
             {
                 "id": 12139,
                 "text": "When I arrived in Tarkuma",
-                "anchorStartIndex": 161,
-                "anchorEndIndex": 165
+                "anchorStartIndex": 160,
+                "anchorEndIndex": 164
             },
             {
                 "id": 12140,
                 "text": "I burnt Tarkuma down to the ground.",
-                "anchorStartIndex": 165,
-                "anchorEndIndex": 169
+                "anchorStartIndex": 164,
+                "anchorEndIndex": 168
             },
             {
                 "id": 12141,
                 "text": "And the men of Taptina, the men of Ḫaršama (and) the men of Pikurza came to meet me,",
-                "anchorStartIndex": 169,
-                "anchorEndIndex": 178
+                "anchorStartIndex": 168,
+                "anchorEndIndex": 177
             },
             {
                 "id": 12142,
                 "text": "and they kneeled down on (their) knees for me,",
-                "anchorStartIndex": 178,
-                "anchorEndIndex": 182
+                "anchorStartIndex": 177,
+                "anchorEndIndex": 181
             },
             {
                 "id": 12143,
                 "text": "and they spoke as follows",
-                "anchorStartIndex": 182,
+                "anchorStartIndex": 181,
                 "anchorEndIndex": 185
             },
             {
                 "id": 12144,
                 "text": "\"Our Lord, do not destroy us!”",
-                "anchorStartIndex": 186,
-                "anchorEndIndex": 188
+                "anchorStartIndex": 185,
+                "anchorEndIndex": 187
             },
             {
                 "id": 12145,
                 "text": "“But take us into servanthood”",
-                "anchorStartIndex": 188,
-                "anchorEndIndex": 191
+                "anchorStartIndex": 187,
+                "anchorEndIndex": 190
             },
             {
                 "id": 12146,
                 "text": "Make us into troops and charioteers",
-                "anchorStartIndex": 191,
-                "anchorEndIndex": 195
+                "anchorStartIndex": 190,
+                "anchorEndIndex": 194
             },
             {
                 "id": 12147,
                 "text": "We will be going on campaign alongside you!",
-                "anchorStartIndex": 195,
-                "anchorEndIndex": 199
+                "anchorStartIndex": 194,
+                "anchorEndIndex": 198
             },
             {
                 "id": 12148,
                 "text": "And I took them in servantship",
-                "anchorStartIndex": 199,
-                "anchorEndIndex": 202
+                "anchorStartIndex": 198,
+                "anchorEndIndex": 201
             },
             {
                 "id": 12149,
                 "text": "And I made them into troops and charioteers",
-                "anchorStartIndex": 202,
-                "anchorEndIndex": 206
+                "anchorStartIndex": 201,
+                "anchorEndIndex": 205
             },
             {
                 "id": 12150,
                 "text": "The next day I went forth",
-                "anchorStartIndex": 206,
-                "anchorEndIndex": 209
+                "anchorStartIndex": 205,
+                "anchorEndIndex": 208
             },
             {
                 "id": 12151,
                 "text": "and I burnt down Ḫāišeḫla and Kantiššiša",
-                "anchorStartIndex": 209,
-                "anchorEndIndex": 214
+                "anchorStartIndex": 208,
+                "anchorEndIndex": 213
             },
             {
                 "id": 12152,
                 "text": "Then I went back to Ḫakpišša",
-                "anchorStartIndex": 214,
-                "anchorEndIndex": 219
+                "anchorStartIndex": 213,
+                "anchorEndIndex": 218
             },
             {
                 "id": 12153,
                 "text": "And I came back to Ḫattuša",
-                "anchorStartIndex": 219,
-                "anchorEndIndex": 224
+                "anchorStartIndex": 218,
+                "anchorEndIndex": 223
             },
             {
                 "id": 12154,
                 "text": "And I spent the winter in Ankuu̯a",
-                "anchorStartIndex": 224,
-                "anchorEndIndex": 229
+                "anchorStartIndex": 223,
+                "anchorEndIndex": 228
             },
             {
                 "id": 12162,

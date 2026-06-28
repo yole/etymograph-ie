@@ -9315,5 +9315,21 @@
         "id": 13318,
         "text": "MU.KAM-za-u̯a-ta",
         "syllabographic": true
+    },
+    {
+        "id": 13320,
+        "text": "^URU^_PÍ-IG-GA-I-NA-RE-EŠ-ŠA",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 13321,
+        "text": "^URU^_PÍ-IG-GA-I-NA-RE-EŠ-ŠA-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13323,
+        "text": "^URU^_PÍ-IG-GA-I-NA-RE-EŠ-ŠA-ma",
+        "syllabographic": true
     }
 ]
