@@ -5965,9 +5965,13 @@
     },
     {
         "id": 13240,
-        "text": "_UM-MA ^d^UTU^_ŠI^-_MA\n_A-NA ^m^ka-aš-šu-ú\n_QÍ-BÍ-MA\n---\n_ŠA ^LÚ^KÚR-[m]u [k]u-it\nut-tar ḫa-at-⸢ra-a⸣-[e]š\n^LÚ^KÚR-u̯a ^UR[U^ga-ša-š]a-an\nḫar-zi\n---\nnu-kán ka-a-aš-ma\nANŠE.KUR.⸢RA⸣^ḪI.A^\npa-ra-a ne-eḫ-ḫu-un\nnu-za _PA-NI ^LÚ^KÚR\nme-ek-ki pa-aḫ-ḫa-aš-ša-nu-an-za\ne-eš",
+        "text": "Vs. 1# _UM-MA ^d^UTU^_ŠI^-_MA\nVs. 2# _A-NA ^m^ka-aš-šu-ú\nVs. 3# _QÍ-BÍ-MA\n---\nVs. 4# _ŠA ^LÚ^KÚR-[m]u [k]u-it\nVs. 5# ut-tar ḫa-at-⸢ra-a⸣-[e]š\nVs. 6# ^LÚ^KÚR-u̯a ^UR[U^ga-ša-š]a-an\nVs. 7# ḫar-zi\n---\nu. Rd. 8# nu-kán ka-a-aš-ma\nRs. 9# ANŠE.KUR.⸢RA⸣^ḪI.A^\nRs. 10# pa-ra-a ne-eḫ-ḫu-un\nRs. 11# nu-za _PA-NI ^LÚ^KÚR\nRs. 12# me-ek-ki pa-aḫ-ḫa-aš-ša-nu-an-za\nRs. 13# e-eš",
         "title": "HKM 1",
         "words": [
+            {
+                "index": 1,
+                "id": 13253
+            },
             {
                 "index": 3,
                 "id": 13242
@@ -5975,6 +5979,10 @@
             {
                 "index": 6,
                 "id": 13244
+            },
+            {
+                "index": 9,
+                "id": 13031
             },
             {
                 "index": 10,
@@ -5985,24 +5993,16 @@
                 "id": 13246
             },
             {
+                "index": 19,
+                "id": 13257
+            },
+            {
                 "index": 22,
                 "id": 13249
             },
             {
                 "index": 23,
                 "id": 13251
-            },
-            {
-                "index": 1,
-                "id": 13253
-            },
-            {
-                "index": 9,
-                "id": 13031
-            },
-            {
-                "index": 19,
-                "id": 13257
             }
         ]
     },
@@ -6098,6 +6098,61 @@
             {
                 "index": 62,
                 "id": 13299
+            }
+        ]
+    },
+    {
+        "id": 13326,
+        "text": "Vs. 1# _UM-MA ^d^UTU^_ŠI^-_MA\nVs. 2# _A-NA ^m^ka-aš-šu-ú _QÍ-BÍ-MA\n---\nVs. 3# _ŠA ^LÚ^KÚR-mu ku-it ut-tar\nVs. 4# ḫa-at-ra-a-eš na-at _AŠ-ME\n---\nVs. 5# nu-ut-ta ka-a-aš-ma\nVs. 6# ka-ru-ú ku-it ḫa-at-ra-a-nu-un\nVs. 7# a-pé-el ku-iš KUR-e ÉRIN^MEŠ^\nVs. 8# na-aš-kán nam-ma\nVs. 9# ar-ḫa le-e ú-ez-zi\nu. Rd. 10# a-pí-i̯a-aš e-eš-tu\nu. Rd. 11# nu KUR-e _PA-NI ^LÚ^KÚR me-ek-ki\nRs. 12# pa-aḫ-ḫa-aš-ša-nu-u̯a-an\nRs. 13# e-eš-tu\nRs. 14# _A-NA ^m^uz-zu-u ŠEŠ.DU10.GA-_I̯A\nRs. 15# _QÍ-BÍ-MA _UM-MA ^m^šu-ri-ḫi-DINGIR-_LIM\nRs. 16# ŠEŠ-_KA-MA\n---\nRs. 17# kat-ti-it-ti 〈ḫu-u-ma-an〉 SIG5-in e-eš-du\nRs. 18# nu-ut-ta DINGIR^MEŠ^ ^D^_É-A-aš-ša\nRs. 19# ḫa-at-ta-an-na-aš LUGAL-uš\nRs. 20# aš-šu-li pa-aḫ-ša-an-ta-ru\n---\no. Rd. 21# ka-a-ša _I-NA É-_K[A]\no. Rd. 22# _Ù _MA-ḪAR DAM-_KA ḫu-u-ma-a[n]\no. Rd. 23# SIG5-in na-aš-ta ŠEŠ.DU10.GA-_I̯A\nlk. Rd. 1# la-aḫ-la-aḫ-ḫi-iš-ke-zi [\nlk. Rd. 2# ŠEŠ.DU10.GA-_I̯A-i̯a-mu EGIR-pa\nlk. Rd. 3# aš-šu-ul ḫa-at-ra-a-i",
+        "title": "HKM 3",
+        "words": [
+            {
+                "index": 11,
+                "id": 13328
+            },
+            {
+                "index": 17,
+                "id": 13330
+            },
+            {
+                "index": 19,
+                "id": 13333
+            },
+            {
+                "index": 26,
+                "id": 13334
+            },
+            {
+                "index": 33,
+                "id": 13336
+            },
+            {
+                "index": 42,
+                "id": 13338
+            },
+            {
+                "index": 48,
+                "id": 13341
+            },
+            {
+                "index": 58,
+                "id": 13346
+            },
+            {
+                "index": 63,
+                "id": 13347
+            },
+            {
+                "index": 65,
+                "id": 13349
+            },
+            {
+                "index": 68,
+                "id": 13350
+            },
+            {
+                "index": 10,
+                "id": 11318
             }
         ]
     }

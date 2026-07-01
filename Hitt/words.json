@@ -1239,6 +1239,7 @@
         "id": 10634,
         "text": "paḫš-",
         "gloss": "protect",
+        "fullGloss": "protect; beschützen",
         "pos": "V",
         "classes": [
             "hi"
@@ -9147,7 +9148,7 @@
     },
     {
         "id": 13282,
-        "text": "^D^_É-A-aš",
+        "text": "^d^_É-A-aš",
         "syllabographic": true
     },
     {
@@ -9186,12 +9187,6 @@
     {
         "id": 13290,
         "text": "paḫšantaru"
-    },
-    {
-        "id": 13291,
-        "text": "paḫš",
-        "gloss": "beschützen",
-        "pos": "V"
     },
     {
         "id": 13292,
@@ -9301,6 +9296,136 @@
     {
         "id": 13323,
         "text": "^URU^_PÍ-IG-GA-I-NA-RE-EŠ-ŠA-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 13327,
+        "text": "^D^UTU-_ŠI-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 13328,
+        "text": "_AŠ-ME",
+        "syllabographic": true
+    },
+    {
+        "id": 13329,
+        "text": "ŠEMÛ",
+        "gloss": "hören",
+        "pos": "V",
+        "syllabographic": true
+    },
+    {
+        "id": 13330,
+        "text": "a-pé-el",
+        "syllabographic": true
+    },
+    {
+        "id": 13331,
+        "text": "apel"
+    },
+    {
+        "id": 13333,
+        "text": "KUR-e",
+        "syllabographic": true
+    },
+    {
+        "id": 13334,
+        "text": "a-pí-i̯a-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13335,
+        "text": "apii̯aš"
+    },
+    {
+        "id": 13336,
+        "text": "pa-aḫ-ḫa-aš-ša-nu-u̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13337,
+        "text": "paḫḫaššanuu̯an"
+    },
+    {
+        "id": 13338,
+        "text": "kat-ti-it-ti",
+        "syllabographic": true
+    },
+    {
+        "id": 13339,
+        "text": "kattitti"
+    },
+    {
+        "id": 13341,
+        "text": "^D^_É-A-aš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 13342,
+        "text": "ya",
+        "gloss": "CNJadd"
+    },
+    {
+        "id": 13345,
+        "text": "EA",
+        "gloss": "Ea",
+        "syllabographic": true
+    },
+    {
+        "id": 13346,
+        "text": "DAM-_KA",
+        "syllabographic": true
+    },
+    {
+        "id": 13347,
+        "text": "la-aḫ-la-aḫ-ḫi-iš-ke-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13348,
+        "text": "laḫlaḫḫiškezi"
+    },
+    {
+        "id": 13349,
+        "text": "ŠEŠ.DU10.GA-_I̯A-i̯a-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13350,
+        "text": "ḫa-at-ra-a-i",
+        "syllabographic": true
+    },
+    {
+        "id": 13351,
+        "text": "ḫatrāi"
+    },
+    {
+        "id": 13353,
+        "text": "tti",
+        "gloss": "POSS.2SG.D/L",
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 13354,
+        "text": "katti",
+        "gloss": "by",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "106"
+            }
+        ]
+    },
+    {
+        "id": 13360,
+        "text": "^D^_É-A",
+        "gloss": "Ea",
+        "pos": "NP",
         "syllabographic": true
     }
 ]
