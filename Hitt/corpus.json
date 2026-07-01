@@ -6178,5 +6178,72 @@
                 "id": 13367
             }
         ]
+    },
+    {
+        "id": 13369,
+        "text": "Vs. 1# _[UM-MA] ^d^UTU^_ŠI^-_MA\nVs. 2# _[A-NA] ^m^ka-aš-šu-ú _QÍ-BÍ-MA\n---\nVs. 3# _[Š]A ^URU^ga-ši-pu-u-ra ku-it\nVs. 4# GU4^ḪI.A^ da-at-t[a] na-an-ša-an\nVs. 5# _ŠA ^m^E[N-t]a-ra-u-u̯a ma-ni-i̯a-aḫ-ḫi-i̯a\nVs. 6# iš-ḫu-u̯a-a-it-ta\n---\nVs. 7# ki-nu-na-kán _ŠA ^m^EN-ta-ra-u-u̯a\nVs. 8# ma-ni-i̯a-aḫ-ḫi-i̯a-az ÉRIN^MEŠ^ an-na-al-li-in\nVs. 9# ÉRIN^MEŠ^ u̯a-ar-ra-aš-ša\nVs. 10# le-e n[i]-ni-ik-ši\nu. Rd. 11# nu-uš-ša-an a-pu-u-un\nu. Rd. 12# GU4^[Ḫ]I.A^ EGIR-an e-ep-du\nRs. 13# na-aš-kán KIN-az le-e\nRs. 14# ša-me-e-ez-zi\n---\n",
+        "title": "HKM 5",
+        "words": [
+            {
+                "index": 6,
+                "id": 13370
+            },
+            {
+                "index": 9,
+                "id": 13372
+            },
+            {
+                "index": 10,
+                "id": 13374
+            },
+            {
+                "index": 12,
+                "id": 13377
+            },
+            {
+                "index": 13,
+                "id": 13378
+            },
+            {
+                "index": 14,
+                "id": 13380
+            },
+            {
+                "index": 15,
+                "id": 13382
+            },
+            {
+                "index": 18,
+                "id": 13385
+            },
+            {
+                "index": 20,
+                "id": 13387
+            },
+            {
+                "index": 22,
+                "id": 13390
+            },
+            {
+                "index": 24,
+                "id": 13392
+            },
+            {
+                "index": 26,
+                "id": 13395
+            },
+            {
+                "index": 29,
+                "id": 13397
+            },
+            {
+                "index": 31,
+                "id": 13400
+            },
+            {
+                "index": 33,
+                "id": 13401
+            }
+        ]
     }
 ]

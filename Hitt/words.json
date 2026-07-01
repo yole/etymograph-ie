@@ -675,9 +675,16 @@
         "id": 10475,
         "text": "manii̯aḫḫ-",
         "gloss": "show",
+        "fullGloss": "show; hand over",
         "pos": "V",
         "classes": [
             "hi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "135"
+            }
         ]
     },
     {
@@ -6255,6 +6262,7 @@
         "id": 11995,
         "text": "ninink-",
         "gloss": "mobilize",
+        "fullGloss": "mobilize; heben",
         "pos": "V",
         "classes": [
             "mi"
@@ -7625,15 +7633,6 @@
     {
         "id": 12885,
         "text": "manii̯aḫmi"
-    },
-    {
-        "id": 12886,
-        "text": "manii̯aḫḫ-",
-        "gloss": "hand over",
-        "pos": "V",
-        "classes": [
-            "mi"
-        ]
     },
     {
         "id": 12887,
@@ -9458,5 +9457,191 @@
     {
         "id": 13368,
         "text": "liliu̯aḫḫūanzi"
+    },
+    {
+        "id": 13370,
+        "text": "^URU^ga-ši-pu-u-ra",
+        "syllabographic": true
+    },
+    {
+        "id": 13371,
+        "text": "kašipura",
+        "pos": "NP"
+    },
+    {
+        "id": 13372,
+        "text": "da-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13373,
+        "text": "datta"
+    },
+    {
+        "id": 13374,
+        "text": "na-an-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13375,
+        "text": "nanšan"
+    },
+    {
+        "id": 13377,
+        "text": "^m^EN-ta-ra-u-u̯a",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 13378,
+        "text": "ma-ni-i̯a-aḫ-ḫi-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13379,
+        "text": "manii̯aḫḫii̯a"
+    },
+    {
+        "id": 13380,
+        "text": "iš-ḫu-u̯a-a-it-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13381,
+        "text": "išḫuu̯āitta"
+    },
+    {
+        "id": 13382,
+        "text": "ki-nu-na-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13383,
+        "text": "kinunakan"
+    },
+    {
+        "id": 13385,
+        "text": "ma-ni-i̯a-aḫ-ḫi-i̯a-az",
+        "syllabographic": true
+    },
+    {
+        "id": 13386,
+        "text": "manii̯aḫḫii̯az"
+    },
+    {
+        "id": 13387,
+        "text": "an-na-al-li-in",
+        "syllabographic": true
+    },
+    {
+        "id": 13388,
+        "text": "annallin"
+    },
+    {
+        "id": 13389,
+        "text": "annalli",
+        "gloss": "früherer",
+        "pos": "N"
+    },
+    {
+        "id": 13390,
+        "text": "u̯a-ar-ra-aš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 13391,
+        "text": "u̯arrašša"
+    },
+    {
+        "id": 13392,
+        "text": "ni-ni-ik-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 13393,
+        "text": "ninikši"
+    },
+    {
+        "id": 13395,
+        "text": "a-pu-u-un",
+        "syllabographic": true
+    },
+    {
+        "id": 13396,
+        "text": "apūn"
+    },
+    {
+        "id": 13397,
+        "text": "e-ep-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13398,
+        "text": "ēpdu"
+    },
+    {
+        "id": 13399,
+        "text": "ēpp",
+        "gloss": "fassen",
+        "pos": "V"
+    },
+    {
+        "id": 13400,
+        "text": "KIN-az",
+        "syllabographic": true
+    },
+    {
+        "id": 13401,
+        "text": "ša-me-e-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13402,
+        "text": "šamēzzi"
+    },
+    {
+        "id": 13403,
+        "text": "šame-",
+        "gloss": "vorbeigehen",
+        "pos": "V"
+    },
+    {
+        "id": 13405,
+        "text": "išḫuu̯āi",
+        "gloss": "scatter",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "refText": "Puhvel 1984:404"
+            }
+        ]
+    },
+    {
+        "id": 13406,
+        "text": "manii̯aḫḫāi-",
+        "gloss": "district",
+        "pos": "N",
+        "classes": [
+            "C"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "135"
+            }
+        ]
+    },
+    {
+        "id": 13407,
+        "text": "KIN",
+        "gloss": "work",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "281"
+            }
+        ]
     }
 ]
