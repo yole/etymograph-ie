@@ -7499,6 +7499,7 @@
         "id": 12863,
         "text": "liliu̯aḫḫ-",
         "gloss": "hurry",
+        "fullGloss": "hurry; eilen(?)",
         "pos": "V"
     },
     {
@@ -9427,5 +9428,35 @@
         "gloss": "Ea",
         "pos": "NP",
         "syllabographic": true
+    },
+    {
+        "id": 13362,
+        "text": "a-pé-e-da-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 13363,
+        "text": "apēdani"
+    },
+    {
+        "id": 13365,
+        "text": "GEŠTIN",
+        "gloss": "wine",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 13366,
+        "text": "UDU^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 13367,
+        "text": "li-li-u̯a-aḫ-ḫu-u-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13368,
+        "text": "liliu̯aḫḫūanzi"
     }
 ]

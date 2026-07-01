@@ -6155,5 +6155,28 @@
                 "id": 11318
             }
         ]
+    },
+    {
+        "id": 13361,
+        "text": "Vs. 1# _UM-MA ^d^UTU^_ŠI^-_MA\nVs. 2# _[A]-NA ^m^ka-aš-šu-ú\nVs. 3# _QÍ-BÍ-MA\n---\nVs. 4# a-pé-e-[d]a-[n]i KUR-e\nVs. 5# _Š[A GE]ŠTIN _ŠA GU4^[Ḫ]I.A^ UDU^Ḫ[I].A^\nVs. 6# ut-tar ku-[i]t\nVs. 7# ma-aḫ-ḫa-an nu-[m]u\nVs. 8# li-li-u̯a-aḫ-ḫu-u-an-z[i]\nVs. 9# ḫa-at-ra-a-i\n---\n",
+        "title": "HKM 4",
+        "words": [
+            {
+                "index": 5,
+                "id": 13362
+            },
+            {
+                "index": 8,
+                "id": 13365
+            },
+            {
+                "index": 11,
+                "id": 13366
+            },
+            {
+                "index": 16,
+                "id": 13367
+            }
+        ]
     }
 ]
