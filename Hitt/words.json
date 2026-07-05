@@ -9643,5 +9643,21 @@
                 "refText": "281"
             }
         ]
+    },
+    {
+        "id": 13408,
+        "text": "u̯arraš"
+    },
+    {
+        "id": 13410,
+        "text": "u̯arri-",
+        "gloss": "hilfreich",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "245"
+            }
+        ]
     }
 ]
