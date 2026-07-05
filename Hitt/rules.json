@@ -624,7 +624,8 @@
         "addedCategories": ".ABL",
         "fromPOS": [
             "N",
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {

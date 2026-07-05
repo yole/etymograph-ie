@@ -1829,6 +1829,7 @@
         "id": 10784,
         "text": "ēpp-",
         "gloss": "seize",
+        "fullGloss": "seize; fassen",
         "pos": "V",
         "classes": [
             "mi"
@@ -9659,5 +9660,255 @@
                 "refText": "245"
             }
         ]
+    },
+    {
+        "id": 13412,
+        "text": "ki-iš-ša-an-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13413,
+        "text": "kiššanmu"
+    },
+    {
+        "id": 13414,
+        "text": "ka-a-ša-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13415,
+        "text": "kāšau̯a"
+    },
+    {
+        "id": 13416,
+        "text": "nu-u̯a-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13417,
+        "text": "nuu̯azakan"
+    },
+    {
+        "id": 13418,
+        "text": "z",
+        "gloss": "REFL"
+    },
+    {
+        "id": 13420,
+        "text": "^URU^ka-ši-pu-ra-an-ma-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13421,
+        "text": "kašipuranmau̯akan",
+        "pos": "NP"
+    },
+    {
+        "id": 13422,
+        "text": "ke-e-ez",
+        "syllabographic": true
+    },
+    {
+        "id": 13423,
+        "text": "kēz"
+    },
+    {
+        "id": 13424,
+        "text": "a-pa-a-aš-ma-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13425,
+        "text": "apāšmau̯akan"
+    },
+    {
+        "id": 13426,
+        "text": "iš-tar-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13427,
+        "text": "ištarna",
+        "gloss": "within",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "92"
+            }
+        ]
+    },
+    {
+        "id": 13428,
+        "text": "nam-ma-ma-u̯a-〈ra〉-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13429,
+        "text": "nammamau̯araš"
+    },
+    {
+        "id": 13430,
+        "text": "nu-u̯a-ra-at",
+        "syllabographic": true
+    },
+    {
+        "id": 13431,
+        "text": "nuu̯arat"
+    },
+    {
+        "id": 13432,
+        "text": "_I-DE",
+        "gloss": "know",
+        "syllabographic": true
+    },
+    {
+        "id": 13433,
+        "text": "al-u̯a-an-za-aḫ-ḫa-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 13434,
+        "text": "alu̯anzaḫḫanza"
+    },
+    {
+        "id": 13435,
+        "text": "ša-a-ak-ta〈〈aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13436,
+        "text": "šākta〈〈aš"
+    },
+    {
+        "id": 13437,
+        "text": "pa-aḫ-ḫa-aš-nu-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 13438,
+        "text": "paḫḫašnuanza"
+    },
+    {
+        "id": 13439,
+        "text": "ki-iš-ša-an-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13440,
+        "text": "kiššanmamu"
+    },
+    {
+        "id": 13441,
+        "text": "^LÚ.MEŠ^ša-pa-ša-al-li-e-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 13442,
+        "text": "šapašallieš"
+    },
+    {
+        "id": 13443,
+        "text": "_AŠ-PUR",
+        "syllabographic": true
+    },
+    {
+        "id": 13444,
+        "text": "^URU^ma-la-az-zi-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13445,
+        "text": "malazzian"
+    },
+    {
+        "id": 13446,
+        "text": "^URU^tág-ga-aš-ta-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13447,
+        "text": "takkaštanna",
+        "pos": "NP"
+    },
+    {
+        "id": 13448,
+        "text": "takkaštan"
+    },
+    {
+        "id": 13450,
+        "text": "takkašta",
+        "gloss": "Tak(k)ašta",
+        "pos": "NP"
+    },
+    {
+        "id": 13451,
+        "text": "ša-pa-ši-i̯a-ar",
+        "syllabographic": true
+    },
+    {
+        "id": 13452,
+        "text": "šapašii̯ar"
+    },
+    {
+        "id": 13453,
+        "text": "šapašii̯e",
+        "gloss": "spähen",
+        "pos": "V"
+    },
+    {
+        "id": 13454,
+        "text": "ú-u̯a-at",
+        "syllabographic": true
+    },
+    {
+        "id": 13455,
+        "text": "uu̯at"
+    },
+    {
+        "id": 13456,
+        "text": "du-u̯a-ad-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13457,
+        "text": "duu̯addu"
+    },
+    {
+        "id": 13458,
+        "text": "^LÚ^KÚR-za",
+        "syllabographic": true
+    },
+    {
+        "id": 13461,
+        "text": "kašipuran"
+    },
+    {
+        "id": 13466,
+        "text": "alu̯anzaḫḫ-",
+        "gloss": "enchant",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "20"
+            }
+        ]
+    },
+    {
+        "id": 13468,
+        "text": "šapašalli-",
+        "gloss": "spy",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "refText": "CHD Š:204"
+            }
+        ]
+    },
+    {
+        "id": 13469,
+        "text": "malazzia-",
+        "pos": "NP"
     }
 ]
