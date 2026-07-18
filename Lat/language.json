@@ -1,4 +1,596 @@
 {
-    "phonemes": [],
-    "protoLanguageShortName": "PItal"
+    "phonemes": [
+        {
+            "id": 13532,
+            "graphemes": [
+                "p"
+            ],
+            "classes": [
+                "voiceless",
+                "bilabial",
+                "stop"
+            ]
+        },
+        {
+            "id": 13533,
+            "graphemes": [
+                "t"
+            ],
+            "classes": [
+                "voiceless",
+                "alveolar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13534,
+            "graphemes": [
+                "c",
+                "k"
+            ],
+            "sound": "k",
+            "classes": [
+                "voiceless",
+                "velar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13535,
+            "graphemes": [
+                "qu"
+            ],
+            "sound": "kʷ",
+            "classes": [
+                "voiceless",
+                "labiovelar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13536,
+            "graphemes": [
+                "b"
+            ],
+            "classes": [
+                "voiced",
+                "bilabial",
+                "stop"
+            ]
+        },
+        {
+            "id": 13537,
+            "graphemes": [
+                "d"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13538,
+            "graphemes": [
+                "g"
+            ],
+            "classes": [
+                "voiced",
+                "velar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13539,
+            "graphemes": [],
+            "sound": "gʷ",
+            "classes": [
+                "voiced",
+                "labiovelar",
+                "stop"
+            ]
+        },
+        {
+            "id": 13540,
+            "graphemes": [
+                "f"
+            ],
+            "classes": [
+                "voiceless",
+                "labiodental",
+                "fricative"
+            ]
+        },
+        {
+            "id": 13541,
+            "graphemes": [
+                "s"
+            ],
+            "classes": [
+                "voiceless",
+                "alveolar",
+                "fricative"
+            ]
+        },
+        {
+            "id": 13542,
+            "graphemes": [
+                "v"
+            ],
+            "sound": "u̯",
+            "classes": [
+                "voiced",
+                "bilabial",
+                "approximant"
+            ]
+        },
+        {
+            "id": 13543,
+            "graphemes": [
+                "j"
+            ],
+            "sound": "i̯",
+            "classes": [
+                "voiced",
+                "velar",
+                "approximant"
+            ]
+        },
+        {
+            "id": 13544,
+            "graphemes": [
+                "m"
+            ],
+            "classes": [
+                "voiced",
+                "bilabial",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 13545,
+            "graphemes": [
+                "n"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 13546,
+            "graphemes": [
+                "l"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "lateral",
+                "approximant"
+            ]
+        },
+        {
+            "id": 13547,
+            "graphemes": [
+                "r"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "trill"
+            ]
+        },
+        {
+            "id": 13548,
+            "graphemes": [
+                "h"
+            ],
+            "classes": [
+                "voiceless",
+                "velar",
+                "fricative"
+            ]
+        },
+        {
+            "id": 13549,
+            "graphemes": [
+                "a"
+            ],
+            "classes": [
+                "central",
+                "open",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13550,
+            "graphemes": [
+                "o"
+            ],
+            "classes": [
+                "close-mid",
+                "back",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13551,
+            "graphemes": [
+                "u"
+            ],
+            "classes": [
+                "back",
+                "close",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13552,
+            "graphemes": [
+                "i"
+            ],
+            "classes": [
+                "front",
+                "close",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13553,
+            "graphemes": [
+                "e"
+            ],
+            "classes": [
+                "close-mid",
+                "front",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13554,
+            "graphemes": [
+                "ī"
+            ],
+            "classes": [
+                "long",
+                "front",
+                "close",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13555,
+            "graphemes": [
+                "ē"
+            ],
+            "classes": [
+                "long",
+                "close-mid",
+                "front",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13556,
+            "graphemes": [
+                "ū"
+            ],
+            "classes": [
+                "long",
+                "back",
+                "close",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13557,
+            "graphemes": [
+                "ō"
+            ],
+            "classes": [
+                "long",
+                "close-mid",
+                "back",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 13558,
+            "graphemes": [
+                "ā"
+            ],
+            "classes": [
+                "long",
+                "central",
+                "open",
+                "unrounded",
+                "vowel"
+            ]
+        }
+    ],
+    "protoLanguageShortName": "PItal",
+    "pos": [
+        {
+            "name": "Noun",
+            "abbreviation": "N"
+        },
+        {
+            "name": "Proper Noun",
+            "abbreviation": "NP"
+        },
+        {
+            "name": "Verb",
+            "abbreviation": "V"
+        },
+        {
+            "name": "Adjective",
+            "abbreviation": "ADJ"
+        },
+        {
+            "name": "Adverb",
+            "abbreviation": "ADV"
+        },
+        {
+            "name": "Preposition",
+            "abbreviation": "PREP"
+        },
+        {
+            "name": "Conjunction",
+            "abbreviation": "CONJ"
+        },
+        {
+            "name": "Pronoun",
+            "abbreviation": "PRON"
+        },
+        {
+            "name": "Affix",
+            "abbreviation": "AFF"
+        },
+        {
+            "name": "Particle",
+            "abbreviation": "PART"
+        }
+    ],
+    "grammaticalCategories": [
+        {
+            "name": "Number",
+            "pos": [
+                "N",
+                "NP",
+                "ADJ",
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Singular",
+                    "abbreviation": "SG"
+                },
+                {
+                    "name": "Plural",
+                    "abbreviation": "PL"
+                }
+            ]
+        },
+        {
+            "name": "Person",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "1st",
+                    "abbreviation": "1"
+                },
+                {
+                    "name": "2nd",
+                    "abbreviation": "2"
+                },
+                {
+                    "name": "3rd",
+                    "abbreviation": "3"
+                }
+            ]
+        },
+        {
+            "name": "Case",
+            "pos": [
+                "N",
+                "NP",
+                "ADJ"
+            ],
+            "values": [
+                {
+                    "name": "Nominative",
+                    "abbreviation": "NOM"
+                },
+                {
+                    "name": "Genitive",
+                    "abbreviation": "GEN"
+                },
+                {
+                    "name": "Dative",
+                    "abbreviation": "DAT"
+                },
+                {
+                    "name": "Accusative",
+                    "abbreviation": "ACC"
+                },
+                {
+                    "name": "Ablative",
+                    "abbreviation": "ABL"
+                },
+                {
+                    "name": "Vocative",
+                    "abbreviation": "VOC"
+                }
+            ]
+        },
+        {
+            "name": "Gender",
+            "pos": [
+                "ADJ",
+                "PRON"
+            ],
+            "values": [
+                {
+                    "name": "Masculine",
+                    "abbreviation": "M"
+                },
+                {
+                    "name": "Feminine",
+                    "abbreviation": "F"
+                },
+                {
+                    "name": "Neuter",
+                    "abbreviation": "N"
+                }
+            ]
+        },
+        {
+            "name": "Tense",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Present",
+                    "abbreviation": "PRES"
+                },
+                {
+                    "name": "Imperfect",
+                    "abbreviation": "IPF"
+                },
+                {
+                    "name": "Perfect",
+                    "abbreviation": "PF"
+                },
+                {
+                    "name": "Pluperfect",
+                    "abbreviation": "PLUPF"
+                },
+                {
+                    "name": "Future",
+                    "abbreviation": "FUT"
+                }
+            ]
+        },
+        {
+            "name": "Mood",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Indicative",
+                    "abbreviation": "IND"
+                },
+                {
+                    "name": "Subjunctive",
+                    "abbreviation": "SUBJ"
+                },
+                {
+                    "name": "Imperative",
+                    "abbreviation": "IPV"
+                }
+            ]
+        },
+        {
+            "name": "Voice",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Active",
+                    "abbreviation": "ACT"
+                },
+                {
+                    "name": "Passive",
+                    "abbreviation": "PASS"
+                }
+            ]
+        },
+        {
+            "name": "Non-finite forms",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Infinitive",
+                    "abbreviation": "INF"
+                },
+                {
+                    "name": "Participle",
+                    "abbreviation": "PTCP"
+                }
+            ]
+        },
+        {
+            "name": "Comparison degree",
+            "pos": [
+                "ADJ"
+            ],
+            "values": [
+                {
+                    "name": "Positive",
+                    "abbreviation": "POS"
+                },
+                {
+                    "name": "Comparative",
+                    "abbreviation": "COMP"
+                },
+                {
+                    "name": "Superlative",
+                    "abbreviation": "SUP"
+                }
+            ]
+        }
+    ],
+    "wordClasses": [
+        {
+            "name": "Gender",
+            "pos": [
+                "N"
+            ],
+            "values": [
+                {
+                    "name": "Masculine",
+                    "abbreviation": "M"
+                },
+                {
+                    "name": "Feminine",
+                    "abbreviation": "F"
+                },
+                {
+                    "name": "Neuter",
+                    "abbreviation": "N"
+                }
+            ]
+        },
+        {
+            "name": "Clitic",
+            "pos": [
+                "CONJ"
+            ],
+            "values": [
+                {
+                    "name": "clitic",
+                    "abbreviation": "clitic"
+                }
+            ]
+        }
+    ]
 }

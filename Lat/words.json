@@ -23,5 +23,718 @@
         "id": 10823,
         "text": "moneō",
         "gloss": "warn"
+    },
+    {
+        "id": 13620,
+        "text": "o",
+        "gloss": "o",
+        "pos": "PART"
+    },
+    {
+        "id": 13621,
+        "text": "navis",
+        "gloss": "ship",
+        "pos": "N"
+    },
+    {
+        "id": 13622,
+        "text": "refero",
+        "gloss": "bear",
+        "pos": "V"
+    },
+    {
+        "id": 13623,
+        "text": "referent"
+    },
+    {
+        "id": 13624,
+        "text": "in",
+        "gloss": "in",
+        "pos": "PREP"
+    },
+    {
+        "id": 13626,
+        "text": "tu",
+        "gloss": "you",
+        "pos": "PRON"
+    },
+    {
+        "id": 13627,
+        "text": "te"
+    },
+    {
+        "id": 13628,
+        "text": "novus",
+        "gloss": "new",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13629,
+        "text": "novi"
+    },
+    {
+        "id": 13631,
+        "text": "quis",
+        "gloss": "what",
+        "pos": "PRON"
+    },
+    {
+        "id": 13632,
+        "text": "quid"
+    },
+    {
+        "id": 13633,
+        "text": "ago",
+        "gloss": "do",
+        "pos": "V"
+    },
+    {
+        "id": 13634,
+        "text": "agis"
+    },
+    {
+        "id": 13635,
+        "text": "fortiter",
+        "gloss": "strongly",
+        "pos": "ADV"
+    },
+    {
+        "id": 13642,
+        "text": "occupare",
+        "gloss": "occupy",
+        "pos": "V"
+    },
+    {
+        "id": 13643,
+        "text": "occupa"
+    },
+    {
+        "id": 13644,
+        "text": "portus",
+        "gloss": "harbor",
+        "pos": "N",
+        "classes": [
+            "M"
+        ]
+    },
+    {
+        "id": 13645,
+        "text": "portum"
+    },
+    {
+        "id": 13646,
+        "text": "nonne",
+        "gloss": "not",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13647,
+        "text": "videō",
+        "gloss": "see",
+        "pos": "V"
+    },
+    {
+        "id": 13648,
+        "text": "vides"
+    },
+    {
+        "id": 13649,
+        "text": "ut",
+        "gloss": "that",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13650,
+        "text": "nudus",
+        "gloss": "nude",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13651,
+        "text": "nudum"
+    },
+    {
+        "id": 13652,
+        "text": "remigium",
+        "gloss": "rowing",
+        "pos": "N"
+    },
+    {
+        "id": 13653,
+        "text": "remigio"
+    },
+    {
+        "id": 13654,
+        "text": "et",
+        "gloss": "and",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13655,
+        "text": "saucius",
+        "gloss": "hurt",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13662,
+        "text": "gemo",
+        "gloss": "creak",
+        "pos": "V"
+    },
+    {
+        "id": 13663,
+        "text": "gemant"
+    },
+    {
+        "id": 13664,
+        "text": "antemnaeque"
+    },
+    {
+        "id": 13665,
+        "text": "antemnae"
+    },
+    {
+        "id": 13667,
+        "text": "que",
+        "gloss": "and",
+        "pos": "CONJ",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 13668,
+        "text": "antemna",
+        "gloss": "yard",
+        "fullGloss": "yard (on a ship)",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13669,
+        "text": "latus"
+    },
+    {
+        "id": 13671,
+        "text": "malus",
+        "gloss": "bad",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13672,
+        "text": "celer",
+        "gloss": "swift",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13673,
+        "text": "celeri"
+    },
+    {
+        "id": 13674,
+        "text": "Africus",
+        "pos": "NP"
+    },
+    {
+        "id": 13675,
+        "text": "Africo"
+    },
+    {
+        "id": 13676,
+        "text": "ac",
+        "gloss": "and",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13677,
+        "text": "sine",
+        "gloss": "without",
+        "pos": "PREP"
+    },
+    {
+        "id": 13678,
+        "text": "funis",
+        "gloss": "rope",
+        "pos": "N"
+    },
+    {
+        "id": 13679,
+        "text": "funibus"
+    },
+    {
+        "id": 13680,
+        "text": "vix",
+        "gloss": "with difficulty",
+        "pos": "ADV"
+    },
+    {
+        "id": 13682,
+        "text": "durō",
+        "gloss": "endure",
+        "pos": "V"
+    },
+    {
+        "id": 13683,
+        "text": "durare"
+    },
+    {
+        "id": 13684,
+        "text": "carina",
+        "gloss": "keel",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13685,
+        "text": "carinae"
+    },
+    {
+        "id": 13686,
+        "text": "possum",
+        "gloss": "can",
+        "pos": "V"
+    },
+    {
+        "id": 13687,
+        "text": "possint"
+    },
+    {
+        "id": 13689,
+        "text": "imperiosus",
+        "gloss": "mighty",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13690,
+        "text": "imperiosius"
+    },
+    {
+        "id": 13691,
+        "text": "aequor"
+    },
+    {
+        "id": 13692,
+        "text": "aequor",
+        "gloss": "sea",
+        "pos": "N"
+    },
+    {
+        "id": 13693,
+        "text": "non",
+        "gloss": "not",
+        "pos": "PART"
+    },
+    {
+        "id": 13694,
+        "text": "tibi"
+    },
+    {
+        "id": 13695,
+        "text": "sum",
+        "gloss": "be",
+        "pos": "V"
+    },
+    {
+        "id": 13696,
+        "text": "sunt"
+    },
+    {
+        "id": 13697,
+        "text": "integer",
+        "gloss": "intact",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13698,
+        "text": "integra"
+    },
+    {
+        "id": 13699,
+        "text": "linteum",
+        "gloss": "linen cloth",
+        "fullGloss": "linen cloth, sail",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13700,
+        "text": "lintea"
+    },
+    {
+        "id": 13701,
+        "text": "deus",
+        "gloss": "god",
+        "pos": "N"
+    },
+    {
+        "id": 13702,
+        "text": "di"
+    },
+    {
+        "id": 13703,
+        "text": "quos"
+    },
+    {
+        "id": 13704,
+        "text": "iterum",
+        "gloss": "again",
+        "pos": "ADV"
+    },
+    {
+        "id": 13705,
+        "text": "vocō",
+        "gloss": "call",
+        "pos": "V"
+    },
+    {
+        "id": 13706,
+        "text": "voces"
+    },
+    {
+        "id": 13707,
+        "text": "malo"
+    },
+    {
+        "id": 13708,
+        "text": "premō",
+        "gloss": "press",
+        "pos": "V"
+    },
+    {
+        "id": 13709,
+        "text": "pressa"
+    },
+    {
+        "id": 13710,
+        "text": "quamvis",
+        "gloss": "although",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13711,
+        "text": "Ponticus",
+        "gloss": "pontic",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13712,
+        "text": "Pontica"
+    },
+    {
+        "id": 13713,
+        "text": "pinus",
+        "gloss": "pine",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13714,
+        "text": "silva",
+        "gloss": "forest",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13715,
+        "text": "silvae"
+    },
+    {
+        "id": 13716,
+        "text": "filia",
+        "gloss": "daughter",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13717,
+        "text": "nobilis",
+        "gloss": "noble",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13718,
+        "text": "iactō",
+        "gloss": "throw",
+        "pos": "V"
+    },
+    {
+        "id": 13719,
+        "text": "iactes"
+    },
+    {
+        "id": 13720,
+        "text": "genus"
+    },
+    {
+        "id": 13721,
+        "text": "genus",
+        "gloss": "lineage",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13722,
+        "text": "nomen"
+    },
+    {
+        "id": 13723,
+        "text": "nomen",
+        "gloss": "name",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13724,
+        "text": "inutilis",
+        "gloss": "useless",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13725,
+        "text": "inutile"
+    },
+    {
+        "id": 13726,
+        "text": "nil"
+    },
+    {
+        "id": 13727,
+        "text": "nihil",
+        "gloss": "nothing",
+        "pos": "PRON"
+    },
+    {
+        "id": 13728,
+        "text": "timidus",
+        "gloss": "timid",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13729,
+        "text": "navita",
+        "gloss": "sailor",
+        "pos": "N",
+        "classes": [
+            "M"
+        ]
+    },
+    {
+        "id": 13730,
+        "text": "pingō",
+        "gloss": "paint",
+        "pos": "V"
+    },
+    {
+        "id": 13731,
+        "text": "pictis"
+    },
+    {
+        "id": 13732,
+        "text": "puppis",
+        "gloss": "stern",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13733,
+        "text": "puppibus"
+    },
+    {
+        "id": 13734,
+        "text": "fidō",
+        "gloss": "trust",
+        "pos": "V"
+    },
+    {
+        "id": 13735,
+        "text": "fidit"
+    },
+    {
+        "id": 13736,
+        "text": "nisi",
+        "gloss": "if not",
+        "pos": "CONJ"
+    },
+    {
+        "id": 13737,
+        "text": "debeō",
+        "gloss": "must",
+        "pos": "V"
+    },
+    {
+        "id": 13738,
+        "text": "debes"
+    },
+    {
+        "id": 13739,
+        "text": "ludibrium",
+        "gloss": "mockery",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13740,
+        "text": "caveō",
+        "gloss": "beware",
+        "pos": "V"
+    },
+    {
+        "id": 13741,
+        "text": "cave"
+    },
+    {
+        "id": 13742,
+        "text": "mare",
+        "gloss": "sea",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13743,
+        "text": "mare"
+    },
+    {
+        "id": 13744,
+        "text": "fluctus",
+        "gloss": "wave",
+        "pos": "N"
+    },
+    {
+        "id": 13745,
+        "text": "fluctus"
+    },
+    {
+        "id": 13746,
+        "text": "nuper",
+        "gloss": "newly",
+        "pos": "ADV"
+    },
+    {
+        "id": 13747,
+        "text": "ego",
+        "gloss": "I",
+        "pos": "PRON"
+    },
+    {
+        "id": 13748,
+        "text": "mihi"
+    },
+    {
+        "id": 13749,
+        "text": "taedium",
+        "gloss": "weariness",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13750,
+        "text": "nunc",
+        "gloss": "now",
+        "pos": "ADV"
+    },
+    {
+        "id": 13751,
+        "text": "vitō",
+        "gloss": "avoid",
+        "pos": "V"
+    },
+    {
+        "id": 13752,
+        "text": "vites"
+    },
+    {
+        "id": 13753,
+        "text": "aequora"
+    },
+    {
+        "id": 13754,
+        "text": "interfundo",
+        "gloss": "pour between",
+        "pos": "V"
+    },
+    {
+        "id": 13755,
+        "text": "interfusa"
+    },
+    {
+        "id": 13757,
+        "text": "niteo",
+        "gloss": "shine",
+        "pos": "V"
+    },
+    {
+        "id": 13758,
+        "text": "nitentis"
+    },
+    {
+        "id": 13759,
+        "text": "Cyclas",
+        "pos": "NP"
+    },
+    {
+        "id": 13760,
+        "text": "Cycladas"
+    },
+    {
+        "id": 13761,
+        "text": "desiderium",
+        "gloss": "longing",
+        "pos": "N",
+        "classes": [
+            "N"
+        ]
+    },
+    {
+        "id": 13762,
+        "text": "curaque"
+    },
+    {
+        "id": 13763,
+        "text": "cura",
+        "gloss": "care",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 13765,
+        "text": "levis",
+        "gloss": "light",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13766,
+        "text": "sollicitus",
+        "gloss": "thoroughly moved",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13767,
+        "text": "sollicitum"
     }
 ]

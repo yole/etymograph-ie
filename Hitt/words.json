@@ -4596,6 +4596,7 @@
         "id": 11568,
         "text": "pai-",
         "gloss": "go",
+        "fullGloss": "go; gehen",
         "pos": "V",
         "classes": [
             "mi"
@@ -9910,5 +9911,272 @@
         "id": 13469,
         "text": "malazzia-",
         "pos": "NP"
+    },
+    {
+        "id": 13471,
+        "text": "pí-i-e-nu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 13472,
+        "text": "pīenun"
+    },
+    {
+        "id": 13473,
+        "text": "pa-a-er",
+        "syllabographic": true
+    },
+    {
+        "id": 13474,
+        "text": "pāer"
+    },
+    {
+        "id": 13476,
+        "text": "^URU^tág-ga-aš-ta-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13477,
+        "text": "takkaštan",
+        "pos": "NP"
+    },
+    {
+        "id": 13478,
+        "text": "^URU^ú-ku-du-i-pu-na-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 13479,
+        "text": "ukutuipunanna",
+        "pos": "NP"
+    },
+    {
+        "id": 13480,
+        "text": "ša-pa-ši-i̯a-u-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13481,
+        "text": "šapašii̯auan"
+    },
+    {
+        "id": 13482,
+        "text": "la-at-ta-ri-i̯a-an-ti-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 13483,
+        "text": "lattarii̯antiaš"
+    },
+    {
+        "id": 13484,
+        "text": "ÍD-ša-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13485,
+        "text": "ḫu-it-ti-i̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13486,
+        "text": "ḫuittii̯an"
+    },
+    {
+        "id": 13487,
+        "text": "ud-da-ni-i",
+        "syllabographic": true
+    },
+    {
+        "id": 13488,
+        "text": "uddanī"
+    },
+    {
+        "id": 13489,
+        "text": "ú-e-ra-an-za-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 13490,
+        "text": "ueranzapat"
+    },
+    {
+        "id": 13491,
+        "text": "^LÚ.MEŠ^ša-pa-ša-al-li-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13492,
+        "text": "šapašalliuš"
+    },
+    {
+        "id": 13493,
+        "text": "pí-i-e-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13494,
+        "text": "pīei̯a"
+    },
+    {
+        "id": 13495,
+        "text": "ša-pa-ši-i̯a-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 13496,
+        "text": "šapašii̯andu"
+    },
+    {
+        "id": 13497,
+        "text": "ka-a-aš-ma-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13498,
+        "text": "kāšmatta"
+    },
+    {
+        "id": 13499,
+        "text": "ka-ru-ú-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13500,
+        "text": "karūi̯a"
+    },
+    {
+        "id": 13501,
+        "text": "karūi̯"
+    },
+    {
+        "id": 13503,
+        "text": "karu",
+        "gloss": "früher"
+    },
+    {
+        "id": 13504,
+        "text": "^D^UTU-_ŠI",
+        "syllabographic": true
+    },
+    {
+        "id": 13505,
+        "text": "KASKAL-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 13506,
+        "text": "ḫu-it-ti-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13507,
+        "text": "ḫuittii̯a"
+    },
+    {
+        "id": 13508,
+        "text": "ú-u̯a-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 13509,
+        "text": "uu̯ami"
+    },
+    {
+        "id": 13510,
+        "text": "u̯ē",
+        "gloss": "kommen",
+        "pos": "V"
+    },
+    {
+        "id": 13511,
+        "text": "ÉRIN^MEŠ.ḪI.A^-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 13512,
+        "text": "ta-ru-up-pa-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 13513,
+        "text": "taruppanda"
+    },
+    {
+        "id": 13514,
+        "text": "tu-ga-az",
+        "syllabographic": true
+    },
+    {
+        "id": 13515,
+        "text": "tugaz"
+    },
+    {
+        "id": 13516,
+        "text": "zik",
+        "gloss": "du"
+    },
+    {
+        "id": 13517,
+        "text": "^m^ka-aš-šu-ú-un",
+        "syllabographic": true
+    },
+    {
+        "id": 13518,
+        "text": "kaššūn",
+        "pos": "NP"
+    },
+    {
+        "id": 13519,
+        "text": "kaššu",
+        "gloss": "Kaš(š)u",
+        "pos": "NP"
+    },
+    {
+        "id": 13520,
+        "text": "^URU^ga-aš-ga",
+        "syllabographic": true
+    },
+    {
+        "id": 13521,
+        "text": "kaška",
+        "pos": "NP"
+    },
+    {
+        "id": 13522,
+        "text": "an-ku",
+        "syllabographic": true
+    },
+    {
+        "id": 13523,
+        "text": "anku",
+        "gloss": "ganz und gar"
+    },
+    {
+        "id": 13524,
+        "text": "_ŠU-PUR",
+        "syllabographic": true
+    },
+    {
+        "id": 13525,
+        "text": "pa-aḫ-ḫa-aš-nu-u̯a-an-te-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 13526,
+        "text": "paḫḫašnuu̯anteš"
+    },
+    {
+        "id": 13527,
+        "text": "ukutuipunan"
+    },
+    {
+        "id": 13529,
+        "text": "ukutuipuna",
+        "pos": "NP"
+    },
+    {
+        "id": 13530,
+        "text": "ueranza"
     }
 ]

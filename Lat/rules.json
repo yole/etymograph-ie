@@ -1,0 +1,831 @@
+[
+    {
+        "id": 13560,
+        "name": "lat-nom-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13561,
+        "name": "lat-nom-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13562,
+        "name": "lat-gen-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13563,
+        "name": "lat-gen-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13564,
+        "name": "lat-dat-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13565,
+        "name": "lat-dat-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13566,
+        "name": "lat-acc-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13567,
+        "name": "lat-acc-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13568,
+        "name": "lat-abl-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13569,
+        "name": "lat-abl-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13570,
+        "name": "lat-voc-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.SG",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13571,
+        "name": "lat-voc-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.PL",
+        "fromPOS": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 13572,
+        "name": "lat-adj-nom-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13573,
+        "name": "lat-adj-nom-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13574,
+        "name": "lat-adj-nom-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13575,
+        "name": "lat-adj-nom-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13576,
+        "name": "lat-adj-nom-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13577,
+        "name": "lat-adj-nom-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".NOM.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13578,
+        "name": "lat-adj-gen-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13579,
+        "name": "lat-adj-gen-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13580,
+        "name": "lat-adj-gen-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13581,
+        "name": "lat-adj-gen-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13582,
+        "name": "lat-adj-gen-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13583,
+        "name": "lat-adj-gen-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".GEN.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13584,
+        "name": "lat-adj-dat-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13585,
+        "name": "lat-adj-dat-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13586,
+        "name": "lat-adj-dat-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13587,
+        "name": "lat-adj-dat-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13588,
+        "name": "lat-adj-dat-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13589,
+        "name": "lat-adj-dat-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".DAT.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13590,
+        "name": "lat-adj-acc-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13591,
+        "name": "lat-adj-acc-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13592,
+        "name": "lat-adj-acc-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13593,
+        "name": "lat-adj-acc-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13594,
+        "name": "lat-adj-acc-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13595,
+        "name": "lat-adj-acc-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ACC.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13596,
+        "name": "lat-adj-abl-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13597,
+        "name": "lat-adj-abl-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13598,
+        "name": "lat-adj-abl-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13599,
+        "name": "lat-adj-abl-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13600,
+        "name": "lat-adj-abl-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13601,
+        "name": "lat-adj-abl-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".ABL.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13602,
+        "name": "lat-adj-voc-m-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.M.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13603,
+        "name": "lat-adj-voc-m-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.M.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13604,
+        "name": "lat-adj-voc-f-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.F.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13605,
+        "name": "lat-adj-voc-f-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.F.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13606,
+        "name": "lat-adj-voc-n-sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.N.SG",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13607,
+        "name": "lat-adj-voc-n-pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".VOC.N.PL",
+        "fromPOS": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 13608,
+        "name": "lat-1sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13609,
+        "name": "lat-1pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13610,
+        "name": "lat-2sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13611,
+        "name": "lat-2pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13612,
+        "name": "lat-3sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13613,
+        "name": "lat-3pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13614,
+        "name": "lat-fut-1sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13615,
+        "name": "lat-fut-1pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13616,
+        "name": "lat-fut-2sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13617,
+        "name": "lat-fut-2pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13618,
+        "name": "lat-fut-3sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13619,
+        "name": "lat-fut-3pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".FUT.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13638,
+        "name": "lat-imp-2sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".IMP.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13639,
+        "name": "lat-imp-2pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".IMP.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13640,
+        "name": "lat-imp-3sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".IMP.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13641,
+        "name": "lat-imp-3pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".IMP.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13656,
+        "name": "lat-subj-1sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13657,
+        "name": "lat-subj-1pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13658,
+        "name": "lat-subj-2sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13659,
+        "name": "lat-subj-2pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13660,
+        "name": "lat-subj-3sg",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13661,
+        "name": "lat-subj-3pl",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".SUBJ.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13670,
+        "name": "lat-pass-ptcp",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".PASS.PTCP",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ"
+    },
+    {
+        "id": 13681,
+        "name": "lat-inf",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".INF",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13688,
+        "name": "lat-comp",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".COMP",
+        "fromPOS": [
+            "ADJ"
+        ],
+        "toPOS": "ADJ"
+    },
+    {
+        "id": 13756,
+        "name": "lat-ptcp",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [],
+        "addedCategories": ".PTCP",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ"
+    }
+]

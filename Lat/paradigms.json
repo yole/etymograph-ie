@@ -1,0 +1,522 @@
+[
+    {
+        "id": 81,
+        "name": "Noun",
+        "rows": [
+            "NOM",
+            "GEN",
+            "DAT",
+            "ACC",
+            "ABL",
+            "VOC"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13560
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13562
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13564
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13566
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13568
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13570
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13561
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13563
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13565
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13567
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13569
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13571
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "N",
+            "NP"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Adjective",
+        "rows": [
+            "NOM",
+            "GEN",
+            "DAT",
+            "ACC",
+            "ABL",
+            "VOC"
+        ],
+        "columns": [
+            {
+                "title": "M SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13572
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13578
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13584
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13590
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13596
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13602
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "M PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13573
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13579
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13585
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13591
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13597
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13603
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "F SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13574
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13580
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13586
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13592
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13598
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13604
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "F PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13575
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13581
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13587
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13593
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13599
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13605
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "N SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13576
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13582
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13588
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13594
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13600
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13606
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "N PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13577
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13583
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13589
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13595
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13601
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13607
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "ADJ"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Verb Present Indicative",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13608
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13610
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13612
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13609
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13611
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13613
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Verb Future Indicative",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13614
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13616
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13618
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13615
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13617
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13619
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Verb Imperative",
+        "rows": [
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13638
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13640
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13639
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13641
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Verb Present Subjunctive",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13656
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13658
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13660
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13657
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13659
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13661
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    }
+]
