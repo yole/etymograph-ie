@@ -1,22 +1,118 @@
 [
     {
-        "id": 13560,
-        "name": "lat-nom-sg",
-        "fromLang": "Lat",
-        "toLang": "Lat",
-        "branches": [],
-        "addedCategories": ".NOM.SG",
-        "fromPOS": [
-            "N",
-            "NP"
-        ]
-    },
-    {
         "id": 13561,
         "name": "lat-nom-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13776"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13798"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "2-decl"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "m"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13777"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "wordIs",
+                                    "wordClass": "2-decl"
+                                },
+                                {
+                                    "type": "wordIs",
+                                    "wordClass": "3-decl"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "n"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13789"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13797"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".NOM.PL",
         "fromPOS": [
             "N",
@@ -28,7 +124,74 @@
         "name": "lat-gen-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13770"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13771"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13785"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13792"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".GEN.SG",
         "fromPOS": [
             "N",
@@ -40,7 +203,74 @@
         "name": "lat-gen-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13783"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13778"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13790"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13799"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".GEN.PL",
         "fromPOS": [
             "N",
@@ -52,7 +282,74 @@
         "name": "lat-dat-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13780"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13773"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13786"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13793"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".DAT.SG",
         "fromPOS": [
             "N",
@@ -64,7 +361,93 @@
         "name": "lat-dat-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13784"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13779"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13791"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "i"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13791"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "or",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-decl"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "4-decl"
+                        }
+                    ]
+                }
+            }
+        ],
         "addedCategories": ".DAT.PL",
         "fromPOS": [
             "N",
@@ -76,7 +459,86 @@
         "name": "lat-acc-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "UseBaseForm",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "n"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13781"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13772"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13787"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13794"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".ACC.SG",
         "fromPOS": [
             "N",
@@ -88,7 +550,36 @@
         "name": "lat-acc-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13561"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "n"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13789"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            }
+        ],
         "addedCategories": ".ACC.PL",
         "fromPOS": [
             "N",
@@ -100,7 +591,126 @@
         "name": "lat-abl-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13782"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "a"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13774"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13802"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "i"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "n"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13788"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "i"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13788"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "3-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13796"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "4-decl"
+                }
+            }
+        ],
         "addedCategories": ".ABL.SG",
         "fromPOS": [
             "N",
@@ -112,7 +722,21 @@
         "name": "lat-abl-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13565"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ABL.PL",
         "fromPOS": [
             "N",
@@ -124,7 +748,33 @@
         "name": "lat-voc-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13775"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "2-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".VOC.SG",
         "fromPOS": [
             "N",
@@ -136,7 +786,21 @@
         "name": "lat-voc-pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13561"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".VOC.PL",
         "fromPOS": [
             "N",
@@ -156,10 +820,24 @@
     },
     {
         "id": 13573,
-        "name": "lat-adj-nom-m-pl",
+        "name": "lat-adj-nom-pl-m",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13561"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".NOM.M.PL",
         "fromPOS": [
             "ADJ"
@@ -170,7 +848,23 @@
         "name": "lat-adj-nom-f-sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13803"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "us"
+                }
+            }
+        ],
         "addedCategories": ".NOM.F.SG",
         "fromPOS": [
             "ADJ"
@@ -189,10 +883,41 @@
     },
     {
         "id": 13576,
-        "name": "lat-adj-nom-n-sg",
+        "name": "lat-adj-nom-sg-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13805"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "us"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13804"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "is"
+                }
+            }
+        ],
         "addedCategories": ".NOM.N.SG",
         "fromPOS": [
             "ADJ"
@@ -200,10 +925,30 @@
     },
     {
         "id": 13577,
-        "name": "lat-adj-nom-n-pl",
+        "name": "lat-adj-nom-pl-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "n"
+                        ]
+                    },
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13561"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".NOM.N.PL",
         "fromPOS": [
             "ADJ"
@@ -310,10 +1055,24 @@
     },
     {
         "id": 13587,
-        "name": "lat-adj-dat-f-pl",
+        "name": "lat-adj-dat-pl-f",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13565"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".DAT.F.PL",
         "fromPOS": [
             "ADJ"
@@ -332,10 +1091,24 @@
     },
     {
         "id": 13589,
-        "name": "lat-adj-dat-n-pl",
+        "name": "lat-adj-dat-pl-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13565"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".DAT.N.PL",
         "fromPOS": [
             "ADJ"
@@ -343,10 +1116,24 @@
     },
     {
         "id": 13590,
-        "name": "lat-adj-acc-m-sg",
+        "name": "lat-adj-acc-sg-m",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13566"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ACC.M.SG",
         "fromPOS": [
             "ADJ"
@@ -387,10 +1174,24 @@
     },
     {
         "id": 13594,
-        "name": "lat-adj-acc-n-sg",
+        "name": "lat-adj-acc-sg-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13576"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ACC.N.SG",
         "fromPOS": [
             "ADJ"
@@ -398,10 +1199,24 @@
     },
     {
         "id": 13595,
-        "name": "lat-adj-acc-n-pl",
+        "name": "lat-adj-acc-pl-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13577"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ACC.N.PL",
         "fromPOS": [
             "ADJ"
@@ -409,10 +1224,24 @@
     },
     {
         "id": 13596,
-        "name": "lat-adj-abl-m-sg",
+        "name": "lat-adj-abl-sg-m",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13568"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ABL.M.SG",
         "fromPOS": [
             "ADJ"
@@ -464,10 +1293,24 @@
     },
     {
         "id": 13601,
-        "name": "lat-adj-abl-n-pl",
+        "name": "lat-adj-abl-pl-n",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13589"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".ABL.N.PL",
         "fromPOS": [
             "ADJ"
@@ -540,22 +1383,46 @@
         ]
     },
     {
-        "id": 13608,
-        "name": "lat-1sg",
-        "fromLang": "Lat",
-        "toLang": "Lat",
-        "branches": [],
-        "addedCategories": ".1SG",
-        "fromPOS": [
-            "V"
-        ]
-    },
-    {
         "id": 13609,
         "name": "lat-1pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13811"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13811"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".1PL",
         "fromPOS": [
             "V"
@@ -566,7 +1433,42 @@
         "name": "lat-2sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13808"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13808"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".2SG",
         "fromPOS": [
             "V"
@@ -577,7 +1479,42 @@
         "name": "lat-2pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13812"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13812"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".2PL",
         "fromPOS": [
             "V"
@@ -588,7 +1525,49 @@
         "name": "lat-3sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13810"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ApplySoundRule",
+                        "args": [
+                            "13809",
+                            "last vowel"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13810"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".3SG",
         "fromPOS": [
             "V"
@@ -599,7 +1578,51 @@
         "name": "lat-3pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "unt"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'unt'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "i"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13813"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".3PL",
         "fromPOS": [
             "V"
@@ -676,7 +1699,19 @@
         "name": "lat-imp-2sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".IMP.2SG",
         "fromPOS": [
             "V"
@@ -720,7 +1755,21 @@
         "name": "lat-subj-1sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13815"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.1SG",
         "fromPOS": [
             "V"
@@ -731,7 +1780,21 @@
         "name": "lat-subj-1pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13811"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.1PL",
         "fromPOS": [
             "V"
@@ -742,7 +1805,21 @@
         "name": "lat-subj-2sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13808"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.2SG",
         "fromPOS": [
             "V"
@@ -753,7 +1830,21 @@
         "name": "lat-subj-2pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13812"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.2PL",
         "fromPOS": [
             "V"
@@ -764,7 +1855,28 @@
         "name": "lat-subj-3sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplySoundRule",
+                        "args": [
+                            "13809",
+                            "last vowel"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13810"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.3SG",
         "fromPOS": [
             "V"
@@ -775,7 +1887,21 @@
         "name": "lat-subj-3pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13813"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".SUBJ.3PL",
         "fromPOS": [
             "V"
@@ -786,7 +1912,27 @@
         "name": "lat-pass-ptcp",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13807"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13831"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PASS.PTCP",
         "fromPOS": [
             "V"
@@ -798,7 +1944,27 @@
         "name": "lat-inf",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13807"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13816"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".INF",
         "fromPOS": [
             "V"
@@ -821,11 +1987,536 @@
         "name": "lat-ptcp",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "13807"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13817"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PTCP",
         "fromPOS": [
             "V"
         ],
         "toPOS": "ADJ"
+    },
+    {
+        "id": 13768,
+        "name": "lat-n-stem",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "1-decl"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "2-decl"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "us"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "um"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "4-decl"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "us"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "2-decl"
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "m"
+                        ]
+                    },
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "us"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-decl",
+                            "negated": true
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "4-decl",
+                            "negated": true
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "n"
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "2-decl"
+                        ]
+                    },
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "um"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "1-decl"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "3-decl"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "i"
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "3-decl"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "is"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "nt"
+                        ]
+                    },
+                    {
+                        "type": "ApplyClass",
+                        "args": [
+                            "3-decl"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "ns"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13807,
+        "name": "lat-v-present-stem",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "ā"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-conj"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "o"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "ō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "ē"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "2-conj"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "eo"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "eō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            ""
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-conj"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "io"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "iō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "e"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "3-conj"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "o"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "ō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13809,
+        "name": "v-shorten",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "[vocalic,+long] > [-long]"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13814,
+        "name": "lat-v-pres-subj-stem",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "ē"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-conj"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "o"
+                                },
+                                {
+                                    "type": "leaf",
+                                    "cond": "EndsWith",
+                                    "characters": "ō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "ā"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "or",
+                    "members": [
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "o"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "ō"
+                        }
+                    ]
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 13818,
+        "name": "lat-ortho",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ks > x"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13819,
+        "name": "lat-pron",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "x > ks"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
     }
 ]

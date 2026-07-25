@@ -153,5 +153,28 @@
         "author": "Harry Hoffner",
         "date": "2009",
         "publisher": "Society of Biblical Literature, Atlanta"
+    },
+    {
+        "id": 20,
+        "name": "Etymological Dictionary of Latin",
+        "refId": "de Vaan 2008",
+        "author": "De Vaan",
+        "date": "2008",
+        "publisher": "Brill"
+    },
+    {
+        "id": 21,
+        "name": "'Right', 'left' and 'naked' in Proto-Indo-European",
+        "refId": "Beekes 1994",
+        "author": "Robert S.P. Beekes",
+        "date": "1994",
+        "publisher": "Orbis 37, 87-96"
+    },
+    {
+        "id": 22,
+        "name": "Nomina im indogermanischen Lexicon",
+        "refId": "NIL",
+        "author": "Wodtko, Irslinger, Schneider",
+        "date": "2008"
     }
 ]

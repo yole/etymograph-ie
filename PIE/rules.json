@@ -2850,5 +2850,75 @@
         "fromPOS": [
             "V"
         ]
+    },
+    {
+        "id": 13846,
+        "name": "pie-verbal-adj",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10521"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13845"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".VADJ",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "280"
+            }
+        ]
+    },
+    {
+        "id": 13847,
+        "name": "pie-o-grade-verbal-adj",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "10818"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13845"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".VADJ",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ"
     }
 ]

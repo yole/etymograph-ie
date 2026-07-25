@@ -61412,7 +61412,7 @@
             "to": 13662,
             "type": ">",
             "ruleIds": [
-                13660
+                13661
             ]
         },
         {
@@ -61667,7 +61667,7 @@
             "to": 13742,
             "type": ">",
             "ruleIds": [
-                13568
+                13566
             ]
         },
         {
@@ -61717,7 +61717,7 @@
             "type": ">",
             "ruleIds": [
                 13756,
-                13601
+                13593
             ]
         },
         {
@@ -61725,7 +61725,7 @@
             "to": 13759,
             "type": ">",
             "ruleIds": [
-                13569
+                13567
             ]
         },
         {
@@ -61734,6 +61734,206 @@
             "type": ">",
             "ruleIds": [
                 13576
+            ]
+        },
+        {
+            "from": 13795,
+            "to": 13692,
+            "type": ">",
+            "ruleIds": [
+                13768
+            ]
+        },
+        {
+            "from": 13800,
+            "to": 13721,
+            "type": ">",
+            "ruleIds": [
+                13768
+            ]
+        },
+        {
+            "from": 13801,
+            "to": 13723,
+            "type": ">",
+            "ruleIds": [
+                13768
+            ]
+        },
+        {
+            "from": 13806,
+            "to": 13739,
+            "type": ">",
+            "ruleIds": [
+                13566
+            ]
+        },
+        {
+            "from": 13832,
+            "to": 13708,
+            "type": ">",
+            "ruleIds": [
+                13670
+            ]
+        },
+        {
+            "from": 13621,
+            "to": 13833,
+            "type": "^",
+            "notes": "Remade into i-stem in Latin"
+        },
+        {
+            "from": 13820,
+            "to": 13837,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "516"
+                }
+            ]
+        },
+        {
+            "from": 13742,
+            "to": 13838,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "365"
+                }
+            ]
+        },
+        {
+            "from": 13628,
+            "to": 10010,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "416"
+                }
+            ]
+        },
+        {
+            "from": 13839,
+            "to": 13842,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "228"
+                }
+            ]
+        },
+        {
+            "from": 13822,
+            "to": 13843,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "236"
+                }
+            ]
+        },
+        {
+            "from": 13822,
+            "to": 13844,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "236"
+                }
+            ]
+        },
+        {
+            "from": 13843,
+            "to": 13848,
+            "type": ">",
+            "ruleIds": [
+                13847
+            ]
+        },
+        {
+            "from": 13650,
+            "to": 13849,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "418"
+                }
+            ]
+        },
+        {
+            "from": 13852,
+            "to": 10302,
+            "type": ">"
+        },
+        {
+            "from": 13671,
+            "to": 13853,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "360"
+                }
+            ]
+        },
+        {
+            "from": 13684,
+            "to": 13854,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "93"
+                }
+            ],
+            "notes": "uncertain; possibly non-IE"
+        },
+        {
+            "from": 13855,
+            "to": 13857,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "485"
+                }
+            ]
+        },
+        {
+            "from": 13862,
+            "to": 13861,
+            "type": ">",
+            "ruleIds": [
+                10522
+            ]
+        },
+        {
+            "from": 13860,
+            "to": 13862,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "606"
+                }
+            ]
+        },
+        {
+            "from": 13701,
+            "to": 9996,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "167"
+                }
             ]
         }
     ]

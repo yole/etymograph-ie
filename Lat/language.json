@@ -233,7 +233,8 @@
         {
             "id": 13552,
             "graphemes": [
-                "i"
+                "i",
+                "y"
             ],
             "classes": [
                 "front",
@@ -259,6 +260,7 @@
             "graphemes": [
                 "ī"
             ],
+            "simplifiedGrapheme": "i",
             "classes": [
                 "long",
                 "front",
@@ -272,6 +274,7 @@
             "graphemes": [
                 "ē"
             ],
+            "simplifiedGrapheme": "e",
             "classes": [
                 "long",
                 "close-mid",
@@ -285,6 +288,7 @@
             "graphemes": [
                 "ū"
             ],
+            "simplifiedGrapheme": "u",
             "classes": [
                 "long",
                 "back",
@@ -298,6 +302,7 @@
             "graphemes": [
                 "ō"
             ],
+            "simplifiedGrapheme": "o",
             "classes": [
                 "long",
                 "close-mid",
@@ -311,6 +316,7 @@
             "graphemes": [
                 "ā"
             ],
+            "simplifiedGrapheme": "a",
             "classes": [
                 "long",
                 "central",
@@ -321,6 +327,8 @@
         }
     ],
     "protoLanguageShortName": "PItal",
+    "pronunciationRuleId": 13819,
+    "orthographyRuleId": 13818,
     "pos": [
         {
             "name": "Noun",
@@ -563,20 +571,21 @@
         {
             "name": "Gender",
             "pos": [
-                "N"
+                "N",
+                "NP"
             ],
             "values": [
                 {
                     "name": "Masculine",
-                    "abbreviation": "M"
+                    "abbreviation": "m"
                 },
                 {
                     "name": "Feminine",
-                    "abbreviation": "F"
+                    "abbreviation": "f"
                 },
                 {
                     "name": "Neuter",
-                    "abbreviation": "N"
+                    "abbreviation": "n"
                 }
             ]
         },
@@ -591,6 +600,61 @@
                     "abbreviation": "clitic"
                 }
             ]
+        },
+        {
+            "name": "Declension",
+            "pos": [
+                "N",
+                "NP",
+                "ADJ"
+            ],
+            "values": [
+                {
+                    "name": "1-decl",
+                    "abbreviation": "1-decl"
+                },
+                {
+                    "name": "2-decl",
+                    "abbreviation": "2-decl"
+                },
+                {
+                    "name": "3-decl",
+                    "abbreviation": "3-decl"
+                },
+                {
+                    "name": "4-decl",
+                    "abbreviation": "4-decl"
+                },
+                {
+                    "name": "5-decl",
+                    "abbreviation": "5-decl"
+                }
+            ]
+        },
+        {
+            "name": "Conjugation",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "1-conj",
+                    "abbreviation": "1-conj"
+                },
+                {
+                    "name": "2-conj",
+                    "abbreviation": "2-conj"
+                },
+                {
+                    "name": "3-conj",
+                    "abbreviation": "3-conj"
+                },
+                {
+                    "name": "4-conj",
+                    "abbreviation": "4-conj"
+                }
+            ]
         }
-    ]
+    ],
+    "dictionarySettings": "wiktionary-id: lat\n"
 }

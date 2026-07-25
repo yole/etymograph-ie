@@ -60,7 +60,8 @@
     {
         "id": 9996,
         "text": "deiu̯o-",
-        "gloss": "god"
+        "gloss": "god",
+        "pos": "N"
     },
     {
         "id": 9999,
@@ -1483,5 +1484,161 @@
     {
         "id": 12854,
         "text": "dédorḱe"
+    },
+    {
+        "id": 13833,
+        "text": "neh₂u-",
+        "gloss": "ship",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "403"
+            }
+        ]
+    },
+    {
+        "id": 13834,
+        "text": "neh₂-",
+        "gloss": "swim",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "403"
+            }
+        ]
+    },
+    {
+        "id": 13836,
+        "text": "-u-",
+        "gloss": "u-stem suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13837,
+        "text": "u̯re-",
+        "gloss": "back",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "516"
+            }
+        ]
+    },
+    {
+        "id": 13838,
+        "text": "mori-",
+        "gloss": "sea",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "365"
+            }
+        ]
+    },
+    {
+        "id": 13842,
+        "text": "bʰleuH-",
+        "gloss": "flow",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "90"
+            }
+        ]
+    },
+    {
+        "id": 13843,
+        "text": "bʰorǵʰto-"
+    },
+    {
+        "id": 13844,
+        "text": "dʰorǵʰ-to-",
+        "gloss": "strong",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13845,
+        "text": "-to",
+        "gloss": "verbal adj. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13848,
+        "text": "bʰerǵʰ-",
+        "gloss": "beachten, bewahren",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "79"
+            }
+        ]
+    },
+    {
+        "id": 13849,
+        "text": "nogʷodʰo-",
+        "gloss": "nude",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13850,
+        "text": "negʷ-",
+        "gloss": "naked",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "pubId": 22,
+                "refText": "513"
+            }
+        ]
+    },
+    {
+        "id": 13852,
+        "text": "dʰh₁o-"
+    },
+    {
+        "id": 13853,
+        "text": "molo-",
+        "gloss": "bad",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "360"
+            }
+        ]
+    },
+    {
+        "id": 13854,
+        "text": "ker-",
+        "gloss": "hard",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13857,
+        "text": "póti-",
+        "gloss": "master",
+        "pos": "N"
+    },
+    {
+        "id": 13861,
+        "text": "teh₂g-",
+        "gloss": "touch",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "616"
+            }
+        ]
+    },
+    {
+        "id": 13862,
+        "text": "th₂neg-"
     }
 ]

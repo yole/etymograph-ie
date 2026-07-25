@@ -651,6 +651,10 @@
                 {
                     "name": "Participle",
                     "abbreviation": "PTCP"
+                },
+                {
+                    "name": "Verbal adjective",
+                    "abbreviation": "VADJ"
                 }
             ]
         }

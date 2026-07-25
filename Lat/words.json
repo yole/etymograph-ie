@@ -1,8 +1,9 @@
 [
     {
         "id": 10373,
-        "text": "madēre",
-        "gloss": "be wet, drunk"
+        "text": "madeō",
+        "gloss": "be wet, drunk",
+        "pos": "V"
     },
     {
         "id": 10380,
@@ -17,7 +18,8 @@
     {
         "id": 10806,
         "text": "ferō",
-        "gloss": "carry"
+        "gloss": "carry",
+        "pos": "V"
     },
     {
         "id": 10823,
@@ -32,13 +34,13 @@
     },
     {
         "id": 13621,
-        "text": "navis",
+        "text": "nāvis",
         "gloss": "ship",
         "pos": "N"
     },
     {
         "id": 13622,
-        "text": "refero",
+        "text": "referō",
         "gloss": "bear",
         "pos": "V"
     },
@@ -86,7 +88,10 @@
         "id": 13633,
         "text": "ago",
         "gloss": "do",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "3-conj"
+        ]
     },
     {
         "id": 13634,
@@ -96,13 +101,28 @@
         "id": 13635,
         "text": "fortiter",
         "gloss": "strongly",
-        "pos": "ADV"
+        "fullGloss": "strongly, powerfully; bravely, boldly",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/fortiter#Latin"
+            }
+        ]
     },
     {
         "id": 13642,
-        "text": "occupare",
+        "text": "occupō",
         "gloss": "occupy",
-        "pos": "V"
+        "fullGloss": "to occupy, fill, take up; to seize, invade, take possession of; to anticipate, make the first move; to employ, make use of",
+        "pos": "V",
+        "classes": [
+            "1-conj"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/occupo#Latin"
+            }
+        ]
     },
     {
         "id": 13643,
@@ -114,7 +134,7 @@
         "gloss": "harbor",
         "pos": "N",
         "classes": [
-            "M"
+            "m"
         ]
     },
     {
@@ -131,7 +151,10 @@
         "id": 13647,
         "text": "videō",
         "gloss": "see",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ]
     },
     {
         "id": 13648,
@@ -147,7 +170,13 @@
         "id": 13650,
         "text": "nudus",
         "gloss": "nude",
-        "pos": "ADJ"
+        "fullGloss": "unclothed, nude, naked; stripped, deprived, destitute; defenceless, helpless, unarmed; poor, needy; bare, simple, pure; unadorned",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/nudus#Latin"
+            }
+        ]
     },
     {
         "id": 13651,
@@ -157,7 +186,16 @@
         "id": 13652,
         "text": "remigium",
         "gloss": "rowing",
-        "pos": "N"
+        "fullGloss": "rowing (with oars), oarage; the equipment, fittings and people used in rowing",
+        "pos": "N",
+        "classes": [
+            "2-decl"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/remigium#Latin"
+            }
+        ]
     },
     {
         "id": 13653,
@@ -226,7 +264,16 @@
         "id": 13672,
         "text": "celer",
         "gloss": "swift",
-        "pos": "ADJ"
+        "fullGloss": "fast, swift, quick, speedy, fleet",
+        "pos": "ADJ",
+        "classes": [
+            "3-decl"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/celer#Latin"
+            }
+        ]
     },
     {
         "id": 13673,
@@ -235,7 +282,11 @@
     {
         "id": 13674,
         "text": "Africus",
-        "pos": "NP"
+        "pos": "NP",
+        "classes": [
+            "M",
+            "2-decl"
+        ]
     },
     {
         "id": 13675,
@@ -273,7 +324,10 @@
         "id": 13682,
         "text": "durō",
         "gloss": "endure",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "1-conj"
+        ]
     },
     {
         "id": 13683,
@@ -285,7 +339,7 @@
         "gloss": "keel",
         "pos": "N",
         "classes": [
-            "F"
+            "f"
         ]
     },
     {
@@ -320,7 +374,11 @@
         "id": 13692,
         "text": "aequor",
         "gloss": "sea",
-        "pos": "N"
+        "pos": "N",
+        "classes": [
+            "n",
+            "3-decl"
+        ]
     },
     {
         "id": 13693,
@@ -346,7 +404,16 @@
         "id": 13697,
         "text": "integer",
         "gloss": "intact",
-        "pos": "ADJ"
+        "fullGloss": "complete, whole, intact, uninjured, sound, healthy",
+        "pos": "ADJ",
+        "classes": [
+            "2-decl"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/integer#Latin"
+            }
+        ]
     },
     {
         "id": 13698,
@@ -359,7 +426,7 @@
         "fullGloss": "linen cloth, sail",
         "pos": "N",
         "classes": [
-            "N"
+            "n"
         ]
     },
     {
@@ -390,7 +457,16 @@
         "id": 13705,
         "text": "vocō",
         "gloss": "call",
-        "pos": "V"
+        "fullGloss": "to call, summon, beckon (with one's voice); to name, designate; to bring or put (into a state or condition)",
+        "pos": "V",
+        "classes": [
+            "1-conj"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/voco#Latin"
+            }
+        ]
     },
     {
         "id": 13706,
@@ -404,7 +480,15 @@
         "id": 13708,
         "text": "premō",
         "gloss": "press",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "3-conj"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/premo#Latin"
+            }
+        ]
     },
     {
         "id": 13709,
@@ -432,8 +516,9 @@
         "gloss": "pine",
         "pos": "N",
         "classes": [
-            "F"
-        ]
+            "f"
+        ],
+        "notes": "de Vaan 2008:467: likely non-IE tree name"
     },
     {
         "id": 13714,
@@ -441,7 +526,8 @@
         "gloss": "forest",
         "pos": "N",
         "classes": [
-            "F"
+            "F",
+            "1-decl"
         ]
     },
     {
@@ -461,13 +547,27 @@
         "id": 13717,
         "text": "nobilis",
         "gloss": "noble",
-        "pos": "ADJ"
+        "fullGloss": "noble, high-born; distinct, able to be known, famous, celebrated; known, famous; acquainted, familiar",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/nobilis#Latin"
+            }
+        ]
     },
     {
         "id": 13718,
         "text": "iactō",
         "gloss": "throw",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "1-conj"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/iacto#Latin"
+            }
+        ]
     },
     {
         "id": 13719,
@@ -483,7 +583,8 @@
         "gloss": "lineage",
         "pos": "N",
         "classes": [
-            "N"
+            "n",
+            "3-decl"
         ]
     },
     {
@@ -496,7 +597,12 @@
         "gloss": "name",
         "pos": "N",
         "classes": [
-            "N"
+            "n"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/nomen#Latin"
+            }
         ]
     },
     {
@@ -550,7 +656,8 @@
         "gloss": "stern",
         "pos": "N",
         "classes": [
-            "F"
+            "f",
+            "3-decl"
         ]
     },
     {
@@ -561,7 +668,10 @@
         "id": 13734,
         "text": "fidō",
         "gloss": "trust",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "3-conj"
+        ]
     },
     {
         "id": 13735,
@@ -577,7 +687,10 @@
         "id": 13737,
         "text": "debeō",
         "gloss": "must",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ]
     },
     {
         "id": 13738,
@@ -589,14 +702,17 @@
         "gloss": "mockery",
         "pos": "N",
         "classes": [
-            "N"
+            "n"
         ]
     },
     {
         "id": 13740,
         "text": "caveō",
         "gloss": "beware",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ]
     },
     {
         "id": 13741,
@@ -608,7 +724,13 @@
         "gloss": "sea",
         "pos": "N",
         "classes": [
-            "N"
+            "n",
+            "3-decl"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/mare#Latin"
+            }
         ]
     },
     {
@@ -619,11 +741,21 @@
         "id": 13744,
         "text": "fluctus",
         "gloss": "wave",
-        "pos": "N"
+        "fullGloss": "a wave, billow",
+        "pos": "N",
+        "classes": [
+            "m",
+            "4-decl"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/fluctus#Latin"
+            }
+        ]
     },
     {
         "id": 13745,
-        "text": "fluctus"
+        "text": "fluctūs"
     },
     {
         "id": 13746,
@@ -660,7 +792,16 @@
         "id": 13751,
         "text": "vitō",
         "gloss": "avoid",
-        "pos": "V"
+        "fullGloss": "to avoid, evade; to shun",
+        "pos": "V",
+        "classes": [
+            "1-conj"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/vito#Latin"
+            }
+        ]
     },
     {
         "id": 13752,
@@ -684,7 +825,10 @@
         "id": 13757,
         "text": "niteo",
         "gloss": "shine",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ]
     },
     {
         "id": 13758,
@@ -736,5 +880,393 @@
     {
         "id": 13767,
         "text": "sollicitum"
+    },
+    {
+        "id": 13770,
+        "text": "-ae",
+        "gloss": "gen.sg. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13771,
+        "text": "-ī",
+        "gloss": "gen.sg. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13772,
+        "text": "-um",
+        "gloss": "acc.sg. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13773,
+        "text": "-ō",
+        "gloss": "dat.sg. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13774,
+        "text": "-ō",
+        "gloss": "abl.sg. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13775,
+        "text": "-e",
+        "gloss": "voc.sg. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13776,
+        "text": "-ae",
+        "gloss": "nom.pl. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13777,
+        "text": "-a",
+        "gloss": "nom.pl. n. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13778,
+        "text": "-ōrum",
+        "gloss": "gen.pl. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13779,
+        "text": "-īs",
+        "gloss": "dat./abl.pl. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13780,
+        "text": "-ae",
+        "gloss": "dat.sg. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13781,
+        "text": "-am",
+        "gloss": "acc.sg. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13782,
+        "text": "-ā",
+        "gloss": "abl.sg. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13783,
+        "text": "-ārum",
+        "gloss": "gen.pl. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13784,
+        "text": "-īs",
+        "gloss": "dat./abl.pl. 1st decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13785,
+        "text": "-is",
+        "gloss": "gen.sg. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13786,
+        "text": "-ī",
+        "gloss": "dat.sg. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13787,
+        "text": "-em",
+        "gloss": "acc.sg. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13788,
+        "text": "-ē",
+        "gloss": "abl.sg. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13789,
+        "text": "-ēs",
+        "gloss": "nom./acc.pl. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13790,
+        "text": "-um",
+        "gloss": "gen.pl. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13791,
+        "text": "-ibus",
+        "gloss": "dat./abl.pl. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13792,
+        "text": "-ūs",
+        "gloss": "gen.sg. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13793,
+        "text": "-ūi",
+        "gloss": "dat.sg. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13794,
+        "text": "-um",
+        "gloss": "acc.sg. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13795,
+        "text": "aequor-"
+    },
+    {
+        "id": 13796,
+        "text": "-ū",
+        "gloss": "abl.sg. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13797,
+        "text": "-ūs",
+        "gloss": "nom./acc.pl. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13798,
+        "text": "-ī",
+        "gloss": "nom.pl. 2nd decl. m. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13799,
+        "text": "-uum",
+        "gloss": "gen.pl. 4th decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13800,
+        "text": "gener-"
+    },
+    {
+        "id": 13801,
+        "text": "nomin-"
+    },
+    {
+        "id": 13802,
+        "text": "-ī",
+        "gloss": "abl.sg. 3rd decl. i-stem ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13803,
+        "text": "-a",
+        "gloss": "nom.sg. f. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13804,
+        "text": "-e",
+        "gloss": "nom.sg. n. 3rd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13805,
+        "text": "-um",
+        "gloss": "nom.sg. n. 2nd decl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13806,
+        "text": "ludibrium"
+    },
+    {
+        "id": 13808,
+        "text": "-s",
+        "gloss": "2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13810,
+        "text": "-t",
+        "gloss": "3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13811,
+        "text": "-mus",
+        "gloss": "1pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13812,
+        "text": "-tis",
+        "gloss": "2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13813,
+        "text": "-nt",
+        "gloss": "3pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13815,
+        "text": "-m",
+        "gloss": "1sg. primary ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13816,
+        "text": "-re",
+        "gloss": "inf. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13817,
+        "text": "-ns",
+        "gloss": "act.ptcp. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13820,
+        "text": "re-",
+        "gloss": "again",
+        "fullGloss": "back, backwards; un-, de-; again; prefix added to various words to indicate an action being done again, or like the other usages indicated above under English.",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/re-#Latin"
+            }
+        ]
+    },
+    {
+        "id": 13822,
+        "text": "fortis",
+        "gloss": "strong",
+        "pos": "ADJ",
+        "classes": [
+            "3-decl"
+        ]
+    },
+    {
+        "id": 13824,
+        "text": "-ter",
+        "gloss": "ADV",
+        "pos": "AFF"
+    },
+    {
+        "id": 13825,
+        "text": "remigō",
+        "gloss": "row",
+        "pos": "V"
+    },
+    {
+        "id": 13827,
+        "text": "-ium",
+        "gloss": "ABS.N",
+        "pos": "AFF"
+    },
+    {
+        "id": 13828,
+        "text": "rēmus",
+        "gloss": "oar",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/remus#Latin"
+            }
+        ]
+    },
+    {
+        "id": 13830,
+        "text": "-igō",
+        "gloss": "VBLZ",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/-igo#Latin"
+            }
+        ]
+    },
+    {
+        "id": 13831,
+        "text": "-tus",
+        "gloss": "pass.ptcp. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13832,
+        "text": "pressus"
+    },
+    {
+        "id": 13839,
+        "text": "fluō",
+        "gloss": "flow",
+        "pos": "V"
+    },
+    {
+        "id": 13841,
+        "text": "-tus",
+        "gloss": "action noun suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13855,
+        "text": "potis",
+        "gloss": "able",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13858,
+        "text": "in-",
+        "gloss": "not",
+        "pos": "AFF"
+    },
+    {
+        "id": 13860,
+        "text": "tangō",
+        "gloss": "touch",
+        "pos": "V",
+        "classes": [
+            "3-conj"
+        ]
+    },
+    {
+        "id": 13863,
+        "text": "nōscō",
+        "gloss": "to become acquainted with something",
+        "fullGloss": "to become acquainted with something, learn about it, to be aware of; to know, recognize, be acquainted with, i.e.; in possession of knowledge",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/nosco#Latin"
+            }
+        ]
+    },
+    {
+        "id": 13864,
+        "text": "-bilis",
+        "gloss": "-(a)ble;",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/-bilis#Latin"
+            }
+        ]
     }
 ]
