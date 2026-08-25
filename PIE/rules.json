@@ -4,7 +4,36 @@
         "name": "pie-nom-pl",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13922"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13925"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".NOM.PL",
         "fromPOS": [
             "N"
@@ -57,7 +86,23 @@
         "name": "pie-acc-pl",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13923"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
         "addedCategories": ".ACC.PL",
         "fromPOS": [
             "N"
@@ -80,6 +125,21 @@
         "fromLang": "PIE",
         "toLang": "PIE",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13917"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -109,6 +169,12 @@
         "addedCategories": ".GEN.SG",
         "fromPOS": [
             "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
         ]
     },
     {
@@ -138,10 +204,32 @@
         "name": "pie-abl-sg",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13918"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
         "addedCategories": ".ABL.SG",
         "fromPOS": [
             "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
         ]
     },
     {
@@ -171,10 +259,32 @@
         "name": "pie-ins-sg",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13919"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
         "addedCategories": ".INS.SG",
         "fromPOS": [
             "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
         ]
     },
     {
@@ -204,10 +314,32 @@
         "name": "pie-dat-sg",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13920"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
         "addedCategories": ".DAT.SG",
         "fromPOS": [
             "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
         ]
     },
     {
@@ -237,7 +369,23 @@
         "name": "pie-loc-sg",
         "fromLang": "PIE",
         "toLang": "PIE",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13921"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
         "addedCategories": ".LOC.SG",
         "fromPOS": [
             "N"
@@ -2920,5 +3068,38 @@
             "V"
         ],
         "toPOS": "ADJ"
+    },
+    {
+        "id": 13915,
+        "name": "pie-voc-sg",
+        "fromLang": "PIE",
+        "toLang": "PIE",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13914"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "os"
+                }
+            }
+        ],
+        "addedCategories": ".VOC.SG",
+        "fromPOS": [
+            "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
     }
 ]

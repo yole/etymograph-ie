@@ -1633,7 +1633,38 @@
         "name": "lat-fut-1sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "am"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "13924"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "i"
+                }
+            }
+        ],
         "addedCategories": ".FUT.1SG",
         "fromPOS": [
             "V"
@@ -1723,6 +1754,13 @@
             {
                 "instructions": [
                     {
+                        "type": "ApplySoundRule",
+                        "args": [
+                            "13809",
+                            "last vowel"
+                        ]
+                    },
+                    {
                         "type": "AppendMorpheme",
                         "args": [
                             "13810"
@@ -1747,6 +1785,28 @@
         "branches": [
             {
                 "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "unt"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "i"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ApplySoundRule",
+                        "args": [
+                            "13809",
+                            "last vowel"
+                        ]
+                    },
                     {
                         "type": "AppendMorpheme",
                         "args": [
@@ -2458,7 +2518,7 @@
     },
     {
         "id": 13809,
-        "name": "v-shorten",
+        "name": "lat-v-shorten",
         "fromLang": "Lat",
         "toLang": "Lat",
         "branches": [

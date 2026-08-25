@@ -1728,5 +1728,123 @@
         "text": "-mn̥",
         "gloss": "INSTR",
         "pos": "AFF"
+    },
+    {
+        "id": 13914,
+        "text": "-e",
+        "gloss": "thematic voc.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13916,
+        "text": "ulkʷos",
+        "gloss": "wolf",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13917,
+        "text": "-os",
+        "gloss": "thematic gen.sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13918,
+        "text": "-ōd",
+        "gloss": "thematic abl.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 13919,
+        "text": "-oh₁",
+        "gloss": "ins.sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13920,
+        "text": "-ōi",
+        "gloss": "thematic dat.sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13921,
+        "text": "-oi",
+        "gloss": "thematic loc.sg. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13922,
+        "text": "-ōs",
+        "gloss": "thematic nom.pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13923,
+        "text": "-ons",
+        "gloss": "thematic acc.pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "212"
+            }
+        ]
+    },
+    {
+        "id": 13925,
+        "text": "-es",
+        "gloss": "athematic nom.pl. ending",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 12,
+                "refText": "186"
+            }
+        ]
+    },
+    {
+        "id": 13926,
+        "text": "-eu̯-",
+        "gloss": "u-stem full-grade suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13927,
+        "text": "-eu̯es"
     }
 ]

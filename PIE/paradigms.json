@@ -4,6 +4,7 @@
         "name": "Noun",
         "rows": [
             "nom",
+            "voc",
             "acc",
             "gen",
             "abl",
@@ -18,6 +19,11 @@
                     {
                         "ruleAlternatives": [
                             null
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13915
                         ]
                     },
                     {
@@ -60,6 +66,7 @@
                             10048
                         ]
                     },
+                    {},
                     {
                         "ruleAlternatives": [
                             10051
@@ -100,6 +107,7 @@
                             10049
                         ]
                     },
+                    {},
                     {
                         "ruleAlternatives": [
                             10052

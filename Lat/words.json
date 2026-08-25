@@ -763,7 +763,7 @@
     },
     {
         "id": 13745,
-        "text": "fluctūs"
+        "text": "flūctūs"
     },
     {
         "id": 13746,
@@ -1363,8 +1363,14 @@
     },
     {
         "id": 13889,
-        "text": "-b-",
+        "text": "-bi-",
         "gloss": "fut. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 13924,
+        "text": "-ō",
+        "gloss": "1sg. ending",
         "pos": "AFF"
     }
 ]

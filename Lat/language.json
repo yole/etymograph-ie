@@ -200,6 +200,7 @@
                 "a"
             ],
             "classes": [
+                "short",
                 "central",
                 "open",
                 "unrounded",
@@ -212,6 +213,7 @@
                 "o"
             ],
             "classes": [
+                "short",
                 "close-mid",
                 "back",
                 "rounded",
@@ -224,6 +226,7 @@
                 "u"
             ],
             "classes": [
+                "short",
                 "back",
                 "close",
                 "rounded",
@@ -237,6 +240,7 @@
                 "y"
             ],
             "classes": [
+                "short",
                 "front",
                 "close",
                 "unrounded",
@@ -249,6 +253,7 @@
                 "e"
             ],
             "classes": [
+                "short",
                 "close-mid",
                 "front",
                 "unrounded",
