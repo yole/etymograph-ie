@@ -1644,7 +1644,21 @@
         "name": "lat-fut-1pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13811"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".FUT.1PL",
         "fromPOS": [
             "V"
@@ -1655,7 +1669,21 @@
         "name": "lat-fut-2sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13808"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".FUT.2SG",
         "fromPOS": [
             "V"
@@ -1666,7 +1694,21 @@
         "name": "lat-fut-2pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13812"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".FUT.2PL",
         "fromPOS": [
             "V"
@@ -1677,7 +1719,21 @@
         "name": "lat-fut-3sg",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13810"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".FUT.3SG",
         "fromPOS": [
             "V"
@@ -1688,7 +1744,21 @@
         "name": "lat-fut-3pl",
         "fromLang": "Lat",
         "toLang": "Lat",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13813"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".FUT.3PL",
         "fromPOS": [
             "V"
@@ -2516,6 +2586,764 @@
                 "condition": {
                     "type": "otherwise"
                 }
+            }
+        ]
+    },
+    {
+        "id": 13876,
+        "name": "lat-velars",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ǵʰ|gʰ|gʷʰ} > g / n_"
+                        ],
+                        "comment": "Weiss 2020:87"
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "gʰ > f / _u"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ḱ|ǵ} > {k|g}"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{ǵʰ|gʰ} > h"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "84"
+            }
+        ]
+    },
+    {
+        "id": 13877,
+        "name": "lat-p-kw",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "condition": {
+                            "type": "relPhoneme",
+                            "relativeIndex": 1,
+                            "tcls": "syllable-initial consonant",
+                            "parameter": "kʷ"
+                        },
+                        "args": [
+                            "p > kʷ"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "81"
+            }
+        ]
+    },
+    {
+        "id": 13881,
+        "name": "lat-gw",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "condition": {
+                            "type": "relPhoneme",
+                            "relativeIndex": -1,
+                            "negated": true,
+                            "tcls": "sound",
+                            "cls": "nasal"
+                        },
+                        "args": [
+                            "gʷ > u̯"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "87"
+            }
+        ]
+    },
+    {
+        "id": 13882,
+        "name": "lat-voiced-aspirates",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{bʰ|dʰ} > f / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "bʰ > b"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "dʰ > b / {r|u}_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "dʰ > b / _{r|u|u̯|l}"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "dʰ > d"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "82"
+            }
+        ]
+    },
+    {
+        "id": 13886,
+        "name": "lat-gwh",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "gʷʰ > f / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "gʷʰ > u̯"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "87"
+            }
+        ]
+    },
+    {
+        "id": 13887,
+        "name": "lat-laryngeals",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "H > 0 / #_C"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₁e > e"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₂e > a"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₃e > o"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Ho > o"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{eh₁|ēh₂|h₂ē} > ē"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{eh₃|oH} > ō"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "eh₂ > ā"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "H > a / C_C"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13890,
+        "name": "lat-v-fut-stem",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "13889"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "or",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "1-conj"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "2-conj"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ē'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "i"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "ē"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ],
+        "preInstructions": [
+            {
+                "type": "ApplyRule",
+                "args": [
+                    "13807"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13891,
+        "name": "lat-a-after-labial",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "o > a / #{m|u̯|kʷ|gʷ|gʷʰ}_"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 24,
+                "refText": "454"
+            }
+        ]
+    },
+    {
+        "id": 13892,
+        "name": "lat-word-final-i",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "condition": {
+                            "type": "wordIs",
+                            "wordClass": "N"
+                        },
+                        "args": [
+                            "i > e / _#"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "158"
+            }
+        ]
+    },
+    {
+        "id": 13893,
+        "name": "lat-e-o",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "eu > ou"
+                        ],
+                        "comment": "Weiss 2020:112"
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "e > o / _u̯"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "150"
+            }
+        ]
+    },
+    {
+        "id": 13894,
+        "name": "lat-cl-monophtongization",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ou > ū"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ei > e / _{V|u̯}"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ei > ī"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "112"
+            }
+        ]
+    },
+    {
+        "id": 13895,
+        "name": "lat-rct-cluster",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "C > 0 / [+sonorant]_[-sonorant,-continuant]"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "196"
+            }
+        ]
+    },
+    {
+        "id": 13896,
+        "name": "lat-ouvc-syncope",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ou̯V > ū / _C"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "134"
+            }
+        ]
+    },
+    {
+        "id": 13900,
+        "name": "lat-sm-cluster",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "sm > m / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Vsm > [+long]m"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "182"
+            }
+        ]
+    },
+    {
+        "id": 13901,
+        "name": "lat-stem-to-citation-form",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "us"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "o"
+                        },
+                        {
+                            "type": "or",
+                            "members": [
+                                {
+                                    "type": "wordIs",
+                                    "wordClass": "N"
+                                },
+                                {
+                                    "type": "wordIs",
+                                    "wordClass": "ADJ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ō'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "cls": "C"
+                        },
+                        {
+                            "type": "wordIs",
+                            "wordClass": "V"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13903,
+        "name": "lat-syllabic-sonorants",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "m̥ > em"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "n̥ > en"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "r̥ > or"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "l̥ > ol"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "103"
+            }
+        ]
+    },
+    {
+        "id": 13906,
+        "name": "lat-ei",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ei̯ > ei"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "110"
+            }
+        ]
+    },
+    {
+        "id": 13907,
+        "name": "lat-loss-of-u",
+        "fromLang": "Lat",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "u̯ > 0 / _{o|u}"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "165"
+            }
+        ]
+    },
+    {
+        "id": 13909,
+        "name": "lat-gn",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "gn > n / #_"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "184"
             }
         ]
     }

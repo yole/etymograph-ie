@@ -70,19 +70,47 @@
         ]
     },
     {
-        "id": 13859,
-        "compoundId": 13697,
-        "componentIds": [
-            13858,
-            13860
-        ]
-    },
-    {
         "id": 13865,
         "compoundId": 13717,
         "componentIds": [
             13863,
             13864
+        ]
+    },
+    {
+        "id": 13870,
+        "compoundId": 13737,
+        "componentIds": [
+            13869,
+            13871
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "162"
+            }
+        ]
+    },
+    {
+        "id": 13873,
+        "compoundId": 13766,
+        "componentIds": [
+            13872,
+            13874
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "572"
+            }
+        ]
+    },
+    {
+        "id": 13905,
+        "compoundId": 13697,
+        "componentIds": [
+            13858,
+            13860
         ]
     }
 ]

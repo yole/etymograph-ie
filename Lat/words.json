@@ -42,7 +42,10 @@
         "id": 13622,
         "text": "referō",
         "gloss": "bear",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "3-conj"
+        ]
     },
     {
         "id": 13623,
@@ -86,7 +89,7 @@
     },
     {
         "id": 13633,
-        "text": "ago",
+        "text": "agō",
         "gloss": "do",
         "pos": "V",
         "classes": [
@@ -168,7 +171,7 @@
     },
     {
         "id": 13650,
-        "text": "nudus",
+        "text": "nūdus",
         "gloss": "nude",
         "fullGloss": "unclothed, nude, naked; stripped, deprived, destitute; defenceless, helpless, unarmed; poor, needy; bare, simple, pure; unadorned",
         "pos": "ADJ",
@@ -184,7 +187,7 @@
     },
     {
         "id": 13652,
-        "text": "remigium",
+        "text": "rēmigium",
         "gloss": "rowing",
         "fullGloss": "rowing (with oars), oarage; the equipment, fittings and people used in rowing",
         "pos": "N",
@@ -199,7 +202,7 @@
     },
     {
         "id": 13653,
-        "text": "remigio"
+        "text": "rēmigiō"
     },
     {
         "id": 13654,
@@ -258,7 +261,12 @@
         "id": 13671,
         "text": "malus",
         "gloss": "bad",
-        "pos": "ADJ"
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "refText": "https://en.wiktionary.org/wiki/malus#Latin"
+            }
+        ]
     },
     {
         "id": 13672,
@@ -441,7 +449,7 @@
     },
     {
         "id": 13702,
-        "text": "di"
+        "text": "dī"
     },
     {
         "id": 13703,
@@ -739,7 +747,7 @@
     },
     {
         "id": 13744,
-        "text": "fluctus",
+        "text": "flūctus",
         "gloss": "wave",
         "fullGloss": "a wave, billow",
         "pos": "N",
@@ -1172,7 +1180,7 @@
     },
     {
         "id": 13825,
-        "text": "remigō",
+        "text": "rēmigō",
         "gloss": "row",
         "pos": "V"
     },
@@ -1263,10 +1271,100 @@
         "id": 13864,
         "text": "-bilis",
         "gloss": "-(a)ble;",
+        "pos": "AFF",
         "sourceRefs": [
             {
                 "refText": "https://en.wiktionary.org/wiki/-bilis#Latin"
             }
         ]
+    },
+    {
+        "id": 13867,
+        "text": "aequus",
+        "gloss": "equal",
+        "pos": "ADJ"
+    },
+    {
+        "id": 13869,
+        "text": "dē-",
+        "gloss": "away",
+        "pos": "AFF"
+    },
+    {
+        "id": 13871,
+        "text": "habeō",
+        "gloss": "have",
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ]
+    },
+    {
+        "id": 13872,
+        "text": "sollus",
+        "gloss": "whole",
+        "pos": "ADJ",
+        "classes": [
+            "2-decl"
+        ]
+    },
+    {
+        "id": 13874,
+        "text": "citus"
+    },
+    {
+        "id": 13875,
+        "text": "cieō",
+        "gloss": "move",
+        "pos": "V",
+        "classes": [
+            "2-conj"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "113"
+            }
+        ]
+    },
+    {
+        "id": 13879,
+        "text": "quīnque",
+        "gloss": "five",
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "81"
+            }
+        ]
+    },
+    {
+        "id": 13884,
+        "text": "ubi",
+        "gloss": "there",
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "84"
+            }
+        ]
+    },
+    {
+        "id": 13885,
+        "text": "frāter",
+        "gloss": "brother",
+        "pos": "N"
+    },
+    {
+        "id": 13888,
+        "text": "pater",
+        "gloss": "father",
+        "pos": "N"
+    },
+    {
+        "id": 13889,
+        "text": "-b-",
+        "gloss": "fut. suffix",
+        "pos": "AFF"
     }
 ]

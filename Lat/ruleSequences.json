@@ -1,0 +1,65 @@
+[
+    {
+        "id": 13880,
+        "name": "pie-to-lat",
+        "fromLang": "PIE",
+        "toLang": "Lat",
+        "steps": [
+            {
+                "ruleId": 13876
+            },
+            {
+                "ruleId": 13877
+            },
+            {
+                "ruleId": 13881
+            },
+            {
+                "ruleId": 13886
+            },
+            {
+                "ruleId": 13882
+            },
+            {
+                "ruleId": 13887
+            },
+            {
+                "ruleId": 13903
+            },
+            {
+                "ruleId": 13893
+            },
+            {
+                "ruleId": 13906
+            },
+            {
+                "ruleId": 13891,
+                "optional": true
+            },
+            {
+                "ruleId": 13892
+            },
+            {
+                "ruleId": 13896
+            },
+            {
+                "ruleId": 13894
+            },
+            {
+                "ruleId": 13907
+            },
+            {
+                "ruleId": 13895
+            },
+            {
+                "ruleId": 13900
+            },
+            {
+                "ruleId": 13909
+            },
+            {
+                "ruleId": 13901
+            }
+        ]
+    }
+]

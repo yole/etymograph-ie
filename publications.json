@@ -176,5 +176,21 @@
         "refId": "NIL",
         "author": "Wodtko, Irslinger, Schneider",
         "date": "2008"
+    },
+    {
+        "id": 23,
+        "name": "Outline of the historical and comparative grammar of Latin",
+        "refId": "Weiss 2020",
+        "author": "Michael Weiss",
+        "date": "2020",
+        "publisher": "Beech Stave Press"
+    },
+    {
+        "id": 24,
+        "name": "The Reflexes of the Proto-Indo-European Laryngeals in Latin",
+        "refId": "Schrijver 1991",
+        "author": "Peter Schrijver",
+        "date": "1991",
+        "publisher": "Rodopi: Amsterdam-Atlanta"
     }
 ]

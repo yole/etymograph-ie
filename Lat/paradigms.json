@@ -414,7 +414,8 @@
         ],
         "posList": [
             "V"
-        ]
+        ],
+        "preRule": 13890
     },
     {
         "id": 85,
@@ -514,5 +515,61 @@
             "V"
         ],
         "preRule": 13814
+    },
+    {
+        "id": 87,
+        "name": "Verb Non-Finite Forms",
+        "rows": [
+            "Infinitive",
+            "Participle",
+            "Past Participle"
+        ],
+        "columns": [
+            {
+                "title": "Form",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13681
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13756
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            13670
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Adjective Degree",
+        "rows": [
+            "Comparative"
+        ],
+        "columns": [
+            {
+                "title": "Form",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            13688
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "ADJ"
+        ]
     }
 ]

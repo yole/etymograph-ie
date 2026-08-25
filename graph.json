@@ -54177,7 +54177,12 @@
         {
             "from": 10806,
             "to": 10805,
-            "type": "^"
+            "type": "^",
+            "ruleIds": [
+                13882,
+                13887
+            ],
+            "sequenceId": 13880
         },
         {
             "from": 10807,
@@ -61780,6 +61785,10 @@
             "from": 13621,
             "to": 13833,
             "type": "^",
+            "ruleIds": [
+                13887
+            ],
+            "sequenceId": 13880,
             "notes": "Remade into i-stem in Latin"
         },
         {
@@ -61797,6 +61806,11 @@
             "from": 13742,
             "to": 13838,
             "type": "^",
+            "ruleIds": [
+                13891,
+                13892
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
@@ -61808,6 +61822,11 @@
             "from": 13628,
             "to": 10010,
             "type": "^",
+            "ruleIds": [
+                13893,
+                13901
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
@@ -61819,6 +61838,12 @@
             "from": 13839,
             "to": 13842,
             "type": "^",
+            "ruleIds": [
+                13882,
+                13893,
+                13894
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
@@ -61830,36 +61855,29 @@
             "from": 13822,
             "to": 13843,
             "type": "^",
-            "sourceRefs": [
-                {
-                    "pubId": 20,
-                    "refText": "236"
-                }
-            ]
-        },
-        {
-            "from": 13822,
-            "to": 13844,
-            "type": "^",
-            "sourceRefs": [
-                {
-                    "pubId": 20,
-                    "refText": "236"
-                }
-            ]
-        },
-        {
-            "from": 13843,
-            "to": 13848,
-            "type": ">",
             "ruleIds": [
-                13847
+                13876,
+                13882,
+                13895
+            ],
+            "sequenceId": 13880,
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "236"
+                }
             ]
         },
         {
             "from": 13650,
             "to": 13849,
             "type": "^",
+            "ruleIds": [
+                13881,
+                13882,
+                13896
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
@@ -61876,6 +61894,11 @@
             "from": 13671,
             "to": 13853,
             "type": "^",
+            "ruleIds": [
+                13891,
+                13901
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
@@ -61929,12 +61952,183 @@
             "from": 13701,
             "to": 9996,
             "type": "^",
+            "ruleIds": [
+                13894,
+                13907,
+                13901
+            ],
+            "sequenceId": 13880,
             "sourceRefs": [
                 {
                     "pubId": 20,
                     "refText": "167"
                 }
             ]
+        },
+        {
+            "from": 13830,
+            "to": 13633,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 23,
+                    "refText": "425-426"
+                }
+            ]
+        },
+        {
+            "from": 13692,
+            "to": 13867,
+            "type": "^",
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "27"
+                }
+            ]
+        },
+        {
+            "from": 13843,
+            "to": 13868,
+            "type": ">",
+            "ruleIds": [
+                13847
+            ],
+            "sourceRefs": [
+                {
+                    "pubId": 20,
+                    "refText": "236"
+                }
+            ]
+        },
+        {
+            "from": 13734,
+            "to": 12846,
+            "type": "^",
+            "ruleIds": [
+                13882,
+                13894,
+                13901
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13874,
+            "to": 13875,
+            "type": ">",
+            "ruleIds": [
+                13670
+            ]
+        },
+        {
+            "from": 13879,
+            "to": 13878,
+            "type": "^",
+            "ruleIds": [
+                13877
+            ],
+            "sequenceId": 13880,
+            "sourceRefs": [
+                {
+                    "pubId": 23,
+                    "refText": "81"
+                }
+            ]
+        },
+        {
+            "from": 13884,
+            "to": 13883,
+            "type": "^",
+            "ruleIds": [
+                13882
+            ],
+            "sequenceId": 13880,
+            "sourceRefs": [
+                {
+                    "pubId": 23,
+                    "refText": "84"
+                }
+            ]
+        },
+        {
+            "from": 13885,
+            "to": 9999,
+            "type": "^",
+            "ruleIds": [
+                13882,
+                13887
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13888,
+            "to": 10068,
+            "type": "^",
+            "ruleIds": [
+                13887
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13813,
+            "to": 11013,
+            "type": "^"
+        },
+        {
+            "from": 13828,
+            "to": 13897,
+            "type": "^",
+            "ruleIds": [
+                13887,
+                13900
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13633,
+            "to": 12783,
+            "type": "^",
+            "ruleIds": [
+                13876,
+                13887
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13858,
+            "to": 13902,
+            "type": "^"
+        },
+        {
+            "from": 13908,
+            "to": 12057,
+            "type": ">",
+            "ruleIds": [
+                10810,
+                10168
+            ],
+            "notes": "de Vaan 414: Full grade to avoid homonymy with nasco"
+        },
+        {
+            "from": 13863,
+            "to": 13908,
+            "type": "^",
+            "ruleIds": [
+                13876,
+                13887,
+                13909
+            ],
+            "sequenceId": 13880
+        },
+        {
+            "from": 13723,
+            "to": 13910,
+            "type": "^",
+            "ruleIds": [
+                13887,
+                13903
+            ],
+            "sequenceId": 13880
         }
     ]
 }

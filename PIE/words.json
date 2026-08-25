@@ -66,7 +66,8 @@
     {
         "id": 9999,
         "text": "bʰréh₂ter-",
-        "gloss": "brother"
+        "gloss": "brother",
+        "pos": "N"
     },
     {
         "id": 10001,
@@ -95,7 +96,8 @@
     {
         "id": 10010,
         "text": "néu̯o-",
-        "gloss": "new"
+        "gloss": "new",
+        "pos": "ADJ"
     },
     {
         "id": 10068,
@@ -1556,12 +1558,6 @@
         "text": "bʰorǵʰto-"
     },
     {
-        "id": 13844,
-        "text": "dʰorǵʰ-to-",
-        "gloss": "strong",
-        "pos": "ADJ"
-    },
-    {
         "id": 13845,
         "text": "-to",
         "gloss": "verbal adj. suffix",
@@ -1569,7 +1565,7 @@
     },
     {
         "id": 13848,
-        "text": "bʰerǵʰ-",
+        "text": "bʰergʰ-",
         "gloss": "beachten, bewahren",
         "pos": "V",
         "sourceRefs": [
@@ -1640,5 +1636,97 @@
     {
         "id": 13862,
         "text": "th₂neg-"
+    },
+    {
+        "id": 13866,
+        "text": "h₁reh₁-",
+        "gloss": "row",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "518"
+            }
+        ]
+    },
+    {
+        "id": 13868,
+        "text": "bʰerǵʰ-",
+        "gloss": "hoch werden, sich erheben",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 16,
+                "refText": "78"
+            }
+        ]
+    },
+    {
+        "id": 13878,
+        "text": "pénkʷe",
+        "gloss": "five",
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "81"
+            }
+        ]
+    },
+    {
+        "id": 13883,
+        "text": "kʷudʰei̯",
+        "gloss": "there",
+        "sourceRefs": [
+            {
+                "pubId": 23,
+                "refText": "84"
+            }
+        ]
+    },
+    {
+        "id": 13897,
+        "text": "h₁reh₁smo-",
+        "gloss": "oar",
+        "pos": "N"
+    },
+    {
+        "id": 13899,
+        "text": "-smo-",
+        "gloss": "INSTR",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 20,
+                "refText": "519"
+            }
+        ]
+    },
+    {
+        "id": 13902,
+        "text": "n̥-",
+        "gloss": "not",
+        "pos": "AFF"
+    },
+    {
+        "id": 13908,
+        "text": "ǵneh₃skoH"
+    },
+    {
+        "id": 13910,
+        "text": "h₃neh₃mn̥",
+        "gloss": "name",
+        "pos": "N"
+    },
+    {
+        "id": 13911,
+        "text": "h₃neh₃",
+        "gloss": "name",
+        "pos": "V"
+    },
+    {
+        "id": 13913,
+        "text": "-mn̥",
+        "gloss": "INSTR",
+        "pos": "AFF"
     }
 ]
