@@ -1162,6 +1162,7 @@
         "id": 10617,
         "text": "zik",
         "gloss": "2SG",
+        "fullGloss": "you; du",
         "pos": "PRON"
     },
     {
@@ -5309,6 +5310,7 @@
         "id": 11755,
         "text": "uu̯e-",
         "gloss": "come",
+        "fullGloss": "come; kommen",
         "pos": "V",
         "classes": [
             "mi"
@@ -5987,6 +5989,12 @@
         "pos": "V",
         "classes": [
             "mi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "335"
+            }
         ]
     },
     {
@@ -8181,12 +8189,6 @@
         "text": "zitin"
     },
     {
-        "id": 13019,
-        "text": "ziti",
-        "gloss": "Ziti",
-        "pos": "NP"
-    },
-    {
         "id": 13020,
         "text": "aš-šu-ul",
         "syllabographic": true
@@ -9001,8 +9003,7 @@
     },
     {
         "id": 13247,
-        "text": "kašašan",
-        "pos": "NP"
+        "text": "kašašan"
     },
     {
         "id": 13248,
@@ -9362,11 +9363,6 @@
         "id": 13341,
         "text": "^D^_É-A-aš-ša",
         "syllabographic": true
-    },
-    {
-        "id": 13342,
-        "text": "ya",
-        "gloss": "CNJadd"
     },
     {
         "id": 13345,
@@ -9904,6 +9900,10 @@
         "sourceRefs": [
             {
                 "refText": "CHD Š:204"
+            },
+            {
+                "pubId": 26,
+                "refText": "725"
             }
         ]
     },
@@ -9934,11 +9934,6 @@
         "id": 13476,
         "text": "^URU^tág-ga-aš-ta-an",
         "syllabographic": true
-    },
-    {
-        "id": 13477,
-        "text": "takkaštan",
-        "pos": "NP"
     },
     {
         "id": 13478,
@@ -10046,10 +10041,6 @@
         "text": "karūi̯a"
     },
     {
-        "id": 13501,
-        "text": "karūi̯"
-    },
-    {
         "id": 13503,
         "text": "karu",
         "gloss": "früher"
@@ -10123,8 +10114,7 @@
     },
     {
         "id": 13518,
-        "text": "kaššūn",
-        "pos": "NP"
+        "text": "kaššūn"
     },
     {
         "id": 13519,
@@ -10178,5 +10168,44 @@
     {
         "id": 13530,
         "text": "ueranza"
+    },
+    {
+        "id": 13929,
+        "text": "pii̯a-",
+        "gloss": "send",
+        "pos": "V",
+        "classes": [
+            "mi"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "CHD P:261"
+            }
+        ]
+    },
+    {
+        "id": 13930,
+        "text": "ÍD",
+        "gloss": "river",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "277"
+            }
+        ]
+    },
+    {
+        "id": 13938,
+        "text": "tarupp-",
+        "gloss": "collect",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "850"
+            }
+        ]
     }
 ]

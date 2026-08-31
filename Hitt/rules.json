@@ -848,6 +848,21 @@
             {
                 "instructions": [
                     {
+                        "type": "Append",
+                        "args": [
+                            "'t'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "cls": "vowel"
+                }
+            },
+            {
+                "instructions": [
+                    {
                         "type": "AppendMorpheme",
                         "args": [
                             "10313"
@@ -862,6 +877,12 @@
         "addedCategories": ".PST.3SG",
         "fromPOS": [
             "V"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 25,
+                "refText": "239"
+            }
         ]
     },
     {

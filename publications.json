@@ -192,5 +192,21 @@
         "author": "Peter Schrijver",
         "date": "1991",
         "publisher": "Rodopi: Amsterdam-Atlanta"
+    },
+    {
+        "id": 25,
+        "name": "A Grammar of the Hittite Language. Second Edition",
+        "refId": "Hoffner Melchert 2024",
+        "author": "Harry A. Hoffner and H. Craig Melchert",
+        "date": "2024",
+        "publisher": "Eisenbrauns, University Park, Pennsylvania"
+    },
+    {
+        "id": 26,
+        "name": "Etymological Dictionary of the Hittite Inherited Lexicon",
+        "refId": "Kloekhorst 2008",
+        "author": "Alwin Kloekhorst",
+        "date": "2008",
+        "publisher": "Brill: Leiden"
     }
 ]
