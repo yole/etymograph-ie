@@ -136,6 +136,30 @@
             {
                 "instructions": [
                     {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "10273"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "mi"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "š"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
                         "type": "AppendMorpheme",
                         "args": [
                             "10273"

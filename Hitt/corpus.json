@@ -6463,5 +6463,76 @@
                 "id": 11546
             }
         ]
+    },
+    {
+        "id": 13941,
+        "text": "o. Rd. 1# _UM-MA [^D^UT]U-_ŠI-MA\nVs. 2# _A-NA ^m^ka-aš-šu-ú _QÍ-BÍ-MA\n---\nVs. 3# ud-da-a-ar-mu ku-e ḫa-at-ra-a-eš\nVs. 4# ^LÚ^KÚR ma-aḫ-ḫ[a]-an ḫal-ki-uš\nVs. 5# dam-me-[i]š-[ḫ]i-iš-ke-ez-zi\nVs. 6# ^URU^kap-p[u]-ši-i̯a ma-aḫ-ḫa-an\nVs. 7# _ŠA É MUNUS.LUGAL u̯a-al-aḫ-ta\nVs. 8# nu _ŠA É MUNUS.LUGAL 1 GU4 ḫa-ap-pu-ut-ri [ ]\nVs. 9# _ŠA ^LÚ.MEŠ^MAŠ.EN.GAG-i̯a\nVs. 10# 30 GU4^ḪI.A^ 10 LÚ^MEŠ^-i̯a pé-ḫu-te-er\nVs. 11# na-at _AŠ-ME\n---\nu. Rd. 12# na-aš-ta ^LÚ^KÚR _QA-TAM-MA\nu. Rd. 13# ku-it KUR-e an-da\nu. Rd. 14# lam-mar lam-mar i-at-ta-r[i]\nRs. 15# ma-a-na-an ḫa-an-da-a-ši\nRs. 16# ku-u̯a-pí-ki ma-a-na-an\nRs. 17# u̯a-al-aḫ-ši\n---\nRs. 18# _A-NA _PA-NI ^LÚ^KÚR-ma-az\nRs. 19# m[e-e]k-ki pa-aḫ-ḫa-aš-nu-an-za e-eš\n---\n",
+        "title": "HKM 8",
+        "words": [
+            {
+                "index": 5,
+                "id": 13942
+            },
+            {
+                "index": 10,
+                "id": 13944
+            },
+            {
+                "index": 11,
+                "id": 13946
+            },
+            {
+                "index": 12,
+                "id": 13948
+            },
+            {
+                "index": 24,
+                "id": 13950
+            },
+            {
+                "index": 28,
+                "id": 13952
+            },
+            {
+                "index": 32,
+                "id": 13953
+            },
+            {
+                "index": 33,
+                "id": 13954
+            },
+            {
+                "index": 42,
+                "id": 13957
+            },
+            {
+                "index": 44,
+                "id": 13959
+            },
+            {
+                "index": 45,
+                "id": 13961
+            },
+            {
+                "index": 46,
+                "id": 13963
+            },
+            {
+                "index": 47,
+                "id": 13965
+            },
+            {
+                "index": 49,
+                "id": 13967
+            },
+            {
+                "index": 52,
+                "id": 13969
+            },
+            {
+                "index": 34,
+                "id": 11156
+            }
+        ]
     }
 ]

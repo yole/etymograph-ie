@@ -9682,7 +9682,11 @@
     {
         "id": 13418,
         "text": "z",
-        "gloss": "REFL"
+        "gloss": "REFL",
+        "pos": "PART",
+        "classes": [
+            "clitic"
+        ]
     },
     {
         "id": 13420,
@@ -10210,6 +10214,188 @@
         "sourceRefs": [
             {
                 "refText": "Tischler 1994:497"
+            }
+        ]
+    },
+    {
+        "id": 13942,
+        "text": "ud-da-a-ar-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13943,
+        "text": "uddārmu"
+    },
+    {
+        "id": 13944,
+        "text": "ḫal-ki-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13945,
+        "text": "ḫalkiuš"
+    },
+    {
+        "id": 13946,
+        "text": "dam-me-iš-ḫi-iš-ke-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 13947,
+        "text": "dammeišḫiškezzi"
+    },
+    {
+        "id": 13948,
+        "text": "^URU^kap-pu-ši-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13949,
+        "text": "kappušia",
+        "pos": "NP"
+    },
+    {
+        "id": 13950,
+        "text": "ḫa-ap-pu-ut-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 13951,
+        "text": "ḫapputri",
+        "gloss": "harness",
+        "pos": "N",
+        "classes": [
+            "N"
+        ],
+        "sourceRefs": [
+            {
+                "refText": "Puhvel 1991:129"
+            }
+        ]
+    },
+    {
+        "id": 13952,
+        "text": "^LÚ.MEŠ^MAŠ.EN.GAG-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13953,
+        "text": "LÚ^MEŠ^-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 13954,
+        "text": "pé-ḫu-te-er",
+        "syllabographic": true
+    },
+    {
+        "id": 13955,
+        "text": "peḫuter"
+    },
+    {
+        "id": 13956,
+        "text": "peḫute",
+        "gloss": "hinschaffen",
+        "pos": "V"
+    },
+    {
+        "id": 13957,
+        "text": "lam-mar",
+        "syllabographic": true
+    },
+    {
+        "id": 13958,
+        "text": "lammar",
+        "gloss": "instantly",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "519"
+            }
+        ]
+    },
+    {
+        "id": 13959,
+        "text": "i-at-ta-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 13960,
+        "text": "iattari"
+    },
+    {
+        "id": 13961,
+        "text": "ma-a-na-an",
+        "syllabographic": true
+    },
+    {
+        "id": 13962,
+        "text": "mānan"
+    },
+    {
+        "id": 13963,
+        "text": "ḫa-an-da-a-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 13964,
+        "text": "ḫandāši"
+    },
+    {
+        "id": 13965,
+        "text": "ku-u̯a-pí-ki",
+        "syllabographic": true
+    },
+    {
+        "id": 13966,
+        "text": "kuu̯apiki",
+        "gloss": "irgendwo"
+    },
+    {
+        "id": 13967,
+        "text": "u̯a-al-aḫ-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 13968,
+        "text": "u̯alaḫši"
+    },
+    {
+        "id": 13969,
+        "text": "^LÚ^KÚR-ma-az",
+        "syllabographic": true
+    },
+    {
+        "id": 13972,
+        "text": "^LÚ.MEŠ^MAŠ.EN.GAG",
+        "syllabographic": true
+    },
+    {
+        "id": 13974,
+        "text": "^LÚ^MAŠ.EN.GAG",
+        "gloss": "Halbfreier",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "285"
+            }
+        ]
+    },
+    {
+        "id": 13975,
+        "text": "ḫantae-",
+        "gloss": "arrange",
+        "pos": "V",
+        "classes": [
+            "mi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "289"
             }
         ]
     }
