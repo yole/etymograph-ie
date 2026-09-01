@@ -9578,12 +9578,6 @@
         "text": "ēpdu"
     },
     {
-        "id": 13399,
-        "text": "ēpp",
-        "gloss": "fassen",
-        "pos": "V"
-    },
-    {
         "id": 13400,
         "text": "KIN-az",
         "syllabographic": true
@@ -10205,6 +10199,17 @@
             {
                 "pubId": 26,
                 "refText": "850"
+            }
+        ]
+    },
+    {
+        "id": 13940,
+        "text": "duu̯addu-",
+        "gloss": "be lenient",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "refText": "Tischler 1994:497"
             }
         ]
     }
