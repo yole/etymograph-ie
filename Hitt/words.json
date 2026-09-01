@@ -10398,5 +10398,62 @@
                 "refText": "289"
             }
         ]
+    },
+    {
+        "id": 13980,
+        "text": "^LÚ.MEŠ^pít-te-an-du-uš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 13982,
+        "text": "na-it-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 13983,
+        "text": "naitta"
+    },
+    {
+        "id": 13984,
+        "text": "ú-u̯a-te-er",
+        "syllabographic": true
+    },
+    {
+        "id": 13985,
+        "text": "uu̯ater"
+    },
+    {
+        "id": 13986,
+        "text": "ANŠE.KUR.RA^ḪI.A^-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 13988,
+        "text": "pitteantuš"
+    },
+    {
+        "id": 13990,
+        "text": "^LÚ.MEŠ^pít-te-an-du-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13992,
+        "text": "^LÚ^pít-te-an-du-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 13993,
+        "text": "pittii̯ant-",
+        "gloss": "Flüchtling",
+        "pos": "N",
+        "classes": [
+            "C"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "172"
+            }
+        ]
     }
 ]

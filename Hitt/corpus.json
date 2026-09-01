@@ -6534,5 +6534,32 @@
                 "id": 11156
             }
         ]
+    },
+    {
+        "id": 13979,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-MA\nVs. 2# _A-NA ^m^ka-aš-šu-ú _QÍ-BÍ-MA\n---\nVs. 3# 13 ^LÚ.MEŠ^pít-te-an-du-uš-kán\nVs. 4# ku-it pa-ra-a na-it-ta\nVs. 5# na-aš ú-u̯a-te-er\n---\nVs. 6# _ŠA ANŠE.KUR.RA^ḪI.A^-ma-mu\nVs. 7# ku-it ut-tar ḫa-at-ra-a-eš\nu. Rd. 8# na-at _AŠ-ME\n---\n",
+        "title": "HKM 9",
+        "words": [
+            {
+                "index": 6,
+                "id": 13980
+            },
+            {
+                "index": 9,
+                "id": 13982
+            },
+            {
+                "index": 11,
+                "id": 13984
+            },
+            {
+                "index": 13,
+                "id": 13986
+            },
+            {
+                "index": 17,
+                "id": 11156
+            }
+        ]
     }
 ]
