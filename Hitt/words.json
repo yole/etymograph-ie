@@ -11081,5 +11081,83 @@
                 "refText": "296"
             }
         ]
+    },
+    {
+        "id": 14150,
+        "text": "wakan"
+    },
+    {
+        "id": 14152,
+        "text": "^m^ga-〈aš〉-šu-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 14153,
+        "text": "ga〈aš〉šū",
+        "pos": "NP"
+    },
+    {
+        "id": 14154,
+        "text": "^m^tar-ḫu-mi-i̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14155,
+        "text": "tarḫumii̯an"
+    },
+    {
+        "id": 14156,
+        "text": "^LÚ^DUB.SAR",
+        "syllabographic": true
+    },
+    {
+        "id": 14157,
+        "text": "e-ep",
+        "syllabographic": true
+    },
+    {
+        "id": 14158,
+        "text": "ēp"
+    },
+    {
+        "id": 14159,
+        "text": "É-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 14160,
+        "text": "É",
+        "gloss": "Haus",
+        "syllabographic": true
+    },
+    {
+        "id": 14161,
+        "text": "da-",
+        "syllabographic": true
+    },
+    {
+        "id": 14162,
+        "text": "da"
+    },
+    {
+        "id": 14163,
+        "text": "ú-u̯a-da-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 14164,
+        "text": "uu̯adandu"
+    },
+    {
+        "id": 14166,
+        "text": "tarḫumii̯a",
+        "pos": "NP"
+    },
+    {
+        "id": 14167,
+        "text": "^LÚ^DUB.SAR",
+        "gloss": "scribe",
+        "pos": "N",
+        "syllabographic": true
     }
 ]

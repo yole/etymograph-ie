@@ -6824,5 +6824,22 @@
                 "contextGloss": "how"
             }
         ]
+    },
+    {
+        "id": 14148,
+        "text": "Vs. 1# [ ^D^UTU-_ŠI-M]A _A-NA ^m^ka-aš-šu-ú\nVs. 2# _[QÍ-BÍ]-MA\n---\nVs. 3# [ ut-ta]r ku-it ḫa-at-ra-a-e[š]\nVs. 4# [ -w]a-kán ÉRIN^MEŠ^ x-x[\nVs. 5# [ ]x-x[",
+        "title": "HKM 11",
+        "words": []
+    },
+    {
+        "id": 14165,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-[MA]\nVs. 2# _A-NA ^m^ga-〈aš〉-šu-ú\nVs. 3# _QÍ-BI-MA\n---\nVs. 4# ^m^tar-ḫu-mi-i̯a-a[n]\nVs. 5# [^LÚ^]DUB.SAR e-e[p]\nVs. 6# [n]a-an _M[A-ḪAR\nRs. 1′# [ ] x x [\nRs. 2′# [ ] É-ri d[a-\nRs. 3′# [n]a-an _MA-ḪAR ^D^[UTU-_ŠI]\nRs. 4′# lam-mar\nRs. 5′# ú-u̯a-da-a[n-du]\n---\n",
+        "title": "HKM 12",
+        "words": [
+            {
+                "index": 6,
+                "id": 14167
+            }
+        ]
     }
 ]
