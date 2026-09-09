@@ -323,7 +323,8 @@
             "Supine",
             "Infinitive I",
             "Infinitive II",
-            "Verbal Noun"
+            "Verbal Noun",
+            "Verbal Noun II"
         ],
         "columns": [
             {
@@ -353,7 +354,8 @@
                         "ruleAlternatives": [
                             11748
                         ]
-                    }
+                    },
+                    {}
                 ]
             }
         ],

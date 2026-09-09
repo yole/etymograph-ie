@@ -11159,5 +11159,163 @@
         "gloss": "scribe",
         "pos": "N",
         "syllabographic": true
+    },
+    {
+        "id": 14169,
+        "text": "ki-i-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 14170,
+        "text": "kīmu"
+    },
+    {
+        "id": 14171,
+        "text": "^m^mar-ru-ú-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14172,
+        "text": "marrūu̯a",
+        "pos": "NP"
+    },
+    {
+        "id": 14173,
+        "text": "^URU^ḫi-im-mu-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14174,
+        "text": "ḫimmua",
+        "pos": "NP"
+    },
+    {
+        "id": 14175,
+        "text": "ḫa-li-i̯a-tar",
+        "syllabographic": true
+    },
+    {
+        "id": 14176,
+        "text": "ḫalii̯atar"
+    },
+    {
+        "id": 14177,
+        "text": "pa-ra-a-u̯a-ra-an-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14178,
+        "text": "parāu̯arankan"
+    },
+    {
+        "id": 14179,
+        "text": "na-an-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 14180,
+        "text": "nanmu"
+    },
+    {
+        "id": 14181,
+        "text": "tup-pí-i̯a-az",
+        "syllabographic": true
+    },
+    {
+        "id": 14182,
+        "text": "tuppii̯az"
+    },
+    {
+        "id": 14183,
+        "text": "ki-nu-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14184,
+        "text": "kinunaš"
+    },
+    {
+        "id": 14185,
+        "text": "ki-nu-na-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14186,
+        "text": "kinunan"
+    },
+    {
+        "id": 14188,
+        "text": "^LÚ^SIG5",
+        "gloss": "officer",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 14189,
+        "text": "ú-u̯a-te-ed-du",
+        "syllabographic": true
+    },
+    {
+        "id": 14190,
+        "text": "uu̯ateddu"
+    },
+    {
+        "id": 14191,
+        "text": "_Ú-UL-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 14195,
+        "text": "a-pé-e-el",
+        "syllabographic": true
+    },
+    {
+        "id": 14198,
+        "text": "u̯a-aš-túl",
+        "syllabographic": true
+    },
+    {
+        "id": 14199,
+        "text": "u̯aštul",
+        "gloss": "sin",
+        "pos": "N",
+        "classes": [
+            "N"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "249"
+            }
+        ]
+    },
+    {
+        "id": 14200,
+        "text": "da-a-at-ti",
+        "syllabographic": true
+    },
+    {
+        "id": 14201,
+        "text": "dātti"
+    },
+    {
+        "id": 14205,
+        "text": "apēl"
+    },
+    {
+        "id": 14207,
+        "text": "-ātar",
+        "gloss": "verbal noun suffix",
+        "pos": "AFF",
+        "sourceRefs": [
+            {
+                "pubId": 25,
+                "refText": "248"
+            }
+        ]
+    },
+    {
+        "id": 14211,
+        "text": "kan"
     }
 ]

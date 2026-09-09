@@ -6841,5 +6841,72 @@
                 "id": 14167
             }
         ]
+    },
+    {
+        "id": 14168,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-MA _A-NA ^m^ga-aš-šu-ú\nVs. 2# _QÍ-BÍ-MA\n---\nVs. 3# ki-i-mu ku-it _ŠA ^m^mar-ru-ú-u̯a\nVs. 4# LÚ ^URU^ḫi-im-mu-u̯a ḫa-li-i̯a-tar ḫa-at-ra-a-eš\nVs. 5# pa-ra-a-u̯a-ra-an-kán ne-eḫ-ḫu-un\nVs. 6# na-an-mu tup-pí-i̯a-az ḫa-at-ra-a-eš\nVs. 7# pa-ra-a-u̯a-ra-an-kán ne-eḫ-ḫu-un\nVs. 8# ki-nu-na-aš nam-ma _Ú-UL ú-et\nVs. 9# ki-nu-n[a-a]n _A-NA ^LÚ^SIG5 pé-ra-an\nVs. 10# ḫu-i-nu-ut na-an _MA-ḪAR ^D^UTU-_ŠI\nVs. 11# li-li-u̯a-aḫ-ḫu-u̯a-an-zi\nu. Rd. 12# ú-u̯a-te-ed-du\n---\nu. Rd. 13# ma-a-an _Ú-UL-ma nu-za a-pé-e-el\nRs. 14# u̯a-aš-túl zi-ik da-a-at-ti",
+        "title": "HKM 13",
+        "words": [
+            {
+                "index": 5,
+                "id": 14169
+            },
+            {
+                "index": 8,
+                "id": 14171
+            },
+            {
+                "index": 10,
+                "id": 14173
+            },
+            {
+                "index": 11,
+                "id": 14175
+            },
+            {
+                "index": 13,
+                "id": 14177
+            },
+            {
+                "index": 15,
+                "id": 14179
+            },
+            {
+                "index": 16,
+                "id": 14181
+            },
+            {
+                "index": 20,
+                "id": 14183
+            },
+            {
+                "index": 24,
+                "id": 14185
+            },
+            {
+                "index": 26,
+                "id": 14188
+            },
+            {
+                "index": 33,
+                "id": 14189
+            },
+            {
+                "index": 35,
+                "id": 14191
+            },
+            {
+                "index": 37,
+                "id": 14195
+            },
+            {
+                "index": 38,
+                "id": 14198
+            },
+            {
+                "index": 40,
+                "id": 14200
+            }
+        ]
     }
 ]
