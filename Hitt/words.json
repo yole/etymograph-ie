@@ -6247,7 +6247,8 @@
     {
         "id": 11988,
         "text": "uu̯ate-",
-        "gloss": "move; (her)bringen",
+        "gloss": "move",
+        "fullGloss": "move; (her)bringen",
         "pos": "V",
         "classes": [
             "mi"
@@ -6432,6 +6433,7 @@
         "id": 12168,
         "text": "u̯emii̯e-",
         "gloss": "find",
+        "fullGloss": "find; finden",
         "pos": "V",
         "classes": [
             "mi"
@@ -8684,9 +8686,16 @@
     },
     {
         "id": 13151,
-        "text": "unna",
-        "gloss": "herschicken; herfahren",
-        "pos": "V"
+        "text": "ūnna-",
+        "gloss": "send (here)",
+        "fullGloss": "send (here), drive (here); herschicken; herfahren",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "916"
+            }
+        ]
     },
     {
         "id": 13152,
@@ -11317,5 +11326,103 @@
     {
         "id": 14211,
         "text": "kan"
+    },
+    {
+        "id": 14213,
+        "text": "ma-a-aḫ-ḫa-an-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 14214,
+        "text": "māḫḫanta",
+        "gloss": "gerade wie"
+    },
+    {
+        "id": 14215,
+        "text": "ka-a-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14217,
+        "text": "tup-pí-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14218,
+        "text": "tuppianza"
+    },
+    {
+        "id": 14219,
+        "text": "ú-e-mi-i̯a-az-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14220,
+        "text": "uemii̯azzi"
+    },
+    {
+        "id": 14222,
+        "text": "u-un-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14223,
+        "text": "ūnni"
+    },
+    {
+        "id": 14224,
+        "text": "^m^mar-ru-u̯a-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 14225,
+        "text": "marruu̯anna",
+        "pos": "NP"
+    },
+    {
+        "id": 14226,
+        "text": "^URU^ga-gad-du-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14227,
+        "text": "kakattua",
+        "pos": "NP"
+    },
+    {
+        "id": 14228,
+        "text": "ú-u̯a-te",
+        "syllabographic": true
+    },
+    {
+        "id": 14229,
+        "text": "uu̯ate"
+    },
+    {
+        "id": 14230,
+        "text": "nu-uš-ma-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14231,
+        "text": "nušmaššan"
+    },
+    {
+        "id": 14232,
+        "text": "ú-u̯a-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14233,
+        "text": "uu̯anzi"
+    },
+    {
+        "id": 14234,
+        "text": "pé-e-di",
+        "syllabographic": true
+    },
+    {
+        "id": 14235,
+        "text": "pēdi"
     }
 ]
