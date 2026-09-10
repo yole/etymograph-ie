@@ -1,5 +1,288 @@
 {
-    "phonemes": [],
+    "phonemes": [
+        {
+            "id": 14238,
+            "graphemes": [
+                "i"
+            ],
+            "classes": [
+                "front",
+                "close",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14239,
+            "graphemes": [
+                "u"
+            ],
+            "classes": [
+                "back",
+                "close",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14240,
+            "graphemes": [
+                "e"
+            ],
+            "classes": [
+                "close-mid",
+                "front",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14241,
+            "graphemes": [
+                "ä"
+            ],
+            "sound": "ə",
+            "classes": [
+                "mid",
+                "central",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14242,
+            "graphemes": [
+                "o"
+            ],
+            "classes": [
+                "close-mid",
+                "back",
+                "rounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14243,
+            "graphemes": [
+                "a"
+            ],
+            "classes": [
+                "central",
+                "open",
+                "unrounded",
+                "vowel"
+            ]
+        },
+        {
+            "id": 14244,
+            "graphemes": [
+                "t"
+            ],
+            "classes": [
+                "voiceless",
+                "alveolar",
+                "stop"
+            ]
+        },
+        {
+            "id": 14245,
+            "graphemes": [
+                "k"
+            ],
+            "classes": [
+                "voiceless",
+                "velar",
+                "stop"
+            ]
+        },
+        {
+            "id": 14246,
+            "graphemes": [
+                "kw"
+            ],
+            "sound": "kʷ",
+            "classes": [
+                "voiceless",
+                "labiovelar",
+                "stop"
+            ]
+        },
+        {
+            "id": 14247,
+            "graphemes": [
+                "c"
+            ],
+            "classes": [
+                "voiceless",
+                "palatal",
+                "affricate"
+            ]
+        },
+        {
+            "id": 14248,
+            "graphemes": [
+                "p"
+            ],
+            "classes": [
+                "voiceless",
+                "bilabial",
+                "stop"
+            ]
+        },
+        {
+            "id": 14249,
+            "graphemes": [
+                "ṇ"
+            ],
+            "sound": " ŋ",
+            "classes": [
+                "voiced",
+                "velar",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 14250,
+            "graphemes": [
+                "ñ"
+            ],
+            "classes": [
+                "voiced",
+                "palatal",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 14251,
+            "graphemes": [
+                "n",
+                "ṃ"
+            ],
+            "sound": "n",
+            "classes": [
+                "voiced",
+                "alveolar",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 14252,
+            "graphemes": [
+                "m"
+            ],
+            "classes": [
+                "voiced",
+                "bilabial",
+                "nasal",
+                "consonant"
+            ]
+        },
+        {
+            "id": 14253,
+            "graphemes": [
+                "ś"
+            ],
+            "classes": [
+                "voiceless",
+                "palatal",
+                "fricative"
+            ]
+        },
+        {
+            "id": 14254,
+            "graphemes": [
+                "ṣ"
+            ],
+            "classes": [
+                "voiceless",
+                "retroflex",
+                "fricative"
+            ]
+        },
+        {
+            "id": 14255,
+            "graphemes": [
+                "s"
+            ],
+            "classes": [
+                "voiceless",
+                "alveolar",
+                "fricative"
+            ]
+        },
+        {
+            "id": 14256,
+            "graphemes": [
+                "ts"
+            ],
+            "sound": "tˢ",
+            "classes": [
+                "voiceless",
+                "alveolar",
+                "affricate"
+            ]
+        },
+        {
+            "id": 14257,
+            "graphemes": [
+                "ly"
+            ],
+            "sound": "ʎ",
+            "classes": [
+                "voiced",
+                "palatal",
+                "lateral",
+                "approximant"
+            ]
+        },
+        {
+            "id": 14258,
+            "graphemes": [
+                "l"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "lateral",
+                "approximant"
+            ]
+        },
+        {
+            "id": 14259,
+            "graphemes": [
+                "r"
+            ],
+            "classes": [
+                "voiced",
+                "alveolar",
+                "trill"
+            ]
+        },
+        {
+            "id": 14260,
+            "graphemes": [
+                "w"
+            ],
+            "classes": [
+                "voiced",
+                "labiovelar",
+                "approximant"
+            ]
+        },
+        {
+            "id": 14261,
+            "graphemes": [
+                "y"
+            ],
+            "classes": [
+                "voiced",
+                "palatal",
+                "approximant"
+            ]
+        }
+    ],
     "protoLanguageShortName": "PT",
     "pos": [
         {
@@ -21,6 +304,10 @@
         {
             "name": "Adjective",
             "abbreviation": "ADJ"
+        },
+        {
+            "name": "Affix",
+            "abbreviation": "AFF"
         }
     ],
     "grammaticalCategories": [
@@ -140,6 +427,22 @@
             ]
         },
         {
+            "name": "Voice",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "Active",
+                    "abbreviation": "ACT"
+                },
+                {
+                    "name": "Middle",
+                    "abbreviation": "MID"
+                }
+            ]
+        },
+        {
             "name": "Non-finite verb form",
             "pos": [
                 "V"
@@ -164,6 +467,20 @@
                 {
                     "name": "Feminine",
                     "abbreviation": "F"
+                }
+            ]
+        }
+    ],
+    "wordClasses": [
+        {
+            "name": "Animacy",
+            "pos": [
+                "N"
+            ],
+            "values": [
+                {
+                    "name": "+human",
+                    "abbreviation": "+human"
                 }
             ]
         }

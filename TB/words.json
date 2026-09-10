@@ -758,5 +758,101 @@
         "text": "su",
         "gloss": "anaphoric pronoun",
         "pos": "PRON"
+    },
+    {
+        "id": 14262,
+        "text": "-ṃ",
+        "gloss": "obl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14263,
+        "text": "-ntse",
+        "gloss": "gen.sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14264,
+        "text": "-i",
+        "gloss": "nom.pl. e-stem ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14265,
+        "text": "-ṃts",
+        "gloss": "gen.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14267,
+        "text": "-u",
+        "gloss": "1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14268,
+        "text": "-t",
+        "gloss": "2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14269,
+        "text": "-ṃ",
+        "gloss": "3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14270,
+        "text": "-m",
+        "gloss": "1pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14271,
+        "text": "-cer",
+        "gloss": "2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14272,
+        "text": "-ṃ",
+        "gloss": "3pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14273,
+        "text": "-mar",
+        "gloss": "Verb Present Middle pres.mid.1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14275,
+        "text": "-mtär",
+        "gloss": "Verb Present Middle pres.mid.1pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14277,
+        "text": "-tar",
+        "gloss": "Verb Present Middle pres.mid.2sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14279,
+        "text": "-tär",
+        "gloss": "Verb Present Middle pres.mid.2pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14281,
+        "text": "-tär",
+        "gloss": "Verb Present Middle pres.mid.3sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14283,
+        "text": "-ntär",
+        "gloss": "Verb Present Middle pres.mid.3pl. ending",
+        "pos": "AFF"
     }
 ]

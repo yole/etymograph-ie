@@ -4,7 +4,23 @@
         "name": "tb-nom-pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "14264"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            }
+        ],
         "addedCategories": ".NOM.PL",
         "fromPOS": [
             "N"
@@ -37,7 +53,33 @@
         "name": "tb-obl-sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14262"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "+human"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".OBL.SG",
         "fromPOS": [
             "N"
@@ -48,7 +90,21 @@
         "name": "tb-obl-pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14262"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".OBL.PL",
         "fromPOS": [
             "N"
@@ -59,10 +115,25 @@
         "name": "tb-gen-sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14263"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".GEN.SG",
         "fromPOS": [
-            "N"
+            "N",
+            "PRON"
         ]
     },
     {
@@ -70,7 +141,21 @@
         "name": "tb-gen-pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14265"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".GEN.PL",
         "fromPOS": [
             "N"
@@ -224,7 +309,21 @@
         "name": "tb-pres-1sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14267"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.1SG",
         "fromPOS": [
             "V"
@@ -235,7 +334,21 @@
         "name": "tb-pres-1pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14270"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.1PL",
         "fromPOS": [
             "V"
@@ -246,7 +359,21 @@
         "name": "tb-pres-2sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14268"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.2SG",
         "fromPOS": [
             "V"
@@ -257,7 +384,21 @@
         "name": "tb-pres-2pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14271"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.2PL",
         "fromPOS": [
             "V"
@@ -268,7 +409,21 @@
         "name": "tb-pres-3sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.3SG",
         "fromPOS": [
             "V"
@@ -279,7 +434,21 @@
         "name": "tb-pres-3pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14272"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.3PL",
         "fromPOS": [
             "V"
@@ -503,6 +672,178 @@
         "addedCategories": ".GEN.PL.F",
         "fromPOS": [
             "ADJ"
+        ]
+    },
+    {
+        "id": 14266,
+        "name": "tb-verbal-stem",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14274,
+        "name": "tb-pres-mid-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14273"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14276,
+        "name": "tb-pres-mid-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14275"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14278,
+        "name": "tb-pres-mid-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14277"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14280,
+        "name": "tb-pres-mid-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14279"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14282,
+        "name": "tb-pres-mid-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14281"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14284,
+        "name": "tb-pres-mid-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14283"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".PRES.MID.3PL",
+        "fromPOS": [
+            "V"
         ]
     }
 ]

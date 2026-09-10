@@ -180,7 +180,8 @@
         ],
         "posList": [
             "V"
-        ]
+        ],
+        "preRule": 14266
     },
     {
         "id": 46,
@@ -360,6 +361,60 @@
         ],
         "posList": [
             "ADJ"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Verb Present Middle",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14274
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14278
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14282
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14276
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14280
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14284
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
         ]
     }
 ]
