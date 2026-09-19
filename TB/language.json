@@ -3,8 +3,10 @@
         {
             "id": 14238,
             "graphemes": [
-                "i"
+                "i",
+                "ī"
             ],
+            "sound": "i",
             "classes": [
                 "front",
                 "close",
@@ -15,8 +17,10 @@
         {
             "id": 14239,
             "graphemes": [
-                "u"
+                "u",
+                "ū"
             ],
+            "sound": "u",
             "classes": [
                 "back",
                 "close",
@@ -39,7 +43,8 @@
         {
             "id": 14241,
             "graphemes": [
-                "ä"
+                "ä",
+                "ə"
             ],
             "sound": "ə",
             "classes": [
@@ -63,8 +68,10 @@
         {
             "id": 14243,
             "graphemes": [
-                "a"
+                "a",
+                "ā"
             ],
+            "sound": "a",
             "classes": [
                 "central",
                 "open",
@@ -131,7 +138,7 @@
         {
             "id": 14249,
             "graphemes": [
-                "ṇ"
+                "ṅ"
             ],
             "sound": " ŋ",
             "classes": [
@@ -306,6 +313,14 @@
             "abbreviation": "ADJ"
         },
         {
+            "name": "Adverb",
+            "abbreviation": "ADV"
+        },
+        {
+            "name": "Conjunction",
+            "abbreviation": "CONJ"
+        },
+        {
             "name": "Affix",
             "abbreviation": "AFF"
         }
@@ -407,6 +422,14 @@
                 {
                     "name": "Present",
                     "abbreviation": "PRES"
+                },
+                {
+                    "name": "Preterite",
+                    "abbreviation": "PRET"
+                },
+                {
+                    "name": "Imperfect",
+                    "abbreviation": "IPF"
                 }
             ]
         },
@@ -451,6 +474,14 @@
                 {
                     "name": "Verbal noun",
                     "abbreviation": "VN"
+                },
+                {
+                    "name": "Infinitive",
+                    "abbreviation": "INF"
+                },
+                {
+                    "name": "Participle",
+                    "abbreviation": "PTCP"
                 }
             ]
         },
@@ -481,6 +512,18 @@
                 {
                     "name": "+human",
                     "abbreviation": "+human"
+                }
+            ]
+        },
+        {
+            "name": "Clitic",
+            "pos": [
+                "PRON"
+            ],
+            "values": [
+                {
+                    "name": "clitic",
+                    "abbreviation": "clitic"
                 }
             ]
         }

@@ -166,10 +166,31 @@
         "name": "tb-loc-sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "9728"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14349"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".LOC.SG",
         "fromPOS": [
-            "N"
+            "N",
+            "NP"
         ]
     },
     {
@@ -302,7 +323,8 @@
         "addedCategories": ".VN",
         "fromPOS": [
             "V"
-        ]
+        ],
+        "toPOS": "N"
     },
     {
         "id": 9745,
@@ -842,6 +864,161 @@
             }
         ],
         "addedCategories": ".PRES.MID.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14289,
+        "name": "tb-ipf-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14290,
+        "name": "tb-ipf-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14291,
+        "name": "tb-ipf-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14292,
+        "name": "tb-ipf-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14293,
+        "name": "tb-ipf-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14294,
+        "name": "tb-ipf-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".IPF.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14323,
+        "name": "tb-inf",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".INF",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "N"
+    },
+    {
+        "id": 14334,
+        "name": "tb-pret-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14335,
+        "name": "tb-pret-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14336,
+        "name": "tb-pret-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14337,
+        "name": "tb-pret-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14338,
+        "name": "tb-pret-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14339,
+        "name": "tb-pret-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 14342,
+        "name": "tb-ptcp",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PTCP",
         "fromPOS": [
             "V"
         ]

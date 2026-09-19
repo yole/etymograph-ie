@@ -854,5 +854,264 @@
         "text": "-ntär",
         "gloss": "Verb Present Middle pres.mid.3pl. ending",
         "pos": "AFF"
+    },
+    {
+        "id": 14286,
+        "text": "pañ(ä)kte",
+        "gloss": "Buddha",
+        "pos": "NP"
+    },
+    {
+        "id": 14287,
+        "text": "śrāvasti",
+        "pos": "NP"
+    },
+    {
+        "id": 14288,
+        "text": "śrāvastine"
+    },
+    {
+        "id": 14295,
+        "text": "məsk-",
+        "gloss": "be",
+        "fullGloss": "be, become",
+        "pos": "V"
+    },
+    {
+        "id": 14296,
+        "text": "mäskīträ"
+    },
+    {
+        "id": 14297,
+        "text": "ot",
+        "gloss": "then",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14298,
+        "text": "no",
+        "gloss": "but",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14299,
+        "text": "k(e)statse",
+        "gloss": "pertaining to hunger",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14300,
+        "text": "nes-",
+        "gloss": "be",
+        "pos": "V"
+    },
+    {
+        "id": 14301,
+        "text": "ṣai"
+    },
+    {
+        "id": 14302,
+        "text": "uppalavarṇa",
+        "pos": "NP"
+    },
+    {
+        "id": 14303,
+        "text": "uppalavarṇañ"
+    },
+    {
+        "id": 14304,
+        "text": "aśiya",
+        "gloss": "nun",
+        "pos": "N",
+        "classes": [
+            "+human"
+        ]
+    },
+    {
+        "id": 14305,
+        "text": "aśiyantse"
+    },
+    {
+        "id": 14306,
+        "text": "yarke",
+        "gloss": "reverence",
+        "pos": "N"
+    },
+    {
+        "id": 14307,
+        "text": "peti",
+        "gloss": "flattery"
+    },
+    {
+        "id": 14308,
+        "text": "māka",
+        "gloss": "much",
+        "pos": "ADV"
+    },
+    {
+        "id": 14309,
+        "text": "spartta-",
+        "gloss": "turn",
+        "pos": "V"
+    },
+    {
+        "id": 14310,
+        "text": "sporttīträ"
+    },
+    {
+        "id": 14311,
+        "text": "śəw(a)-",
+        "gloss": "eat",
+        "pos": "V"
+    },
+    {
+        "id": 14312,
+        "text": "śwatsanma"
+    },
+    {
+        "id": 14313,
+        "text": "kəlpa-",
+        "gloss": "obtain",
+        "pos": "V"
+    },
+    {
+        "id": 14314,
+        "text": "kälpāṣṣi"
+    },
+    {
+        "id": 14315,
+        "text": "tu",
+        "gloss": "this.N",
+        "pos": "PRON"
+    },
+    {
+        "id": 14316,
+        "text": "päst",
+        "gloss": "away",
+        "pos": "ADV"
+    },
+    {
+        "id": 14317,
+        "text": "ay-",
+        "gloss": "give",
+        "pos": "V"
+    },
+    {
+        "id": 14318,
+        "text": "aiṣṣi"
+    },
+    {
+        "id": 14319,
+        "text": "ṣamanets"
+    },
+    {
+        "id": 14320,
+        "text": "ṣamāneṃts"
+    },
+    {
+        "id": 14321,
+        "text": "ṣamāne",
+        "gloss": "monk",
+        "pos": "N"
+    },
+    {
+        "id": 14322,
+        "text": "śwatsi"
+    },
+    {
+        "id": 14324,
+        "text": "tay",
+        "gloss": "this.GEN.SG.F"
+    },
+    {
+        "id": 14325,
+        "text": "trite",
+        "gloss": "third",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14326,
+        "text": "kaun",
+        "gloss": "day",
+        "pos": "N"
+    },
+    {
+        "id": 14327,
+        "text": "eśuwacca",
+        "gloss": "without food"
+    },
+    {
+        "id": 14328,
+        "text": "leswi",
+        "gloss": "attacks of weakness"
+    },
+    {
+        "id": 14329,
+        "text": "tumeṃ",
+        "gloss": "then",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14330,
+        "text": "eṅsanta-ne"
+    },
+    {
+        "id": 14331,
+        "text": "eṅsanta"
+    },
+    {
+        "id": 14333,
+        "text": "ne",
+        "gloss": "3SG",
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 14340,
+        "text": "enk-",
+        "gloss": "take",
+        "pos": "V"
+    },
+    {
+        "id": 14341,
+        "text": "yaka",
+        "gloss": "still",
+        "pos": "ADV"
+    },
+    {
+        "id": 14343,
+        "text": "ynemane"
+    },
+    {
+        "id": 14344,
+        "text": "nautaine"
+    },
+    {
+        "id": 14345,
+        "text": "nauntaine"
+    },
+    {
+        "id": 14346,
+        "text": "naunto",
+        "gloss": "street",
+        "pos": "N"
+    },
+    {
+        "id": 14347,
+        "text": "klaya-",
+        "gloss": "fall",
+        "pos": "V"
+    },
+    {
+        "id": 14348,
+        "text": "klāya"
+    },
+    {
+        "id": 14349,
+        "text": "-ne",
+        "gloss": "loc. suffix",
+        "pos": "AFF"
     }
 ]

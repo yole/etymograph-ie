@@ -416,5 +416,113 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 90,
+        "name": "Verb Imperfect",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14289
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14291
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14293
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14290
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14292
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14294
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Verb Preterite",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14334
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14336
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14338
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14335
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14337
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14339
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]
