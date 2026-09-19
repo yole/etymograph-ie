@@ -6208,8 +6208,7 @@
         "pos": "PRON",
         "classes": [
             "clitic"
-        ],
-        "syllabographic": true
+        ]
     },
     {
         "id": 11977,
@@ -10210,6 +10209,7 @@
         "id": 13938,
         "text": "tarupp-",
         "gloss": "collect",
+        "fullGloss": "collect; verflechten",
         "pos": "V",
         "sourceRefs": [
             {
@@ -11424,5 +11424,66 @@
     {
         "id": 14235,
         "text": "pēdi"
+    },
+    {
+        "id": 14351,
+        "text": "^m^zi-la-pí-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14352,
+        "text": "zilapii̯a",
+        "pos": "NP"
+    },
+    {
+        "id": 14353,
+        "text": "ma-aḫ-ḫa-an-ša-ma-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14354,
+        "text": "maḫḫanšamaš"
+    },
+    {
+        "id": 14355,
+        "text": "ú-e-mi-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14356,
+        "text": "uemiezzi"
+    },
+    {
+        "id": 14357,
+        "text": "da-ru-up-pa-an-te-et",
+        "syllabographic": true
+    },
+    {
+        "id": 14358,
+        "text": "daruppantet"
+    },
+    {
+        "id": 14360,
+        "text": "ANŠE.KUR.RA^ḪI.A^-i̯a-aš-ma-aš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14361,
+        "text": "UD",
+        "syllabographic": true
+    },
+    {
+        "id": 14362,
+        "text": "3^KAM^",
+        "syllabographic": true
+    },
+    {
+        "id": 14364,
+        "text": "ar-nu-ut-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14365,
+        "text": "arnutten"
     }
 ]

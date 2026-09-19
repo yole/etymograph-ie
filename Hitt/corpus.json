@@ -6959,5 +6959,44 @@
                 "id": 14234
             }
         ]
+    },
+    {
+        "id": 14350,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-MA\nVs. 2# _A-NA ^m^ga-aš-šu-ú\nVs. 3# ^m^zi-la-pí-i̯a _QÍ-BÍ-MA\n---\nVs. 4# ma-aḫ-ḫa-an-ša-ma-aš ka-a-aš\nVs. 5# tup-pí-an-za an-da ú-e-mi-ez-zi\nVs. 6# nu ÉRIN^MEŠ^ an-da\nVs. 7# da-ru-up-pa-an-te-et\nVs. 8# ANŠE.KUR.RA^ḪI.A^-i̯a-aš-ma-aš-kán\nVs. 9# ku-iš an-da\nu. Rd. 10# na-an _MA-ḪAR\nu. Rd. 11# ^D^UTU-_ŠI _I-NA UD 3^KAM^\nRs. 12# li-li-u̯a-aḫ-ḫu-u-an-zi\nRs. 13# ar-nu-ut-tén\n---\n",
+        "title": "HKM 15",
+        "words": [
+            {
+                "index": 4,
+                "id": 14351
+            },
+            {
+                "index": 6,
+                "id": 14353
+            },
+            {
+                "index": 10,
+                "id": 14355
+            },
+            {
+                "index": 14,
+                "id": 14357
+            },
+            {
+                "index": 15,
+                "id": 14360
+            },
+            {
+                "index": 22,
+                "id": 14361
+            },
+            {
+                "index": 23,
+                "id": 14362
+            },
+            {
+                "index": 25,
+                "id": 14364
+            }
+        ]
     }
 ]
