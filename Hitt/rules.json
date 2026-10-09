@@ -294,7 +294,8 @@
         "addedCategories": ".NOM.PL",
         "fromPOS": [
             "N",
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {
@@ -649,7 +650,8 @@
         "fromPOS": [
             "N",
             "ADJ",
-            "PRON"
+            "PRON",
+            "NP"
         ]
     },
     {
@@ -1753,7 +1755,7 @@
     },
     {
         "id": 11748,
-        "name": "hitt-vn",
+        "name": "hitt-vn1",
         "fromLang": "Hitt",
         "toLang": "Hitt",
         "branches": [
@@ -1826,5 +1828,31 @@
         "fromPOS": [
             "V"
         ]
+    },
+    {
+        "id": 14621,
+        "name": "hitt-vn2",
+        "fromLang": "Hitt",
+        "toLang": "Hitt",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14207"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "addedCategories": ".VN",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "N"
     }
 ]

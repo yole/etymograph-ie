@@ -18,7 +18,11 @@
             {
                 "title": "Sg",
                 "cells": [
-                    {},
+                    {
+                        "ruleAlternatives": [
+                            null
+                        ]
+                    },
                     {
                         "ruleAlternatives": [
                             9726
@@ -180,8 +184,7 @@
         ],
         "posList": [
             "V"
-        ],
-        "preRule": 14266
+        ]
     },
     {
         "id": 46,
@@ -519,6 +522,26 @@
                         ]
                     }
                 ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Verb Imperative Middle",
+        "rows": [
+            "2"
+        ],
+        "columns": [
+            {
+                "title": "sg",
+                "cells": []
+            },
+            {
+                "title": "pl",
+                "cells": []
             }
         ],
         "posList": [

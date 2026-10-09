@@ -467,13 +467,9 @@
     },
     {
         "id": 14285,
-        "text": "1# || pañ(ä)kte śrāvastine mäskīträ\n2# ot no k(e)statse preke ṣai\n3# uppalavarṇañ aśiyantse yarke peti māka sporttīträ\n4# māka śwatsanma kälpāṣṣi\n5# tu ṣamānets päst aiṣṣi śwātsi\n6# tāy no trite kauṃ ṣai\n7# eśuwacca mäskīträ\n8# tumeṃ leswi eṅsanta-ne\n9# yaka ynemane nautaine klāya",
+        "text": "1# || pañäkte śrāvastine mäskīträ\n2# ot no k(e)statse preke ṣai\n3# uppalavarṇañ aśiyantse yarke peti māka sporttīträ\n4# māka śwatsanma kälpāṣṣi\n5# tu ṣamānets päst aiṣṣi śwātsi\n6# tāy no trite kauṃ ṣai\n7# eśuwacca mäskīträ\n8# tumeṃ leswi eṅsanta-ne\n9# yaka ynemane nautaine klāya\n10# käryorttau ksa lyakā-ne\n11# istak klautka\n12# śnoy ākṣa\n13# tumeṃ sāᵤ śem kauc ersate-ne\n14# oskai wayāte-ne\n15# śwātsi wäṅkṣāte-ne\n16# pañäkte klyauṣa nāksate",
         "title": "IOL Toch 248 a2-b2",
         "words": [
-            {
-                "index": 1,
-                "id": 14286
-            },
             {
                 "index": 2,
                 "id": 14288
@@ -535,16 +531,16 @@
                 "id": 14315
             },
             {
+                "index": 19,
+                "id": 14319
+            },
+            {
                 "index": 20,
                 "id": 14316
             },
             {
                 "index": 21,
                 "id": 14318
-            },
-            {
-                "index": 19,
-                "id": 14319
             },
             {
                 "index": 22,
@@ -567,12 +563,12 @@
                 "id": 14327
             },
             {
-                "index": 31,
-                "id": 14328
-            },
-            {
                 "index": 30,
                 "id": 14329
+            },
+            {
+                "index": 31,
+                "id": 14328
             },
             {
                 "index": 32,
@@ -593,11 +589,234 @@
             {
                 "index": 36,
                 "id": 14348
+            },
+            {
+                "index": 37,
+                "id": 14509
+            },
+            {
+                "index": 39,
+                "id": 14510
+            },
+            {
+                "index": 40,
+                "id": 14514
+            },
+            {
+                "index": 41,
+                "id": 14516
+            },
+            {
+                "index": 42,
+                "id": 14518
+            },
+            {
+                "index": 43,
+                "id": 14520
+            },
+            {
+                "index": 45,
+                "id": 14521
+            },
+            {
+                "index": 46,
+                "id": 14523
+            },
+            {
+                "index": 47,
+                "id": 14524
+            },
+            {
+                "index": 48,
+                "id": 14525
+            },
+            {
+                "index": 49,
+                "id": 14529
+            },
+            {
+                "index": 50,
+                "id": 14530
+            },
+            {
+                "index": 54,
+                "id": 14534
+            },
+            {
+                "index": 55,
+                "id": 14536
             }
         ],
         "sourceRefs": [
             {
                 "refText": "https://cetom.univie.ac.at/?m-ioltoch248"
+            }
+        ]
+    },
+    {
+        "id": 14539,
+        "text": "weṣṣäṃ cämpamñeccu\ntusāksa nai ñake ārwer tākam\nente se krentaunattse sunetre walo pañäkte śaiṣṣene tsāṅkaṃ\not cwi spaktanīki alāläcci tākam\nmapi kca sū cämpan-me laklene waste nestsi ||\njñānasthite weṣṣäṃ waṣama epiyac pi tu pkalar\nente se krentaunatstse araṇemi ñemtsa walo ṣai\not rano sū ololyesa ākteke wantare yamaṣa ||\nguṇasaṃpade weṣṣäṃ cämpamñeccu\n",
+        "title": "THT 77",
+        "words": [
+            {
+                "index": 0,
+                "id": 14541
+            },
+            {
+                "index": 1,
+                "id": 14543
+            },
+            {
+                "index": 2,
+                "id": 14544
+            },
+            {
+                "index": 3,
+                "id": 14545
+            },
+            {
+                "index": 4,
+                "id": 14546
+            },
+            {
+                "index": 5,
+                "id": 14547
+            },
+            {
+                "index": 6,
+                "id": 14548
+            },
+            {
+                "index": 7,
+                "id": 14549
+            },
+            {
+                "index": 9,
+                "id": 14552
+            },
+            {
+                "index": 10,
+                "id": 14553
+            },
+            {
+                "index": 11,
+                "id": 14554
+            },
+            {
+                "index": 13,
+                "id": 14556
+            },
+            {
+                "index": 14,
+                "id": 14558
+            },
+            {
+                "index": 16,
+                "id": 14560
+            },
+            {
+                "index": 17,
+                "id": 14562
+            },
+            {
+                "index": 18,
+                "id": 14564
+            },
+            {
+                "index": 20,
+                "id": 14565
+            },
+            {
+                "index": 23,
+                "id": 14566
+            },
+            {
+                "index": 24,
+                "id": 14571
+            },
+            {
+                "index": 25,
+                "id": 14572
+            },
+            {
+                "index": 26,
+                "id": 14573
+            },
+            {
+                "index": 28,
+                "id": 14574
+            },
+            {
+                "index": 30,
+                "id": 14576
+            },
+            {
+                "index": 31,
+                "id": 14577
+            },
+            {
+                "index": 32,
+                "id": 14578
+            },
+            {
+                "index": 34,
+                "id": 14582
+            },
+            {
+                "index": 37,
+                "id": 14583
+            },
+            {
+                "index": 38,
+                "id": 14584
+            },
+            {
+                "index": 39,
+                "id": 14585
+            },
+            {
+                "index": 43,
+                "id": 14586
+            },
+            {
+                "index": 45,
+                "id": 14587
+            },
+            {
+                "index": 46,
+                "id": 14588
+            },
+            {
+                "index": 47,
+                "id": 14589
+            },
+            {
+                "index": 48,
+                "id": 14590
+            },
+            {
+                "index": 50,
+                "id": 14591
+            }
+        ],
+        "translations": [
+            {
+                "id": 14595,
+                "text": "when this virtuous king Sunetre will rise as Buddha in the world",
+                "anchorStartIndex": 7,
+                "anchorEndIndex": 15
+            },
+            {
+                "id": 14596,
+                "text": "then we will be his tireless servants",
+                "anchorStartIndex": 15,
+                "anchorEndIndex": 20
+            },
+            {
+                "id": 14597,
+                "text": "he can somehow be a refuge for our sorrow ",
+                "anchorStartIndex": 20,
+                "anchorEndIndex": 53
             }
         ]
     }

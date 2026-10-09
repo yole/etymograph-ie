@@ -6777,6 +6777,7 @@
         "id": 12230,
         "text": "dā-",
         "gloss": "take",
+        "fullGloss": "take; nehmen",
         "pos": "V",
         "classes": [
             "hi"
@@ -7845,7 +7846,7 @@
         "id": 12931,
         "text": "zulia",
         "gloss": "Zuliya",
-        "pos": "N"
+        "pos": "NP"
     },
     {
         "id": 12932,
@@ -10440,33 +10441,9 @@
         "syllabographic": true
     },
     {
-        "id": 13988,
-        "text": "pitteantuš"
-    },
-    {
         "id": 13990,
         "text": "^LÚ.MEŠ^pít-te-an-du-uš",
         "syllabographic": true
-    },
-    {
-        "id": 13992,
-        "text": "^LÚ^pít-te-an-du-uš",
-        "syllabographic": true
-    },
-    {
-        "id": 13993,
-        "text": "pittii̯ant-",
-        "gloss": "Flüchtling",
-        "pos": "N",
-        "classes": [
-            "C"
-        ],
-        "sourceRefs": [
-            {
-                "pubId": 18,
-                "refText": "172"
-            }
-        ]
     },
     {
         "id": 13995,
@@ -11503,5 +11480,881 @@
     {
         "id": 14372,
         "text": "ūnništen"
+    },
+    {
+        "id": 14374,
+        "text": "^m^ḫu-ul-la",
+        "syllabographic": true
+    },
+    {
+        "id": 14375,
+        "text": "ḫulla",
+        "pos": "NP"
+    },
+    {
+        "id": 14376,
+        "text": "ḫa-at-ra-a-at-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14377,
+        "text": "ḫatrātten"
+    },
+    {
+        "id": 14378,
+        "text": "ku-it-ma-an-u̯a-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14379,
+        "text": "kuitmanu̯aza"
+    },
+    {
+        "id": 14380,
+        "text": "^URU^ka₄-aš-ka₄-ma-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14381,
+        "text": "kaškamaua",
+        "pos": "NP"
+    },
+    {
+        "id": 14382,
+        "text": "pé-en-ni-i̯a-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14383,
+        "text": "pennii̯anzi"
+    },
+    {
+        "id": 14384,
+        "text": "pennii̯e",
+        "gloss": "(hin)treiben",
+        "pos": "V"
+    },
+    {
+        "id": 14385,
+        "text": "KASKAL^ḪI.A^-i̯a-u̯a-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14386,
+        "text": "ap-pí-iš-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14387,
+        "text": "appiškanzi"
+    },
+    {
+        "id": 14389,
+        "text": "^m^ḫu-ul-la-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14390,
+        "text": "ḫullan"
+    },
+    {
+        "id": 14391,
+        "text": "ki-nu-un-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 14392,
+        "text": "kinunpat"
+    },
+    {
+        "id": 14394,
+        "text": "šu-me-eš-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 14395,
+        "text": "šumešpat"
+    },
+    {
+        "id": 14396,
+        "text": "^m^pí-iz-zu-ma-ki-iš-u̯a-an-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14397,
+        "text": "pizzumakišu̯annaš",
+        "pos": "NP"
+    },
+    {
+        "id": 14398,
+        "text": "^URU^ma-re-eš-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 14399,
+        "text": "marešta",
+        "pos": "NP"
+    },
+    {
+        "id": 14400,
+        "text": "nu-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14401,
+        "text": "nuu̯akan"
+    },
+    {
+        "id": 14403,
+        "text": "^m^pí-pí-ta-ḫi-in",
+        "syllabographic": true
+    },
+    {
+        "id": 14404,
+        "text": "pipitaḫin"
+    },
+    {
+        "id": 14405,
+        "text": "ša-pa-a-ši-i̯a-u-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14406,
+        "text": "šapāšii̯auanzi"
+    },
+    {
+        "id": 14407,
+        "text": "TÙR^ḪI.A^-i̯a-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14408,
+        "text": "ma-an-ni-in-ku-u̯a-a-an-te-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 14409,
+        "text": "manninkuu̯ānteš"
+    },
+    {
+        "id": 14410,
+        "text": "a-pu-u-uš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 14411,
+        "text": "apūšša"
+    },
+    {
+        "id": 14412,
+        "text": "i-i̯a-at-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14413,
+        "text": "ii̯atten"
+    },
+    {
+        "id": 14414,
+        "text": "ḫal-ki-iš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 14415,
+        "text": "ḫalkišša"
+    },
+    {
+        "id": 14416,
+        "text": "ḫa-an-da-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14417,
+        "text": "ḫandān"
+    },
+    {
+        "id": 14418,
+        "text": "e-eš-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14419,
+        "text": "ēšzi"
+    },
+    {
+        "id": 14420,
+        "text": "da-a-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 14421,
+        "text": "dāu"
+    },
+    {
+        "id": 14422,
+        "text": "URU-an-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14423,
+        "text": "da-a-u-e-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14424,
+        "text": "dāueni"
+    },
+    {
+        "id": 14426,
+        "text": "^URU^ka-pa-pa-aḫ-šu-u̯a-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14427,
+        "text": "kapapaḫšuaš"
+    },
+    {
+        "id": 14428,
+        "text": "pa-aḫ-ḫa-aš-nu-u̯a-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14429,
+        "text": "paḫḫašnuu̯anza"
+    },
+    {
+        "id": 14430,
+        "text": "^URU^ka-pa-pa-aḫ-šu-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14431,
+        "text": "kapapaḫšua",
+        "pos": "NP"
+    },
+    {
+        "id": 14432,
+        "text": "ZAG-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14433,
+        "text": "ke-e-ez-za-aš-ši-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14434,
+        "text": "kēzzaššikan"
+    },
+    {
+        "id": 14435,
+        "text": "ta-ma-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14436,
+        "text": "tamaššan"
+    },
+    {
+        "id": 14437,
+        "text": "ḫar-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14438,
+        "text": "ḫarkanzi"
+    },
+    {
+        "id": 14439,
+        "text": "ši-na-ḫa",
+        "syllabographic": true
+    },
+    {
+        "id": 14440,
+        "text": "šinaḫa"
+    },
+    {
+        "id": 14441,
+        "text": "ti-i̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14442,
+        "text": "tii̯an"
+    },
+    {
+        "id": 14443,
+        "text": "ku-e-ri-i̯a-aš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 14444,
+        "text": "kuerii̯ašša"
+    },
+    {
+        "id": 14445,
+        "text": "^URU^tág-ga-aš-ta-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14446,
+        "text": "takkaštaza"
+    },
+    {
+        "id": 14447,
+        "text": "ku-e-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 14448,
+        "text": "kueri"
+    },
+    {
+        "id": 14449,
+        "text": "kuera",
+        "gloss": "Feld",
+        "pos": "N"
+    },
+    {
+        "id": 14450,
+        "text": "ZAG-né-eš-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14451,
+        "text": "mar-riaš",
+        "syllabographic": true
+    },
+    {
+        "id": 14452,
+        "text": "marriaš"
+    },
+    {
+        "id": 14453,
+        "text": "i-i̯a-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 14454,
+        "text": "ii̯aši"
+    },
+    {
+        "id": 14455,
+        "text": "na-aš-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 14456,
+        "text": "našši"
+    },
+    {
+        "id": 14457,
+        "text": "NU.GÁL",
+        "gloss": "(ist) nicht (vorhanden)",
+        "syllabographic": true
+    },
+    {
+        "id": 14458,
+        "text": "^m^ḫa-ša-am-mi-li",
+        "syllabographic": true
+    },
+    {
+        "id": 14460,
+        "text": "ARAD-_KU-NU-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 14461,
+        "text": "tar-na-at-ta-at",
+        "syllabographic": true
+    },
+    {
+        "id": 14462,
+        "text": "tarnattat"
+    },
+    {
+        "id": 14463,
+        "text": "u̯a-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14464,
+        "text": "u̯aššan"
+    },
+    {
+        "id": 14465,
+        "text": "az-za-ki-it-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14466,
+        "text": "azzakitten"
+    },
+    {
+        "id": 14467,
+        "text": "ke-ee-ez",
+        "syllabographic": true
+    },
+    {
+        "id": 14468,
+        "text": "keez"
+    },
+    {
+        "id": 14469,
+        "text": "DINGIR^MEŠ^-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 14470,
+        "text": "ti-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14471,
+        "text": "tii̯a"
+    },
+    {
+        "id": 14472,
+        "text": "nu-uš-ši-iš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14473,
+        "text": "nuššiššan"
+    },
+    {
+        "id": 14474,
+        "text": "da-at-tén-ma-aš-ši-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14475,
+        "text": "dattenmaššikan"
+    },
+    {
+        "id": 14476,
+        "text": "pí-pa-at-ti",
+        "syllabographic": true
+    },
+    {
+        "id": 14477,
+        "text": "pipatti"
+    },
+    {
+        "id": 14480,
+        "text": "KASKAL^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 14483,
+        "text": "pizzumakiš",
+        "pos": "NP"
+    },
+    {
+        "id": 14485,
+        "text": "pipitaḫi",
+        "pos": "NP"
+    },
+    {
+        "id": 14486,
+        "text": "TÙR^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 14488,
+        "text": "TÙR",
+        "gloss": "sheepfold",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 14489,
+        "text": "manninkuu̯ānt-",
+        "gloss": "close",
+        "fullGloss": "short, low; close",
+        "pos": "ADJ",
+        "sourceRefs": [
+            {
+                "refText": "CHD L-N:173"
+            }
+        ]
+    },
+    {
+        "id": 14490,
+        "text": "apūš"
+    },
+    {
+        "id": 14492,
+        "text": "ḫalkiš"
+    },
+    {
+        "id": 14495,
+        "text": "ZAG",
+        "gloss": "Grenze",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "300"
+            }
+        ]
+    },
+    {
+        "id": 14496,
+        "text": "kēzza"
+    },
+    {
+        "id": 14498,
+        "text": "šinaḫḫa-",
+        "gloss": "ambush",
+        "fullGloss": "ambush; Hinterhalt",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "refText": "Tischler 2004:1045"
+            }
+        ]
+    },
+    {
+        "id": 14600,
+        "text": "marri",
+        "gloss": "rashly",
+        "pos": "ADV"
+    },
+    {
+        "id": 14602,
+        "text": "ZAG-né-es-",
+        "gloss": "succeed",
+        "pos": "V",
+        "syllabographic": true
+    },
+    {
+        "id": 14607,
+        "text": "u̯aš-",
+        "gloss": "dress",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "248"
+            }
+        ]
+    },
+    {
+        "id": 14608,
+        "text": "azzak-",
+        "gloss": "eat often",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "39"
+            }
+        ]
+    },
+    {
+        "id": 14609,
+        "text": "pippa-",
+        "gloss": "knock down",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "refText": "CHD P:269"
+            }
+        ]
+    },
+    {
+        "id": 14610,
+        "text": "datten"
+    },
+    {
+        "id": 14615,
+        "text": "tii̯e-",
+        "gloss": "step",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "879"
+            }
+        ]
+    },
+    {
+        "id": 14617,
+        "text": "^m^uḫ-ḫa-mu-u-u̯a",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14622,
+        "text": "ti-i-ia-an-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14623,
+        "text": "tīannaš"
+    },
+    {
+        "id": 14625,
+        "text": "^m^ku-pa-an-da-^D^KAL-ia",
+        "gloss": "Kupantakuruntiya",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14626,
+        "text": "^m^tar-ḫu-un-na-ra-du",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14627,
+        "text": "^URU^ḫa-ap-pu-ri-ia",
+        "syllabographic": true
+    },
+    {
+        "id": 14628,
+        "text": "ḫappuria",
+        "pos": "NP"
+    },
+    {
+        "id": 14629,
+        "text": "^URU^ḫa-ap-pu-ri-ia-az",
+        "syllabographic": true
+    },
+    {
+        "id": 14630,
+        "text": "ḫappuriaz"
+    },
+    {
+        "id": 14631,
+        "text": "^URU^ma-ra-a-ša",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14632,
+        "text": "^LÚ^pít-ti-i̯a-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14633,
+        "text": "pittii̯anza"
+    },
+    {
+        "id": 14634,
+        "text": "^LÚ^SANGA",
+        "gloss": "priest",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 14635,
+        "text": "pít-ti-i̯a-an-ti-li",
+        "gloss": "as a fugitive",
+        "pos": "ADV",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "refText": "CHD P:363"
+            }
+        ]
+    },
+    {
+        "id": 14638,
+        "text": "a-ra-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14639,
+        "text": "aranzi"
+    },
+    {
+        "id": 14640,
+        "text": "ḫu-u-ma-an-ta-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14641,
+        "text": "ḫūmantaš"
+    },
+    {
+        "id": 14642,
+        "text": "zi-ik-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14643,
+        "text": "zikkanzi"
+    },
+    {
+        "id": 14644,
+        "text": "zikk-",
+        "gloss": "decide",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "260"
+            }
+        ]
+    },
+    {
+        "id": 14646,
+        "text": "ma-an-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14648,
+        "text": "^URU^ḫa-ap-pu-ri-ia-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14649,
+        "text": "ḫappurian"
+    },
+    {
+        "id": 14650,
+        "text": "za-am-mu-ra-a-u-e-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14651,
+        "text": "zammurāueni"
+    },
+    {
+        "id": 14652,
+        "text": "zammurāi-",
+        "gloss": "damage",
+        "pos": "V"
+    },
+    {
+        "id": 14654,
+        "text": "pa-i-u̯a-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14655,
+        "text": "paiu̯ani"
+    },
+    {
+        "id": 14656,
+        "text": "^URU^šal-pa",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14657,
+        "text": "da-i-u̯a-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14658,
+        "text": "daiu̯ani"
+    },
+    {
+        "id": 14660,
+        "text": "pa-ra-ma-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14661,
+        "text": "paramau̯a"
+    },
+    {
+        "id": 14663,
+        "text": "u̯a-al-aḫ-ḫu-u̯a-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14664,
+        "text": "u̯alaḫḫuu̯ani"
+    },
+    {
+        "id": 14666,
+        "text": "ma-a-an-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14668,
+        "text": "^URU^ḫa-ap-pu-ri-ia-an-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 14671,
+        "text": "^URU^šal-pa-ia",
+        "syllabographic": true
+    },
+    {
+        "id": 14674,
+        "text": "KUR-e-ia-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 14676,
+        "text": "ú-ez-zi-u̯a-an-na-aš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 14677,
+        "text": "uezziu̯annaškan"
+    },
+    {
+        "id": 14679,
+        "text": "u̯a-al-aḫ-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14680,
+        "text": "pé-ra-an-ma-u̯a-an-na-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14681,
+        "text": "peranmau̯annaš"
+    },
+    {
+        "id": 14683,
+        "text": "EGIR-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 14684,
+        "text": "ku-u̯a-at-ka4",
+        "gloss": "somehow",
+        "pos": "ADV",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "123"
+            }
+        ]
+    },
+    {
+        "id": 14687,
+        "text": "^m^ku-pa-an-da-^D^KAL-ia-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14688,
+        "text": "me-mi-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 14689,
+        "text": "memiš"
+    },
+    {
+        "id": 14691,
+        "text": "^URU^kam-ma-ma",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 14692,
+        "text": "KUR-e-kán",
+        "syllabographic": true
     }
 ]

@@ -270,8 +270,10 @@
         {
             "id": 14260,
             "graphemes": [
-                "w"
+                "w",
+                "ᵤ"
             ],
+            "sound": "w",
             "classes": [
                 "voiced",
                 "labiovelar",
@@ -281,8 +283,10 @@
         {
             "id": 14261,
             "graphemes": [
-                "y"
+                "y",
+                "ᵢ"
             ],
+            "sound": "y",
             "classes": [
                 "voiced",
                 "palatal",
@@ -323,6 +327,10 @@
         {
             "name": "Affix",
             "abbreviation": "AFF"
+        },
+        {
+            "name": "Particle",
+            "abbreviation": "PTCL"
         }
     ],
     "grammaticalCategories": [
@@ -446,6 +454,10 @@
                 {
                     "name": "Subjunctive",
                     "abbreviation": "SUBJ"
+                },
+                {
+                    "name": "Imperative",
+                    "abbreviation": "IPV"
                 }
             ]
         },
@@ -524,6 +536,74 @@
                 {
                     "name": "clitic",
                     "abbreviation": "clitic"
+                }
+            ]
+        },
+        {
+            "name": "Verb class",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "class-1",
+                    "abbreviation": "class-1"
+                },
+                {
+                    "name": "class-2",
+                    "abbreviation": "class-2"
+                },
+                {
+                    "name": "class-3",
+                    "abbreviation": "class-3"
+                },
+                {
+                    "name": "class-4",
+                    "abbreviation": "class-4"
+                },
+                {
+                    "name": "class-5",
+                    "abbreviation": "class-5"
+                },
+                {
+                    "name": "class-6",
+                    "abbreviation": "class-6"
+                },
+                {
+                    "name": "class-7",
+                    "abbreviation": "class-7"
+                },
+                {
+                    "name": "class-8",
+                    "abbreviation": "class-8"
+                },
+                {
+                    "name": "class-9",
+                    "abbreviation": "class-9"
+                },
+                {
+                    "name": "class-10",
+                    "abbreviation": "class-10"
+                },
+                {
+                    "name": "class-11",
+                    "abbreviation": "class-11"
+                },
+                {
+                    "name": "class-12",
+                    "abbreviation": "class-12"
+                }
+            ]
+        },
+        {
+            "name": "Noun class",
+            "pos": [
+                "N"
+            ],
+            "values": [
+                {
+                    "name": "alt-nta",
+                    "abbreviation": "alt-nta"
                 }
             ]
         }

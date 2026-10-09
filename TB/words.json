@@ -114,7 +114,10 @@
         "id": 9710,
         "text": "palsko",
         "gloss": "mind",
-        "pos": "N"
+        "pos": "N",
+        "classes": [
+            "alt-nta"
+        ]
     },
     {
         "id": 9712,
@@ -735,7 +738,10 @@
         "id": 9877,
         "text": "yam-",
         "gloss": "do",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "class-9"
+        ]
     },
     {
         "id": 9878,
@@ -822,42 +828,42 @@
     {
         "id": 14273,
         "text": "-mar",
-        "gloss": "Verb Present Middle pres.mid.1sg. ending",
+        "gloss": "mid.1sg. ending",
         "pos": "AFF"
     },
     {
         "id": 14275,
         "text": "-mtär",
-        "gloss": "Verb Present Middle pres.mid.1pl. ending",
+        "gloss": "mid.1pl. ending",
         "pos": "AFF"
     },
     {
         "id": 14277,
         "text": "-tar",
-        "gloss": "Verb Present Middle pres.mid.2sg. ending",
+        "gloss": "mid.2sg. ending",
         "pos": "AFF"
     },
     {
         "id": 14279,
         "text": "-tär",
-        "gloss": "Verb Present Middle pres.mid.2pl. ending",
+        "gloss": "mid.2pl. ending",
         "pos": "AFF"
     },
     {
         "id": 14281,
         "text": "-tär",
-        "gloss": "Verb Present Middle pres.mid.3sg. ending",
+        "gloss": "mid.3sg. ending",
         "pos": "AFF"
     },
     {
         "id": 14283,
         "text": "-ntär",
-        "gloss": "Verb Present Middle pres.mid.3pl. ending",
+        "gloss": "mid.3pl. ending",
         "pos": "AFF"
     },
     {
         "id": 14286,
-        "text": "pañ(ä)kte",
+        "text": "pañäkte",
         "gloss": "Buddha",
         "pos": "NP"
     },
@@ -1112,6 +1118,453 @@
         "id": 14349,
         "text": "-ne",
         "gloss": "loc. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14500,
+        "text": "-meṃ",
+        "gloss": "abl. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14501,
+        "text": "-sa",
+        "gloss": "perl. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14502,
+        "text": "-mpa",
+        "gloss": "com. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14503,
+        "text": "-śc",
+        "gloss": "all. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14504,
+        "text": "-ñ",
+        "gloss": "caus. suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14507,
+        "text": "āk-",
+        "gloss": "lead",
+        "pos": "V",
+        "classes": [
+            "class-2"
+        ]
+    },
+    {
+        "id": 14508,
+        "text": "-ske-",
+        "gloss": "class 9 suffix",
+        "pos": "AFF"
+    },
+    {
+        "id": 14509,
+        "text": "käryorttau",
+        "gloss": "merchant",
+        "pos": "N"
+    },
+    {
+        "id": 14510,
+        "text": "lyaka-ne"
+    },
+    {
+        "id": 14511,
+        "text": "lyaka"
+    },
+    {
+        "id": 14513,
+        "text": "lək-",
+        "gloss": "see",
+        "pos": "V"
+    },
+    {
+        "id": 14514,
+        "text": "istak",
+        "gloss": "suddenly",
+        "pos": "ADV"
+    },
+    {
+        "id": 14515,
+        "text": "klawtk-",
+        "gloss": "turn",
+        "pos": "V"
+    },
+    {
+        "id": 14516,
+        "text": "klautka"
+    },
+    {
+        "id": 14517,
+        "text": "śano",
+        "gloss": "wife",
+        "pos": "N"
+    },
+    {
+        "id": 14518,
+        "text": "śnoy"
+    },
+    {
+        "id": 14519,
+        "text": "akṣ-",
+        "gloss": "announce",
+        "pos": "V"
+    },
+    {
+        "id": 14520,
+        "text": "ākṣa"
+    },
+    {
+        "id": 14521,
+        "text": "sāᵤ",
+        "gloss": "dem.nom.sg.f",
+        "pos": "PRON"
+    },
+    {
+        "id": 14522,
+        "text": "kəm-",
+        "gloss": "come",
+        "pos": "V"
+    },
+    {
+        "id": 14523,
+        "text": "śem"
+    },
+    {
+        "id": 14524,
+        "text": "kauc",
+        "gloss": "up",
+        "pos": "ADV"
+    },
+    {
+        "id": 14525,
+        "text": "ersate-ne"
+    },
+    {
+        "id": 14527,
+        "text": "er-",
+        "gloss": "cause",
+        "fullGloss": "raise, cause",
+        "pos": "V"
+    },
+    {
+        "id": 14528,
+        "text": "oskiye",
+        "gloss": "house",
+        "pos": "N"
+    },
+    {
+        "id": 14529,
+        "text": "oskai"
+    },
+    {
+        "id": 14530,
+        "text": "wayate-ne"
+    },
+    {
+        "id": 14531,
+        "text": "wayate"
+    },
+    {
+        "id": 14533,
+        "text": "klyews-",
+        "gloss": "hear",
+        "pos": "V"
+    },
+    {
+        "id": 14534,
+        "text": "klyauṣa"
+    },
+    {
+        "id": 14535,
+        "text": "nak-",
+        "gloss": "reproach",
+        "pos": "V"
+    },
+    {
+        "id": 14536,
+        "text": "nāksate"
+    },
+    {
+        "id": 14537,
+        "text": "-i",
+        "gloss": "a-stem obl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14538,
+        "text": "-na",
+        "gloss": "nom.pl. a-stem ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 14540,
+        "text": "weñ-",
+        "gloss": "speak",
+        "fullGloss": "speak, say, tell",
+        "pos": "V"
+    },
+    {
+        "id": 14541,
+        "text": "weṣṣäṃ"
+    },
+    {
+        "id": 14542,
+        "text": "cämpamñetstse",
+        "gloss": "able",
+        "fullGloss": "able, proficient",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14543,
+        "text": "cämpamñeccu"
+    },
+    {
+        "id": 14544,
+        "text": "tusāksa",
+        "gloss": "thus",
+        "pos": "ADV"
+    },
+    {
+        "id": 14545,
+        "text": "nai",
+        "gloss": "indeed",
+        "fullGloss": "indeed, then, surely",
+        "pos": "ADV"
+    },
+    {
+        "id": 14546,
+        "text": "ñake",
+        "gloss": "now",
+        "pos": "ADV"
+    },
+    {
+        "id": 14547,
+        "text": "ārwer",
+        "gloss": "ready",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14548,
+        "text": "tākam"
+    },
+    {
+        "id": 14549,
+        "text": "ente",
+        "gloss": "where",
+        "fullGloss": "where, when",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14552,
+        "text": "krentaunattse",
+        "gloss": "virtuous",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14553,
+        "text": "sunetre",
+        "pos": "NP"
+    },
+    {
+        "id": 14554,
+        "text": "walo",
+        "gloss": "king",
+        "pos": "N"
+    },
+    {
+        "id": 14555,
+        "text": "śaiṣṣe",
+        "gloss": "world",
+        "pos": "N"
+    },
+    {
+        "id": 14556,
+        "text": "śaiṣṣene"
+    },
+    {
+        "id": 14557,
+        "text": "tsənka-",
+        "gloss": "rise",
+        "pos": "V"
+    },
+    {
+        "id": 14558,
+        "text": "tsāṅkaṃ"
+    },
+    {
+        "id": 14559,
+        "text": "si",
+        "gloss": "this",
+        "pos": "PRON"
+    },
+    {
+        "id": 14560,
+        "text": "cwi"
+    },
+    {
+        "id": 14561,
+        "text": "spaktanīke",
+        "gloss": "servant",
+        "pos": "N"
+    },
+    {
+        "id": 14562,
+        "text": "spaktanīki"
+    },
+    {
+        "id": 14563,
+        "text": "alālätte",
+        "gloss": "tireless",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14564,
+        "text": "alāläcci"
+    },
+    {
+        "id": 14565,
+        "text": "mapi",
+        "gloss": "isn't it",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14566,
+        "text": "cämpan-me"
+    },
+    {
+        "id": 14567,
+        "text": "cämpan"
+    },
+    {
+        "id": 14569,
+        "text": "me",
+        "gloss": "PL.O",
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 14570,
+        "text": "cəmp-",
+        "gloss": "be able",
+        "pos": "V"
+    },
+    {
+        "id": 14571,
+        "text": "laklene"
+    },
+    {
+        "id": 14572,
+        "text": "waste",
+        "gloss": "refuge",
+        "pos": "N"
+    },
+    {
+        "id": 14573,
+        "text": "nestsi"
+    },
+    {
+        "id": 14574,
+        "text": "jñānasthite",
+        "pos": "NP"
+    },
+    {
+        "id": 14575,
+        "text": "waṣamo",
+        "gloss": "friend",
+        "pos": "N"
+    },
+    {
+        "id": 14576,
+        "text": "waṣama"
+    },
+    {
+        "id": 14577,
+        "text": "epiyac",
+        "gloss": "in one's memory",
+        "pos": "ADV"
+    },
+    {
+        "id": 14578,
+        "text": "pi",
+        "gloss": "please",
+        "pos": "PTCL"
+    },
+    {
+        "id": 14581,
+        "text": "kəla-",
+        "gloss": "bring",
+        "pos": "V"
+    },
+    {
+        "id": 14582,
+        "text": "pkalar"
+    },
+    {
+        "id": 14583,
+        "text": "krentaunatstse"
+    },
+    {
+        "id": 14584,
+        "text": "araṇemi",
+        "pos": "NP"
+    },
+    {
+        "id": 14585,
+        "text": "ñemtsa"
+    },
+    {
+        "id": 14586,
+        "text": "rano",
+        "gloss": "also",
+        "pos": "CONJ"
+    },
+    {
+        "id": 14587,
+        "text": "ololyesa",
+        "gloss": "even more",
+        "pos": "ADV"
+    },
+    {
+        "id": 14588,
+        "text": "ākteke",
+        "gloss": "wonderful",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14589,
+        "text": "wantare",
+        "gloss": "thing",
+        "pos": "N"
+    },
+    {
+        "id": 14590,
+        "text": "yamaṣa"
+    },
+    {
+        "id": 14591,
+        "text": "guṇasaṃpade",
+        "pos": "NP"
+    },
+    {
+        "id": 14592,
+        "text": "cämpamñe",
+        "gloss": "ability",
+        "pos": "N"
+    },
+    {
+        "id": 14594,
+        "text": "tstse",
+        "gloss": "ADJ",
         "pos": "AFF"
     }
 ]
