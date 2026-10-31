@@ -6584,6 +6584,12 @@
         "pos": "V",
         "classes": [
             "mi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "72"
+            }
         ]
     },
     {
@@ -7620,12 +7626,6 @@
     {
         "id": 12880,
         "text": "u̯araššanzi"
-    },
-    {
-        "id": 12881,
-        "text": "u̯arš-",
-        "gloss": "make free",
-        "pos": "V"
     },
     {
         "id": 12882,
@@ -13823,8 +13823,9 @@
     },
     {
         "id": 15094,
-        "text": "u̯arš",
-        "gloss": "(ab)ernten",
+        "text": "u̯arš-",
+        "gloss": "make free",
+        "fullGloss": "make free, harvest; (ab)ernten",
         "pos": "V"
     },
     {
@@ -14982,5 +14983,182 @@
         "id": 15477,
         "text": "ḫarrana",
         "pos": "NP"
+    },
+    {
+        "id": 15479,
+        "text": "^m^ta-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15480,
+        "text": "tatta",
+        "pos": "NP"
+    },
+    {
+        "id": 15481,
+        "text": "ka-a-ša-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15482,
+        "text": "kāšamu"
+    },
+    {
+        "id": 15483,
+        "text": "^m^pí-še-ni-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15484,
+        "text": "pišeniš",
+        "pos": "NP"
+    },
+    {
+        "id": 15485,
+        "text": "pa-an-ga-ri-it",
+        "syllabographic": true
+    },
+    {
+        "id": 15486,
+        "text": "pangarit",
+        "gloss": "in Menge",
+        "pos": "ADV"
+    },
+    {
+        "id": 15487,
+        "text": "iš-pa-an-da-az",
+        "syllabographic": true
+    },
+    {
+        "id": 15488,
+        "text": "išpandaz"
+    },
+    {
+        "id": 15489,
+        "text": "ku-u̯a-pí-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 15490,
+        "text": "kuu̯apima"
+    },
+    {
+        "id": 15491,
+        "text": "u̯a-ar-aš-ke-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15492,
+        "text": "u̯araškezzi"
+    },
+    {
+        "id": 15494,
+        "text": "ḫu-it-ti-i̯a-at-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 15495,
+        "text": "ḫuittii̯atten"
+    },
+    {
+        "id": 15496,
+        "text": "ḫal-ki-e-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 15497,
+        "text": "ḫalkiēš"
+    },
+    {
+        "id": 15498,
+        "text": "u̯a-ar-aš-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 15499,
+        "text": "u̯arašten"
+    },
+    {
+        "id": 15500,
+        "text": "KISLAḪ",
+        "gloss": "Dreschplatz",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "281"
+            }
+        ]
+    },
+    {
+        "id": 15501,
+        "text": "dam-me-iš-ḫa-a-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15502,
+        "text": "dammeišḫāezzi"
+    },
+    {
+        "id": 15504,
+        "text": "ka-a-aš-ma-aš-ma-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15505,
+        "text": "kāšmašmaš"
+    },
+    {
+        "id": 15506,
+        "text": "^m^pí-še-ni-i̯a-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15507,
+        "text": "pišenii̯aš"
+    },
+    {
+        "id": 15508,
+        "text": "up-pa-aḫ-ḫu-un-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 15509,
+        "text": "uppaḫḫunpat"
+    },
+    {
+        "id": 15510,
+        "text": "uppaḫḫun"
+    },
+    {
+        "id": 15512,
+        "text": "nu-uš-ma-ša-at-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15513,
+        "text": "nušmašatkan"
+    },
+    {
+        "id": 15514,
+        "text": "ḫal-zi-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15515,
+        "text": "ḫalziandu"
+    },
+    {
+        "id": 15519,
+        "text": "u̯ar-",
+        "gloss": "burn",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "244"
+            }
+        ]
     }
 ]
