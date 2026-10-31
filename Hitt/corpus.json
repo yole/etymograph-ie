@@ -254,7 +254,13 @@
             {
                 "index": 4,
                 "id": 10244,
-                "contextGloss": ""
+                "contextGloss": "",
+                "openCompoundId": 14948
+            },
+            {
+                "index": 3,
+                "id": 10994,
+                "openCompoundId": 14948
             }
         ],
         "translations": [
@@ -2190,11 +2196,6 @@
         "text": "EGIR-an-ma-an-kán ^LÚ^KÚR ku-en-ta",
         "title": "Example 5.13",
         "words": [
-            {
-                "index": 1,
-                "id": 11218,
-                "contextGloss": ""
-            },
             {
                 "index": 0,
                 "id": 11219,
@@ -4528,10 +4529,6 @@
                 "id": 12193
             },
             {
-                "index": 100,
-                "id": 12353
-            },
-            {
                 "index": 102,
                 "id": 12196
             },
@@ -5041,9 +5038,13 @@
     },
     {
         "id": 12890,
-        "text": "obv. 1# _A-NA ^d^UTU^_ŠI^ _BE-LÍ-I̯A _QÍ-[BÍ-MA]\nobv. 2# _UM-MA ^m^LÚ-ti ARAD-_KA-MA\nobv. 3# KUR-e-kán an-da ḫu-u-m[a-an SIG5 ]\n---\nobv. 4# ka-a-ša _I-NA ^URU^kam-m[a-ma ]\nobv. 5# 1-EN ku-u-ru-pí-iš 1-EN-na k[u-u]-ur-ki-šar\nobv. 6# kat-ta ma-a-uš-ta\nobv. 7# nu ka-a-ša ša-ra-a da-a-am-ma-ḫa\n---\nEGIR-pa na-it-ta ki-nu-na\nda-a-ma-a-aš ku-ru-pí-iš\nku-u-ur-ki-iš-šar-ra\npa-aḫ-ḫa-nu-wa-ma ḫar-zi\n---\nka-a-ša KIN^ḪI.A^\n[ḫu-u]-ma-a-an ar-ḫa tar-na-aḫ-ḫu-un\n[ ] a-pí-ia-pát\n[na]-iš-ke-mi \n---",
+        "text": "obv. 1# _A-NA ^d^UTU^_ŠI^ _BE-LÍ-I̯A _QÍ-[BÍ-MA]\nobv. 2# _UM-MA ^m^LÚ-ti ARAD-_KA-MA\nobv. 3# KUR-e-kán an-da ḫu-u-m[a-an SIG5 ]\n---\nobv. 4# ka-a-ša _I-NA ^URU^kam-m[a-ma ]\nobv. 5# 1-EN ku-u-ru-pí-iš 1-EN-na k[u-u]-ur-ki-šar\nobv. 6# kat-ta ma-a-uš-ta\nobv. 7# nu ka-a-ša ša-ra-a da-a-am-ma-ḫa\n---\nobv. 8# EGIR-pa na-it-ta ki-nu-na\nobv. 9# da-a-ma-a-aš ku-ru-pí-iš\nobv. 10# ku-u-ur-ki-iš-šar-ra\nobv. 11# pa-aḫ-ḫa-nu-u̯a-ma ḫar-zi\n---\nobv. 12# ka-a-ša KIN^ḪI.A^\nobv. 13# [ḫu-u]-ma-a-an ar-ḫa tar-na-aḫ-ḫu-un\nobv. 14# [ ] a-pí-ia-pát\nobv. 15# [na]-iš-ke-mi \n---\nlo.e.16# [ ] nu ki-nu-un\nrev.17# [ú]-iš-ke-mi nu a-pu-uš SIG5\nrev.18# [ ]x-ma ka-a-ru-ú-i-li\nrev.19# da-a-am-ma-ma-a-an\nrev.20# nu-za pa-aḫ-ḫa-nu-u̯a-ma-a-an ḫar-zi\n---",
         "title": "Or. 90/570",
         "words": [
+            {
+                "index": 7,
+                "id": 14692
+            },
             {
                 "index": 14,
                 "id": 14691
@@ -5053,8 +5054,32 @@
                 "id": 12891
             },
             {
-                "index": 7,
-                "id": 14692
+                "index": 35,
+                "id": 15401
+            },
+            {
+                "index": 36,
+                "id": 15403
+            },
+            {
+                "index": 38,
+                "id": 15405
+            },
+            {
+                "index": 41,
+                "id": 15407
+            },
+            {
+                "index": 42,
+                "id": 15409
+            },
+            {
+                "index": 47,
+                "id": 15411
+            },
+            {
+                "index": 53,
+                "id": 15413
             }
         ],
         "translations": [
@@ -5127,16 +5152,8 @@
                 "id": 12927
             },
             {
-                "index": 19,
-                "id": 12932
-            },
-            {
                 "index": 20,
                 "id": 12933
-            },
-            {
-                "index": 21,
-                "id": 12935
             },
             {
                 "index": 22,
@@ -5894,10 +5911,6 @@
             {
                 "index": 47,
                 "id": 13218
-            },
-            {
-                "index": 49,
-                "id": 13220
             },
             {
                 "index": 53,
@@ -7014,10 +7027,6 @@
                 "id": 14360
             },
             {
-                "index": 22,
-                "id": 14361
-            },
-            {
                 "index": 23,
                 "id": 14362
             },
@@ -7726,10 +7735,6 @@
                 "id": 14725
             },
             {
-                "index": 113,
-                "id": 14728
-            },
-            {
                 "index": 114,
                 "id": 14729
             },
@@ -7875,16 +7880,8 @@
         "title": "Or. 90/1767",
         "words": [
             {
-                "index": 2,
-                "id": 14806
-            },
-            {
                 "index": 4,
                 "id": 14808
-            },
-            {
-                "index": 8,
-                "id": 14810
             },
             {
                 "index": 13,
@@ -8103,6 +8100,1043 @@
             {
                 "index": 120,
                 "id": 14930
+            }
+        ]
+    },
+    {
+        "id": 14949,
+        "text": "o. Rd. 1# _U[M-MA ^D^UTU-_ŠI]-MA\nVs. 2# _A-[NA ] _Q[Í-[B]Í-MA\n---\nVs. 3# [ ]x\nVs. 4#\nVs. 5# [ ] ^m^da-a-ḫa-zi-DINGIR-_LIM\nVs. 6# [ ^m^x-x]-na-DINGIR-_LIM\nVs. 7# i-x[ ]x me-mi-iš-ta\n---\nVs. 8# nu x[ ]x me-mi-[i]š-〈ta〉\nVs. 9# _I-N[A ]x-iš\nVs. 10# _ŠA [\nVs. 11# _A-NA [ ]x\n---\nVs. 12# nu-u̯a x[\nu. Rd. 13# nu-u̯a-aš-m[a-aš ^D^]UTU-_ŠI\nu. Rd. 14# _ŠA ^É^tar-n[u-i ]x-ḫa\nu. Rd. 15# ar-ḫa e-ep-zi\nRs. 16# na-aš-kán _MA-ḪAR ^D^UTU-_ŠI pa-ra-a na-i\n---\nRs. 17# _ŠA ÉRIN^MEŠ^-ma-mu ku-it ut-tar ḫa-at-ra-a-eš\nRs. 18# nu-mu ka-a kat-ti-mi ÉRIN^MEŠ^ KUR UGU\nRs. 19# ÉRIN^MEŠ^ KUR ^URU^iš-ḫu-u-pí-it-ta ku-iš-ki\nRs. 20# na-an-da up-pa-aḫ-ḫi\nRs. 21# _UM-MA ^m^pí-še-ni _A-NA ^m^ka-aš-šu-ú\nRs. 22# ^m^pu-ul-li DUMU^MEŠ^ DU10.GA-_I̯A _QÍ-BÍ-MA\n---\nRs. 23# ka-a-aš-ma ÉRIN^MEŠ^ ^URU^iš-ḫu-u-pí-it-ta\nRs. 24# ÉRIN^MEŠ^ ^GIŠ^za-al-ta-i-i̯a-aš-ša ku-in\nRs. 25# ḫal-ki-in tu-kán-zi ḫar-k[án-z]i\nRs. 26# ki-nu-na a-pé-e-da-ni ḫal-ki-i\no. Rd. 27# ^D^UTU-_ŠI še-er me-ek-ki ḫa-aš-ke-et\no. Rd. 28# _QA-TAM-MA ḫ[a-a]t-ra-a-at-tén\nlk. Rd. 1# nu ú-u̯a-at du-u̯a-ad-du\nlk. Rd. 2# ḫal-ki-iš-ma-〈aš-ma〉-aš a-pí-i̯a a-ni-i̯a-an-za\nlk. Rd. 3# ku-it nu EGIR-an ti-i̯a-at-tén\nlk. Rd. 4# na-an an-da ep-tén na-an-kán ÉSAG^ḪI.A^\nlk. Rd. 5# an-da iš-ḫu-u-it-tén nu _A-NA ^D^U[TU-_ŠI",
+        "title": "HKM 18",
+        "words": [
+            {
+                "index": 9,
+                "id": 14950
+            },
+            {
+                "index": 31,
+                "id": 14951
+            },
+            {
+                "index": 39,
+                "id": 14954,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 41,
+                "id": 14956
+            },
+            {
+                "index": 46,
+                "id": 14957
+            },
+            {
+                "index": 50,
+                "id": 14993
+            },
+            {
+                "index": 53,
+                "id": 14960
+            },
+            {
+                "index": 55,
+                "id": 14962
+            },
+            {
+                "index": 56,
+                "id": 14965
+            },
+            {
+                "index": 58,
+                "id": 14968
+            },
+            {
+                "index": 61,
+                "id": 14970
+            },
+            {
+                "index": 69,
+                "id": 14972
+            },
+            {
+                "index": 72,
+                "id": 14974
+            },
+            {
+                "index": 76,
+                "id": 14976
+            },
+            {
+                "index": 80,
+                "id": 14978
+            },
+            {
+                "index": 86,
+                "id": 14980
+            },
+            {
+                "index": 88,
+                "id": 14982
+            },
+            {
+                "index": 92,
+                "id": 14984
+            },
+            {
+                "index": 95,
+                "id": 14986
+            },
+            {
+                "index": 97,
+                "id": 14988
+            },
+            {
+                "index": 99,
+                "id": 14989,
+                "openCompoundId": 14996
+            },
+            {
+                "index": 38,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 98,
+                "id": 10994,
+                "openCompoundId": 14996
+            }
+        ]
+    },
+    {
+        "id": 14997,
+        "text": "o. Rd. 1# _[U]M-MA ^D^UTU-_ŠI-MA\nVs. 2# _A-NA ^m^ka-aš-šu-ú\nVs. 3# _Ù _A-NA ^m^pu-ul-li _QÍ-BÍ-MA\n---\nVs. 4# ki-iš-ša-an-mu ku-it\nVs. 5# ḫa-at-ra-a-eš ka-a-ša-u̯a-aš-ša-an\nVs. 6# ḫal-ki^ḪI.A^-aš ka-ru-ú a-ra-an-te-eš\nVs. 7# _I-NA ^URU^ka₄-aš-ka₄-[m]a-u̯a ḫal-ki^ḪI.A^-uš\nVs. 8# BURU5^ḪI.A^ e-ez-za-aš-ta\n---\nVs. 9# nu-u̯a-aš-ma-aš-kán _ŠA ^URU^ga-ši-pu-u-ra\nVs. 10# ḫal-ki^ḪI.A^-aš zi-ig-ga-an-zi\nVs. 11# ÉRIN^MEŠ.ḪI.A^-ma-u̯a-kán ANŠE.KUR.RA^ḪI.A^\nVs. 12# an-da NU.GÁL ^D^UTU-_ŠI-ma-u̯a\nVs. 13# ^m^kal-lu-un ^LÚ^_BE-EL ANŠE.KUR.RA\nVs. 14# u̯a-tar-na-aḫ-ta ANŠE.KUR.RA^ḪI.A^-u̯a-kán\nu. Rd. 15# pa-ra-a na-i ki-nu-na-u̯a\nu. Rd. 16# ANŠE.KUR.RA^ḪI.A^ na-ú-i\nRs. 17# ku-iš-ki ú-ez-zi\n---\nRs. 18# nu ka-a-ša ^D^UTU-_ŠI\nRs. 19# ^m^kal-lu-un e-ep-pu-un\nRs. 20# nu ki-iš-ša-an me-mi-iš-ta\nRs. 21# 20 _ṢÍ-IM-DU ANŠE.KUR.RA^ḪI.A^-u̯a-kán\nRs. 22# [k]a-ru-ú pa-ra-a ne-eḫ-ḫu-un\n---\nRs. 23# ka-a-aš-ma-kán ^m^pa-a-ḫi-na-ak-ke-en-na\nRs. 24# EGIR-an-da pa-ra-a ne-eḫ-ḫi\nRs. 25# na-aš ú-ez-zi\nRs. 26# _[U]M-MA ^m^ḫa-ša-am-me-li\nRs. 27# _[A-N]A ^m^u-uz-zu-u ŠEŠ.DU10.GA-_I̯A\nRs. 28# _[QÍ-B]Í-MA\n---\no. Rd. 29# [tu]-el ku-it\no. Rd. 30# _[NA-A]P-ŠA-TÙ a-pí-i̯a\nlk. Rd. 1# nu-uš-ša-an _NA-AP-ŠA-TÙ\nlk. Rd. 2# _A-NA _NA-AP-ŠA-TI an-da e-ep\nlk. Rd. 3# na-at-mu up-pí",
+        "title": "HKM 19",
+        "words": [
+            {
+                "index": 11,
+                "id": 14998
+            },
+            {
+                "index": 12,
+                "id": 15000
+            },
+            {
+                "index": 14,
+                "id": 15002
+            },
+            {
+                "index": 20,
+                "id": 15004
+            },
+            {
+                "index": 24,
+                "id": 15006
+            },
+            {
+                "index": 25,
+                "id": 15009
+            },
+            {
+                "index": 29,
+                "id": 15010
+            },
+            {
+                "index": 30,
+                "id": 15011
+            },
+            {
+                "index": 34,
+                "id": 15013
+            },
+            {
+                "index": 39,
+                "id": 15014
+            },
+            {
+                "index": 51,
+                "id": 15016
+            },
+            {
+                "index": 56,
+                "id": 15017
+            },
+            {
+                "index": 57,
+                "id": 15019
+            },
+            {
+                "index": 64,
+                "id": 15021
+            },
+            {
+                "index": 66,
+                "id": 15023
+            },
+            {
+                "index": 71,
+                "id": 15025
+            },
+            {
+                "index": 76,
+                "id": 15026
+            },
+            {
+                "index": 80,
+                "id": 15027
+            },
+            {
+                "index": 35,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 36,
+                "id": 14954,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 54,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 55,
+                "id": 11675,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 61,
+                "id": 10496
+            },
+            {
+                "index": 59,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 60,
+                "id": 13269,
+                "openCompoundId": 14991
+            }
+        ]
+    },
+    {
+        "id": 15038,
+        "text": "Vs. 1# _[U]M-MA ^D^UTU-_ŠI-MA\nVs. 2# _[A-NA ^m^g]a-aš-šu-ú\nVs. 3# _[Ù ^m^pí-pa]-ap-pa _QÍ-BÍ-MA\n---\nVs. 4# ma-aḫ-ḫa-an-ša-ma-aš\nVs. 5# ka-a-aš tup-pí-an-za an-da\nVs. 6# ú-e-mi-ez-zi nu an-ni-in\nVs. 7# 1 _LI-IM 7 _ME 60 ÉRIN^MEŠ^ ^URU^iš-ḫu-pí-it-ta\nVs. 8# li-li-u̯a-aḫ-ḫu-u-an-zi\nVs. 9# ni-ni-ik-tén\nu. Rd. 10# na-an _MA-ḪAR ^D^UTU-_ŠI _I-[N]A UD 2^K[AM^ ^URU^š]a-pí-nu-u̯a\nu. Rd. 11# li-li-u̯a-aḫ-ḫu-u-an-zi\nu. Rd. 12# ú-u̯a-te-et-tén\n---\n",
+        "title": "HKM 20",
+        "words": [
+            {
+                "index": 5,
+                "id": 15039
+            },
+            {
+                "index": 13,
+                "id": 15041
+            },
+            {
+                "index": 17,
+                "id": 15053
+            },
+            {
+                "index": 22,
+                "id": 15044
+            },
+            {
+                "index": 28,
+                "id": 15046
+            },
+            {
+                "index": 29,
+                "id": 15047
+            },
+            {
+                "index": 31,
+                "id": 15049
+            },
+            {
+                "index": 27,
+                "id": 15054
+            }
+        ],
+        "translations": [
+            {
+                "id": 15051,
+                "text": "Thus says My Majesty to Kaššu and Pipappa",
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 7
+            },
+            {
+                "id": 15052,
+                "text": "When you receive this tablet",
+                "anchorStartIndex": 7,
+                "anchorEndIndex": 12
+            },
+            {
+                "id": 15056,
+                "text": "Quickly mobilize 1760 people in Ishupitta",
+                "anchorStartIndex": 12,
+                "anchorEndIndex": 23
+            },
+            {
+                "id": 15057,
+                "text": "And quickly move them to My Majesty in Sapinuwa in two days",
+                "anchorStartIndex": 23,
+                "anchorEndIndex": 32
+            }
+        ]
+    },
+    {
+        "id": 15058,
+        "text": "obv. 1# _UM-MA ^D^UTU-_ŠI-MA\nobv. 2# _A-NA ^m^pu-ul-⸢li⸣ _QÍ-BÍ-MA\n---\nobv. 3# _ŠA ÉRIN^MEŠ^-mu ku-it ut-tar\nobv. 4# ḫa-at-ra-a-eš ar-ḫa ku-iš\nobv. 5# [ta]r-na-an ḫar-z[i] a-pé-e-i̯a\nobv. 6# [ku]-iš še-er ⸢na⸣-an-mu kap-pu-u-u̯a-ar\nobv. 7# [ku]-it ḫa-at-ra-a-eš na-at _AŠ-ME\n---\nobv. 8# _[Š]A ^LÚ^KÚR-i̯a-⸢mu⸣ ku-it ut-tar\nobv. 9# [ḫa]-at-ra-a-e[š] a-pé-e-da-ni\nlo. e. 10# _[P]A-NI ^LÚ^KÚR me-ek-ki\nlo. e. 11# [p]a-aḫ-ḫa-aš-ša-nu-⸢u̯a⸣-an-za e-eš\nlo. e. 12# [k]a-a-ša-za ku-⸢it⸣-ma-an\nlo. e. 13# [GA]M ar-ḫa a-ri-i̯a-mi\nlo. e.#\n---\nrev. 14# [ḫal]-ki^ḪI.A^-uš-ša-kán ar-ḫa\nrev. 15# [ḫ]u-u-da-a-ak u̯a-ar-aš\nrev. 16# _UM-MA ^m^ša-an-da _A-NA ^m^uz-⸢zu⸣-u\nrev. 17# ŠEŠ.DU10.GA-_I̯A _QÍ-BÍ-MA kat-ti-mi ⸢SIG5⸣-in\nrev. 18# _Ù _MA-ḪAR ŠEŠ.DU10.GA-_I̯A ḫu-u-ma-an SIG5-in e-eš-du\nrev. 19# nu-ut-ta DINGIR^MEŠ^ pa-aḫ-ša-an-da-ru\n---\nrev. 20# am-me-el-kán aš-šu-ul _PA-NI ^m^pu-ul-li\nrev. 21# ḫal-za-i nam-ma-at-ta ki-iš-ša-an\nu. e. 22# [t]e-mi tu-el-u̯a [k]u-e _TUP-PA^ḪI.A^\nu. e. 23# pé-da-a-an-zi nu-u̯a-ra-at-kán\nu. e. 24# am-mu-uk ḫal-zi-iš-ša-aḫ-ḫi\nu. e. 25# nam-ma-u̯a-at-ta EGIR-pa\nu. e. 26# ar-⸢ḫa u̯a⸣-ri-iš-ša-⸢aḫ⸣-ḫi",
+        "title": "HKM 21",
+        "words": [
+            {
+                "index": 6,
+                "id": 15059
+            },
+            {
+                "index": 12,
+                "id": 15063,
+                "openCompoundId": 15128
+            },
+            {
+                "index": 14,
+                "id": 15066
+            },
+            {
+                "index": 18,
+                "id": 15071
+            },
+            {
+                "index": 24,
+                "id": 15073
+            },
+            {
+                "index": 32,
+                "id": 15077
+            },
+            {
+                "index": 34,
+                "id": 15080
+            },
+            {
+                "index": 36,
+                "id": 15083
+            },
+            {
+                "index": 38,
+                "id": 15084
+            },
+            {
+                "index": 39,
+                "id": 15087
+            },
+            {
+                "index": 42,
+                "id": 15092
+            },
+            {
+                "index": 44,
+                "id": 15095
+            },
+            {
+                "index": 60,
+                "id": 15097
+            },
+            {
+                "index": 64,
+                "id": 15102
+            },
+            {
+                "index": 65,
+                "id": 15104
+            },
+            {
+                "index": 67,
+                "id": 15107
+            },
+            {
+                "index": 68,
+                "id": 15109
+            },
+            {
+                "index": 70,
+                "id": 15112
+            },
+            {
+                "index": 71,
+                "id": 15114
+            },
+            {
+                "index": 74,
+                "id": 15117
+            },
+            {
+                "index": 75,
+                "id": 15120
+            },
+            {
+                "index": 78,
+                "id": 15123
+            },
+            {
+                "index": 10,
+                "id": 10327,
+                "openCompoundId": 15128
+            },
+            {
+                "index": 21,
+                "id": 11156
+            }
+        ],
+        "translations": [
+            {
+                "id": 15126,
+                "text": "Thus My Majesty says to Pulli",
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 5
+            },
+            {
+                "id": 15127,
+                "text": "Since you have written to me about the army",
+                "anchorStartIndex": 5,
+                "anchorEndIndex": 10
+            },
+            {
+                "id": 15129,
+                "text": "which has left",
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 14
+            },
+            {
+                "id": 15130,
+                "text": "the other one is up there",
+                "anchorStartIndex": 14,
+                "anchorEndIndex": 17
+            },
+            {
+                "id": 15131,
+                "text": "and since you've sent me a message about the number (of workers)",
+                "anchorStartIndex": 17,
+                "anchorEndIndex": 21
+            },
+            {
+                "id": 15132,
+                "text": "and I have heard this",
+                "anchorStartIndex": 21,
+                "anchorEndIndex": 23
+            },
+            {
+                "id": 15133,
+                "text": "since you've sent me word about the enemy",
+                "anchorStartIndex": 23,
+                "anchorEndIndex": 28
+            },
+            {
+                "id": 15134,
+                "text": "be very protected against the enemy there",
+                "anchorStartIndex": 28,
+                "anchorEndIndex": 34
+            },
+            {
+                "id": 15135,
+                "text": "just now I'm trying to consult the oracle about this",
+                "anchorStartIndex": 34,
+                "anchorEndIndex": 39
+            },
+            {
+                "id": 15136,
+                "text": "and you should quickly harvest all the corn",
+                "anchorStartIndex": 39,
+                "anchorEndIndex": 43
+            },
+            {
+                "id": 15137,
+                "text": "thus says Sanda to Uzzu, my dear brother",
+                "anchorStartIndex": 43,
+                "anchorEndIndex": 49
+            },
+            {
+                "id": 15138,
+                "text": "with me everything is good",
+                "anchorStartIndex": 49,
+                "anchorEndIndex": 51
+            },
+            {
+                "id": 15139,
+                "text": "and may everything be good with my dear brother",
+                "anchorStartIndex": 51,
+                "anchorEndIndex": 57
+            },
+            {
+                "id": 15140,
+                "text": "and may the gods protect you",
+                "anchorStartIndex": 57,
+                "anchorEndIndex": 60
+            },
+            {
+                "id": 15141,
+                "text": "and give greetings from me to Pulli",
+                "anchorStartIndex": 60,
+                "anchorEndIndex": 65
+            },
+            {
+                "id": 15142,
+                "text": "then I tell this to you",
+                "anchorStartIndex": 65,
+                "anchorEndIndex": 68
+            },
+            {
+                "id": 15143,
+                "text": "the tablets that they bring here",
+                "anchorStartIndex": 68,
+                "anchorEndIndex": 72
+            },
+            {
+                "id": 15144,
+                "text": "I will read them aloud myself",
+                "anchorStartIndex": 72,
+                "anchorEndIndex": 75
+            },
+            {
+                "id": 15145,
+                "text": "and I will again come to your help",
+                "anchorStartIndex": 75,
+                "anchorEndIndex": 79
+            }
+        ]
+    },
+    {
+        "id": 15147,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-MA\nVs. 2# _A-NA ^m^pu-ul-li\nVs. 3# _QÍ-BÍ-MA\n---\nVs. 4# _ŠA ÉRIN^MEŠ^-mu ku-it ut-tar\nVs. 5# ḫa-at-ra-a-eš na-at _AŠ-ME\n---\nVs. 6# nu-za _PA-NI ^LÚ^KÚR pa-aḫ-ḫa-aš-nu-an-za\nVs. 7# e-eš ku-it-ma-an\nVs. 8# ÉRIN^MEŠ^ EGIR-an-da ú-ez-zi\n---\nu. Rd. 9# _UM-MA ^m^DUMU.UD.20^KAM^\nu. Rd. 10# _A-NA ^m^uz-zu-u\nu. Rd. 11# ŠEŠ.DU10.GA-_I̯A _QÍ-BÍ-MA\n---\nRs. 12# _PA-NI ^m^pu-ul-li-i-kán\nRs. 13# am-me-el aš-šu-ul\nRs. 14# ḫal-za-i GU4-i̯a-u̯a-mu\nRs. 15# ku-in te-et\nRs. 16# nu-u̯a-ra-an-mu up-pí\n---\n",
+        "title": "HKM 22",
+        "words": [
+            {
+                "index": 22,
+                "id": 15148
+            },
+            {
+                "index": 28,
+                "id": 15149
+            },
+            {
+                "index": 32,
+                "id": 15151
+            },
+            {
+                "index": 34,
+                "id": 15152
+            },
+            {
+                "index": 35,
+                "id": 15154
+            },
+            {
+                "index": 10,
+                "id": 11156
+            }
+        ],
+        "translations": [
+            {
+                "id": 15156,
+                "text": "Thus My Majesty says to Pulli",
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 5
+            },
+            {
+                "id": 15157,
+                "text": "Regarding the words you sent to me about the army:",
+                "anchorStartIndex": 5,
+                "anchorEndIndex": 10
+            },
+            {
+                "id": 15158,
+                "text": "I have heard this",
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 12
+            },
+            {
+                "id": 15159,
+                "text": "Be on guard for the enemy",
+                "anchorStartIndex": 12,
+                "anchorEndIndex": 17
+            },
+            {
+                "id": 15160,
+                "text": "when the army comes later",
+                "anchorStartIndex": 17,
+                "anchorEndIndex": 21
+            },
+            {
+                "id": 15162,
+                "text": "Thus says ? to Uzzu, my dear brother",
+                "anchorStartIndex": 21,
+                "anchorEndIndex": 27
+            },
+            {
+                "id": 15163,
+                "text": "Say my greetings to Pulli",
+                "anchorStartIndex": 27,
+                "anchorEndIndex": 32
+            },
+            {
+                "id": 15165,
+                "text": "And the ox, about which he told me",
+                "anchorStartIndex": 32,
+                "anchorEndIndex": 35
+            },
+            {
+                "id": 15167,
+                "text": "send it",
+                "anchorStartIndex": 35,
+                "anchorEndIndex": 37
+            }
+        ]
+    },
+    {
+        "id": 15168,
+        "text": "Vs. 1# _UM-MA ^D^UTU-_ŠI-MA _A-NA ^m^pí-še-ni\nVs. 2# _Ù _A-NA ^m^ka-aš-šu-ú _QÍ-BÍ-MA\n---\nVs. 3# _A-[N]A [L]Ú^MEŠ^ ^URU^ga-aš-[g]a ku-e-da-aš\nVs. 4# x x [ ] x x [^m^a]t-ti-ú-na\nVs. 5# LÚ^M[EŠ^ ] x x [a]r-ḫa LÚ^MEŠ^ ^URU^ku-ru-pa-aš-ši-i̯a\nVs. 6# ḫa-at-[ ] nu-uš-kán ka-a-ša\nVs. 7# ka-[a pa-r]a-a ne-eḫ-ḫi\nVs. 8# nu-u[š-ma-aš pé-ḫu]-da-an-zi\n---\nVs. 9# [ ]x-kán ku-i-uš\nVs. 10# [ ]x-iš _A-NA UDU^ḪI.A^ da-an-na\nVs. 11# [ ] ú-u̯a-te-et\nVs. 12# [ ] ḫa-at-ra-a-eš ku-it\nVs. 13# [ ] _AŠ-_M[E ]\nVs. 14# [ ]x[\nVs. 15#\nVs. 16#\n---\nVs. 17# [ ]x [z]i-[i]k ^m^ka-[aš-šu-uš]\nVs. 18# [ ] x x x [\nRs. 1′# x[\nRs. 2′# x[\nRs. 3# nu-x[\nRs. 4′# nu-u[š-\nRs. 5′# x[\nRs. 6′#\nRs. 7′# [ ]x [\nRs. 8′# x x[\nRs. 9′# ḫu-u-ma-an-[\nRs. 10′# [K]UR-e u̯a-[\nRs. 11′# im-ma m[a-\nRs. 12′# ^URU^ga-aš-g[a] x [ ] x [\nRs. 13′# na-aš x x x [\nRs. 14′# ma-an-x-x x [\nRs. 15′# e-ep-pé-er URU-an x x [\nRs. 16′# [n]a-an na-ak-ki-i x x[\nRs. 17′# e-eš-ta ki-nu-na-za-kán pa-r[a-a\nRs. 18′# im-ma u̯a-ar-ši-an-za [\n---\n",
+        "title": "HKM 23",
+        "words": [
+            {
+                "index": 18,
+                "id": 15169
+            },
+            {
+                "index": 25,
+                "id": 15171
+            },
+            {
+                "index": 26,
+                "id": 15173
+            },
+            {
+                "index": 34,
+                "id": 15175
+            },
+            {
+                "index": 42,
+                "id": 15177
+            },
+            {
+                "index": 45,
+                "id": 15179
+            },
+            {
+                "index": 52,
+                "id": 15181
+            },
+            {
+                "index": 59,
+                "id": 15182
+            },
+            {
+                "index": 78,
+                "id": 15188
+            },
+            {
+                "index": 101,
+                "id": 15192
+            },
+            {
+                "index": 105,
+                "id": 15194
+            },
+            {
+                "index": 108,
+                "id": 15197
+            },
+            {
+                "index": 31,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 32,
+                "id": 13269,
+                "openCompoundId": 14991
+            }
+        ]
+    },
+    {
+        "id": 15199,
+        "text": "o. Rd. 1# _UM-MA ^D^UTU-_[ŠI-M]A _A-NA ^m^pí-še-ni _Q[Í]-BÍ-MA\n---\nVs. 2# 2 ^LÚ.MEŠ^pí[t-t]i-i̯a-an-du-uš-kán ku-i-uš\nVs. 3# pa-ra-a [n]a-it-ta na-aš ú-u̯a-te-er\n---\nVs. 4# ki-iš-š[a-an]-ma-mu ku-i[t ḫ]a-at-ra-a-eš\nVs. 5# ÉRIN^MEŠ^ ^GIŠ^za-[al]-ta-i̯a-[aš-u̯a k]u-iš\nVs. 6# ^URU^ka-še-[pu-u]-ra [ nam-m]a-aš-ši-iš-ša-an\nVs. 7# ka-aš-ti [a-r]a-a-an [ki-i]š-ša-an me-mi-iš-kán-zi\nVs. 8# ma-aḫ-ḫa-an L[Ú^MEŠ^] ^URU^ga-aš-g[a ú-u̯a-an]-zi\nVs. 9# nu-u̯a-k[án pa-r]a-a EG[IR-an-da pa-i]-u̯a-ni\nVs. 10# nu-u̯[a-ru-uš-ká]n ša-ra-a [ar-n]u-[m]e-ni\n---\nVs. 11# [ ]x ^m^ták-ša-aš ku-it u-un-ni-iš\nVs. 12# [ ] ÉRIN^MEŠ^ ^URU^ka-še-pu-u-ra\nVs. 13# [ ^URU^m]a-ri-iš-ta pé-ḫu-te-ed-du\nVs. 14# [ ] É.GAL-_LIM ḫal-ki-in tu-kán-zi\nVs. 15# [ ma-a-a]n-za-kán ša-ra-a ú-et\nVs. 16# [ ki-nu]-un-pát ÉRIN^MEŠ^ ^URU^ka-še-pu-u-ra-a[z]\nVs. 17# [pé-ḫu-te-ez-z]i ma-a-an ta-ma-in ku-in-k[i]\nVs. 18# [pé-ḫu-t]e-ez-[z]i nu-uš-ši-kán ḫal-ki-in\nVs. 19# [ pé]-da-ú\nVs. 20# [ ] EGIR-an iš-kal-[li]\nVs. 21# [ ú-u̯a-a]n-zi _I-NA\nVs. 22# [ iš-ḫu-u-u̯]a-an-zi\nVs. 23# [ ^D^UTU-_ŠI-M]A _A-NA ^m^[\nVs. 24#\n---\nVs. 25# [ ]x ku-it ḫa-at-r[a-a-eš]\nVs. 26# [ -i]t ki-iš-ša-a[n ḫa-at]-ra [\nu. Rd. 27# [ ]-uš ar-nu-ši\nu. Rd. 28# [^URU^ta-ḫa-zi-mu-na]-an ^URU^ḫa-pa-ra-an\nu. Rd. 29# [^URU^ta-pí-ga-a]n-na nu-u̯a-kán\nRs. 30# [ ]x _A-NA ^URU^ka-še-[p]u-[u-ra]\nRs. 31# [ -i]t nu-u̯a-mu-kán ÉRIN^MEŠ^ [ ]\nRs. 32# [ú-u̯a-te]-ez-zi _Ú-UL te-ek-[ku]-uš-ša-[nu-zi] _Ú-UL\nRs. 33# [ -l]i-in-u̯a-kán ša-ra-a\nRs. 34# [ ]-kán ÉRIN^MEŠ^ ^GIŠ^za-al-ta\nRs. 35# [ (-)d]a-aḫ-ḫ[i] x x x [\n---\nRs. 36# [ ]x ^D^UTU-_ŠI ka-ru-ú-i-l[i-i]t\nRs. 37# [ a-p]u-u-uš [k]u-i-uš 3 URU^[ḪI.A]^\nRs. 38# [^URU^ta-ḫa-zi-mu-na]-an ^URU^[ḫ]a-pa-ra-an [^URU^ta]-pí-ga-[an]\nRs. 39# [ ]x NAM.RA ^URU^u̯a-[ ]x-un-ga [\nRs. 40# [ ]-u̯a ^URU^ta-pa-a [ ^URU^ur-ša-pí-k]án-nu-ú ša-ra-a\nRs. 41# [ K]UR-e e-ša-an-[\n---\nRs. 42# [ ]x _Ú-UL _I-NA KUR [\nRs. 43# [ ]-ut _IŠ-TU ÉRIN^MEŠ^ [KUR UGU]-_TIM\nRs. 44# x[ ] ú-ga-az _IŠ-TU ÉR[IN^MEŠ^ ^URU^u]r-ša-pí-kán-nu-u̯a-i̯a\nRs. 45# ^URU^š[a-n]a-[aḫ-ḫu-it]-ta ku-ez-zi [ša-r]a-a\nRs. 46# da-a-i na-an-k[án š]a-ra-a tar-n[a]\n---\nRs. 47# nam-ma-[k]án KUR-e a[n-d]a ka-aš-za ú-et\nRs. 48# nu a-pu-u-un ÉRIN^MEŠ^ ^URU^ma-re-eš-t[a] pé-ḫu-te\nRs. 49# nu-za pa-id-du _Š[A] É.GAL-_LIM ḫal-[k]i-in tu-kán-zi\nRs. 50# da-ad-du na-an-z[a-k]án URU-ri ša-ra-a pé-ḫu-te-ed-du\nRs. 51# nam-ma-an-ši-kán EGI[R]-an iš-kal-li\nRs. 52# na-an ú-u̯a-an-du _I-NA BURU14 EGIR-pa iš-ḫu-u-an-du\n---\nRs. 53# nam-ma a-pu-u-un ÉRIN^MEŠ^ ^URU^ka-še-pu-u-ra EGIR-an-pát\nRs. 54# ti-i̯a nu-za ^NINDA^tu-u-ma-ti-in ša-ra-a me-ek-ki\nRs. 55# ḫa-an-da-a-ed-du _ŠA MU-za-kán an-ku\nRs. 56# ^NINDA^tu-u-ma-ti-in ša-ra-a ḫa-an-da-a-ed-du\n---\no. Rd. 57# ki-iš-ša-an-ma-mu [ku-i]t ḫa-at-ra-a-eš NAM.RA^MEŠ^ ^URU^ka-al-za-na-u̯a\no. Rd. 58# ^URU^ma-ri-iš-t[a] ku-in ma-ši-u̯a\no. Rd. 59# pé-eḫ-ḫi nu-u̯a-ra-a[n]-t[a-k]án ḫa-at-ra-a-m[i] n[a- ]\no. Rd. 60# te-ek-[ku-ša]-nu-ut\n---\nlk. Rd. 1# ]x-[t]i-eš ši-i̯a-an-te-eš\nlk. Rd. 2# ḫu-lu]-ga-an-ni-eš ki-it-t[a\nlk. Rd. 3# ] a-pé-ni-iš-šu-u̯a-an pa-a-i [",
+        "title": "HKM 24",
+        "words": [
+            {
+                "index": 6,
+                "id": 15200
+            },
+            {
+                "index": 8,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 9,
+                "id": 13982,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 10,
+                "id": 11712
+            },
+            {
+                "index": 16,
+                "id": 15202
+            },
+            {
+                "index": 18,
+                "id": 15204
+            },
+            {
+                "index": 20,
+                "id": 15206
+            },
+            {
+                "index": 21,
+                "id": 15208
+            },
+            {
+                "index": 22,
+                "id": 15210
+            },
+            {
+                "index": 24,
+                "id": 15212
+            },
+            {
+                "index": 38,
+                "id": 15218
+            },
+            {
+                "index": 40,
+                "id": 15220
+            },
+            {
+                "index": 46,
+                "id": 15223
+            },
+            {
+                "index": 47,
+                "id": 15225
+            },
+            {
+                "index": 54,
+                "id": 15227
+            },
+            {
+                "index": 60,
+                "id": 15229
+            },
+            {
+                "index": 61,
+                "id": 15231
+            },
+            {
+                "index": 63,
+                "id": 15233
+            },
+            {
+                "index": 66,
+                "id": 15236
+            },
+            {
+                "index": 69,
+                "id": 15238
+            },
+            {
+                "index": 73,
+                "id": 15241
+            },
+            {
+                "index": 90,
+                "id": 15248
+            },
+            {
+                "index": 93,
+                "id": 10545
+            },
+            {
+                "index": 94,
+                "id": 15251
+            },
+            {
+                "index": 95,
+                "id": 15253
+            },
+            {
+                "index": 97,
+                "id": 15255
+            },
+            {
+                "index": 105,
+                "id": 15260
+            },
+            {
+                "index": 111,
+                "id": 15262
+            },
+            {
+                "index": 114,
+                "id": 15264
+            },
+            {
+                "index": 119,
+                "id": 15268
+            },
+            {
+                "index": 121,
+                "id": 15270
+            },
+            {
+                "index": 129,
+                "id": 15272
+            },
+            {
+                "index": 131,
+                "id": 15275
+            },
+            {
+                "index": 134,
+                "id": 15277
+            },
+            {
+                "index": 137,
+                "id": 15278
+            },
+            {
+                "index": 145,
+                "id": 15282
+            },
+            {
+                "index": 146,
+                "id": 15284
+            },
+            {
+                "index": 148,
+                "id": 15286
+            },
+            {
+                "index": 152,
+                "id": 15288
+            },
+            {
+                "index": 164,
+                "id": 15292
+            },
+            {
+                "index": 167,
+                "id": 15293
+            },
+            {
+                "index": 170,
+                "id": 15295
+            },
+            {
+                "index": 171,
+                "id": 15297
+            },
+            {
+                "index": 172,
+                "id": 15299
+            },
+            {
+                "index": 174,
+                "id": 15301
+            },
+            {
+                "index": 177,
+                "id": 15303
+            },
+            {
+                "index": 178,
+                "id": 15305
+            },
+            {
+                "index": 181,
+                "id": 15307
+            },
+            {
+                "index": 187,
+                "id": 15309
+            },
+            {
+                "index": 189,
+                "id": 15311
+            },
+            {
+                "index": 194,
+                "id": 15313
+            },
+            {
+                "index": 196,
+                "id": 15315
+            },
+            {
+                "index": 199,
+                "id": 15317
+            },
+            {
+                "index": 203,
+                "id": 15319
+            },
+            {
+                "index": 205,
+                "id": 15321
+            },
+            {
+                "index": 207,
+                "id": 15322
+            },
+            {
+                "index": 215,
+                "id": 15324
+            },
+            {
+                "index": 218,
+                "id": 15326
+            },
+            {
+                "index": 220,
+                "id": 15329
+            },
+            {
+                "index": 228,
+                "id": 15330
+            },
+            {
+                "index": 229,
+                "id": 15331
+            },
+            {
+                "index": 232,
+                "id": 15333
+            },
+            {
+                "index": 233,
+                "id": 15335
+            },
+            {
+                "index": 234,
+                "id": 15338
+            },
+            {
+                "index": 238,
+                "id": 15342
+            },
+            {
+                "index": 240,
+                "id": 15344
+            },
+            {
+                "index": 241,
+                "id": 15346
+            },
+            {
+                "index": 242,
+                "id": 15348
+            }
+        ],
+        "translations": [
+            {
+                "id": 15353,
+                "text": "So says My Majesty to Piseni",
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 6
+            },
+            {
+                "id": 15354,
+                "text": "The two fugitives that you have sent,",
+                "anchorStartIndex": 6,
+                "anchorEndIndex": 10
+            },
+            {
+                "id": 15355,
+                "text": "They moved them.",
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 247
+            }
+        ]
+    },
+    {
+        "id": 15361,
+        "text": "obv.1# _A-NA ^D^UTU-_ŠI _BE-LÍ-NI _QÍ-BÍ-[MA\nobv.2# _UM-MA ^m^da-an-da _Ù LÚ^MEŠ^ [\nobv.3# [AR]AD^MEŠ^-KA-MA [ ]\n---\nobv.4# ^D^UTU-_ŠI-na-aš ku-it _BE-LÍ-NI ḫ[a-at-ra-a-eš\nobv.5# ar-ḫa da-li-iš kat-ta-an [\nobv.6# [a]r-u̯a-aš-ta-at na-aš-da x[\nobv.7# ḫa-aš-da-pí-iš pé-ra-an SIG5 [\nobv.8# ḫar-ra-ni-iš x-tar? pa-ri-i̯a-u̯a-an [\n---\nobv.9# nu-mu-kán ka-a-ša ḫa-aš-da-pí-uš [\nobv.10# ku-it an-da za-ḫur-li-ti-e-eš [\nobv.11# xMEŠ?-i-al?-ti pé-e-a-an [\nobv.12# na-aš na-a-ú-i ú-e-mi-ia-an [\n---\nobv.13# ^D^UTU-_ŠI-mu ku-it _BE-LÍ-IA KUR ^URU^[\nobv.14# EGIR-an ti-i̯a-an ḫar-ši nu ke-e-da-[\nobv.15# [ ]-ti?-i̯a-mi na?-at u?-uḫ-ḫi nu [\nobv.16# [ ] x KASKAL-iš x-an-[\nobv. breaks#\nrev.1′# ]\nrev. blank line ===#\nrev.2′# _UM-MA [ ]\nrev.3′# _A-NA ^m^pí-i [ ] _QÍ-BÍ-MA\n---\nrev.4′# nu ka-a-ša aš [ ]-e-eš x x [\nrev.5′# [ ]-an-te-eš\nrev.6′# [ ] x x pa-ra-a [\nrev.7′# pa-ra-a [\n---\nend of rev.#",
+        "title": "Or. 90/450",
+        "words": [
+            {
+                "index": 9,
+                "id": 15362
+            },
+            {
+                "index": 17,
+                "id": 15365
+            },
+            {
+                "index": 23,
+                "id": 15369
+            },
+            {
+                "index": 27,
+                "id": 15372
+            },
+            {
+                "index": 33,
+                "id": 15375
+            },
+            {
+                "index": 44,
+                "id": 15367
+            },
+            {
+                "index": 46,
+                "id": 15377
+            },
+            {
+                "index": 29,
+                "id": 15380
+            }
+        ]
+    },
+    {
+        "id": 15382,
+        "text": "obv.1# _A-NA ^D^[UTU-_ŠI-ma _QÍ-BÍ]-MA\nobv.2# _UM-MA ^m^x-la-x [ ARAD-_K]A-MA\nobv.3# _MA-ḪAR DUMU.NITA^MEŠ^ ḫu-u-[ma-an] SIG5-in\n---\nobv.4# ^D^UTU-_ŠI-mu ku-it _BE-[LÍ-I̯A ki]-iš-ša-an\nobv.5# ḫa-at-ra-a-eš _ŠA LÚ[ ] x-u̯a [\nobv.6# nu-u̯a-ra-an-ša-an _I-[NA ^URU^]ša-pí-nu-wa\nobv.7# _A-NA ^D^UTU-_ŠI li-li-[u̯a-aḫ]-ḫu-an-zi x-[i\n---\nobv.8# nu im-ma-ak-ku UD-az(?) [\nobv.9# _BE-LÍ-I̯A tup-pí-an [\nobv.10# na-an-na-aḫ-ḫi _MA-ḪAR [\n---\nobv.11# ka-a-ša _A-NA [\nobv.12# an-da u̯a-al-[\nobv.13# a-ri-i̯a-nu-u[n\nlo.e.14# nu-kán pa-r[a-\nlo.e.15# a-ri-ia-nu-[\nlo.e.16# x x x [\nrev.17 line severely burned#\nrev.18 nu? _A?-NA? [\n---\nrev. 4 lines severely burned#\nrev. breaks#",
+        "title": "Or. 90/459",
+        "words": [
+            {
+                "index": 1,
+                "id": 15383
+            },
+            {
+                "index": 8,
+                "id": 15385
+            },
+            {
+                "index": 21,
+                "id": 15393
+            },
+            {
+                "index": 26,
+                "id": 15386
+            },
+            {
+                "index": 29,
+                "id": 15390
+            },
+            {
+                "index": 30,
+                "id": 15392
+            },
+            {
+                "index": 33,
+                "id": 15388
+            },
+            {
+                "index": 35,
+                "id": 15395
+            },
+            {
+                "index": 43,
+                "id": 15399
             }
         ]
     }

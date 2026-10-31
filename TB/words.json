@@ -1566,5 +1566,220 @@
         "text": "tstse",
         "gloss": "ADJ",
         "pos": "AFF"
+    },
+    {
+        "id": 14939,
+        "text": "araṇemiñ"
+    },
+    {
+        "id": 14940,
+        "text": "lānte"
+    },
+    {
+        "id": 14941,
+        "text": "arcəññ-",
+        "gloss": "deign",
+        "pos": "V"
+    },
+    {
+        "id": 14942,
+        "text": "porcaññar"
+    },
+    {
+        "id": 14943,
+        "text": "ṣpakk",
+        "gloss": "more",
+        "pos": "ADV"
+    },
+    {
+        "id": 14944,
+        "text": "kartse",
+        "gloss": "good",
+        "pos": "ADJ"
+    },
+    {
+        "id": 14945,
+        "text": "krent"
+    },
+    {
+        "id": 14946,
+        "text": "yamalñe",
+        "gloss": "doing"
+    },
+    {
+        "id": 15416,
+        "text": "anaiśai",
+        "gloss": "carefully",
+        "pos": "ADV"
+    },
+    {
+        "id": 15417,
+        "text": "kalatsi"
+    },
+    {
+        "id": 15418,
+        "text": "sala-",
+        "gloss": "arise",
+        "pos": "V"
+    },
+    {
+        "id": 15419,
+        "text": "sasāllaṣ"
+    },
+    {
+        "id": 15420,
+        "text": "palskosa"
+    },
+    {
+        "id": 15421,
+        "text": "wyakṣep",
+        "gloss": "distraction",
+        "fullGloss": "distraction, hindrance",
+        "pos": "N"
+    },
+    {
+        "id": 15422,
+        "text": "päklyauṣ"
+    },
+    {
+        "id": 15423,
+        "text": "cau"
+    },
+    {
+        "id": 15426,
+        "text": "jātakäṣṣe",
+        "gloss": "pertaining to a jātaka.OBL.SG.M"
+    },
+    {
+        "id": 15428,
+        "text": "meske",
+        "gloss": "link",
+        "fullGloss": "joint, link, chain",
+        "pos": "N"
+    },
+    {
+        "id": 15429,
+        "text": "riññäkte",
+        "gloss": "tune",
+        "fullGloss": "name of a tune of 10|11|10 syllables",
+        "pos": "N"
+    },
+    {
+        "id": 15430,
+        "text": "riññäktesa"
+    },
+    {
+        "id": 15432,
+        "text": "kətka-",
+        "gloss": "cross",
+        "pos": "V"
+    },
+    {
+        "id": 15433,
+        "text": "kätkau"
+    },
+    {
+        "id": 15440,
+        "text": "ste"
+    },
+    {
+        "id": 15441,
+        "text": "śāmñe",
+        "gloss": "human",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15443,
+        "text": "naumye",
+        "gloss": "jewel",
+        "pos": "N"
+    },
+    {
+        "id": 15445,
+        "text": "tne"
+    },
+    {
+        "id": 15446,
+        "text": "tane",
+        "gloss": "here",
+        "fullGloss": "here, now",
+        "pos": "ADV"
+    },
+    {
+        "id": 15448,
+        "text": "aruṇāvati",
+        "pos": "NP"
+    },
+    {
+        "id": 15449,
+        "text": "rīye",
+        "gloss": "city",
+        "pos": "N"
+    },
+    {
+        "id": 15450,
+        "text": "rīne"
+    },
+    {
+        "id": 15452,
+        "text": "yət-",
+        "gloss": "decorate",
+        "pos": "V"
+    },
+    {
+        "id": 15453,
+        "text": "yaitu"
+    },
+    {
+        "id": 15454,
+        "text": "krentaunaṣṣe",
+        "gloss": "pertaining to virtues",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15455,
+        "text": "krentaunaṣṣeṃ"
+    },
+    {
+        "id": 15456,
+        "text": "tsaiñe",
+        "gloss": "ornament",
+        "fullGloss": "ornament, jewel",
+        "pos": "N"
+    },
+    {
+        "id": 15457,
+        "text": "tsaiññentsa"
+    },
+    {
+        "id": 15459,
+        "text": "om"
+    },
+    {
+        "id": 15460,
+        "text": "omp",
+        "gloss": "there",
+        "pos": "ADV"
+    },
+    {
+        "id": 15461,
+        "text": "pañäktäṃñe",
+        "gloss": "pertaining to Buddha",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15462,
+        "text": "perne",
+        "gloss": "rank",
+        "fullGloss": "rank, stage, position, glory",
+        "pos": "N"
+    },
+    {
+        "id": 15463,
+        "text": "perneścä"
+    },
+    {
+        "id": 15464,
+        "text": "tsäṅkau"
     }
 ]

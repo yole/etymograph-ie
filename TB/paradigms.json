@@ -537,11 +537,117 @@
         "columns": [
             {
                 "title": "sg",
-                "cells": []
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14579
+                        ]
+                    }
+                ]
             },
             {
                 "title": "pl",
-                "cells": []
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            14580
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Verb Non-Finite Forms",
+        "rows": [
+            "VN",
+            "INF",
+            "PTCP",
+            "PRET.PTCP"
+        ],
+        "columns": [
+            {
+                "title": "Form",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            9744
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14323
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            14342
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15431
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Verb Preterite Middle",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15434
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15436
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15438
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15435
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15437
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15439
+                        ]
+                    }
+                ]
             }
         ],
         "posList": [

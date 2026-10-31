@@ -1,0 +1,51 @@
+[
+    {
+        "id": 14948,
+        "componentIds": [
+            10995,
+            10246
+        ],
+        "headIndex": 1,
+        "gloss": "close"
+    },
+    {
+        "id": 14991,
+        "componentIds": [
+            11231,
+            11388
+        ],
+        "headIndex": 1,
+        "gloss": "send out",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "147"
+            }
+        ]
+    },
+    {
+        "id": 14996,
+        "componentIds": [
+            10995,
+            13405
+        ],
+        "headIndex": 1,
+        "gloss": "hineinschütten",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "87"
+            }
+        ]
+    },
+    {
+        "id": 15128,
+        "componentIds": [
+            11459,
+            11559
+        ],
+        "headIndex": 1,
+        "gloss": "fortlassen",
+        "fullGloss": "fortlassen, entlassen; verlassen; - (Weg) freigeben; wegbringen, beseitigen"
+    }
+]

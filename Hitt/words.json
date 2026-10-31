@@ -376,10 +376,17 @@
     {
         "id": 10246,
         "text": "ištāp-",
-        "gloss": "close",
+        "gloss": "plug up",
+        "fullGloss": "to plug up, to block, to dam, to enclose, to shut; to besiege",
         "pos": "V",
         "classes": [
             "hi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "415"
+            }
         ]
     },
     {
@@ -537,7 +544,6 @@
     {
         "id": 10327,
         "text": "ar-ḫa",
-        "pos": "ADV",
         "syllabographic": true
     },
     {
@@ -1289,7 +1295,7 @@
     },
     {
         "id": 10643,
-        "text": "nepíšaz"
+        "text": "nepišaz"
     },
     {
         "id": 10644,
@@ -1663,6 +1669,7 @@
         "id": 10732,
         "text": "URU",
         "gloss": "city",
+        "fullGloss": "city; Stadt",
         "pos": "N",
         "syllabographic": true
     },
@@ -2213,7 +2220,8 @@
         "id": 10894,
         "text": "SAG.DU",
         "gloss": "head",
-        "pos": "N"
+        "pos": "N",
+        "syllabographic": true
     },
     {
         "id": 10896,
@@ -2395,6 +2403,7 @@
         "id": 10941,
         "text": "ḫalki",
         "gloss": "grain",
+        "fullGloss": "grain; Getreide",
         "pos": "N",
         "classes": [
             "C"
@@ -2409,6 +2418,7 @@
         "id": 10943,
         "text": "BURU5",
         "gloss": "locust",
+        "pos": "N",
         "syllabographic": true
     },
     {
@@ -3634,7 +3644,6 @@
     {
         "id": 11310,
         "text": "KUR.KUR^ḪI.A^",
-        "gloss": "lands",
         "syllabographic": true
     },
     {
@@ -3646,6 +3655,7 @@
         "id": 11312,
         "text": "É",
         "gloss": "house",
+        "fullGloss": "house; Haus",
         "pos": "N",
         "syllabographic": true
     },
@@ -3796,6 +3806,7 @@
         "id": 11350,
         "text": "ḫalzai-",
         "gloss": "call",
+        "fullGloss": "call; rufen",
         "pos": "V",
         "classes": [
             "hi"
@@ -3997,10 +4008,6 @@
     {
         "id": 11409,
         "text": "šum-mi-in",
-        "pos": "PRON",
-        "classes": [
-            "clitic"
-        ],
         "syllabographic": true
     },
     {
@@ -4034,11 +4041,7 @@
     },
     {
         "id": 11416,
-        "text": "šummin",
-        "pos": "PRON",
-        "classes": [
-            "clitic"
-        ]
+        "text": "šummin"
     },
     {
         "id": 11417,
@@ -4568,9 +4571,16 @@
         "id": 11559,
         "text": "tarna-",
         "gloss": "let",
+        "fullGloss": "let; lassen, loslassen, gestatten, erlauben; überlassen",
         "pos": "V",
         "classes": [
             "hi"
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "215"
+            }
         ]
     },
     {
@@ -4724,6 +4734,7 @@
         "id": 11596,
         "text": "pai-",
         "gloss": "give",
+        "fullGloss": "give; geben",
         "pos": "V",
         "classes": [
             "hi"
@@ -5748,12 +5759,6 @@
         "syllabographic": true
     },
     {
-        "id": 11867,
-        "text": "-ššan",
-        "gloss": "-",
-        "pos": "CONJ"
-    },
-    {
         "id": 11868,
         "text": "ka-a-aš-ti",
         "syllabographic": true
@@ -6444,12 +6449,6 @@
     {
         "id": 12170,
         "text": "tēpau̯ēššanza"
-    },
-    {
-        "id": 12171,
-        "text": "tēpau̯ēššant-",
-        "gloss": "having become too small",
-        "pos": "ADJ"
     },
     {
         "id": 12172,
@@ -7495,8 +7494,7 @@
     },
     {
         "id": 12824,
-        "text": "kuerzi",
-        "gloss": "cut.3SG"
+        "text": "kuerzi"
     },
     {
         "id": 12858,
@@ -7847,11 +7845,6 @@
         "pos": "NP"
     },
     {
-        "id": 12932,
-        "text": "^MUŠEN^",
-        "syllabographic": true
-    },
-    {
         "id": 12933,
         "text": "GUN-eš₁₇",
         "syllabographic": true
@@ -7881,7 +7874,6 @@
     {
         "id": 12938,
         "text": "SIG5-az",
-        "gloss": "von der guten Seite",
         "syllabographic": true
     },
     {
@@ -7919,7 +7911,6 @@
     {
         "id": 12950,
         "text": "SIG5-za",
-        "gloss": "von der guten Seite",
         "syllabographic": true
     },
     {
@@ -7989,6 +7980,7 @@
         "id": 12966,
         "text": "SIG5",
         "gloss": "gut",
+        "pos": "ADJ",
         "syllabographic": true
     },
     {
@@ -8352,9 +8344,10 @@
     },
     {
         "id": 13059,
-        "text": "QĀTAMMA",
+        "text": "_QĀTAMMA",
         "gloss": "ebenso",
-        "pos": "ADV"
+        "pos": "ADV",
+        "syllabographic": true
     },
     {
         "id": 13060,
@@ -8727,11 +8720,8 @@
     },
     {
         "id": 13159,
-        "text": "ḫantašepuš"
-    },
-    {
-        "id": 13160,
-        "text": "i"
+        "text": "ḫantašepuš",
+        "pos": "NP"
     },
     {
         "id": 13166,
@@ -8903,7 +8893,8 @@
     {
         "id": 13213,
         "text": "araḫzanta",
-        "gloss": "(nach) draußen"
+        "gloss": "(nach) draußen",
+        "pos": "ADV"
     },
     {
         "id": 13214,
@@ -8933,15 +8924,6 @@
         "text": "kalman"
     },
     {
-        "id": 13220,
-        "text": "-ru",
-        "syllabographic": true
-    },
-    {
-        "id": 13221,
-        "text": "ru"
-    },
-    {
         "id": 13222,
         "text": "ḫa-at-ra-a-mi",
         "syllabographic": true
@@ -8960,19 +8942,6 @@
         "id": 13234,
         "text": "ŠU^ḪI.A^",
         "syllabographic": true
-    },
-    {
-        "id": 13237,
-        "text": "ZI",
-        "gloss": "soul",
-        "pos": "N",
-        "syllabographic": true,
-        "sourceRefs": [
-            {
-                "pubId": 18,
-                "refText": "301"
-            }
-        ]
     },
     {
         "id": 13238,
@@ -10052,11 +10021,6 @@
         "text": "karūi̯a"
     },
     {
-        "id": 13503,
-        "text": "karu",
-        "gloss": "früher"
-    },
-    {
         "id": 13504,
         "text": "^D^UTU-_ŠI",
         "syllabographic": true
@@ -10359,7 +10323,8 @@
     {
         "id": 13966,
         "text": "kuu̯apiki",
-        "gloss": "irgendwo"
+        "gloss": "irgendwo",
+        "pos": "ADV"
     },
     {
         "id": 13967,
@@ -11065,10 +11030,6 @@
         ]
     },
     {
-        "id": 14150,
-        "text": "wakan"
-    },
-    {
         "id": 14152,
         "text": "^m^ga-〈aš〉-šu-ú",
         "syllabographic": true
@@ -11105,21 +11066,6 @@
         "id": 14159,
         "text": "É-ri",
         "syllabographic": true
-    },
-    {
-        "id": 14160,
-        "text": "É",
-        "gloss": "Haus",
-        "syllabographic": true
-    },
-    {
-        "id": 14161,
-        "text": "da-",
-        "syllabographic": true
-    },
-    {
-        "id": 14162,
-        "text": "da"
     },
     {
         "id": 14163,
@@ -11438,11 +11384,6 @@
     {
         "id": 14360,
         "text": "ANŠE.KUR.RA^ḪI.A^-i̯a-aš-ma-aš-kán",
-        "syllabographic": true
-    },
-    {
-        "id": 14361,
-        "text": "UD",
         "syllabographic": true
     },
     {
@@ -12186,6 +12127,7 @@
         "id": 14644,
         "text": "zikk-",
         "gloss": "decide",
+        "fullGloss": "decide; (wiederholt) legen; setzen; ins Werk setzen, unternehmen",
         "pos": "V",
         "sourceRefs": [
             {
@@ -12235,7 +12177,6 @@
     {
         "id": 14656,
         "text": "^URU^šal-pa",
-        "pos": "NP",
         "syllabographic": true
     },
     {
@@ -12352,7 +12293,6 @@
     {
         "id": 14695,
         "text": "^URU^ḫar-ra-na",
-        "pos": "NP",
         "syllabographic": true
     },
     {
@@ -12484,12 +12424,6 @@
     {
         "id": 14726,
         "text": "pittei̯anza"
-    },
-    {
-        "id": 14727,
-        "text": "^URU^at-ta-ri-im-ma",
-        "pos": "NP",
-        "syllabographic": true
     },
     {
         "id": 14728,
@@ -12818,11 +12752,6 @@
         ]
     },
     {
-        "id": 14806,
-        "text": "pu-",
-        "syllabographic": true
-    },
-    {
         "id": 14807,
         "text": "pu"
     },
@@ -12835,15 +12764,6 @@
         "id": 14809,
         "text": "apāšila",
         "gloss": "selbst"
-    },
-    {
-        "id": 14810,
-        "text": "i-",
-        "syllabographic": true
-    },
-    {
-        "id": 14811,
-        "text": "i"
     },
     {
         "id": 14812,
@@ -12897,10 +12817,6 @@
         "text": "nuu̯araš"
     },
     {
-        "id": 14824,
-        "text": "nuw"
-    },
-    {
         "id": 14826,
         "text": "nu-u̯a-ra-aš-ma-ša-an-kán",
         "syllabographic": true
@@ -12920,18 +12836,9 @@
         "pos": "NP"
     },
     {
-        "id": 14830,
-        "text": "zi"
-    },
-    {
         "id": 14832,
         "text": "^URU^ḫa-ap-pu-ri-i̯a",
         "syllabographic": true
-    },
-    {
-        "id": 14833,
-        "text": "ḫappuria",
-        "pos": "NP"
     },
     {
         "id": 14834,
@@ -12961,15 +12868,6 @@
         "id": 14842,
         "text": "kummaḫa",
         "pos": "NP"
-    },
-    {
-        "id": 14843,
-        "text": "^M^tar-ḫu-un-na-ra-du",
-        "syllabographic": true
-    },
-    {
-        "id": 14844,
-        "text": "tarḫunnaratu"
     },
     {
         "id": 14845,
@@ -13039,7 +12937,13 @@
         "gloss": "soul",
         "fullGloss": "soul; Seele",
         "pos": "N",
-        "syllabographic": true
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "301"
+            }
+        ]
     },
     {
         "id": 14857,
@@ -13080,11 +12984,6 @@
         "id": 14865,
         "text": "^URU^ku-um-ma-ḫa",
         "syllabographic": true
-    },
-    {
-        "id": 14866,
-        "text": "kummaḫa",
-        "pos": "NP"
     },
     {
         "id": 14867,
@@ -13385,6 +13284,1703 @@
     {
         "id": 14934,
         "text": "kašapura",
+        "pos": "NP"
+    },
+    {
+        "id": 14950,
+        "text": "^m^da-a-ḫa-zi-DINGIR-_LIM",
+        "syllabographic": true
+    },
+    {
+        "id": 14951,
+        "text": "^É^tar-nu-i",
+        "syllabographic": true
+    },
+    {
+        "id": 14952,
+        "text": "tarnui"
+    },
+    {
+        "id": 14953,
+        "text": "tarnu",
+        "gloss": "(ritueller Gebäudekomplex)",
+        "pos": "N"
+    },
+    {
+        "id": 14954,
+        "text": "na-i",
+        "syllabographic": true
+    },
+    {
+        "id": 14955,
+        "text": "nai"
+    },
+    {
+        "id": 14956,
+        "text": "ÉRIN^MEŠ^-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 14957,
+        "text": "ka-a",
+        "syllabographic": true
+    },
+    {
+        "id": 14960,
+        "text": "^URU^iš-ḫu-u-pí-it-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 14962,
+        "text": "na-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 14963,
+        "text": "nanda"
+    },
+    {
+        "id": 14964,
+        "text": "nanna-",
+        "gloss": "treiben",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "148"
+            }
+        ]
+    },
+    {
+        "id": 14965,
+        "text": "up-pa-aḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 14966,
+        "text": "uppaḫḫi"
+    },
+    {
+        "id": 14967,
+        "text": "uppa",
+        "gloss": "(her)schicken",
+        "pos": "V"
+    },
+    {
+        "id": 14968,
+        "text": "^m^pí-še-ni",
+        "syllabographic": true
+    },
+    {
+        "id": 14969,
+        "text": "pišeni",
+        "pos": "NP"
+    },
+    {
+        "id": 14970,
+        "text": "^m^pu-ul-li",
+        "syllabographic": true
+    },
+    {
+        "id": 14971,
+        "text": "pulli",
+        "pos": "NP"
+    },
+    {
+        "id": 14972,
+        "text": "^GIŠ^za-al-ta-i-i̯a-aš-ša",
+        "syllabographic": true
+    },
+    {
+        "id": 14973,
+        "text": "zaltaiašša"
+    },
+    {
+        "id": 14974,
+        "text": "tu-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 14975,
+        "text": "tukanzi"
+    },
+    {
+        "id": 14976,
+        "text": "ḫal-ki-i",
+        "syllabographic": true
+    },
+    {
+        "id": 14977,
+        "text": "ḫalkī"
+    },
+    {
+        "id": 14978,
+        "text": "ḫa-aš-ke-et",
+        "syllabographic": true
+    },
+    {
+        "id": 14979,
+        "text": "ḫašket"
+    },
+    {
+        "id": 14980,
+        "text": "ḫal-ki-iš-ma-aš-ma-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 14981,
+        "text": "ḫalkišmašmaš"
+    },
+    {
+        "id": 14982,
+        "text": "a-ni-i̯a-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 14983,
+        "text": "anii̯anza"
+    },
+    {
+        "id": 14984,
+        "text": "ti-i̯a-at-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14985,
+        "text": "tii̯atten"
+    },
+    {
+        "id": 14986,
+        "text": "ep-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14987,
+        "text": "epten"
+    },
+    {
+        "id": 14988,
+        "text": "ÉSAG^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 14989,
+        "text": "iš-ḫu-u-it-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 14990,
+        "text": "išḫūitten"
+    },
+    {
+        "id": 14993,
+        "text": "UGU",
+        "gloss": "above",
+        "pos": "ADV",
+        "syllabographic": true
+    },
+    {
+        "id": 14994,
+        "text": "ḫaššik-",
+        "gloss": "be fed up",
+        "pos": "V"
+    },
+    {
+        "id": 14995,
+        "text": "ÉSAG",
+        "gloss": "underground silo",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 19,
+                "refText": "129"
+            }
+        ]
+    },
+    {
+        "id": 14998,
+        "text": "ka-a-ša-u̯a-aš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 14999,
+        "text": "kāšau̯aššan"
+    },
+    {
+        "id": 15000,
+        "text": "ḫal-ki^ḪI.A^-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15002,
+        "text": "a-ra-an-te-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 15003,
+        "text": "aranteš"
+    },
+    {
+        "id": 15004,
+        "text": "nu-u̯a-aš-ma-aš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15005,
+        "text": "nuu̯ašmaškan"
+    },
+    {
+        "id": 15006,
+        "text": "zi-ig-ga-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15007,
+        "text": "zigganzi"
+    },
+    {
+        "id": 15008,
+        "text": "zikke"
+    },
+    {
+        "id": 15009,
+        "text": "ÉRIN^MEŠ.ḪI.A^-ma-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15010,
+        "text": "^D^UTU-_ŠI-ma-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15011,
+        "text": "^m^kal-lu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 15012,
+        "text": "kallun"
+    },
+    {
+        "id": 15013,
+        "text": "ANŠE.KUR.RA^ḪI.A^-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15014,
+        "text": "na-ú-i",
+        "syllabographic": true
+    },
+    {
+        "id": 15016,
+        "text": "_ṢÍ-IM-DU",
+        "syllabographic": true
+    },
+    {
+        "id": 15017,
+        "text": "ka-a-aš-ma-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15018,
+        "text": "kāšmakan"
+    },
+    {
+        "id": 15019,
+        "text": "^m^pa-a-ḫi-na-ak-ke-en-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15020,
+        "text": "pāḫinakkenna",
+        "pos": "NP"
+    },
+    {
+        "id": 15021,
+        "text": "^m^ḫa-ša-am-me-li",
+        "syllabographic": true
+    },
+    {
+        "id": 15022,
+        "text": "ḫašammeli"
+    },
+    {
+        "id": 15023,
+        "text": "^m^u-uz-zu-u",
+        "syllabographic": true
+    },
+    {
+        "id": 15024,
+        "text": "ūzzū",
+        "pos": "NP"
+    },
+    {
+        "id": 15025,
+        "text": "_NA-AP-ŠA-TÙ",
+        "syllabographic": true
+    },
+    {
+        "id": 15026,
+        "text": "_NA-AP-ŠA-TI",
+        "syllabographic": true
+    },
+    {
+        "id": 15027,
+        "text": "up-pí",
+        "syllabographic": true
+    },
+    {
+        "id": 15028,
+        "text": "uppi"
+    },
+    {
+        "id": 15035,
+        "text": "pāḫinakken"
+    },
+    {
+        "id": 15037,
+        "text": "pāḫinakke",
+        "pos": "NP"
+    },
+    {
+        "id": 15039,
+        "text": "^m^pí-pa-ap-pa",
+        "syllabographic": true
+    },
+    {
+        "id": 15040,
+        "text": "pipappa",
+        "pos": "NP"
+    },
+    {
+        "id": 15041,
+        "text": "an-ni-in",
+        "syllabographic": true
+    },
+    {
+        "id": 15042,
+        "text": "annin"
+    },
+    {
+        "id": 15044,
+        "text": "ni-ni-ik-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 15045,
+        "text": "ninikten"
+    },
+    {
+        "id": 15046,
+        "text": "2^KAM^",
+        "syllabographic": true
+    },
+    {
+        "id": 15047,
+        "text": "^URU^ša-pí-nu-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15048,
+        "text": "šapinuu̯a",
+        "pos": "NP"
+    },
+    {
+        "id": 15049,
+        "text": "ú-u̯a-te-et-tén",
+        "syllabographic": true
+    },
+    {
+        "id": 15050,
+        "text": "uu̯atetten"
+    },
+    {
+        "id": 15053,
+        "text": "_ME",
+        "gloss": "hundred",
+        "syllabographic": true
+    },
+    {
+        "id": 15054,
+        "text": "UD",
+        "gloss": "day",
+        "syllabographic": true
+    },
+    {
+        "id": 15055,
+        "text": "anni-",
+        "gloss": "that",
+        "pos": "PRON"
+    },
+    {
+        "id": 15059,
+        "text": "ÉRIN^MEŠ^-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15063,
+        "text": "tar-na-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15064,
+        "text": "tarnan"
+    },
+    {
+        "id": 15066,
+        "text": "a-pé-e-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15067,
+        "text": "apēi̯a"
+    },
+    {
+        "id": 15068,
+        "text": "apē"
+    },
+    {
+        "id": 15071,
+        "text": "kap-pu-u-u̯a-ar",
+        "syllabographic": true
+    },
+    {
+        "id": 15072,
+        "text": "kappūu̯ar",
+        "gloss": "Zählung",
+        "pos": "N"
+    },
+    {
+        "id": 15073,
+        "text": "^LÚ^KÚR-i̯a-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15077,
+        "text": "pa-aḫ-ḫa-aš-ša-nu-u̯a-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 15078,
+        "text": "paḫḫaššanuu̯anza"
+    },
+    {
+        "id": 15079,
+        "text": "paḫḫaššanu",
+        "gloss": "beschützen",
+        "pos": "V"
+    },
+    {
+        "id": 15080,
+        "text": "ka-a-ša-za",
+        "syllabographic": true
+    },
+    {
+        "id": 15081,
+        "text": "kāšaza"
+    },
+    {
+        "id": 15083,
+        "text": "GAM",
+        "gloss": "unten",
+        "syllabographic": true
+    },
+    {
+        "id": 15084,
+        "text": "a-ri-i̯a-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 15085,
+        "text": "arii̯ami"
+    },
+    {
+        "id": 15086,
+        "text": "arii̯e-",
+        "gloss": "orakeln",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "29"
+            }
+        ]
+    },
+    {
+        "id": 15087,
+        "text": "ḫal-ki^ḪI.A^-uš-ša-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15092,
+        "text": "u̯a-ar-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15093,
+        "text": "u̯araš"
+    },
+    {
+        "id": 15094,
+        "text": "u̯arš",
+        "gloss": "(ab)ernten",
+        "pos": "V"
+    },
+    {
+        "id": 15095,
+        "text": "^m^ša-an-da",
+        "syllabographic": true
+    },
+    {
+        "id": 15096,
+        "text": "šanda",
+        "gloss": "Šanda",
+        "pos": "NP"
+    },
+    {
+        "id": 15097,
+        "text": "am-me-el-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15098,
+        "text": "ammelkan"
+    },
+    {
+        "id": 15102,
+        "text": "ḫal-za-i",
+        "syllabographic": true
+    },
+    {
+        "id": 15104,
+        "text": "nam-ma-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15105,
+        "text": "nammatta"
+    },
+    {
+        "id": 15107,
+        "text": "te-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 15108,
+        "text": "temi"
+    },
+    {
+        "id": 15109,
+        "text": "tu-el-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15110,
+        "text": "tuelu̯a"
+    },
+    {
+        "id": 15112,
+        "text": "_TUP-PA^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 15113,
+        "text": "TUPPU",
+        "gloss": "Tontafel",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 15114,
+        "text": "pé-da-a-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15115,
+        "text": "pedānzi"
+    },
+    {
+        "id": 15117,
+        "text": "ḫal-zi-iš-ša-aḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 15118,
+        "text": "ḫalziššaḫḫi"
+    },
+    {
+        "id": 15119,
+        "text": "ḫalziša",
+        "gloss": "rufen",
+        "pos": "V"
+    },
+    {
+        "id": 15120,
+        "text": "nam-ma-u̯a-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15121,
+        "text": "nammau̯atta"
+    },
+    {
+        "id": 15123,
+        "text": "u̯a-ri-iš-ša-aḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 15124,
+        "text": "u̯ariššaḫḫi"
+    },
+    {
+        "id": 15125,
+        "text": "u̯arišša",
+        "gloss": "zu Hilfe kommen",
+        "pos": "V"
+    },
+    {
+        "id": 15148,
+        "text": "^m^DUMU.UD.20^KAM^",
+        "gloss": "Mār-ešrē",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 15149,
+        "text": "^m^pu-ul-li-i-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15151,
+        "text": "GU4-i̯a-u̯a-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15152,
+        "text": "te-et",
+        "syllabographic": true
+    },
+    {
+        "id": 15153,
+        "text": "tet"
+    },
+    {
+        "id": 15154,
+        "text": "nu-u̯a-ra-an-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15155,
+        "text": "nuu̯aranmu"
+    },
+    {
+        "id": 15169,
+        "text": "^m^at-ti-ú-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15170,
+        "text": "attiuna",
+        "pos": "NP"
+    },
+    {
+        "id": 15171,
+        "text": "^URU^ku-ru-pa-aš-ši-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15172,
+        "text": "kurupaššia",
+        "pos": "NP"
+    },
+    {
+        "id": 15173,
+        "text": "ḫa-at-",
+        "syllabographic": true
+    },
+    {
+        "id": 15175,
+        "text": "pé-ḫu-da-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15176,
+        "text": "peḫudanzi"
+    },
+    {
+        "id": 15177,
+        "text": "da-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15178,
+        "text": "danna"
+    },
+    {
+        "id": 15179,
+        "text": "ú-u̯a-te-et",
+        "syllabographic": true
+    },
+    {
+        "id": 15180,
+        "text": "uu̯atet"
+    },
+    {
+        "id": 15181,
+        "text": "_AŠ-_ME",
+        "syllabographic": true
+    },
+    {
+        "id": 15182,
+        "text": "^m^ka-aš-šu-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 15183,
+        "text": "kaššuš"
+    },
+    {
+        "id": 15188,
+        "text": "u̯a-",
+        "syllabographic": true
+    },
+    {
+        "id": 15189,
+        "text": "u̯a"
+    },
+    {
+        "id": 15192,
+        "text": "na-ak-ki-i",
+        "syllabographic": true
+    },
+    {
+        "id": 15193,
+        "text": "nakkī"
+    },
+    {
+        "id": 15194,
+        "text": "ki-nu-na-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15195,
+        "text": "kinunazakan"
+    },
+    {
+        "id": 15197,
+        "text": "u̯a-ar-ši-an-za",
+        "syllabographic": true
+    },
+    {
+        "id": 15198,
+        "text": "u̯aršianza"
+    },
+    {
+        "id": 15200,
+        "text": "^LÚ.MEŠ^pít-ti-i̯a-an-du-uš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15202,
+        "text": "^GIŠ^za-al-ta-i̯a-aš-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15203,
+        "text": "zaltaiašua"
+    },
+    {
+        "id": 15204,
+        "text": "^URU^ka-še-pu-u-ra",
+        "syllabographic": true
+    },
+    {
+        "id": 15205,
+        "text": "kašepura",
+        "pos": "NP"
+    },
+    {
+        "id": 15206,
+        "text": "nam-ma-aš-ši-iš-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15207,
+        "text": "nammaššiššan"
+    },
+    {
+        "id": 15208,
+        "text": "ka-aš-ti",
+        "syllabographic": true
+    },
+    {
+        "id": 15209,
+        "text": "kašti"
+    },
+    {
+        "id": 15210,
+        "text": "a-ra-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15211,
+        "text": "arān"
+    },
+    {
+        "id": 15212,
+        "text": "me-mi-iš-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15213,
+        "text": "memiškanzi"
+    },
+    {
+        "id": 15215,
+        "text": "nu-u̯a-ru-uš-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15216,
+        "text": "nuu̯aruškan"
+    },
+    {
+        "id": 15218,
+        "text": "^m^ták-ša-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15219,
+        "text": "takšaš",
+        "pos": "NP"
+    },
+    {
+        "id": 15220,
+        "text": "u-un-ni-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15221,
+        "text": "ūnniš"
+    },
+    {
+        "id": 15222,
+        "text": "unna",
+        "gloss": "herschicken; herfahren",
+        "pos": "V"
+    },
+    {
+        "id": 15223,
+        "text": "^URU^ma-ri-iš-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15224,
+        "text": "marišta"
+    },
+    {
+        "id": 15225,
+        "text": "pé-ḫu-te-ed-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15226,
+        "text": "peḫuteddu"
+    },
+    {
+        "id": 15227,
+        "text": "ma-a-an-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15228,
+        "text": "mānzakan"
+    },
+    {
+        "id": 15229,
+        "text": "^URU^ka-še-pu-u-ra-az",
+        "syllabographic": true
+    },
+    {
+        "id": 15230,
+        "text": "kašepuraz"
+    },
+    {
+        "id": 15231,
+        "text": "pé-ḫu-te-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15232,
+        "text": "peḫutezzi"
+    },
+    {
+        "id": 15233,
+        "text": "ta-ma-in",
+        "syllabographic": true
+    },
+    {
+        "id": 15234,
+        "text": "tamain"
+    },
+    {
+        "id": 15236,
+        "text": "nu-uš-ši-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15238,
+        "text": "pé-da-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 15239,
+        "text": "pedau"
+    },
+    {
+        "id": 15240,
+        "text": "peda",
+        "gloss": "hinschaffen",
+        "pos": "V"
+    },
+    {
+        "id": 15241,
+        "text": "iš-kal-li",
+        "syllabographic": true
+    },
+    {
+        "id": 15242,
+        "text": "iškalli"
+    },
+    {
+        "id": 15243,
+        "text": "iš-ḫu-u-u̯a-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15244,
+        "text": "išḫūu̯anzi"
+    },
+    {
+        "id": 15248,
+        "text": "ḫa-at-ra",
+        "syllabographic": true
+    },
+    {
+        "id": 15249,
+        "text": "ḫatra"
+    },
+    {
+        "id": 15251,
+        "text": "ar-nu-ši",
+        "syllabographic": true
+    },
+    {
+        "id": 15252,
+        "text": "arnuši"
+    },
+    {
+        "id": 15253,
+        "text": "^URU^ta-ḫa-zi-mu-na-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15254,
+        "text": "taḫazimunan"
+    },
+    {
+        "id": 15255,
+        "text": "^URU^ta-pí-ga-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15256,
+        "text": "tapikanna",
+        "pos": "NP"
+    },
+    {
+        "id": 15257,
+        "text": "tapikann"
+    },
+    {
+        "id": 15259,
+        "text": "tapika",
+        "gloss": "Tapik(k)a",
+        "pos": "NP"
+    },
+    {
+        "id": 15260,
+        "text": "nu-u̯a-mu-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15262,
+        "text": "te-ek-ku-uš-ša-nu-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15263,
+        "text": "tekkuššanuzi"
+    },
+    {
+        "id": 15264,
+        "text": "-li-in-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15265,
+        "text": "linu̯akan"
+    },
+    {
+        "id": 15268,
+        "text": "^GIŠ^za-al-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15269,
+        "text": "zalta"
+    },
+    {
+        "id": 15270,
+        "text": "-)da-aḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 15271,
+        "text": ")daḫḫi"
+    },
+    {
+        "id": 15272,
+        "text": "ka-ru-ú-i-li-it",
+        "syllabographic": true
+    },
+    {
+        "id": 15273,
+        "text": "karūilit"
+    },
+    {
+        "id": 15274,
+        "text": "karuili",
+        "gloss": "früherer",
+        "pos": "N"
+    },
+    {
+        "id": 15275,
+        "text": "a-pu-u-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 15276,
+        "text": "apūš"
+    },
+    {
+        "id": 15277,
+        "text": "URU^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 15278,
+        "text": "^URU^ta-pí-ga-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15279,
+        "text": "tapikan"
+    },
+    {
+        "id": 15282,
+        "text": "-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15283,
+        "text": "u̯a"
+    },
+    {
+        "id": 15284,
+        "text": "^URU^ta-pa-a",
+        "syllabographic": true
+    },
+    {
+        "id": 15285,
+        "text": "tapa",
+        "pos": "NP"
+    },
+    {
+        "id": 15286,
+        "text": "^URU^ur-ša-pí-kán-nu-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 15287,
+        "text": "uršapikannu",
+        "pos": "NP"
+    },
+    {
+        "id": 15288,
+        "text": "e-ša-an-",
+        "syllabographic": true
+    },
+    {
+        "id": 15289,
+        "text": "ešan"
+    },
+    {
+        "id": 15292,
+        "text": "UGU-_TIM",
+        "syllabographic": true
+    },
+    {
+        "id": 15293,
+        "text": "ú-ga-az",
+        "syllabographic": true
+    },
+    {
+        "id": 15294,
+        "text": "ugaz"
+    },
+    {
+        "id": 15295,
+        "text": "^URU^ur-ša-pí-kán-nu-u̯a-i̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15296,
+        "text": "uršapikannuaia",
+        "pos": "NP"
+    },
+    {
+        "id": 15297,
+        "text": "^URU^ša-na-aḫ-ḫu-it-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15298,
+        "text": "šanaḫḫuitta",
+        "pos": "NP"
+    },
+    {
+        "id": 15299,
+        "text": "ku-ez-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15300,
+        "text": "kuezzi"
+    },
+    {
+        "id": 15301,
+        "text": "da-a-i",
+        "syllabographic": true
+    },
+    {
+        "id": 15302,
+        "text": "dāi"
+    },
+    {
+        "id": 15303,
+        "text": "tar-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15304,
+        "text": "tarna"
+    },
+    {
+        "id": 15305,
+        "text": "nam-ma-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15307,
+        "text": "ka-aš-za",
+        "syllabographic": true
+    },
+    {
+        "id": 15308,
+        "text": "kašza"
+    },
+    {
+        "id": 15309,
+        "text": "pé-ḫu-te",
+        "syllabographic": true
+    },
+    {
+        "id": 15311,
+        "text": "pa-id-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15312,
+        "text": "paiddu"
+    },
+    {
+        "id": 15313,
+        "text": "da-ad-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15314,
+        "text": "daddu"
+    },
+    {
+        "id": 15315,
+        "text": "URU-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 15317,
+        "text": "nam-ma-an-ši-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15318,
+        "text": "nammanšikan"
+    },
+    {
+        "id": 15319,
+        "text": "ú-u̯a-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15320,
+        "text": "uu̯andu"
+    },
+    {
+        "id": 15321,
+        "text": "BURU14",
+        "syllabographic": true
+    },
+    {
+        "id": 15322,
+        "text": "iš-ḫu-u-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15323,
+        "text": "išḫūandu"
+    },
+    {
+        "id": 15324,
+        "text": "^NINDA^tu-u-ma-ti-in",
+        "syllabographic": true
+    },
+    {
+        "id": 15325,
+        "text": "tumatin"
+    },
+    {
+        "id": 15326,
+        "text": "ḫa-an-da-a-ed-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15327,
+        "text": "ḫandāeddu"
+    },
+    {
+        "id": 15328,
+        "text": "ḫandāe",
+        "gloss": "ordnen",
+        "pos": "V"
+    },
+    {
+        "id": 15329,
+        "text": "MU-za-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15330,
+        "text": "NAM.RA^MEŠ^",
+        "syllabographic": true
+    },
+    {
+        "id": 15331,
+        "text": "^URU^ka-al-za-na-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15332,
+        "text": "kalzanaua",
+        "pos": "NP"
+    },
+    {
+        "id": 15333,
+        "text": "ma-ši-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15334,
+        "text": "mašiu̯a"
+    },
+    {
+        "id": 15335,
+        "text": "pé-eḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 15336,
+        "text": "peḫḫi"
+    },
+    {
+        "id": 15338,
+        "text": "nu-u̯a-ra-an-ta-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15339,
+        "text": "nuu̯arantakan"
+    },
+    {
+        "id": 15342,
+        "text": "te-ek-ku-ša-nu-ut",
+        "syllabographic": true
+    },
+    {
+        "id": 15343,
+        "text": "tekkušanut"
+    },
+    {
+        "id": 15344,
+        "text": "ši-i̯a-an-te-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 15345,
+        "text": "šii̯anteš"
+    },
+    {
+        "id": 15346,
+        "text": "ḫu-lu-ga-an-ni-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 15347,
+        "text": "ḫulugannieš"
+    },
+    {
+        "id": 15348,
+        "text": "ki-it-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15349,
+        "text": "kitta"
+    },
+    {
+        "id": 15350,
+        "text": "^LÚ.MEŠ^pít-ti-i̯a-an-du-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 15358,
+        "text": "taḫazimuna",
+        "pos": "NP"
+    },
+    {
+        "id": 15362,
+        "text": "ARAD^MEŠ^-KA-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 15364,
+        "text": "dāli-",
+        "gloss": "let",
+        "fullGloss": "let, leave, let in peace",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 26,
+                "refText": "816"
+            }
+        ]
+    },
+    {
+        "id": 15365,
+        "text": "da-li-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15366,
+        "text": "dališ"
+    },
+    {
+        "id": 15367,
+        "text": "ú-e-mi-ia-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15368,
+        "text": "uemian"
+    },
+    {
+        "id": 15369,
+        "text": "ḫa-aš-da-pí-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15370,
+        "text": "ḫašdapiš"
+    },
+    {
+        "id": 15371,
+        "text": "ḫaštapi-",
+        "gloss": "(Orakelvogel)",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "63"
+            }
+        ]
+    },
+    {
+        "id": 15372,
+        "text": "ḫar-ra-ni-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15373,
+        "text": "ḫarraniš"
+    },
+    {
+        "id": 15374,
+        "text": "ḫarrani-",
+        "gloss": "(Orakelvogel)",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "56"
+            }
+        ]
+    },
+    {
+        "id": 15375,
+        "text": "ḫa-aš-da-pí-uš",
+        "syllabographic": true
+    },
+    {
+        "id": 15376,
+        "text": "ḫašdapiuš"
+    },
+    {
+        "id": 15377,
+        "text": "^D^UTU-_ŠI-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15380,
+        "text": "pa-ri-i̯a-u̯a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15381,
+        "text": "parii̯au̯an",
+        "gloss": "drüben",
+        "fullGloss": "drüben (?), jenseits (?)",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "160"
+            }
+        ]
+    },
+    {
+        "id": 15383,
+        "text": "^D^UTU-_ŠI-ma",
+        "syllabographic": true
+    },
+    {
+        "id": 15385,
+        "text": "DUMU.NITA^MEŠ^",
+        "syllabographic": true
+    },
+    {
+        "id": 15386,
+        "text": "li-li-u̯a-aḫ-ḫu-an-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15387,
+        "text": "liliu̯aḫḫuanzi"
+    },
+    {
+        "id": 15388,
+        "text": "tup-pí-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15389,
+        "text": "tuppian"
+    },
+    {
+        "id": 15390,
+        "text": "im-ma-ak-ku",
+        "syllabographic": true
+    },
+    {
+        "id": 15391,
+        "text": "immakku",
+        "gloss": "schließlich noch",
+        "pos": "ADV",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "82"
+            }
+        ]
+    },
+    {
+        "id": 15392,
+        "text": "UD-az",
+        "syllabographic": true
+    },
+    {
+        "id": 15393,
+        "text": "nu-u̯a-ra-an-ša-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15395,
+        "text": "na-an-na-aḫ-ḫi",
+        "syllabographic": true
+    },
+    {
+        "id": 15396,
+        "text": "nannaḫḫi"
+    },
+    {
+        "id": 15397,
+        "text": "a-ri-ia-nu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 15398,
+        "text": "arianun"
+    },
+    {
+        "id": 15399,
+        "text": "a-ri-i̯a-nu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 15400,
+        "text": "arii̯anun"
+    },
+    {
+        "id": 15401,
+        "text": "KIN^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 15402,
+        "text": "KIN",
+        "gloss": "Werk",
+        "fullGloss": "Werk, Leistung, Arbeit",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "281"
+            }
+        ]
+    },
+    {
+        "id": 15403,
+        "text": "ḫu-u-ma-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15404,
+        "text": "ḫūmān"
+    },
+    {
+        "id": 15405,
+        "text": "tar-na-aḫ-ḫu-un",
+        "syllabographic": true
+    },
+    {
+        "id": 15406,
+        "text": "tarnaḫḫun"
+    },
+    {
+        "id": 15407,
+        "text": "a-pí-ia-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 15409,
+        "text": "na-iš-ke-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 15410,
+        "text": "naiškemi"
+    },
+    {
+        "id": 15411,
+        "text": "ú-iš-ke-mi",
+        "syllabographic": true
+    },
+    {
+        "id": 15412,
+        "text": "uiškemi"
+    },
+    {
+        "id": 15413,
+        "text": "ka-a-ru-ú-i-li",
+        "syllabographic": true
+    },
+    {
+        "id": 15414,
+        "text": "kārūili",
+        "gloss": "earlier",
+        "pos": "ADV"
+    },
+    {
+        "id": 15467,
+        "text": "kuer-",
+        "gloss": "cut",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "113"
+            }
+        ]
+    },
+    {
+        "id": 15468,
+        "text": "NUMUN",
+        "gloss": "seed",
+        "pos": "N",
+        "syllabographic": true
+    },
+    {
+        "id": 15472,
+        "text": "išḫūpitta"
+    },
+    {
+        "id": 15473,
+        "text": "marruu̯an"
+    },
+    {
+        "id": 15475,
+        "text": "kallu",
+        "pos": "NP"
+    },
+    {
+        "id": 15476,
+        "text": "šalpa",
+        "pos": "NP"
+    },
+    {
+        "id": 15477,
+        "text": "ḫarrana",
         "pos": "NP"
     }
 ]

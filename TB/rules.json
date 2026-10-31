@@ -1320,7 +1320,8 @@
         "addedCategories": ".PTCP",
         "fromPOS": [
             "V"
-        ]
+        ],
+        "toPOS": "ADJ"
     },
     {
         "id": 14505,
@@ -1432,6 +1433,84 @@
         "toLang": "TB",
         "branches": [],
         "addedCategories": ".IPV.MID.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15431,
+        "name": "tb-pret-ptcp",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.PTCP",
+        "fromPOS": [
+            "V"
+        ],
+        "toPOS": "ADJ"
+    },
+    {
+        "id": 15434,
+        "name": "tb-pret-mid-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15435,
+        "name": "tb-pret-mid-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15436,
+        "name": "tb-pret-mid-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15437,
+        "name": "tb-pret-mid-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15438,
+        "name": "tb-pret-mid-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15439,
+        "name": "tb-pret-mid-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".PRET.MID.3PL",
         "fromPOS": [
             "V"
         ]

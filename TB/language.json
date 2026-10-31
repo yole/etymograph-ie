@@ -292,6 +292,17 @@
                 "palatal",
                 "approximant"
             ]
+        },
+        {
+            "id": 15427,
+            "graphemes": [
+                "j"
+            ],
+            "classes": [
+                "voiced",
+                "alveolo-palatal",
+                "affricate"
+            ]
         }
     ],
     "protoLanguageShortName": "PT",

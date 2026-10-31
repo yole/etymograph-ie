@@ -655,7 +655,7 @@
     },
     {
         "id": 14539,
-        "text": "weṣṣäṃ cämpamñeccu\ntusāksa nai ñake ārwer tākam\nente se krentaunattse sunetre walo pañäkte śaiṣṣene tsāṅkaṃ\not cwi spaktanīki alāläcci tākam\nmapi kca sū cämpan-me laklene waste nestsi ||\njñānasthite weṣṣäṃ waṣama epiyac pi tu pkalar\nente se krentaunatstse araṇemi ñemtsa walo ṣai\not rano sū ololyesa ākteke wantare yamaṣa ||\nguṇasaṃpade weṣṣäṃ cämpamñeccu\n",
+        "text": "weṣṣäṃ cämpamñeccu\ntusāksa nai ñake ārwer tākam\nente se krentaunattse sunetre walo pañäkte śaiṣṣene tsāṅkaṃ\not cwi spaktanīki alāläcci tākam\nmapi kca sū cämpan-me laklene waste nestsi ||\njñānasthite weṣṣäṃ waṣama epiyac pi tu pkalar\nente se krentaunatstse araṇemi ñemtsa walo ṣai\not rano sū ololyesa ākteke wantare yamaṣa ||\nguṇasaṃpade weṣṣäṃ cämpamñeccu\nsk· (– –)  {n}ta ṣpakk anaiśai epiyac kalatsi porcaññar cwi araṇemiñ lānte krent yamalñe ||\njñānasthite weṣṣäṃ sasāllaṣ palskosa snai wyakṣep päklyauṣ cau jātakäṣṣe meske\n|| riññäktesa ||\nmā lauke kca kätkau sū preke ste\nśāmñe naumye araṇemi walo tne\naruṇāvati rīne mäskīträ\nyaitu ṣai sū krentaunaṣṣeṃ tsaiññentsa 1 ||\nom no ñake se araṇemi walo – naṃ ka pañäktäṃñe perneścä tsäṅkau",
         "title": "THT 77",
         "words": [
             {
@@ -797,6 +797,131 @@
             {
                 "index": 50,
                 "id": 14591
+            },
+            {
+                "index": 58,
+                "id": 14943
+            },
+            {
+                "index": 59,
+                "id": 15416
+            },
+            {
+                "index": 61,
+                "id": 15417
+            },
+            {
+                "index": 62,
+                "id": 14942
+            },
+            {
+                "index": 64,
+                "id": 14939
+            },
+            {
+                "index": 65,
+                "id": 14940
+            },
+            {
+                "index": 66,
+                "id": 14945
+            },
+            {
+                "index": 67,
+                "id": 14946
+            },
+            {
+                "index": 71,
+                "id": 15419
+            },
+            {
+                "index": 72,
+                "id": 15420
+            },
+            {
+                "index": 74,
+                "id": 15421
+            },
+            {
+                "index": 75,
+                "id": 15422
+            },
+            {
+                "index": 76,
+                "id": 15423
+            },
+            {
+                "index": 77,
+                "id": 15426
+            },
+            {
+                "index": 78,
+                "id": 15428
+            },
+            {
+                "index": 80,
+                "id": 15430
+            },
+            {
+                "index": 85,
+                "id": 15433
+            },
+            {
+                "index": 88,
+                "id": 15440
+            },
+            {
+                "index": 89,
+                "id": 15441
+            },
+            {
+                "index": 90,
+                "id": 15443
+            },
+            {
+                "index": 93,
+                "id": 15445
+            },
+            {
+                "index": 94,
+                "id": 15448
+            },
+            {
+                "index": 95,
+                "id": 15450
+            },
+            {
+                "index": 97,
+                "id": 15453
+            },
+            {
+                "index": 100,
+                "id": 15455
+            },
+            {
+                "index": 101,
+                "id": 15457
+            },
+            {
+                "index": 104,
+                "id": 15459
+            },
+            {
+                "index": 113,
+                "id": 15461
+            },
+            {
+                "index": 114,
+                "id": 15463
+            },
+            {
+                "index": 115,
+                "id": 15464
+            }
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://cetom.univie.ac.at/?m-tht77"
             }
         ],
         "translations": [
@@ -816,7 +941,79 @@
                 "id": 14597,
                 "text": "he can somehow be a refuge for our sorrow ",
                 "anchorStartIndex": 20,
+                "anchorEndIndex": 28
+            },
+            {
+                "id": 14935,
+                "text": "Jnanastite says: friend, please bring this in your mind",
+                "anchorStartIndex": 28,
+                "anchorEndIndex": 35
+            },
+            {
+                "id": 14936,
+                "text": "when this virtuous Aranemi by name was king",
+                "anchorStartIndex": 35,
+                "anchorEndIndex": 42
+            },
+            {
+                "id": 14937,
+                "text": "then he did a thing even more wonderful",
+                "anchorStartIndex": 42,
+                "anchorEndIndex": 50
+            },
+            {
+                "id": 14938,
+                "text": "Gunsampade says: O able one!",
+                "anchorStartIndex": 50,
                 "anchorEndIndex": 53
+            },
+            {
+                "id": 15415,
+                "text": "please remember the good activity of that king Araṇemi more carefully!”",
+                "anchorStartIndex": 53,
+                "anchorEndIndex": 69
+            },
+            {
+                "id": 15424,
+                "text": "Jñānasthite says: With upraised minds hear without distraction about this link pertaining to jataka!",
+                "anchorStartIndex": 69,
+                "anchorEndIndex": 77
+            },
+            {
+                "id": 15444,
+                "text": "not long ago this time has passed",
+                "anchorStartIndex": 82,
+                "anchorEndIndex": 89
+            },
+            {
+                "id": 15447,
+                "text": "the king Aranemi is now a human jewel",
+                "anchorStartIndex": 89,
+                "anchorEndIndex": 94
+            },
+            {
+                "id": 15451,
+                "text": "he was in the city of Arunavati",
+                "anchorStartIndex": 94,
+                "anchorEndIndex": 97
+            },
+            {
+                "id": 15458,
+                "text": "he was decorated with ornaments of virtues",
+                "anchorStartIndex": 97,
+                "anchorEndIndex": 104
+            },
+            {
+                "id": 15465,
+                "text": "but now this Aranemi king has risen to the glory pertaining to Buddha",
+                "anchorStartIndex": 104,
+                "anchorEndIndex": 116
+            },
+            {
+                "id": 15466,
+                "text": "following the tune",
+                "anchorStartIndex": 80,
+                "anchorEndIndex": 82
             }
         ]
     }
