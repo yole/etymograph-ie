@@ -15429,5 +15429,42 @@
         "gloss": "eye",
         "pos": "N",
         "syllabographic": true
+    },
+    {
+        "id": 15660,
+        "text": "pa-aḫ-ša-an-da-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 15661,
+        "text": "paḫšandari"
+    },
+    {
+        "id": 15662,
+        "text": "ŠEŠ.DU10.GA-_I̯A-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15663,
+        "text": "ANŠE.KUR.RA^MEŠ^",
+        "syllabographic": true
+    },
+    {
+        "id": 15664,
+        "text": "^TÚG^NÍG.LÁM^MEŠ^",
+        "syllabographic": true
+    },
+    {
+        "id": 15666,
+        "text": "^TÚG^NÍG.LÁM",
+        "gloss": "Prachtgewand",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "288"
+            }
+        ]
     }
 ]

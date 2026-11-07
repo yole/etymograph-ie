@@ -9381,5 +9381,28 @@
                 "openCompoundId": 14991
             }
         ]
+    },
+    {
+        "id": 15657,
+        "text": "Vs. 1′# [ ]-aḫ[\nVs. 2′# x[\nVs. 3′# nu-za É [\nVs. 4′# _[U]M-MA ^m.GIŠ^GIDRU-DINGI[R-_LIM\nVs. 5′# ŠEŠ.DU10.GA-_I̯A _QÍ-B[Í-MA]\nVs. 6′# kat-ti-ti ḫu-u-ma-an S[IG5-in ]\nVs. 7′# nu-ut-ta DINGIR^MEŠ^ TI-an ḫ[ar-kán-du]\nVs. 8′# nu-ut-ta aš-šu-li pa-[aḫ-ša-an-da-ri]\n---\nu. Rd. 9′# ŠEŠ.DU10.GA-_I̯A-mu k[u-it]\nu. Rd. 10′# _ŠA ANŠE.KUR.RA^M[EŠ^]\nu. Rd. 11′# ut-tar ḫa-at-[ra-a-eš]\nu. Rd. 12′# nu-mu k[a-a-ša\nRs. 13′# nu x[\nRs. 14′# x[\nRs. 15′# x[\nlk. Rd. 1# nam-ma-a[š-ša-an\nlk. Rd. 2# ^TÚG^NÍG.LÁ[M^MEŠ^\nlk. Rd. 3# pa-ra-a [\nlk. Rd. 4# _Ú-UL x[",
+        "title": "HKM 28",
+        "words": [
+            {
+                "index": 20,
+                "id": 15660
+            },
+            {
+                "index": 21,
+                "id": 15662
+            },
+            {
+                "index": 24,
+                "id": 15663
+            },
+            {
+                "index": 34,
+                "id": 15664
+            }
+        ]
     }
 ]
