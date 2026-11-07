@@ -4811,6 +4811,7 @@
         "id": 11617,
         "text": "uda-",
         "gloss": "bring",
+        "fullGloss": "bring; (her)bringen",
         "pos": "V",
         "classes": [
             "hi"
@@ -13349,6 +13350,10 @@
             {
                 "pubId": 18,
                 "refText": "148"
+            },
+            {
+                "pubId": 26,
+                "refText": "599"
             }
         ]
     },
@@ -13363,7 +13368,7 @@
     },
     {
         "id": 14967,
-        "text": "uppa",
+        "text": "uppa-",
         "gloss": "(her)schicken",
         "pos": "V"
     },
@@ -15555,5 +15560,131 @@
         "id": 15687,
         "text": "_MA-AḪ-RI",
         "syllabographic": true
+    },
+    {
+        "id": 15701,
+        "text": "ANŠE.KUR.RA-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15702,
+        "text": "ŠEŠ-_I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 15703,
+        "text": "GÉME-_I̯A-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15704,
+        "text": "ḫa-at-re-eš-ke-eš",
+        "syllabographic": true
+    },
+    {
+        "id": 15705,
+        "text": "ḫatreškeš"
+    },
+    {
+        "id": 15706,
+        "text": "ḫatrišk",
+        "gloss": "mitteilen"
+    },
+    {
+        "id": 15707,
+        "text": "ki-nu-na-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15708,
+        "text": "kinunamu"
+    },
+    {
+        "id": 15709,
+        "text": "GÉME-_IA",
+        "syllabographic": true
+    },
+    {
+        "id": 15710,
+        "text": "ma-an-ma-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15711,
+        "text": "manman"
+    },
+    {
+        "id": 15712,
+        "text": "ḫa-ap-pa-la-aš-ša-at-ti",
+        "syllabographic": true
+    },
+    {
+        "id": 15713,
+        "text": "ḫappalaššatti"
+    },
+    {
+        "id": 15714,
+        "text": "pa-i",
+        "syllabographic": true
+    },
+    {
+        "id": 15715,
+        "text": "pai"
+    },
+    {
+        "id": 15716,
+        "text": "ú-da-ú",
+        "syllabographic": true
+    },
+    {
+        "id": 15717,
+        "text": "udau"
+    },
+    {
+        "id": 15719,
+        "text": "da-a-an",
+        "syllabographic": true
+    },
+    {
+        "id": 15720,
+        "text": "dān"
+    },
+    {
+        "id": 15721,
+        "text": "da-i̯a-an-na",
+        "syllabographic": true
+    },
+    {
+        "id": 15722,
+        "text": "dai̯anna"
+    },
+    {
+        "id": 15723,
+        "text": "a-pa-a-at-ta",
+        "syllabographic": true
+    },
+    {
+        "id": 15724,
+        "text": "apātta"
+    },
+    {
+        "id": 15725,
+        "text": "3-_ŠU",
+        "syllabographic": true
+    },
+    {
+        "id": 15726,
+        "text": "3-ŠU",
+        "gloss": "dreimal",
+        "syllabographic": true
+    },
+    {
+        "id": 15727,
+        "text": "da-ma-iš",
+        "syllabographic": true
+    },
+    {
+        "id": 15728,
+        "text": "damaiš"
     }
 ]

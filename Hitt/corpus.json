@@ -8203,6 +8203,48 @@
                 "index": 98,
                 "id": 10994,
                 "openCompoundId": 14996
+            },
+            {
+                "index": 35,
+                "id": 14132
+            }
+        ],
+        "translations": [
+            {
+                "id": 15735,
+                "text": "Concerning the matter of troops about which you (sg.) wrote me:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 40,
+                "anchorEndIndex": 45
+            },
+            {
+                "id": 15736,
+                "text": "I have some troops of the Upper Land (and?) of the land of Išḫupitta here with me.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 45,
+                "anchorEndIndex": 55
+            },
+            {
+                "id": 15737,
+                "text": "I will send them to you (sg.).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 55,
+                "anchorEndIndex": 57
             }
         ]
     },
@@ -9587,6 +9629,105 @@
                 ],
                 "anchorStartIndex": 39,
                 "anchorEndIndex": 57
+            }
+        ]
+    },
+    {
+        "id": 15700,
+        "text": "o. Rd. 1# _U[M-M]A ^D^UTU-_ŠI-MA\nVs. 2# _[A-N]A ^m^ḫi-mu-DINGIR-_LIM _QÍ-[BÍ-MA]\nVs. 3# [ ]x x x [\n---\nVs. 4# _ŠA ^LÚ^KÚR-mu ku-it ut-tar\nVs. 5# ḫa-at-ra-a-eš nu-za _PA-NI ^LÚ^KÚR\nVs. 6# me-ek-ki pa-aḫ-ḫa-aš-nu-an-za e-eš\nVs. 7# _ŠA ANŠE.KUR.RA-ma-mu ku-it ut-t[ar]\nVs. 8# ḫa-at-ra-a-eš nu-mu ka-a\nVs. 9# ANŠE.KUR.RA^MEŠ^ ku-iš-ki kat-ta-an\nVs. 10# na-an-da up-pa-aḫ-ḫi\nu. Rd. 11# _A-NA ^m^uz-zu-u ŠEŠ-_I̯A\nu. Rd. 12# _QÍ-BÍ-MA\nu. Rd. 13# _UM-MA ^m^ḫa-ša-am-me-li\nRs. 14# ŠEŠ-_KA-MA\n---\nRs. 15# _ŠA GÉME-_I̯A-mu u[t]-t[ar] ḫa-a[t]-re-eš-ke-eš\nRs. 16# ki-nu-na-mu na[m-ma] _Ú-UL\nRs. 17# ku-it-ki ḫ[a-a]t-ra-a-ši\n---\nRs. 18# ki-nu-na-m[u] G[ÉME-_I]A ar-ḫa up-pí\nRs. 19# ma-an-m[a-an ]x x[ ]x-ši\nRs. 20# nu GÉME-_I[A ḫ]a-ap-pa-la-[aš]-š[a-at]-⸢ti⸣\nRs. 21# _A-NA ^LÚ^_ṬE4-MI SIG5 pa-i\nRs. 22# na-at-mu kat-ti-mi ú-da-ú\no. Rd. 23# [k]a-a-ša-za GÉME ku-it\no. Rd. 24# [ku-i]t da-a-an da-i̯a-〈an〉-na\no. Rd. 25# ḫar-zi\n---\nlk. Rd. 1# na-aš-ta a-pa-[a]-at-ta\nlk. Rd. 2# 3-_ŠU da-a na-at-mu u[p-pí]\nlk. Rd. 3# ma-a-an da-ma-iš ku-iš-k[i ]\nlk. Rd. 4# ú-ez-zi [",
+        "title": "HKM 30",
+        "words": [
+            {
+                "index": 22,
+                "id": 15701
+            },
+            {
+                "index": 35,
+                "id": 15702
+            },
+            {
+                "index": 41,
+                "id": 15703
+            },
+            {
+                "index": 43,
+                "id": 15704
+            },
+            {
+                "index": 44,
+                "id": 15707
+            },
+            {
+                "index": 50,
+                "id": 15709
+            },
+            {
+                "index": 53,
+                "id": 15710
+            },
+            {
+                "index": 59,
+                "id": 15712
+            },
+            {
+                "index": 63,
+                "id": 15714
+            },
+            {
+                "index": 66,
+                "id": 15716
+            },
+            {
+                "index": 71,
+                "id": 15719
+            },
+            {
+                "index": 72,
+                "id": 15721
+            },
+            {
+                "index": 75,
+                "id": 15723
+            },
+            {
+                "index": 76,
+                "id": 15725
+            },
+            {
+                "index": 81,
+                "id": 15727
+            }
+        ],
+        "translations": [
+            {
+                "id": 15732,
+                "text": "Since you have sent me word about the enemy: Be very much on the lookout for the enemy",
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 21
+            },
+            {
+                "id": 15734,
+                "text": "Since you have sent me word about the cavalry",
+                "anchorStartIndex": 21,
+                "anchorEndIndex": 26
+            },
+            {
+                "id": 15738,
+                "text": "I have some cavalry here below",
+                "anchorStartIndex": 26,
+                "anchorEndIndex": 31
+            },
+            {
+                "id": 15739,
+                "text": "and I will send it to you",
+                "anchorStartIndex": 31,
+                "anchorEndIndex": 33
+            },
+            {
+                "id": 15740,
+                "text": "Say to my brother Uzzu:",
+                "anchorStartIndex": 33,
+                "anchorEndIndex": 37
             }
         ]
     }
