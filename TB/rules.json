@@ -804,7 +804,8 @@
         "branches": [],
         "addedCategories": ".NOM.PL.M",
         "fromPOS": [
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {
@@ -815,7 +816,8 @@
         "branches": [],
         "addedCategories": ".NOM.SG.F",
         "fromPOS": [
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {
@@ -1511,6 +1513,138 @@
         "toLang": "TB",
         "branches": [],
         "addedCategories": ".PRET.MID.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15581,
+        "name": "tb-opt-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15582,
+        "name": "tb-opt-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15583,
+        "name": "tb-opt-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15584,
+        "name": "tb-opt-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15585,
+        "name": "tb-opt-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15586,
+        "name": "tb-opt-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.3PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15592,
+        "name": "tb-opt-mid-1sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.1SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15593,
+        "name": "tb-opt-mid-1pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.1PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15594,
+        "name": "tb-opt-mid-2sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.2SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15595,
+        "name": "tb-opt-mid-2pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.2PL",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15596,
+        "name": "tb-opt-mid-3sg",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.3SG",
+        "fromPOS": [
+            "V"
+        ]
+    },
+    {
+        "id": 15597,
+        "name": "tb-opt-mid-3pl",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [],
+        "addedCategories": ".OPT.MID.3PL",
         "fromPOS": [
             "V"
         ]

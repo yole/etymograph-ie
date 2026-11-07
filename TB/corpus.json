@@ -1016,5 +1016,211 @@
                 "anchorEndIndex": 82
             }
         ]
+    },
+    {
+        "id": 15572,
+        "text": "ñiś ñke\nsū ñi yärke śpālmeṃ ṣai pāramitne āyorṣṣe mā no kᵤlā-ñ palsko\nkrᵤi ñke tetekā śänmyeṃ yaṣṣūcañ\nlareṃ śauly ñi yaṣyeṃträ sāw ñi wrotstsa katkauña mā cakravārtñe\nlāntsa weṣṣäṃ saswa srukalyñemeṃ taisa ci kka kälpāmm\nmā ṣ nai ñake āyorsa plāc aksastä\nwalo weṣṣäṃ lariya yaṣṣūcaṃts ekalymi nesau\nkrᵤi ṅke cai täṅwaṃñeñ-cä otä ṅke ñiś ysape ykāk källātä",
+        "title": "THT 78",
+        "words": [
+            {
+                "index": 1,
+                "id": 15573
+            },
+            {
+                "index": 3,
+                "id": 9709
+            },
+            {
+                "index": 4,
+                "id": 15574
+            },
+            {
+                "index": 5,
+                "id": 15575
+            },
+            {
+                "index": 7,
+                "id": 15577
+            },
+            {
+                "index": 8,
+                "id": 15578
+            },
+            {
+                "index": 13,
+                "id": 15579
+            },
+            {
+                "index": 15,
+                "id": 15580
+            },
+            {
+                "index": 16,
+                "id": 15587
+            },
+            {
+                "index": 17,
+                "id": 15589
+            },
+            {
+                "index": 18,
+                "id": 15590
+            },
+            {
+                "index": 19,
+                "id": 15591
+            },
+            {
+                "index": 20,
+                "id": 9709
+            },
+            {
+                "index": 21,
+                "id": 15599
+            },
+            {
+                "index": 23,
+                "id": 9709
+            },
+            {
+                "index": 24,
+                "id": 15601
+            },
+            {
+                "index": 25,
+                "id": 15602
+            },
+            {
+                "index": 27,
+                "id": 15603
+            },
+            {
+                "index": 28,
+                "id": 15605
+            },
+            {
+                "index": 30,
+                "id": 15607
+            },
+            {
+                "index": 31,
+                "id": 15608
+            },
+            {
+                "index": 34,
+                "id": 15609
+            },
+            {
+                "index": 35,
+                "id": 15610
+            },
+            {
+                "index": 37,
+                "id": 15611
+            },
+            {
+                "index": 40,
+                "id": 15613
+            },
+            {
+                "index": 41,
+                "id": 15615
+            },
+            {
+                "index": 42,
+                "id": 15617
+            },
+            {
+                "index": 45,
+                "id": 15618
+            },
+            {
+                "index": 46,
+                "id": 15619
+            },
+            {
+                "index": 47,
+                "id": 15620
+            },
+            {
+                "index": 48,
+                "id": 15621
+            },
+            {
+                "index": 51,
+                "id": 15622
+            },
+            {
+                "index": 52,
+                "id": 15623
+            },
+            {
+                "index": 53,
+                "id": 15628
+            },
+            {
+                "index": 56,
+                "id": 15629
+            },
+            {
+                "index": 57,
+                "id": 15630
+            },
+            {
+                "index": 58,
+                "id": 15631
+            },
+            {
+                "index": 55,
+                "id": 15634
+            },
+            {
+                "index": 0,
+                "id": 9701
+            }
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://cetom.univie.ac.at/?m-tht78"
+            }
+        ],
+        "translations": [
+            {
+                "id": 15635,
+                "text": "this was the best honor for me",
+                "anchorStartIndex": 2,
+                "anchorEndIndex": 7
+            },
+            {
+                "id": 15636,
+                "text": "my mind did not fail in the supreme virtue of giving",
+                "anchorStartIndex": 7,
+                "anchorEndIndex": 13
+            },
+            {
+                "id": 15637,
+                "text": "if now suddenly beggars came",
+                "anchorStartIndex": 13,
+                "anchorEndIndex": 18
+            },
+            {
+                "id": 15638,
+                "text": "would beg for my dear life",
+                "anchorStartIndex": 18,
+                "anchorEndIndex": 22
+            },
+            {
+                "id": 15639,
+                "text": "this is great joy for me",
+                "anchorStartIndex": 22,
+                "anchorEndIndex": 26
+            },
+            {
+                "id": 15640,
+                "text": "not the world domination",
+                "anchorStartIndex": 26,
+                "anchorEndIndex": 59
+            }
+        ]
     }
 ]

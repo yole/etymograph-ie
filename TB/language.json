@@ -527,6 +527,26 @@
     ],
     "wordClasses": [
         {
+            "name": "Gender",
+            "pos": [
+                "N"
+            ],
+            "values": [
+                {
+                    "name": "Masculine",
+                    "abbreviation": "M"
+                },
+                {
+                    "name": "Feminine",
+                    "abbreviation": "F"
+                },
+                {
+                    "name": "Alternant",
+                    "abbreviation": "A"
+                }
+            ]
+        },
+        {
             "name": "Animacy",
             "pos": [
                 "N"

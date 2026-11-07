@@ -308,7 +308,10 @@
         "id": 9784,
         "text": "śaul",
         "gloss": "life",
-        "pos": "N"
+        "pos": "N",
+        "classes": [
+            "A"
+        ]
     },
     {
         "id": 9785,
@@ -762,7 +765,8 @@
     {
         "id": 9881,
         "text": "su",
-        "gloss": "anaphoric pronoun",
+        "gloss": "this",
+        "fullGloss": "he, this",
         "pos": "PRON"
     },
     {
@@ -978,6 +982,7 @@
         "id": 14313,
         "text": "kəlpa-",
         "gloss": "obtain",
+        "fullGloss": "obtain, manage",
         "pos": "V"
     },
     {
@@ -1223,9 +1228,7 @@
     },
     {
         "id": 14521,
-        "text": "sāᵤ",
-        "gloss": "dem.nom.sg.f",
-        "pos": "PRON"
+        "text": "sāᵤ"
     },
     {
         "id": 14522,
@@ -1781,5 +1784,268 @@
     {
         "id": 15464,
         "text": "tsäṅkau"
+    },
+    {
+        "id": 15573,
+        "text": "ñke"
+    },
+    {
+        "id": 15574,
+        "text": "yärke",
+        "gloss": "honor",
+        "pos": "N"
+    },
+    {
+        "id": 15575,
+        "text": "śpālmeṃ",
+        "gloss": "excellent",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15576,
+        "text": "pāramit",
+        "gloss": "virtue",
+        "pos": "N"
+    },
+    {
+        "id": 15577,
+        "text": "pāramitne"
+    },
+    {
+        "id": 15578,
+        "text": "āyorṣṣe",
+        "gloss": "pertaining to a gift",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15579,
+        "text": "krᵤi",
+        "gloss": "if",
+        "pos": "CONJ"
+    },
+    {
+        "id": 15580,
+        "text": "tetekā",
+        "gloss": "suddenly",
+        "pos": "ADV"
+    },
+    {
+        "id": 15587,
+        "text": "śänmyeṃ"
+    },
+    {
+        "id": 15588,
+        "text": "yaṣṣūca",
+        "gloss": "beggar",
+        "pos": "N"
+    },
+    {
+        "id": 15589,
+        "text": "yaṣṣūcañ"
+    },
+    {
+        "id": 15590,
+        "text": "lareṃ"
+    },
+    {
+        "id": 15591,
+        "text": "śauly"
+    },
+    {
+        "id": 15598,
+        "text": "yask-",
+        "gloss": "beg",
+        "pos": "V"
+    },
+    {
+        "id": 15599,
+        "text": "yaṣyeṃträ"
+    },
+    {
+        "id": 15600,
+        "text": "orotstse",
+        "gloss": "large",
+        "fullGloss": "large, great",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15601,
+        "text": "wrotstsa"
+    },
+    {
+        "id": 15602,
+        "text": "katkauña",
+        "gloss": "joy",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 15603,
+        "text": "cakravārtñe",
+        "gloss": "rulership of the world",
+        "pos": "N"
+    },
+    {
+        "id": 15604,
+        "text": "śaul"
+    },
+    {
+        "id": 15605,
+        "text": "lāntsa",
+        "gloss": "queen",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 15606,
+        "text": "saswe",
+        "gloss": "lord",
+        "pos": "N",
+        "classes": [
+            "M"
+        ]
+    },
+    {
+        "id": 15607,
+        "text": "saswa"
+    },
+    {
+        "id": 15608,
+        "text": "srukalyñemeṃ"
+    },
+    {
+        "id": 15609,
+        "text": "kka",
+        "gloss": "indeed",
+        "pos": "PTCL"
+    },
+    {
+        "id": 15610,
+        "text": "kälpāmm"
+    },
+    {
+        "id": 15611,
+        "text": "ṣ",
+        "gloss": "and",
+        "pos": "CONJ"
+    },
+    {
+        "id": 15612,
+        "text": "āyor",
+        "gloss": "gift",
+        "fullGloss": "gift, giving",
+        "pos": "N",
+        "classes": [
+            "A"
+        ]
+    },
+    {
+        "id": 15613,
+        "text": "āyorsa"
+    },
+    {
+        "id": 15614,
+        "text": "plāce",
+        "gloss": "speech",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 15615,
+        "text": "plāc"
+    },
+    {
+        "id": 15616,
+        "text": "aks-",
+        "gloss": "tell",
+        "fullGloss": "tell, announce",
+        "pos": "V"
+    },
+    {
+        "id": 15617,
+        "text": "aksastä"
+    },
+    {
+        "id": 15618,
+        "text": "lariya"
+    },
+    {
+        "id": 15619,
+        "text": "yaṣṣūcaṃts"
+    },
+    {
+        "id": 15620,
+        "text": "ekalymi",
+        "gloss": "in the power of"
+    },
+    {
+        "id": 15621,
+        "text": "nesau"
+    },
+    {
+        "id": 15622,
+        "text": "cai"
+    },
+    {
+        "id": 15623,
+        "text": "täṅwaṃñeñ-cä"
+    },
+    {
+        "id": 15624,
+        "text": "täṅwaṃñeñ"
+    },
+    {
+        "id": 15626,
+        "text": "cä",
+        "gloss": "2SG.OBJ",
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 15627,
+        "text": "tənkwəññ-",
+        "gloss": "love",
+        "pos": "V"
+    },
+    {
+        "id": 15628,
+        "text": "otä"
+    },
+    {
+        "id": 15629,
+        "text": "ysape",
+        "gloss": "nearby",
+        "pos": "ADJ"
+    },
+    {
+        "id": 15630,
+        "text": "ykāk",
+        "gloss": "still",
+        "fullGloss": "still, furthermore",
+        "pos": "ADV"
+    },
+    {
+        "id": 15631,
+        "text": "källātä"
+    },
+    {
+        "id": 15632,
+        "text": "ñäś"
+    },
+    {
+        "id": 15633,
+        "text": "ñiś"
+    },
+    {
+        "id": 15634,
+        "text": "ñiś"
     }
 ]

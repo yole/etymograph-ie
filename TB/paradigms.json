@@ -653,5 +653,113 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 95,
+        "name": "Verb Optative",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15581
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15583
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15585
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15582
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15584
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15586
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Verb Optative Middle",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15592
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15594
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15596
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15593
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15595
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15597
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]
