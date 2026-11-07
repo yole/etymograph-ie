@@ -5281,7 +5281,10 @@
         "id": 11744,
         "text": "taš",
         "gloss": "POSS.2SG",
-        "pos": "PRON"
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
     },
     {
         "id": 11745,
@@ -7299,6 +7302,9 @@
         "text": "_NI",
         "gloss": "our",
         "pos": "PRON",
+        "classes": [
+            "clitic"
+        ],
         "syllabographic": true
     },
     {
@@ -7484,7 +7490,6 @@
     {
         "id": 12430,
         "text": "^URU^_ḪAR-RA-NA",
-        "pos": "NP",
         "syllabographic": true
     },
     {
@@ -8108,7 +8113,8 @@
     {
         "id": 12995,
         "text": "te",
-        "gloss": "sprechen",
+        "gloss": "speak",
+        "fullGloss": "speak, promise; sprechen",
         "pos": "V"
     },
     {
@@ -10088,12 +10094,6 @@
         "text": "kaššūn"
     },
     {
-        "id": 13519,
-        "text": "kaššu",
-        "gloss": "Kaš(š)u",
-        "pos": "NP"
-    },
-    {
         "id": 13520,
         "text": "^URU^ga-aš-ga",
         "syllabographic": true
@@ -12044,7 +12044,6 @@
     {
         "id": 14626,
         "text": "^m^tar-ḫu-un-na-ra-du",
-        "pos": "NP",
         "syllabographic": true
     },
     {
@@ -15016,8 +15015,7 @@
     },
     {
         "id": 15484,
-        "text": "pišeniš",
-        "pos": "NP"
+        "text": "pišeniš"
     },
     {
         "id": 15485,
@@ -15253,8 +15251,7 @@
     },
     {
         "id": 15539,
-        "text": "kašašan",
-        "pos": "NP"
+        "text": "kašašan"
     },
     {
         "id": 15540,
@@ -15695,5 +15692,152 @@
     {
         "id": 15752,
         "text": "pai"
+    },
+    {
+        "id": 15759,
+        "text": "GIBIL-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15760,
+        "text": "GIBIL-u̯a-kán",
+        "syllabographic": true
+    },
+    {
+        "id": 15761,
+        "text": "^URU^ga-ši-pu-ra",
+        "syllabographic": true
+    },
+    {
+        "id": 15763,
+        "text": "^URU^ga-ša-ša-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15764,
+        "text": "kašašamamu",
+        "pos": "NP"
+    },
+    {
+        "id": 15765,
+        "text": "^GIŠ^GEŠTIN",
+        "syllabographic": true
+    },
+    {
+        "id": 15766,
+        "text": "túḫ-ša-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15767,
+        "text": "tuḫšandu"
+    },
+    {
+        "id": 15768,
+        "text": "dam-mi-iš-ḫa-an-da-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 15769,
+        "text": "dammišḫandari"
+    },
+    {
+        "id": 15770,
+        "text": "^D^UTU-_ŠI-ma-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15771,
+        "text": "^LÚ^ma-ni-i̯a-aḫ-ḫi-i̯a-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15772,
+        "text": "maniaḫḫiaš"
+    },
+    {
+        "id": 15773,
+        "text": "EN-aš",
+        "syllabographic": true
+    },
+    {
+        "id": 15774,
+        "text": "ka-a-u̯a",
+        "syllabographic": true
+    },
+    {
+        "id": 15775,
+        "text": "kāu̯a"
+    },
+    {
+        "id": 15776,
+        "text": "ú-ni-an-du",
+        "syllabographic": true
+    },
+    {
+        "id": 15777,
+        "text": "uniandu"
+    },
+    {
+        "id": 15778,
+        "text": "^m^_MA-RE-EŠ-RE-E",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 15779,
+        "text": "^m^ḫi-im-mu-DINGIR-_LIM-iš-mu",
+        "syllabographic": true
+    },
+    {
+        "id": 15780,
+        "text": "GIBIL",
+        "gloss": "new",
+        "pos": "ADJ",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "273"
+            }
+        ]
+    },
+    {
+        "id": 15784,
+        "text": "tuḫš-",
+        "gloss": "cut",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "226"
+            }
+        ]
+    },
+    {
+        "id": 15792,
+        "text": "maniaḫḫiāi-",
+        "gloss": "Leitung",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "135"
+            }
+        ]
+    },
+    {
+        "id": 15797,
+        "text": "tarḫunnaradun"
+    },
+    {
+        "id": 15799,
+        "text": "tarḫunnaradu",
+        "pos": "NP"
+    },
+    {
+        "id": 15801,
+        "text": "^m^ḫi-im-mu-DINGIR-_LIM-iš",
+        "syllabographic": true
     }
 ]

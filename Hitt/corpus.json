@@ -9836,5 +9836,250 @@
                 "anchorEndIndex": 85
             }
         ]
+    },
+    {
+        "id": 15758,
+        "text": "o. Rd. 1# _UM-MA ^D^UTU-_ŠI-MA\nVs. 2# _A-NA ^m^ḫi-im-mu-DINGIR-_LIM _QÍ-BÍ-MA\n---\nVs. 3# _ŠA ÉRIN^MEŠ^ GIBIL-mu ku-it\nVs. 4# ut-tar ḫa-at-ra-a-eš\nVs. 5# 100 ÉRIN^MEŠ^ GIBIL-u̯a-kán\nVs. 6# _I-NA ^URU^ga-ši-pu-ra ša-ra-a\nVs. 7# tar-na-aḫ-ḫu-un na-at _AŠ-ME\n---\nVs. 8# _ŠA ^URU^ga-ša-ša-ma-mu\nVs. 9# ku-it _ŠA ^GIŠ^GEŠTIN ut-tar\nVs. 10# ḫa-at-ra-a-eš nu EGIR-an ti-i̯a\nVs. 11# na-aš túḫ-ša-an-du na-at le-e\nVs. 12# dam-mi-iš-ḫa-an-da-ri\n---\nVs. 13# _ŠA É ^D^UTU-_ŠI-ma-mu\nVs. 14# ku-it ^LÚ^ma-ni-i̯a-aḫ-ḫi-i̯a-aš\nVs. 15# EN-aš ut-tar ḫa-at-ra-a-eš\nu. Rd. 16# ka-a-u̯a NU.GÁL ku-iš-ki\nu. Rd. 17# na-at ku-e-da-ni pé-di\nu. Rd. 18# nu-uš-ma-aš ḫa-at-ra-a-i\nRs. 19# na-at-kán kat-ta-an-da ú-ni-an-du\nRs. 20# _UM-MA ^m^_MA-RE-EŠ-RE-E\nRs. 21# _A-NA ^m^uz-zu-u ŠEŠ.DU10.GA-_I̯A\nRs. 22# _QÍ-BÍ-MA kat-ti-ti ḫu-u-ma-an SIG5-in\nRs. 23# e-eš-du nu-ut-ta DINGIR^MEŠ^\nRs. 24# aš-šu-li pa-aḫ-ša-an-da-[r]u\n---\nRs. 25# ^m^ḫi-im-mu-DINGIR-_LIM-iš-mu 1 GU4\nRs. 26# te-et nu-uš-ši ŠEŠ.DU10.GA-_I̯A\nRs. 27# EGIR-an ti-i̯a na-an-kán\nRs. 28# pa-ra-a ar-nu-ut\nRs. 29# na-an-mu up-pí\nRs. 30# ú-u̯a-at du-u̯a-ad-du\n---\n",
+        "title": "HKM 31",
+        "words": [
+            {
+                "index": 7,
+                "id": 15759
+            },
+            {
+                "index": 13,
+                "id": 15760
+            },
+            {
+                "index": 15,
+                "id": 15761
+            },
+            {
+                "index": 21,
+                "id": 15763
+            },
+            {
+                "index": 24,
+                "id": 15765
+            },
+            {
+                "index": 31,
+                "id": 15766
+            },
+            {
+                "index": 34,
+                "id": 15768
+            },
+            {
+                "index": 37,
+                "id": 15770
+            },
+            {
+                "index": 39,
+                "id": 15771
+            },
+            {
+                "index": 40,
+                "id": 15773
+            },
+            {
+                "index": 43,
+                "id": 15774
+            },
+            {
+                "index": 53,
+                "id": 15776
+            },
+            {
+                "index": 55,
+                "id": 15778
+            },
+            {
+                "index": 68,
+                "id": 15779
+            },
+            {
+                "index": 18,
+                "id": 11156
+            },
+            {
+                "index": 32,
+                "id": 11546
+            },
+            {
+                "index": 46,
+                "id": 11546
+            }
+        ],
+        "translations": [
+            {
+                "id": 15787,
+                "text": "Thus speaks His Majesty: Say to Ḫimmuili:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 5
+            },
+            {
+                "id": 15788,
+                "text": "I have taken note of what you wrote me about new troops, (saying:) “I have left up in the city Kašepura one hundred new troops.”",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 5,
+                "anchorEndIndex": 20
+            },
+            {
+                "id": 15789,
+                "text": "Concerning the matter of the vineyards of (the city) Kašaša about which you wrote to me:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 20,
+                "anchorEndIndex": 27
+            },
+            {
+                "id": 15790,
+                "text": "See to it that they are harvested.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 27,
+                "anchorEndIndex": 32
+            },
+            {
+                "id": 15791,
+                "text": "Let them not be damaged.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 32,
+                "anchorEndIndex": 35
+            },
+            {
+                "id": 15793,
+                "text": "Concerning the matter of the district lord of the house of My Majesty about which you wrote me, (saying)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "156"
+                    }
+                ],
+                "anchorStartIndex": 35,
+                "anchorEndIndex": 43
+            },
+            {
+                "id": 15794,
+                "text": "“There is none here.”",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "157"
+                    }
+                ],
+                "anchorStartIndex": 43,
+                "anchorEndIndex": 46
+            },
+            {
+                "id": 15795,
+                "text": "Write to them (the district lords) in the place where they are, ",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "157"
+                    }
+                ],
+                "anchorStartIndex": 46,
+                "anchorEndIndex": 51
+            },
+            {
+                "id": 15796,
+                "text": "and let them drive down (to you).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "157"
+                    }
+                ],
+                "anchorStartIndex": 51,
+                "anchorEndIndex": 54
+            },
+            {
+                "id": 15800,
+                "text": "Thus speaks Mār-ešrē: Say to Uzzū, my dear brother: May all be well with you. And may the gods lovingly protect you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "157"
+                    }
+                ],
+                "anchorStartIndex": 54,
+                "anchorEndIndex": 68
+            },
+            {
+                "id": 15803,
+                "text": "Ḫimmuili promised me an ox.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 68,
+                "anchorEndIndex": 72
+            },
+            {
+                "id": 15805,
+                "text": "See to it, my brother",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 72,
+                "anchorEndIndex": 76
+            },
+            {
+                "id": 15806,
+                "text": "Expedite it and send it to me.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 76,
+                "anchorEndIndex": 81
+            },
+            {
+                "id": 15807,
+                "text": "Quickly!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 81,
+                "anchorEndIndex": 83
+            }
+        ]
     }
 ]
