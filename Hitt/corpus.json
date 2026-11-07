@@ -9696,6 +9696,16 @@
             {
                 "index": 81,
                 "id": 15727
+            },
+            {
+                "index": 51,
+                "id": 10327,
+                "openCompoundId": 15747
+            },
+            {
+                "index": 52,
+                "id": 15027,
+                "openCompoundId": 15747
             }
         ],
         "translations": [
@@ -9728,6 +9738,102 @@
                 "text": "Say to my brother Uzzu:",
                 "anchorStartIndex": 33,
                 "anchorEndIndex": 37
+            },
+            {
+                "id": 15741,
+                "text": "So says Hasammili, your brother:",
+                "anchorStartIndex": 37,
+                "anchorEndIndex": 40
+            },
+            {
+                "id": 15744,
+                "text": "You've been sending me messages about my maidservant",
+                "anchorStartIndex": 40,
+                "anchorEndIndex": 44
+            },
+            {
+                "id": 15745,
+                "text": "And now you don't send any messages",
+                "anchorStartIndex": 44,
+                "anchorEndIndex": 49
+            },
+            {
+                "id": 15748,
+                "text": "now send my maidservant away to me",
+                "anchorStartIndex": 49,
+                "anchorEndIndex": 53
+            },
+            {
+                "id": 15751,
+                "text": "You must not … or injure my female slave!",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 53,
+                "anchorEndIndex": 60
+            },
+            {
+                "id": 15753,
+                "text": "Give the goods to a messenger",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 60,
+                "anchorEndIndex": 64
+            },
+            {
+                "id": 15754,
+                "text": "and let him bring them to me.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 64,
+                "anchorEndIndex": 67
+            },
+            {
+                "id": 15755,
+                "text": "For) what[eve]r [t]his female slave has taken and stolen (from you),",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 67,
+                "anchorEndIndex": 74
+            },
+            {
+                "id": 15756,
+                "text": "take threefold that amount also (as compensation)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 74,
+                "anchorEndIndex": 78
+            },
+            {
+                "id": 15757,
+                "text": "but send it (i.e., the rest of my goods) to me whenever some other messenger comes (my way).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "155"
+                    }
+                ],
+                "anchorStartIndex": 78,
+                "anchorEndIndex": 85
             }
         ]
     }

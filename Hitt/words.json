@@ -15586,11 +15586,6 @@
         "text": "ḫatreškeš"
     },
     {
-        "id": 15706,
-        "text": "ḫatrišk",
-        "gloss": "mitteilen"
-    },
-    {
         "id": 15707,
         "text": "ki-nu-na-mu",
         "syllabographic": true
@@ -15628,10 +15623,6 @@
         "syllabographic": true
     },
     {
-        "id": 15715,
-        "text": "pai"
-    },
-    {
         "id": 15716,
         "text": "ú-da-ú",
         "syllabographic": true
@@ -15647,7 +15638,14 @@
     },
     {
         "id": 15720,
-        "text": "dān"
+        "text": "dān",
+        "gloss": "second",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "209"
+            }
+        ]
     },
     {
         "id": 15721,
@@ -15670,11 +15668,6 @@
     {
         "id": 15725,
         "text": "3-_ŠU",
-        "syllabographic": true
-    },
-    {
-        "id": 15726,
-        "text": "3-ŠU",
         "gloss": "dreimal",
         "syllabographic": true
     },
@@ -15686,5 +15679,21 @@
     {
         "id": 15728,
         "text": "damaiš"
+    },
+    {
+        "id": 15749,
+        "text": "ḫappalaššāi-",
+        "gloss": "schwer verletzen",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "54"
+            }
+        ]
+    },
+    {
+        "id": 15752,
+        "text": "pai"
     }
 ]

@@ -62,5 +62,20 @@
                 "refText": "32"
             }
         ]
+    },
+    {
+        "id": 15747,
+        "componentIds": [
+            11459,
+            14967
+        ],
+        "headIndex": 1,
+        "gloss": "irgendwo weg hierherschicken",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "234"
+            }
+        ]
     }
 ]
