@@ -9404,5 +9404,78 @@
                 "id": 15664
             }
         ]
+    },
+    {
+        "id": 15667,
+        "text": "Rs.? 1′# [ EG]IR-pa [\nRs.? 2′# [ ] a-pé-e [\nRs.? 3′# [ ] a-ru-e-eš-kán-[zi\nRs.? 4′# [ a]m-mu-uk-pát ar-k[u-u̯a-ar\nRs.? 5′# [ k]u-it ku-it i-i̯a-an-[\nRs.? 6′# [ ] ḫu-u-ma-an EGIR-an am-mu-u[k\nRs.? 7′# [ ] ú-u̯a-mi ḫu-u-ma-an pé-ra-a[n\nRs.? 8′# [EGIR-p]a a-pé-el ut-tar ša-ak-ti [\nRs.? 9′# [ -z]i ḫu-u-ma-an a-pé-e-da-ni u[d-da-ni-i]\nRs.? 10′# [pa-r]a-a pu-nu-uš-ta-ri\nRs.? 11′# _[A-N]A _BE-LÍ ^m^ḫi-im-mu-DINGIR-_LIM _MA-AḪ-RI-I̯A [ ]\nRs.? 12′# _[U]M-MA ^m.D^IŠKUR-mi-i̯a DUMU-_KA-MA _[M]A-ḪAR E[N-_I̯A\nRs.? 13′# [SI]G5-in e-eš-du nu-ut-ta _LI-[IM\nRs.? 14′# [nu-ut]-t[a aš-šu-l]i pa-aḫ-š[a-an-da-ru]\n---\nRs.? 15′# [ ku-i]t ut-tar [\nRs.? 16′# [ ]x[",
+        "title": "HKM 29",
+        "words": [
+            {
+                "index": 5,
+                "id": 15668
+            },
+            {
+                "index": 9,
+                "id": 15670
+            },
+            {
+                "index": 11,
+                "id": 15673
+            },
+            {
+                "index": 12,
+                "id": 15675
+            },
+            {
+                "index": 33,
+                "id": 10273
+            },
+            {
+                "index": 38,
+                "id": 15678
+            },
+            {
+                "index": 41,
+                "id": 15680
+            },
+            {
+                "index": 42,
+                "id": 15681
+            },
+            {
+                "index": 46,
+                "id": 15682
+            },
+            {
+                "index": 47,
+                "id": 15683
+            }
+        ],
+        "translations": [
+            {
+                "id": 15685,
+                "text": "… back … … they … they repeatedly bow. … I alone will make a reply. … whatever …… everything afterwards I … I will come. Everything before … you know his/its matter … Everything will be investigated in that matter.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "148"
+                    }
+                ],
+                "anchorStartIndex": 1,
+                "anchorEndIndex": 39
+            },
+            {
+                "id": 15690,
+                "text": "Say to lord Ḫimmuili, my superior: Thus speaks Tarḫunmiya, your son: My all be well with my lord! May the Thousand Gods keep you alive and lovingly protect you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "148"
+                    }
+                ],
+                "anchorStartIndex": 39,
+                "anchorEndIndex": 57
+            }
+        ]
     }
 ]

@@ -15466,5 +15466,94 @@
                 "refText": "288"
             }
         ]
+    },
+    {
+        "id": 15668,
+        "text": "a-pé-e",
+        "syllabographic": true
+    },
+    {
+        "id": 15670,
+        "text": "a-ru-e-eš-kán-zi",
+        "syllabographic": true
+    },
+    {
+        "id": 15671,
+        "text": "aruēškanzi"
+    },
+    {
+        "id": 15673,
+        "text": "am-mu-uk-pát",
+        "syllabographic": true
+    },
+    {
+        "id": 15674,
+        "text": "ammukpat"
+    },
+    {
+        "id": 15675,
+        "text": "ar-ku-u̯a-ar",
+        "syllabographic": true
+    },
+    {
+        "id": 15676,
+        "text": "arkuu̯ar",
+        "gloss": "Bitte",
+        "fullGloss": "Bitte, Gebet",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "31"
+            }
+        ]
+    },
+    {
+        "id": 15678,
+        "text": "pu-nu-uš-ta-ri",
+        "syllabographic": true
+    },
+    {
+        "id": 15679,
+        "text": "punuštari"
+    },
+    {
+        "id": 15680,
+        "text": "^m^ḫi-im-mu-DINGIR-_LIM",
+        "syllabographic": true
+    },
+    {
+        "id": 15681,
+        "text": "_MA-AḪ-RI-I̯A",
+        "syllabographic": true
+    },
+    {
+        "id": 15682,
+        "text": "^m.D^IŠKUR-mi-i̯a",
+        "gloss": "Tarḫunmiya",
+        "pos": "NP",
+        "syllabographic": true
+    },
+    {
+        "id": 15683,
+        "text": "DUMU-_KA-MA",
+        "syllabographic": true
+    },
+    {
+        "id": 15684,
+        "text": "aruu̯āi-",
+        "gloss": "sich niederwerfen",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "34"
+            }
+        ]
+    },
+    {
+        "id": 15687,
+        "text": "_MA-AḪ-RI",
+        "syllabographic": true
     }
 ]
