@@ -8245,6 +8245,114 @@
                 ],
                 "anchorStartIndex": 55,
                 "anchorEndIndex": 57
+            },
+            {
+                "id": 15828,
+                "text": "The grain which the troops of Išḫupitta and zaltayaš hold for cultivation (?)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 65,
+                "anchorEndIndex": 74
+            },
+            {
+                "id": 15829,
+                "text": " now His Majesty was very irritated (?) about that grain.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 74,
+                "anchorEndIndex": 81
+            },
+            {
+                "id": 15830,
+                "text": "Send...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 81,
+                "anchorEndIndex": 83
+            },
+            {
+                "id": 15831,
+                "text": "And quickly now.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 83,
+                "anchorEndIndex": 86
+            },
+            {
+                "id": 15833,
+                "text": "Because grain has been sown/cultivated there for them (or: for you\npl.)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 86,
+                "anchorEndIndex": 90
+            },
+            {
+                "id": 15834,
+                "text": "get busy:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 90,
+                "anchorEndIndex": 93
+            },
+            {
+                "id": 15835,
+                "text": "gather it (i.e., the crops produced from having sown seed) in",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 93,
+                "anchorEndIndex": 96
+            },
+            {
+                "id": 15836,
+                "text": "and store it (i.e., the newly produced grain) in underground silos.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 96,
+                "anchorEndIndex": 100
+            },
+            {
+                "id": 15837,
+                "text": "Then write to His Majesty.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "128"
+                    }
+                ],
+                "anchorStartIndex": 100,
+                "anchorEndIndex": 103
             }
         ]
     },
@@ -8891,10 +8999,6 @@
                 "id": 15241
             },
             {
-                "index": 90,
-                "id": 15248
-            },
-            {
                 "index": 93,
                 "id": 10545
             },
@@ -8917,10 +9021,6 @@
             {
                 "index": 111,
                 "id": 15262
-            },
-            {
-                "index": 114,
-                "id": 15264
             },
             {
                 "index": 119,
@@ -8957,10 +9057,6 @@
             {
                 "index": 148,
                 "id": 15286
-            },
-            {
-                "index": 152,
-                "id": 15288
             },
             {
                 "index": 164,
@@ -9075,28 +9171,446 @@
                 "id": 15346
             },
             {
-                "index": 242,
-                "id": 15348
+                "index": 52,
+                "id": 14974
+            },
+            {
+                "index": 78,
+                "id": 15243
             }
         ],
         "translations": [
             {
                 "id": 15353,
-                "text": "So says My Majesty to Piseni",
+                "text": "Thus speaks My Majesty: Say to Pišeni:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
                 "anchorStartIndex": 0,
                 "anchorEndIndex": 6
             },
             {
-                "id": 15354,
-                "text": "The two fugitives that you have sent,",
+                "id": 15816,
+                "text": "They have brought here the two fugitives that you dispatched.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
                 "anchorStartIndex": 6,
-                "anchorEndIndex": 10
+                "anchorEndIndex": 12
             },
             {
-                "id": 15355,
-                "text": "They moved them.",
-                "anchorStartIndex": 10,
-                "anchorEndIndex": 247
+                "id": 15817,
+                "text": "Regarding the following which you wrote me:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 12,
+                "anchorEndIndex": 15
+            },
+            {
+                "id": 15820,
+                "text": "The zaltayaš-troops who went to Kašepura, ...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 15,
+                "anchorEndIndex": 19
+            },
+            {
+                "id": 15821,
+                "text": "... in a famine, are saying the following:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 20,
+                "anchorEndIndex": 25
+            },
+            {
+                "id": 15822,
+                "text": "When the Kaška-men come,",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 25,
+                "anchorEndIndex": 29
+            },
+            {
+                "id": 15823,
+                "text": "should we go out after (them) and bring them up (here)?",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 29,
+                "anchorEndIndex": 36
+            },
+            {
+                "id": 15824,
+                "text": "Because Takša drove here",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 38,
+                "anchorEndIndex": 41
+            },
+            {
+                "id": 15825,
+                "text": "let him lead the troops of Kašepura and the troops of Marišta",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 43,
+                "anchorEndIndex": 48
+            },
+            {
+                "id": 15826,
+                "text": "Let him proceed to take grain of the palace for cultivation (?)",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 50,
+                "anchorEndIndex": 53
+            },
+            {
+                "id": 15838,
+                "text": "If he has come up",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 54,
+                "anchorEndIndex": 57
+            },
+            {
+                "id": 15839,
+                "text": "right now he will lead the troops from Kašepura",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 58,
+                "anchorEndIndex": 62
+            },
+            {
+                "id": 15840,
+                "text": "If he leads any other (troops),",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 62,
+                "anchorEndIndex": 66
+            },
+            {
+                "id": 15841,
+                "text": "let him [take] grain for them for cultivation",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 66,
+                "anchorEndIndex": 70
+            },
+            {
+                "id": 15842,
+                "text": "Then break/tear (open) behind...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 72,
+                "anchorEndIndex": 74
+            },
+            {
+                "id": 15844,
+                "text": "they will proceed to replenish it in the harvest season",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "137"
+                    }
+                ],
+                "anchorStartIndex": 75,
+                "anchorEndIndex": 79
+            },
+            {
+                "id": 15845,
+                "text": "Regarding the following, which you wrote to me:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 85,
+                "anchorEndIndex": 87
+            },
+            {
+                "id": 15846,
+                "text": "The cities you are transferring, namely, Tahazzimuna, Hapara and Tapikka",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 89,
+                "anchorEndIndex": 98
+            },
+            {
+                "id": 15847,
+                "text": "You/He ...-ed ... to Kašepura",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 98,
+                "anchorEndIndex": 103
+            },
+            {
+                "id": 15849,
+                "text": "and he will not lead heavily armed troops to me",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 105,
+                "anchorEndIndex": 110
+            },
+            {
+                "id": 15850,
+                "text": "He will not show. ... up ...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 110,
+                "anchorEndIndex": 116
+            },
+            {
+                "id": 15851,
+                "text": "I will take (?) ... zalta(ya)-troops.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 117,
+                "anchorEndIndex": 122
+            },
+            {
+                "id": 15852,
+                "text": "My Majesty with former ...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 128,
+                "anchorEndIndex": 130
+            },
+            {
+                "id": 15854,
+                "text": "Those three cities which ... Tahazzimuna, Hapara, Tapikka ...",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "138"
+                    }
+                ],
+                "anchorStartIndex": 131,
+                "anchorEndIndex": 138
+            },
+            {
+                "id": 15861,
+                "text": "… not in the land of … with troops of the Upper Land … with troops of Uršapikannuwa and Šanaḫuitta … set up (?), and let them go up.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 155,
+                "anchorEndIndex": 178
+            },
+            {
+                "id": 15862,
+                "text": "Furthermore, a famine has come into the land; ",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 178,
+                "anchorEndIndex": 183
+            },
+            {
+                "id": 15863,
+                "text": "so lead that troop of Marišta (that is with you).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 183,
+                "anchorEndIndex": 188
+            },
+            {
+                "id": 15864,
+                "text": "Let it proceed to take the grain for cultivation (i.e., seed grain) of the palace",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 188,
+                "anchorEndIndex": 195
+            },
+            {
+                "id": 15865,
+                "text": "and conduct it up to the (capital) city for themselves.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 195,
+                "anchorEndIndex": 199
+            },
+            {
+                "id": 15866,
+                "text": "Then … it for him behind it,",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 199,
+                "anchorEndIndex": 202
+            },
+            {
+                "id": 15867,
+                "text": "and let them proceed to replenish it in the harvest season.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 202,
+                "anchorEndIndex": 208
+            },
+            {
+                "id": 15868,
+                "text": "Furthermore station those troops behind (i.e., in the outskirts of) Kašepura.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 208,
+                "anchorEndIndex": 214
+            },
+            {
+                "id": 15870,
+                "text": "Let them prepare (i.e., store up?) for themselves much tumati-bread.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 214,
+                "anchorEndIndex": 219
+            },
+            {
+                "id": 15871,
+                "text": "Let them prepare for themselves even a year’s supply of tumati-bread.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 219,
+                "anchorEndIndex": 225
+            },
+            {
+                "id": 15872,
+                "text": "Concerning what you wrote to me, as follows: ",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 225,
+                "anchorEndIndex": 228
+            },
+            {
+                "id": 15875,
+                "text": "“I will report to you however many civilian captives of Kalzana and Marišta I give, and you should make it known ….",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "139"
+                    }
+                ],
+                "anchorStartIndex": 228,
+                "anchorEndIndex": 239
             }
         ]
     },

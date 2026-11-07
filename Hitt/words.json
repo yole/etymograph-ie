@@ -9590,10 +9590,15 @@
         "id": 13405,
         "text": "išḫuu̯āi",
         "gloss": "scatter",
+        "fullGloss": "scatter; schütten, hineinwerfen",
         "pos": "V",
         "sourceRefs": [
             {
                 "refText": "Puhvel 1984:404"
+            },
+            {
+                "pubId": 18,
+                "refText": "87"
             }
         ]
     },
@@ -13407,7 +13412,15 @@
     },
     {
         "id": 14975,
-        "text": "tukanzi"
+        "text": "tukanzi",
+        "gloss": "Viehfütter (??)",
+        "pos": "N",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "228"
+            }
+        ]
     },
     {
         "id": 14976,
@@ -14172,8 +14185,9 @@
     },
     {
         "id": 15222,
-        "text": "unna",
-        "gloss": "herschicken; herfahren",
+        "text": "unna-",
+        "gloss": "herschicken",
+        "fullGloss": "herschicken; herfahren",
         "pos": "V"
     },
     {
@@ -14269,15 +14283,6 @@
         "text": "išḫūu̯anzi"
     },
     {
-        "id": 15248,
-        "text": "ḫa-at-ra",
-        "syllabographic": true
-    },
-    {
-        "id": 15249,
-        "text": "ḫatra"
-    },
-    {
         "id": 15251,
         "text": "ar-nu-ši",
         "syllabographic": true
@@ -14330,15 +14335,6 @@
         "text": "tekkuššanuzi"
     },
     {
-        "id": 15264,
-        "text": "-li-in-u̯a-kán",
-        "syllabographic": true
-    },
-    {
-        "id": 15265,
-        "text": "linu̯akan"
-    },
-    {
         "id": 15268,
         "text": "^GIŠ^za-al-ta",
         "syllabographic": true
@@ -14375,10 +14371,6 @@
         "id": 15275,
         "text": "a-pu-u-uš",
         "syllabographic": true
-    },
-    {
-        "id": 15276,
-        "text": "apūš"
     },
     {
         "id": 15277,
@@ -14422,15 +14414,6 @@
         "id": 15287,
         "text": "uršapikannu",
         "pos": "NP"
-    },
-    {
-        "id": 15288,
-        "text": "e-ša-an-",
-        "syllabographic": true
-    },
-    {
-        "id": 15289,
-        "text": "ešan"
     },
     {
         "id": 15292,
@@ -14556,7 +14539,15 @@
     {
         "id": 15321,
         "text": "BURU14",
-        "syllabographic": true
+        "gloss": "harvest",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "267"
+            }
+        ]
     },
     {
         "id": 15322,
@@ -14584,12 +14575,6 @@
     {
         "id": 15327,
         "text": "ḫandāeddu"
-    },
-    {
-        "id": 15328,
-        "text": "ḫandāe",
-        "gloss": "ordnen",
-        "pos": "V"
     },
     {
         "id": 15329,
@@ -14664,15 +14649,6 @@
     {
         "id": 15347,
         "text": "ḫulugannieš"
-    },
-    {
-        "id": 15348,
-        "text": "ki-it-ta",
-        "syllabographic": true
-    },
-    {
-        "id": 15349,
-        "text": "kitta"
     },
     {
         "id": 15350,
@@ -15857,5 +15833,66 @@
     {
         "id": 15812,
         "text": "parian"
+    },
+    {
+        "id": 15818,
+        "text": "zaltaiaš"
+    },
+    {
+        "id": 15843,
+        "text": "iškallāi-",
+        "gloss": "zerreißen",
+        "fullGloss": "zerreißen, aufschlitzen",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "87"
+            }
+        ]
+    },
+    {
+        "id": 15848,
+        "text": "tekkuššanu-",
+        "gloss": "zeigen (lassen)",
+        "pos": "V",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "220"
+            }
+        ]
+    },
+    {
+        "id": 15853,
+        "text": "apūš"
+    },
+    {
+        "id": 15855,
+        "text": "uršapikannua",
+        "pos": "NP"
+    },
+    {
+        "id": 15859,
+        "text": "_TIM",
+        "gloss": "PL",
+        "pos": "AFF",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "314"
+            }
+        ]
+    },
+    {
+        "id": 15869,
+        "text": "tumati",
+        "gloss": "tumati-bread"
+    },
+    {
+        "id": 15873,
+        "text": "kalzana",
+        "pos": "NP"
     }
 ]

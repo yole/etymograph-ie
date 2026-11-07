@@ -958,7 +958,8 @@
         ],
         "addedCategories": ".ACC.PL.C",
         "fromPOS": [
-            "ADJ"
+            "ADJ",
+            "PRON"
         ]
     },
     {
