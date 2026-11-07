@@ -57,18 +57,18 @@
         "id": 52,
         "name": "Noun",
         "rows": [
-            "NOM",
-            "ACC",
-            "GEN",
+            "Nom",
+            "Acc",
+            "Gen",
             "D/L",
-            "ALL",
-            "ERG",
-            "ABL",
-            "INS"
+            "All",
+            "Erg",
+            "Abl",
+            "Ins"
         ],
         "columns": [
             {
-                "title": "SG",
+                "title": "Sg",
                 "cells": [
                     {
                         "ruleAlternatives": [
@@ -113,7 +113,7 @@
                 ]
             },
             {
-                "title": "PL",
+                "title": "Pl",
                 "cells": [
                     {
                         "ruleAlternatives": [
@@ -135,11 +135,7 @@
                             10133
                         ]
                     },
-                    {
-                        "ruleAlternatives": [
-                            10137
-                        ]
-                    },
+                    {},
                     {
                         "ruleAlternatives": [
                             10139
@@ -468,6 +464,112 @@
         ],
         "posList": [
             "V"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Adjective",
+        "rows": [
+            "Nom.C.",
+            "Acc.C.",
+            "Nom-Acc.N.",
+            "Gen",
+            "D/L",
+            "All",
+            "Erg",
+            "Abl",
+            "Iins"
+        ],
+        "columns": [
+            {
+                "title": "Sg",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            10126
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10128
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            11127
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10130
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10132
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10136
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10138
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10140
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10142
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Pl",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            10127
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10129
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            11305
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10131
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            10133
+                        ]
+                    },
+                    {},
+                    {
+                        "ruleAlternatives": [
+                            10139
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "ADJ"
         ]
     }
 ]

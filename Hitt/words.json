@@ -8112,10 +8112,13 @@
     },
     {
         "id": 12995,
-        "text": "te",
+        "text": "te-",
         "gloss": "speak",
         "fullGloss": "speak, promise; sprechen",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "mi"
+        ]
     },
     {
         "id": 12996,
@@ -11645,7 +11648,7 @@
     },
     {
         "id": 14424,
-        "text": "dāueni"
+        "text": "dāu̯eni"
     },
     {
         "id": 14426,
@@ -13818,6 +13821,9 @@
         "text": "arii̯e-",
         "gloss": "orakeln",
         "pos": "V",
+        "classes": [
+            "mi"
+        ],
         "sourceRefs": [
             {
                 "pubId": 18,
@@ -15894,5 +15900,15 @@
         "id": 15873,
         "text": "kalzana",
         "pos": "NP"
+    },
+    {
+        "id": 15876,
+        "text": "-a",
+        "gloss": "nom./acc.pl. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 15877,
+        "text": "u̯alaḫzi"
     }
 ]

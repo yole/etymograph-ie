@@ -47,6 +47,21 @@
             {
                 "instructions": [
                     {
+                        "type": "Append",
+                        "args": [
+                            "'meni'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "u"
+                }
+            },
+            {
+                "instructions": [
+                    {
                         "type": "AppendMorpheme",
                         "args": [
                             "10289"
@@ -282,6 +297,35 @@
                     {
                         "type": "AppendMorpheme",
                         "args": [
+                            "15876"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "n"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "10861"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
                             "10861"
                         ]
                     }
@@ -294,7 +338,6 @@
         "addedCategories": ".NOM.PL",
         "fromPOS": [
             "N",
-            "ADJ",
             "PRON"
         ]
     },
@@ -358,13 +401,13 @@
                     {
                         "type": "ApplyRule",
                         "args": [
-                            "10546"
+                            "11305"
                         ]
                     }
                 ],
                 "condition": {
                     "type": "wordIs",
-                    "wordClass": "c"
+                    "wordClass": "n"
                 }
             },
             {
@@ -372,7 +415,7 @@
                     {
                         "type": "ApplyRule",
                         "args": [
-                            "11305"
+                            "10546"
                         ]
                     }
                 ],
@@ -392,6 +435,21 @@
         "fromLang": "Hitt",
         "toLang": "Hitt",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "10796"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -565,17 +623,6 @@
         ]
     },
     {
-        "id": 10137,
-        "name": "hitt-all-pl",
-        "fromLang": "Hitt",
-        "toLang": "Hitt",
-        "branches": [],
-        "addedCategories": ".ALL.PL",
-        "fromPOS": [
-            "N"
-        ]
-    },
-    {
         "id": 10138,
         "name": "hitt-erg-sg",
         "fromLang": "Hitt",
@@ -591,7 +638,8 @@
                     }
                 ],
                 "condition": {
-                    "type": "otherwise"
+                    "type": "wordIs",
+                    "wordClass": "n"
                 }
             }
         ],
@@ -942,6 +990,21 @@
         "fromLang": "Hitt",
         "toLang": "Hitt",
         "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "10545"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
             {
                 "instructions": [
                     {
@@ -1323,6 +1386,21 @@
             {
                 "instructions": [
                     {
+                        "type": "ChangeEndingToMorpheme",
+                        "args": [
+                            "11073"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
+            {
+                "instructions": [
+                    {
                         "type": "AppendMorpheme",
                         "args": [
                             "11073"
@@ -1360,6 +1438,32 @@
                     "cond": "EndsWith",
                     "characters": "nt"
                 }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'n'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
             }
         ],
         "addedCategories": ".NOM/ACC.SG.N",
@@ -1374,7 +1478,34 @@
         "name": "hitt-nom-acc-pl-n",
         "fromLang": "Hitt",
         "toLang": "Hitt",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15876"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".NOM/ACC.PL.N",
         "fromPOS": [
             "ADJ",
