@@ -9380,6 +9380,92 @@
                 "id": 15409,
                 "openCompoundId": 14991
             }
+        ],
+        "translations": [
+            {
+                "id": 15693,
+                "text": "Say to my lord (Ḫimmuili?), the District Governor, my lord, my superior:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 44,
+                "anchorEndIndex": 51
+            },
+            {
+                "id": 15694,
+                "text": "Thus speaks Tarḫunmiya, your servant:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 51,
+                "anchorEndIndex": 54
+            },
+            {
+                "id": 15695,
+                "text": "May all be well with you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 54,
+                "anchorEndIndex": 58
+            },
+            {
+                "id": 15696,
+                "text": "May the gods keep you alive and protect you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 58,
+                "anchorEndIndex": 64
+            },
+            {
+                "id": 15697,
+                "text": "Lord, keep writing me greetings",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 64,
+                "anchorEndIndex": 67
+            },
+            {
+                "id": 15698,
+                "text": "and keep your eyes on my house (there in Tapikka).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 67,
+                "anchorEndIndex": 72
+            },
+            {
+                "id": 15699,
+                "text": "I will send on the messengers of (my)lord who come (here).",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "146"
+                    }
+                ],
+                "anchorStartIndex": 72,
+                "anchorEndIndex": 81
+            }
         ]
     },
     {
@@ -9402,6 +9488,32 @@
             {
                 "index": 34,
                 "id": 15664
+            }
+        ],
+        "translations": [
+            {
+                "id": 15691,
+                "text": "Thus speaks Ḫattušili: Say to Ḫimmuili, my dear brother: May all be well with you. May the gods keep you alive. May they lovingly protect you.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "147"
+                    }
+                ],
+                "anchorStartIndex": 6,
+                "anchorEndIndex": 21
+            },
+            {
+                "id": 15692,
+                "text": "Concerning the matter of the horses that you, my dear brother, wrote to me: … (to?) me …",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "147"
+                    }
+                ],
+                "anchorStartIndex": 21,
+                "anchorEndIndex": 33
             }
         ]
     },
