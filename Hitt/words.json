@@ -12009,6 +12009,7 @@
         "id": 14615,
         "text": "tii̯e-",
         "gloss": "step",
+        "fullGloss": "step; treten",
         "pos": "V",
         "sourceRefs": [
             {
@@ -15307,12 +15308,6 @@
         "text": "tii̯ami"
     },
     {
-        "id": 15554,
-        "text": "tii̯e",
-        "gloss": "treten",
-        "pos": "V"
-    },
-    {
         "id": 15555,
         "text": "_MA-AD-GAL-TI",
         "syllabographic": true
@@ -15378,5 +15373,61 @@
     {
         "id": 15569,
         "text": "ḫark-"
+    },
+    {
+        "id": 15644,
+        "text": "_MAḪ-RI",
+        "syllabographic": true
+    },
+    {
+        "id": 15646,
+        "text": "_MAḪ-RU",
+        "gloss": "superior",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "310"
+            }
+        ]
+    },
+    {
+        "id": 15647,
+        "text": "_MA-AD-GAL-TU",
+        "gloss": "watchtower",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "309"
+            }
+        ]
+    },
+    {
+        "id": 15648,
+        "text": "_AR-DE4",
+        "gloss": "servant",
+        "pos": "N",
+        "syllabographic": true,
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "305"
+            }
+        ]
+    },
+    {
+        "id": 15654,
+        "text": "IGI^ḪI.A^",
+        "syllabographic": true
+    },
+    {
+        "id": 15656,
+        "text": "IGI",
+        "gloss": "eye",
+        "pos": "N",
+        "syllabographic": true
     }
 ]

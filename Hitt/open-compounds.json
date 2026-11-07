@@ -47,5 +47,20 @@
         "headIndex": 1,
         "gloss": "fortlassen",
         "fullGloss": "fortlassen, entlassen; verlassen; - (Weg) freigeben; wegbringen, beseitigen"
+    },
+    {
+        "id": 15643,
+        "componentIds": [
+            11231,
+            11056
+        ],
+        "headIndex": 1,
+        "gloss": "weiterbefördern",
+        "sourceRefs": [
+            {
+                "pubId": 18,
+                "refText": "32"
+            }
+        ]
     }
 ]

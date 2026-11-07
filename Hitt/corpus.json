@@ -9350,6 +9350,35 @@
             {
                 "index": 15,
                 "id": 11156
+            },
+            {
+                "index": 42,
+                "id": 11230,
+                "openCompoundId": 15643
+            },
+            {
+                "index": 43,
+                "id": 11147,
+                "openCompoundId": 15643
+            },
+            {
+                "index": 11,
+                "id": 11771,
+                "contextGloss": "how"
+            },
+            {
+                "index": 77,
+                "id": 14132
+            },
+            {
+                "index": 79,
+                "id": 11230,
+                "openCompoundId": 14991
+            },
+            {
+                "index": 80,
+                "id": 15409,
+                "openCompoundId": 14991
             }
         ]
     }
