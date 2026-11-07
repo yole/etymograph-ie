@@ -10081,5 +10081,58 @@
                 "anchorEndIndex": 83
             }
         ]
+    },
+    {
+        "id": 15808,
+        "text": "o. Rd. 1# _UM-MA ^D^UTU-_ŠI-M[A]\nVs. 2# _A-NA ^m^ḫi-im-mu-DINGIR-_L[IM _QÍ-BÍ-MA]\n---\nVs. 3# ud-da-a-ar-mu k[u-e]\nVs. 4# ḫa-at-ra-a-eš n[a-at ]\n---\nVs. 5# ki-iš-ša-an-m[a-mu u]t-t[ar]\nVs. 6# ḫa-at-ra-a-eš š[u-\nVs. 7# _[I]-NA KUR ^URU^x[\nVs. 8# [pa-r]i-an x[\nu. Rd. 9# [ ]x an-da x-x[\no. Rd. 1′# [ ]x x x[\no. Rd. 2′# [ḫ]a-[a]t-ra-a-ši [\n---\n",
+        "title": "HKM 32",
+        "words": [
+            {
+                "index": 13,
+                "id": 15809
+            },
+            {
+                "index": 17,
+                "id": 15811
+            }
+        ],
+        "translations": [
+            {
+                "id": 15813,
+                "text": "Thus speaks His Majesty: Say to Ḫimmuili:",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 5
+            },
+            {
+                "id": 15814,
+                "text": "I have heard the words that you wrote to me.",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 5,
+                "anchorEndIndex": 9
+            },
+            {
+                "id": 15815,
+                "text": "Concerning the following matter about which you wrote to me … in the land of …",
+                "sourceRefs": [
+                    {
+                        "pubId": 19,
+                        "refText": "158"
+                    }
+                ],
+                "anchorStartIndex": 10,
+                "anchorEndIndex": 23
+            }
+        ]
     }
 ]
