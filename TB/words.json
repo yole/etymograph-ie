@@ -743,7 +743,7 @@
         "gloss": "do",
         "pos": "V",
         "classes": [
-            "class-9"
+            "prs-class-9"
         ]
     },
     {
@@ -760,7 +760,10 @@
         "id": 9880,
         "text": "tərka-",
         "gloss": "let go",
-        "pos": "V"
+        "pos": "V",
+        "classes": [
+            "prs-class-6"
+        ]
     },
     {
         "id": 9881,
@@ -1161,7 +1164,7 @@
         "gloss": "lead",
         "pos": "V",
         "classes": [
-            "class-2"
+            "prs-class-2"
         ]
     },
     {
@@ -2047,5 +2050,242 @@
     {
         "id": 15634,
         "text": "ñiś"
+    },
+    {
+        "id": 15879,
+        "text": "lāt"
+    },
+    {
+        "id": 15880,
+        "text": "lānt"
+    },
+    {
+        "id": 15881,
+        "text": "wrantsai",
+        "gloss": "against",
+        "fullGloss": "against, towards",
+        "pos": "ADV"
+    },
+    {
+        "id": 15882,
+        "text": "kekamu"
+    },
+    {
+        "id": 15883,
+        "text": "viduṣake",
+        "gloss": "court jester",
+        "pos": "N",
+        "classes": [
+            "M"
+        ]
+    },
+    {
+        "id": 15884,
+        "text": "katkauñaisa"
+    },
+    {
+        "id": 15885,
+        "text": "lāntaś"
+    },
+    {
+        "id": 15886,
+        "text": "ṣartanīko",
+        "gloss": "<name of a tune>",
+        "pos": "N"
+    },
+    {
+        "id": 15887,
+        "text": "ṣartanīkaine"
+    },
+    {
+        "id": 15888,
+        "text": "cīmeṃ"
+    },
+    {
+        "id": 15889,
+        "text": "tsrelläññesa"
+    },
+    {
+        "id": 15890,
+        "text": "tsrelñesa"
+    },
+    {
+        "id": 15891,
+        "text": "tsrelñe",
+        "gloss": "separation",
+        "pos": "N"
+    },
+    {
+        "id": 15892,
+        "text": "wek",
+        "gloss": "voice",
+        "pos": "N",
+        "classes": [
+            "M"
+        ]
+    },
+    {
+        "id": 15893,
+        "text": "tarkanoym"
+    },
+    {
+        "id": 15895,
+        "text": "-m",
+        "gloss": "ipf./opt. 1sg. ending",
+        "pos": "AFF"
+    },
+    {
+        "id": 15896,
+        "text": "məka-",
+        "gloss": "run",
+        "pos": "V",
+        "classes": [
+            "prs-class-5"
+        ]
+    },
+    {
+        "id": 15897,
+        "text": "makoymar"
+    },
+    {
+        "id": 15898,
+        "text": "kälymitsa"
+    },
+    {
+        "id": 15899,
+        "text": "kälymintsa"
+    },
+    {
+        "id": 15900,
+        "text": "kälymiye",
+        "gloss": "direction",
+        "pos": "N",
+        "classes": [
+            "F"
+        ]
+    },
+    {
+        "id": 15901,
+        "text": "ñəsk-",
+        "gloss": "desire",
+        "pos": "V",
+        "classes": [
+            "prs-class-2"
+        ]
+    },
+    {
+        "id": 15902,
+        "text": "ñaṣṣīmar"
+    },
+    {
+        "id": 15909,
+        "text": "śwātsin⸗"
+    },
+    {
+        "id": 15910,
+        "text": "śwātsine"
+    },
+    {
+        "id": 15911,
+        "text": "eṅkäly"
+    },
+    {
+        "id": 15912,
+        "text": "eṅkäl",
+        "gloss": "passion",
+        "fullGloss": "passion, feeling",
+        "pos": "N",
+        "classes": [
+            "A"
+        ]
+    },
+    {
+        "id": 15913,
+        "text": "yukṣī-ñ"
+    },
+    {
+        "id": 15914,
+        "text": "yukṣī"
+    },
+    {
+        "id": 15916,
+        "text": "ñ",
+        "gloss": "1SG.OBJ",
+        "pos": "PRON",
+        "classes": [
+            "clitic"
+        ]
+    },
+    {
+        "id": 15917,
+        "text": "yuk-",
+        "gloss": "conquer",
+        "pos": "V"
+    },
+    {
+        "id": 15918,
+        "text": "kāwo",
+        "gloss": "desire",
+        "pos": "N",
+        "classes": [
+            "A"
+        ]
+    },
+    {
+        "id": 15919,
+        "text": "weṣṣim"
+    },
+    {
+        "id": 15920,
+        "text": "larauñesa"
+    },
+    {
+        "id": 15921,
+        "text": "waipte",
+        "gloss": "separately",
+        "fullGloss": "separately, apart",
+        "pos": "ADV"
+    },
+    {
+        "id": 15922,
+        "text": "āñme",
+        "gloss": "self",
+        "fullGloss": "self, wish, desire",
+        "pos": "N"
+    },
+    {
+        "id": 15923,
+        "text": "⸗yśimar"
+    },
+    {
+        "id": 15924,
+        "text": "aiśimar"
+    },
+    {
+        "id": 15925,
+        "text": "ayk-",
+        "gloss": "know",
+        "pos": "V"
+    },
+    {
+        "id": 15926,
+        "text": "waike",
+        "gloss": "lie",
+        "fullGloss": "lie, deception",
+        "pos": "N"
+    },
+    {
+        "id": 15927,
+        "text": "weskau"
+    },
+    {
+        "id": 15928,
+        "text": "keri-",
+        "gloss": "laugh",
+        "pos": "V"
+    },
+    {
+        "id": 15929,
+        "text": "keriyemane"
     }
 ]

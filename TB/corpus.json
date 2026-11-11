@@ -1019,9 +1019,13 @@
     },
     {
         "id": 15572,
-        "text": "ñiś ñke\nsū ñi yärke śpālmeṃ ṣai pāramitne āyorṣṣe mā no kᵤlā-ñ palsko\nkrᵤi ñke tetekā śänmyeṃ yaṣṣūcañ\nlareṃ śauly ñi yaṣyeṃträ sāw ñi wrotstsa katkauña mā cakravārtñe\nlāntsa weṣṣäṃ saswa srukalyñemeṃ taisa ci kka kälpāmm\nmā ṣ nai ñake āyorsa plāc aksastä\nwalo weṣṣäṃ lariya yaṣṣūcaṃts ekalymi nesau\nkrᵤi ṅke cai täṅwaṃñeñ-cä otä ṅke ñiś ysape ykāk källātä",
+        "text": "ñiś ñke\nsū ñi yärke śpālmeṃ ṣai pāramitne āyorṣṣe mā no kᵤlā-ñ palsko\nkrᵤi ñke tetekā śänmyeṃ yaṣṣūcañ\nlareṃ śauly ñi yaṣyeṃträ sāw ñi wrotstsa katkauña mā cakravārtñe\nlāntsa weṣṣäṃ saswa srukalyñemeṃ taisa ci kka kälpāmm\nmā ṣ nai ñake āyorsa plāc aksastä\nwalo weṣṣäṃ lariya yaṣṣūcaṃts ekalymi nesau\nkrᵤi ṅke cai täṅwaṃñeñ-cä otä ṅke ñiś ysape ykāk källātä\nom no ñake lāt wrantsai kekamu\nviduṣake katkauñaisa – – – – – ne lāntaś weṣṣäṃ\n|| ṣartanīkaine ||\ncīmeṃ tsrelläññesa ¦ wek tarkanoym\nmakoymar kälymitsa ¦ cī ñaṣṣīmar\n– – – – – – ¦ – – –) mar-c \nśwātsin⸗ eṅkäly ñī ci ¦ yukṣī-ñ päst kāwo 1\n– – – ṣṣim ¦ te maṃt weṣṣim\nsū ñi larauñesa ¦ (– – – –) \n(– – – – – – ¦ –) sa waipte \nāñme no te ⸗yśimar ¦ waike weskau \nkeriyemane araṇemi walo weṣṣäṃ",
         "title": "THT 78",
         "words": [
+            {
+                "index": 0,
+                "id": 9701
+            },
             {
                 "index": 1,
                 "id": 15573
@@ -1159,6 +1163,10 @@
                 "id": 15628
             },
             {
+                "index": 55,
+                "id": 15634
+            },
+            {
                 "index": 56,
                 "id": 15629
             },
@@ -1171,12 +1179,112 @@
                 "id": 15631
             },
             {
-                "index": 55,
-                "id": 15634
+                "index": 62,
+                "id": 15879
             },
             {
-                "index": 0,
-                "id": 9701
+                "index": 63,
+                "id": 15881
+            },
+            {
+                "index": 64,
+                "id": 15882
+            },
+            {
+                "index": 65,
+                "id": 15883
+            },
+            {
+                "index": 66,
+                "id": 15884
+            },
+            {
+                "index": 73,
+                "id": 15885
+            },
+            {
+                "index": 76,
+                "id": 15887
+            },
+            {
+                "index": 78,
+                "id": 15888
+            },
+            {
+                "index": 79,
+                "id": 15889
+            },
+            {
+                "index": 81,
+                "id": 15892
+            },
+            {
+                "index": 82,
+                "id": 15893
+            },
+            {
+                "index": 83,
+                "id": 15897
+            },
+            {
+                "index": 84,
+                "id": 15898
+            },
+            {
+                "index": 87,
+                "id": 15902
+            },
+            {
+                "index": 99,
+                "id": 15909
+            },
+            {
+                "index": 100,
+                "id": 15911
+            },
+            {
+                "index": 104,
+                "id": 15913
+            },
+            {
+                "index": 106,
+                "id": 15918
+            },
+            {
+                "index": 115,
+                "id": 15919
+            },
+            {
+                "index": 117,
+                "id": 9709
+            },
+            {
+                "index": 118,
+                "id": 15920
+            },
+            {
+                "index": 133,
+                "id": 15921
+            },
+            {
+                "index": 134,
+                "id": 15922
+            },
+            {
+                "index": 137,
+                "id": 15923
+            },
+            {
+                "index": 139,
+                "id": 15926
+            },
+            {
+                "index": 140,
+                "id": 15927
+            },
+            {
+                "index": 141,
+                "id": 15929
             }
         ],
         "sourceRefs": [
@@ -1216,10 +1324,10 @@
                 "anchorEndIndex": 26
             },
             {
-                "id": 15640,
+                "id": 15878,
                 "text": "not the world domination",
                 "anchorStartIndex": 26,
-                "anchorEndIndex": 59
+                "anchorEndIndex": 28
             }
         ]
     }

@@ -761,5 +761,59 @@
         "posList": [
             "V"
         ]
+    },
+    {
+        "id": 98,
+        "name": "Verb Imperfect Middle",
+        "rows": [
+            "1",
+            "2",
+            "3"
+        ],
+        "columns": [
+            {
+                "title": "SG",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15903
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15905
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15907
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "PL",
+                "cells": [
+                    {
+                        "ruleAlternatives": [
+                            15904
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15906
+                        ]
+                    },
+                    {
+                        "ruleAlternatives": [
+                            15908
+                        ]
+                    }
+                ]
+            }
+        ],
+        "posList": [
+            "V"
+        ]
     }
 ]

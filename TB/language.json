@@ -571,58 +571,58 @@
             ]
         },
         {
-            "name": "Verb class",
+            "name": "Present stem class",
             "pos": [
                 "V"
             ],
             "values": [
                 {
-                    "name": "class-1",
-                    "abbreviation": "class-1"
+                    "name": "prs-class-1",
+                    "abbreviation": "prs-class-1"
                 },
                 {
-                    "name": "class-2",
-                    "abbreviation": "class-2"
+                    "name": "prs-class-2",
+                    "abbreviation": "prs-class-2"
                 },
                 {
-                    "name": "class-3",
-                    "abbreviation": "class-3"
+                    "name": "prs-class-3",
+                    "abbreviation": "prs-class-3"
                 },
                 {
-                    "name": "class-4",
-                    "abbreviation": "class-4"
+                    "name": "prs-class-4",
+                    "abbreviation": "prs-class-4"
                 },
                 {
-                    "name": "class-5",
-                    "abbreviation": "class-5"
+                    "name": "prs-class-5",
+                    "abbreviation": "prs-class-5"
                 },
                 {
-                    "name": "class-6",
-                    "abbreviation": "class-6"
+                    "name": "prs-class-6",
+                    "abbreviation": "prs-class-6"
                 },
                 {
-                    "name": "class-7",
-                    "abbreviation": "class-7"
+                    "name": "prs-class-7",
+                    "abbreviation": "prs-class-7"
                 },
                 {
-                    "name": "class-8",
-                    "abbreviation": "class-8"
+                    "name": "prs-class-8",
+                    "abbreviation": "prs-class-8"
                 },
                 {
-                    "name": "class-9",
-                    "abbreviation": "class-9"
+                    "name": "prs-class-9",
+                    "abbreviation": "prs-class-9"
                 },
                 {
-                    "name": "class-10",
-                    "abbreviation": "class-10"
+                    "name": "prs-class-10",
+                    "abbreviation": "prs-class-10"
                 },
                 {
-                    "name": "class-11",
-                    "abbreviation": "class-11"
+                    "name": "prs-class-11",
+                    "abbreviation": "prs-class-11"
                 },
                 {
-                    "name": "class-12",
-                    "abbreviation": "class-12"
+                    "name": "prs-class-12",
+                    "abbreviation": "prs-class-12"
                 }
             ]
         },
