@@ -306,6 +306,7 @@
         }
     ],
     "protoLanguageShortName": "PT",
+    "orthographyRuleId": 15966,
     "pos": [
         {
             "name": "Noun",
@@ -623,6 +624,62 @@
                 {
                     "name": "prs-class-12",
                     "abbreviation": "prs-class-12"
+                }
+            ]
+        },
+        {
+            "name": "Subjunctive stem class",
+            "pos": [
+                "V"
+            ],
+            "values": [
+                {
+                    "name": "sbj-class-1",
+                    "abbreviation": "sbj-class-1"
+                },
+                {
+                    "name": "sbj-class-2",
+                    "abbreviation": "sbj-class-2"
+                },
+                {
+                    "name": "sbj-class-3",
+                    "abbreviation": "sbj-class-3"
+                },
+                {
+                    "name": "sbj-class-4",
+                    "abbreviation": "sbj-class-4"
+                },
+                {
+                    "name": "sbj-class-5",
+                    "abbreviation": "sbj-class-5"
+                },
+                {
+                    "name": "sbj-class-6",
+                    "abbreviation": "sbj-class-6"
+                },
+                {
+                    "name": "sbj-class-7",
+                    "abbreviation": "sbj-class-7"
+                },
+                {
+                    "name": "sbj-class-8",
+                    "abbreviation": "sbj-class-8"
+                },
+                {
+                    "name": "sbj-class-9",
+                    "abbreviation": "sbj-class-9"
+                },
+                {
+                    "name": "sbj-class-10",
+                    "abbreviation": "sbj-class-10"
+                },
+                {
+                    "name": "sbj-class-11",
+                    "abbreviation": "sbj-class-11"
+                },
+                {
+                    "name": "sbj-class-12",
+                    "abbreviation": "sbj-class-12"
                 }
             ]
         },

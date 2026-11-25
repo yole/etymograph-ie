@@ -60,7 +60,62 @@
         "name": "tb-voc-sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "u"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "and",
+                    "members": [
+                        {
+                            "type": "wordIs",
+                            "wordClass": "ADJ"
+                        },
+                        {
+                            "type": "leaf",
+                            "cond": "EndsWith",
+                            "characters": "e"
+                        }
+                    ]
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "a"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'i'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "a"
+                }
+            }
+        ],
         "addedCategories": ".VOC.SG",
         "fromPOS": [
             "N"
@@ -765,11 +820,26 @@
             {
                 "instructions": [
                     {
-                        "type": "ApplyRule",
+                        "type": "Append",
                         "args": [
-                            "14505"
+                            "'ä'"
                         ]
                     },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "cls": "consonant"
+                }
+            },
+            {
+                "instructions": [
                     {
                         "type": "AppendMorpheme",
                         "args": [
@@ -785,6 +855,14 @@
         "addedCategories": ".PRES.3SG",
         "fromPOS": [
             "V"
+        ],
+        "preInstructions": [
+            {
+                "type": "ApplyRule",
+                "args": [
+                    "14505"
+                ]
+            }
         ]
     },
     {
@@ -823,10 +901,47 @@
         "name": "tb-pres-subj-1sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "au"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "e"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14267"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.1SG",
         "fromPOS": [
             "V"
+        ],
+        "preInstructions": [
+            {
+                "type": "ApplyRule",
+                "args": [
+                    "15964"
+                ]
+            }
         ]
     },
     {
@@ -834,7 +949,27 @@
         "name": "tb-pres-subj-1pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15964"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14270"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.1PL",
         "fromPOS": [
             "V"
@@ -845,7 +980,27 @@
         "name": "tb-pres-subj-2sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15965"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14268"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.2SG",
         "fromPOS": [
             "V"
@@ -856,7 +1011,27 @@
         "name": "tb-pres-subj-2pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15965"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14271"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.2PL",
         "fromPOS": [
             "V"
@@ -867,10 +1042,53 @@
         "name": "tb-pres-subj-3sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ä'"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "cls": "consonant"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14269"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.3SG",
         "fromPOS": [
             "V"
+        ],
+        "preInstructions": [
+            {
+                "type": "ApplyRule",
+                "args": [
+                    "15965"
+                ]
+            }
         ]
     },
     {
@@ -878,7 +1096,27 @@
         "name": "tb-pres-subj-3pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15964"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14272"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRES.SUBJ.3PL",
         "fromPOS": [
             "V"
@@ -922,7 +1160,23 @@
         "name": "tb-adj-nom-pl-m",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ChangeEnding",
+                        "args": [
+                            "cci"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "leaf",
+                    "cond": "EndsWith",
+                    "characters": "tte"
+                }
+            }
+        ],
         "addedCategories": ".NOM.PL.M",
         "fromPOS": [
             "ADJ",
@@ -1409,7 +1663,27 @@
         "name": "tb-inf",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15965"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15967"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".INF",
         "fromPOS": [
             "V"
@@ -1421,7 +1695,27 @@
         "name": "tb-pret-1sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15971"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.1SG",
         "fromPOS": [
             "V"
@@ -1432,7 +1726,27 @@
         "name": "tb-pret-1pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15973"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.1PL",
         "fromPOS": [
             "V"
@@ -1443,7 +1757,27 @@
         "name": "tb-pret-2sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15972"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.2SG",
         "fromPOS": [
             "V"
@@ -1454,7 +1788,27 @@
         "name": "tb-pret-2pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15974"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.2PL",
         "fromPOS": [
             "V"
@@ -1465,7 +1819,21 @@
         "name": "tb-pret-3sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.3SG",
         "fromPOS": [
             "V"
@@ -1476,7 +1844,27 @@
         "name": "tb-pret-3pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15975"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.3PL",
         "fromPOS": [
             "V"
@@ -1519,6 +1907,22 @@
                 "condition": {
                     "type": "wordIs",
                     "wordClass": "prs-class-2"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Insert",
+                        "args": [
+                            "n",
+                            "-1",
+                            "last consonant"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "prs-class-7"
                 }
             },
             {
@@ -1591,7 +1995,27 @@
         "name": "tb-ipv-mid-2sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "PrependMorpheme",
+                        "args": [
+                            "15968"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15969"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".IPV.MID.2SG",
         "fromPOS": [
             "V"
@@ -1625,7 +2049,27 @@
         "name": "tb-pret-mid-1sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15976"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.1SG",
         "fromPOS": [
             "V"
@@ -1636,7 +2080,27 @@
         "name": "tb-pret-mid-1pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15979"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.1PL",
         "fromPOS": [
             "V"
@@ -1647,7 +2111,27 @@
         "name": "tb-pret-mid-2sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15977"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.2SG",
         "fromPOS": [
             "V"
@@ -1658,7 +2142,27 @@
         "name": "tb-pret-mid-2pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15980"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.2PL",
         "fromPOS": [
             "V"
@@ -1669,7 +2173,27 @@
         "name": "tb-pret-mid-3sg",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15978"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.3SG",
         "fromPOS": [
             "V"
@@ -1680,7 +2204,27 @@
         "name": "tb-pret-mid-3pl",
         "fromLang": "TB",
         "toLang": "TB",
-        "branches": [],
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplyRule",
+                        "args": [
+                            "15970"
+                        ]
+                    },
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "15981"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
         "addedCategories": ".PRET.MID.3PL",
         "fromPOS": [
             "V"
@@ -1934,5 +2478,208 @@
         "fromPOS": [
             "V"
         ]
+    },
+    {
+        "id": 15964,
+        "name": "tb-subj-stem-o-grade",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'e'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-2"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'na'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-6"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'se'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-8"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "AppendMorpheme",
+                        "args": [
+                            "14508"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-9"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15965,
+        "name": "tb-subj-stem-e-grade",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "ApplySoundRule",
+                        "args": [
+                            "14506",
+                            "last consonant"
+                        ]
+                    },
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ä'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-2"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Insert",
+                        "args": [
+                            "an",
+                            "-1",
+                            "last vowel"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-6"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Insert",
+                        "args": [
+                            "n",
+                            "-1",
+                            "last consonant"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-7"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ṣä'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-8"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "Append",
+                        "args": [
+                            "'ṣṣä'"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "wordIs",
+                    "wordClass": "sbj-class-9"
+                }
+            },
+            {
+                "instructions": [
+                    {
+                        "type": "NoChange",
+                        "args": []
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15966,
+        "name": "tb-orthography",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ə > ä"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15970,
+        "name": "tb-pret-stem",
+        "fromLang": "TB",
+        "toLang": "TB",
+        "branches": []
     }
 ]

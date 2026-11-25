@@ -1,0 +1,173 @@
+[
+    {
+        "id": 15958,
+        "name": "pt-laryngeals",
+        "fromLang": "PIE",
+        "toLang": "PT",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "CHC > CaC"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Ch₁ > ī"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Cih₂ > ya"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Cih₃ > ya"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Cuh₂ > wa"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₁e > e / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₂e > a / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₃e > a / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "Ho > o / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "h₁i > i / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "eh₁ > ē"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "eh₂ > ā"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "oh₁ > ō"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 29,
+                "refText": "22"
+            }
+        ]
+    },
+    {
+        "id": 15960,
+        "name": "pt-syllabic-resonants",
+        "fromLang": "PIE",
+        "toLang": "PT",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{m̥|n̥|l̥|r̥} > {om|on|ol|or} / #_"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "{m̥|n̥|l̥|r̥} > {əm|ən|əl|ər}"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 29,
+                "refText": "25"
+            }
+        ]
+    },
+    {
+        "id": 15961,
+        "name": "pt-palatovelars",
+        "fromLang": "PIE",
+        "toLang": "PT",
+        "branches": [
+            {
+                "instructions": [
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ḱ > k"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ǵ > g"
+                        ]
+                    },
+                    {
+                        "type": "Spe",
+                        "args": [
+                            "ǵʰ > gʰ"
+                        ]
+                    }
+                ],
+                "condition": {
+                    "type": "otherwise"
+                }
+            }
+        ],
+        "sourceRefs": [
+            {
+                "pubId": 29,
+                "refText": "27"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": 15959,
+        "name": "pie-to-pt",
+        "fromLang": "PIE",
+        "toLang": "PT",
+        "steps": [
+            {
+                "ruleId": 15958
+            },
+            {
+                "ruleId": 15960
+            },
+            {
+                "ruleId": 15961
+            }
+        ]
+    }
+]

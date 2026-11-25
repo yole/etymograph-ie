@@ -367,6 +367,10 @@
                 "id": 9846
             },
             {
+                "index": 4,
+                "id": 9714
+            },
+            {
                 "index": 6,
                 "id": 9847
             },
@@ -379,6 +383,10 @@
                 "id": 9849
             },
             {
+                "index": 9,
+                "id": 9852
+            },
+            {
                 "index": 10,
                 "id": 9850
             },
@@ -387,81 +395,97 @@
                 "id": 9851
             },
             {
-                "index": 9,
-                "id": 9852,
-                "contextGloss": ""
-            },
-            {
-                "index": 13,
+                "index": 12,
                 "id": 9853
             },
             {
-                "index": 14,
+                "index": 13,
                 "id": 9854
             },
             {
-                "index": 16,
+                "index": 15,
                 "id": 9855
             },
             {
-                "index": 17,
+                "index": 16,
                 "id": 9856
             },
             {
-                "index": 18,
+                "index": 17,
                 "id": 9857
             },
             {
-                "index": 21,
+                "index": 19,
                 "id": 9858
             },
             {
-                "index": 22,
+                "index": 20,
                 "id": 9859
             },
             {
-                "index": 24,
+                "index": 22,
                 "id": 9860
             },
             {
-                "index": 29,
+                "index": 23,
+                "id": 9823
+            },
+            {
+                "index": 25,
+                "id": 9781
+            },
+            {
+                "index": 26,
+                "id": 9853
+            },
+            {
+                "index": 27,
                 "id": 9861
             },
             {
-                "index": 31,
+                "index": 29,
                 "id": 9862
             },
             {
-                "index": 32,
+                "index": 30,
                 "id": 9863
             },
             {
-                "index": 34,
+                "index": 31,
+                "id": 9693
+            },
+            {
+                "index": 32,
                 "id": 9864
             },
             {
-                "index": 36,
+                "index": 33,
                 "id": 9865
             },
             {
-                "index": 37,
+                "index": 34,
                 "id": 9866
             },
             {
-                "index": 39,
+                "index": 36,
                 "id": 9867
             },
             {
-                "index": 40,
+                "index": 37,
                 "id": 9868
             },
             {
-                "index": 41,
+                "index": 38,
                 "id": 9869
             },
             {
-                "index": 42,
+                "index": 39,
                 "id": 9870
+            }
+        ],
+        "sourceRefs": [
+            {
+                "refText": "https://cetom.univie.ac.at/?m-pkreserve1517b31"
             }
         ]
     },
@@ -939,7 +963,7 @@
             },
             {
                 "id": 14597,
-                "text": "he can somehow be a refuge for our sorrow ",
+                "text": "he can somehow be a refuge for our sorrow, can't he?",
                 "anchorStartIndex": 20,
                 "anchorEndIndex": 28
             },
@@ -1014,6 +1038,18 @@
                 "text": "following the tune",
                 "anchorStartIndex": 80,
                 "anchorEndIndex": 82
+            },
+            {
+                "id": 15962,
+                "text": "That is precisely why from now on we will be ready, won’t we?",
+                "anchorStartIndex": 2,
+                "anchorEndIndex": 7
+            },
+            {
+                "id": 15963,
+                "text": "(Guṇasaṃpada) says: “O mighty one!",
+                "anchorStartIndex": 0,
+                "anchorEndIndex": 2
             }
         ]
     },
